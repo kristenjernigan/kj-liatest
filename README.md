@@ -17,7 +17,7 @@ While you will be provided with a worksheet for your team charter, you can acces
 
 ## Media
 
-[A Decade of USDS: Ten Years of Digital Service Delivery](https://www.youtube.com/watch?v=tGcdZSR2WoQ "A Decade of USDS: Ten Years of Digital Service Delivery")
+!?[A Decade of USDS: Ten Years of Digital Service Delivery](https://www.youtube.com/watch?v=tGcdZSR2WoQ "A Decade of USDS: Ten Years of Digital Service Delivery")
 
 ## Knowledge Check
 Answering questions about a potential acquisition from vendors before a solicitation is released may result in:  
