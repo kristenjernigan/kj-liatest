@@ -18,10 +18,11 @@ While you will be provided with a worksheet for your team charter, you can acces
 ## Media
 
 ## Knowledge Check
-Answering questions about a potential acquisition from vendors before a solicitation is released may result in:
-- [[ ]] A. Delays and extensions to the due date
-- [[X]] B. Better bids
-- [[ ]] C. Charges of unethical behavior
-- [[X]] D. Lower costs
+Answering questions about a potential acquisition from vendors before a solicitation is released may result in:  
+
+- [[ ]] A. Delays and extensions to the due date  
+- [[X]] B. Better bids  
+- [[ ]] C. Charges of unethical behavior  
+- [[X]] D. Lower costs  
 
 
