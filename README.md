@@ -17,7 +17,7 @@ While you will be provided with a worksheet for your team charter, you can acces
 
 ## Media
 
-<a href="<iframe width="695" height="480" src="https://www.youtube.com/embed/tGcdZSR2WoQ" title="A Decade of USDS: Ten Years of Digital Service Delivery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>" </a>
+<iframe width="695" height="480" src="https://www.youtube.com/embed/tGcdZSR2WoQ" title="A Decade of USDS: Ten Years of Digital Service Delivery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>"
 
 ## Knowledge Check
 Answering questions about a potential acquisition from vendors before a solicitation is released may result in:  
