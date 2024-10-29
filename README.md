@@ -15,4 +15,6 @@ While you will be provided with a worksheet for your team charter, you can acces
 - [Trello](https://trello.com/)
 - [Google Docs](https://docs.google.com/)
 
+## Media
+
 
