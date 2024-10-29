@@ -1,4 +1,3 @@
-# kj-liatest
 **DITAP Introduction**
 
 Welcome to the Digital IT Acquisition Professional Training & Development Open Source Content Space.
