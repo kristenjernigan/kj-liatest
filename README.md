@@ -18,3 +18,5 @@ Prior to Orientation, you will need to complete this short user manual for yours
 -[Slack](https://slack.com/)
 -[Trello](https://trello.com/)
 -[Google Docs](https://docs.google.com/)
+
+![digital services wheel](https://github.com/kristenjernigan/kristen-test/blob/main/Images/digital-services-wheel"Digital Services Wheel")
