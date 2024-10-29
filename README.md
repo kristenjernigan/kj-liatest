@@ -19,6 +19,10 @@ While you will be provided with a worksheet for your team charter, you can acces
 
 !?[A Decade of USDS: Ten Years of Digital Service Delivery](https://www.youtube.com/watch?v=tGcdZSR2WoQ "A Decade of USDS: Ten Years of Digital Service Delivery")
 
+![US Digtial Service](https://www.usds.gov/assets/img/usds-logo-horizontal.png)  
+
+?[Podcast](https://audio.buzzsprout.com/jxf3g69x4hh4heoiuaprw2yq04zs?response-content-disposition=inline& "Sourcing with Heart: Connecting Purpose and Strategy in Nonprofit Procurement")
+
 ## Knowledge Check
 Answering questions about a potential acquisition from vendors before a solicitation is released may result in:  
 
