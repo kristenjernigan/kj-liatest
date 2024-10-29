@@ -16,19 +16,18 @@ While you will be provided with a worksheet for your team charter, you can acces
 - [Google Docs](https://docs.google.com/)
 
 ## Media
-<a href="https://vimeo.com/1022154693/d2a2842343?ts=0&share=copy" 
-alt="Capstone Video 6" width="240" height="180" border="10" </a>
+
 
 ## Knowledge Check
 Answering questions about a potential acquisition from vendors before a solicitation is released may result in:  
 
-
+<br>
 - [[ ]] A. Delays and extensions to the due date
-- 
+  
 - [[X]] B. Better bids
-- 
+  
 - [[ ]] C. Charges of unethical behavior
-- 
+  
 - [[X]] D. Lower costs  
 
 
