@@ -12,9 +12,9 @@ A team charter is a written statement of your team's objectives and operating pr
 While you will be provided with a worksheet for your team charter, you can access a blank copy of the document here.
 
 ### Tools
--[Slack](https://slack.com/)
--[Trello](https://trello.com/)
--[Google Docs](https://docs.google.com/)
+- [Slack](https://slack.com/)
+- [Trello](https://trello.com/)
+- [Google Docs](https://docs.google.com/)
 
 
 ??[Digital Services Wheel](https://github.com/kristenjernigan/kj-liatest/blob/main/digital%20services%20wheel.jpg)
