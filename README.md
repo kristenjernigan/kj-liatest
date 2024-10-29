@@ -15,5 +15,5 @@ While you will be provided with a worksheet for your team charter, you can acces
 - [Trello](https://trello.com/)
 - [Google Docs](https://docs.google.com/)
 
+[![Capstone Video 6](https://vimeo.com/1022154693/d2a2842343)](https://vimeo.com/1022154693/d2a2842343)
 
-[![Captsone Video 6](https://vimeo.com/1022154693/d2a2842343)](https://vimeo.com/1022154693/d2a2842343)
