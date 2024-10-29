@@ -21,7 +21,6 @@ While you will be provided with a worksheet for your team charter, you can acces
 ## Knowledge Check
 Answering questions about a potential acquisition from vendors before a solicitation is released may result in:  
 
-<br>
 - [[ ]] A. Delays and extensions to the due date
   
 - [[X]] B. Better bids
