@@ -20,4 +20,4 @@ Prior to Orientation, you will need to complete this short user manual for yours
 -[Google Docs](https://docs.google.com/)
 
 
-![Digital Services Wheel](https://github.com/kristenjernigan/kj-liatest/blob/main/digital%20services%20wheel.jpg)
+??[Digital Services Wheel](https://github.com/kristenjernigan/kj-liatest/blob/main/digital%20services%20wheel.jpg)
