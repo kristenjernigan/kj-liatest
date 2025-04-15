@@ -147,8 +147,8 @@ The multi-disciplinary teams that design and develop digital services could incl
 
 _The image below may need some reworking to make sure alt text describes the hierarchy and what the image conveys.  An easier solution would be to use the infographic but write out the hierarchy underneath. _ - Kristen
 
-![Digital Services team and hierarchy](675d02ad508f38772c7ee7d9ecb0a68968076880.jpg)
-
+![Digital Services team and hierarchy]
+(https://github.com/kristenjernigan/kj-liatest/blob/a2235c7d6ed21dc35d232d8c76926494a570544c/Media/Module%201/digital%20services%20team.jpg)
 - __Product Owner__: his individual represents the organization and is responsible for working with the digital services development team (in-house or vendor). Some roles include prioritizing feature and functionality development, defining acceptance criteria for features, and providing demonstrations and reviews to the organization’s stakeholders. The Product Owner is ultimately accountable for the success of the digital service.
 
 - __Delivery Manager__: This individual orchestrates the digital services team and enables the team to deliver a quality service on time and within budget.
@@ -193,7 +193,7 @@ __What about mobile apps?__
 
 Look how you can find information about and report information to the [City of Philadelphia](https://www.phila.gov/departments/philly311/) from your mobile device.
 
-![Woman looking at information on her mobile phone](472cd3e20c85471a94838818f11cef839668ba99.jpg)
+![Woman looking at information on her mobile phone](https://github.com/kristenjernigan/kj-liatest/blob/a2235c7d6ed21dc35d232d8c76926494a570544c/Media/Module%201/Woman%20looking%20at%20information%20on%20her%20phone.jpg)
 
 __Do only government agencies (federal, state or municipal) provide digital services?__
 
@@ -216,7 +216,7 @@ We’ve now learned the roles of individuals and teams within the digital servic
 
 ### Multiple Choice
 
-![Cartoon image of two dogs. One dog, sitting on a chair in front of a computer asks "Did you design this website? It is not dog friendly!" The second dog responds, "Well, you know these days it's all about being people friendly." ](b3c57220edc57201a1e9548aaa69bd5f7820c4c5.jpg)
+![Cartoon image of two dogs. One dog, sitting on a chair in front of a computer asks "Did you design this website? It is not dog friendly!" The second dog responds, "Well, you know these days it's all about being people friendly." ](https://github.com/kristenjernigan/kj-liatest/blob/a2235c7d6ed21dc35d232d8c76926494a570544c/Media/Module%201/Knowledge%20check%20question%20two%20dogs.jpg)
 
 Which of the following is being portrayed in the conversation above?
 
@@ -257,7 +257,7 @@ All digital projects should start with the end user. This simple principle is fo
 
 ### Strategies for Keeping Focused on the End User
 
-![UX Designer Paradox - Comic with three frames: The first frame is "What we dream up at kickoff" with a detailed rocket plan; the second frame is "What we settle for at launch" with a less extravagant plan of the rocket; the third frame is "What the user needs" with a bike and ramp](4a735f68159fa3cfdb1d4b30e4afcce135916a54.jpg "Strategies listed in Play 1 of the U.S. Digital Service Playbook can help you avoid the humorous situation described in this comic!")
+![UX Designer Paradox - Comic with three frames: The first frame is "What we dream up at kickoff" with a detailed rocket plan; the second frame is "What we settle for at launch" with a less extravagant plan of the rocket; the third frame is "What the user needs" with a bike and ramp](https://github.com/kristenjernigan/kj-liatest/blob/a2235c7d6ed21dc35d232d8c76926494a570544c/Media/Module%201/ux-design-paradox-comic_lg_source.jpg "Strategies listed in Play 1 of the U.S. Digital Service Playbook can help you avoid the humorous situation described in this comic!")
 
 Here are some strategies from [Play 1](https://playbook.usds.gov/#play1) of the U.S. Digital Services Playbook to help keep you focused on the user's needs. Note that this list is not all-inclusive. It is a starting point that you will build on throughout your learning journey.
 
@@ -289,7 +289,7 @@ You might think you know what your end user needs. However, starting development
 | Pivot | Persevere |
 | ----- |--------|
 | As a result of your analysis, you adapt your plan to reflect more accurately what you've found. |Your testing supports your hypotheses. What you validate turns into your product backlog. |
-|![Pivot - arrow pointing backwards](3e93d959af63ec5b9823c5c62b0d1a329dadffb0.jpg) |![Persevere - arrow pointing forward](d93c4475ebf7da9ca4520c3fc3c3618a1153050b.jpg)|
+|![Pivot - arrow pointing backwards] (https://github.com/kristenjernigan/kj-liatest/blob/a2235c7d6ed21dc35d232d8c76926494a570544c/Media/Module%201/Pivot.jpg) |![Persevere - arrow pointing forward](https://github.com/kristenjernigan/kj-liatest/blob/a2235c7d6ed21dc35d232d8c76926494a570544c/Media/Module%201/Persevere.jpg)|
 
 #### For Further Exploration
 
@@ -299,7 +299,7 @@ Read how the Department of Education developed a simple prototype made of cardbo
 
 ### A/B Testing
 
-![Two different screens on a tablet, one marked A, one marked B](85580cbe0837178f5394dc998f59892f0d53c3d8.jpg)
+![Two different screens on a tablet, one marked A, one marked B](https://github.com/kristenjernigan/kj-liatest/blob/a2235c7d6ed21dc35d232d8c76926494a570544c/Media/Module%201/A-B%20Testing.jpg)
 
 A/B testing is a method for developing and refining products. This method allows you to test ideas in real time. You can use this method to test even the smallest of components (e.g., layouts, wording, image, amount of text). With A/B testing, seemingly subjective decisions can now be driven by data.
 
@@ -309,7 +309,7 @@ A/B testing is a method for developing and refining products. This method allows
 
 Personas are fictional characters that teams create to help understand their users. Personas are usually concise and visual, with a focus on goals and behaviors rather than tasks or job descriptions.  
 
-![Profile of Linda who is 50 years old,  Lives in Tallahassee, Florida,  Widowed with no children. She needs help finding information online, easy to understand information, and financial support form the government to help pay her bills](f95831b8db05b9a8e095c9f550f462b722be6fa7.jpg)
+![Profile of Linda who is 50 years old,  Lives in Tallahassee, Florida,  Widowed with no children. She needs help finding information online, easy to understand information, and financial support form the government to help pay her bills](https://github.com/kristenjernigan/kj-liatest/blob/a2235c7d6ed21dc35d232d8c76926494a570544c/Media/Module%201/USA.gov-Personas-March-2015%20Linda.jpg)
 
 ### Using Personas as an Anchor for Development
 
@@ -329,7 +329,7 @@ Read how USA.gov updated their personas based on themes and insights they collec
 
 You can use journey mapping to explore users' feelings, questions, and needs as they interact with your organization and the service/product offered. Personas can also serve as a foundation for creating journey maps.
 
-![Diagram that maps how Linda identifies information need, looks for information, finds information, and seeks help. It outlines her activities, feelings and needs, and potential opportunities for improvement](16795ace341fe781320c10be54227ba51ee08856.jpg)
+![Diagram that maps how Linda identifies information need, looks for information, finds information, and seeks help. It outlines her activities, feelings and needs, and potential opportunities for improvement](https://github.com/kristenjernigan/kj-liatest/blob/a2235c7d6ed21dc35d232d8c76926494a570544c/Media/Module%201/1000-x-800-USAgov-Personas-and-Journey-Maps_small%20Linda.jpg)
 
 #### For Further Exploration
 
