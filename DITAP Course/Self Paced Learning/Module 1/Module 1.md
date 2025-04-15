@@ -17,7 +17,7 @@ Let’s start with the WHAT. What is meant by digital services? That is, in fact
 
 Below you will find the Digital Service Wheel.  Each part of this wheel lists more than one answer to each question above, and the answers shown here are just the beginning. This is why defining digital services can be a complex task. 
 
-![Digital Services Wheel](https://github.com/kristenjernigan/kj-liatest/blob/69fcbd8a9d666835f3b35864dd2192cbf4d826b5/Media/Module%201/digital%20service%20wheel.jpg)
+![Digital Services Wheel](https://github.com/kristenjernigan/kj-liatest/blob/7d812a8b27abe4f39802dfd4ead5afcc8a7dff07/Media/Module%201/digital%20service%20wheel%202.jpg)
 
 The following definition provided by the [Digital Government Strategy](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html) captures most of what this wheel displays:
 
@@ -188,7 +188,7 @@ __What about mobile apps?__
 
 Look how you can find information about and report information to the [City of Philadelphia](https://www.phila.gov/departments/philly311/) from your mobile device.
 
-![Woman looking at information on her mobile phone](https://github.com/kristenjernigan/kj-liatest/blob/a2235c7d6ed21dc35d232d8c76926494a570544c/Media/Module%201/Woman%20looking%20at%20information%20on%20her%20phone.jpg)
+![Woman looking at information on her mobile phone](https://github.com/kristenjernigan/kj-liatest/blob/7d812a8b27abe4f39802dfd4ead5afcc8a7dff07/Media/Module%201/Woman%20looking%20at%20information%20on%20her%20phone%202.jpg)
 
 __Do only government agencies (federal, state or municipal) provide digital services?__
 
@@ -211,7 +211,7 @@ We’ve now learned the roles of individuals and teams within the digital servic
 
 ### Multiple Choice
 
-![Cartoon image of two dogs. One dog, sitting on a chair in front of a computer asks "Did you design this website? It is not dog friendly!" The second dog responds, "Well, you know these days it's all about being people friendly." ](https://github.com/kristenjernigan/kj-liatest/blob/a2235c7d6ed21dc35d232d8c76926494a570544c/Media/Module%201/Knowledge%20check%20question%20two%20dogs.jpg)
+![Cartoon image of two dogs. One dog, sitting on a chair in front of a computer asks "Did you design this website? It is not dog friendly!" The second dog responds, "Well, you know these days it's all about being people friendly." ](https://github.com/kristenjernigan/kj-liatest/blob/7d812a8b27abe4f39802dfd4ead5afcc8a7dff07/Media/Module%201/Knowledge%20check%20question%20two%20dogs%202.jpg)
 
 Which of the following is being portrayed in the conversation above?
 
@@ -252,7 +252,7 @@ All digital projects should start with the end user. This simple principle is fo
 
 ### Strategies for Keeping Focused on the End User
 
-![UX Designer Paradox - Comic with three frames: The first frame is "What we dream up at kickoff" with a detailed rocket plan; the second frame is "What we settle for at launch" with a less extravagant plan of the rocket; the third frame is "What the user needs" with a bike and ramp](https://github.com/kristenjernigan/kj-liatest/blob/a2235c7d6ed21dc35d232d8c76926494a570544c/Media/Module%201/ux-design-paradox-comic_lg_source.jpg "Strategies listed in Play 1 of the U.S. Digital Service Playbook can help you avoid the humorous situation described in this comic!")
+![UX Designer Paradox - Comic with three frames: The first frame is "What we dream up at kickoff" with a detailed rocket plan; the second frame is "What we settle for at launch" with a less extravagant plan of the rocket; the third frame is "What the user needs" with a bike and ramp](https://github.com/kristenjernigan/kj-liatest/blob/7d812a8b27abe4f39802dfd4ead5afcc8a7dff07/Media/Module%201/ux-design-paradox-comic_lg_source%202.jpg "Strategies listed in Play 1 of the U.S. Digital Service Playbook can help you avoid the humorous situation described in this comic!")
 
 Here are some strategies from [Play 1](https://playbook.usds.gov/#play1) of the U.S. Digital Services Playbook to help keep you focused on the user's needs. Note that this list is not all-inclusive. It is a starting point that you will build on throughout your learning journey.
 
@@ -294,7 +294,7 @@ Read how the Department of Education developed a simple prototype made of cardbo
 
 ### A/B Testing
 
-![Two different screens on a tablet, one marked A, one marked B](https://github.com/kristenjernigan/kj-liatest/blob/a2235c7d6ed21dc35d232d8c76926494a570544c/Media/Module%201/A-B%20Testing.jpg)
+![Two different screens on a tablet, one marked A, one marked B](https://github.com/kristenjernigan/kj-liatest/blob/7d812a8b27abe4f39802dfd4ead5afcc8a7dff07/Media/Module%201/A-B%20Testing%202.jpg)
 
 A/B testing is a method for developing and refining products. This method allows you to test ideas in real time. You can use this method to test even the smallest of components (e.g., layouts, wording, image, amount of text). With A/B testing, seemingly subjective decisions can now be driven by data.
 
