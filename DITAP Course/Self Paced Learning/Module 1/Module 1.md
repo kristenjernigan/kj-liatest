@@ -284,7 +284,7 @@ You might think you know what your end user needs. However, starting development
 | Pivot | Persevere |
 | ----- |--------|
 | As a result of your analysis, you adapt your plan to reflect more accurately what you've found. |Your testing supports your hypotheses. What you validate turns into your product backlog. |
-|![Pivot - arrow pointing backwards] (https://github.com/kristenjernigan/kj-liatest/blob/4c81762bd0a0e1fc0387736302ca377a86233f72/Media/Module%201/Pivot.jpg) |![Persevere - arrow pointing forward](https://github.com/kristenjernigan/kj-liatest/blob/a2235c7d6ed21dc35d232d8c76926494a570544c/Media/Module%201/Persevere.jpg)|
+|![Pivot - arrow pointing backwards](https://github.com/kristenjernigan/kj-liatest/blob/4c81762bd0a0e1fc0387736302ca377a86233f72/Media/Module%201/Pivot.jpg) |![Persevere - arrow pointing forward](https://github.com/kristenjernigan/kj-liatest/blob/a2235c7d6ed21dc35d232d8c76926494a570544c/Media/Module%201/Persevere.jpg)|
 
 #### For Further Exploration
 
