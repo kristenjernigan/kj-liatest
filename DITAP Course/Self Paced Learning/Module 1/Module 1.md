@@ -119,10 +119,6 @@ Let’s check your knowledge on the what, or the definition of digital services,
 
 Explanation: Digital services can be deployed on a mobile phone using your data plan.
 
----
-
-
-
 2. It sounds like only adults can be end users of digital servies since it's for finding important information or filling out forms. 
 
 - [[ ]] True
@@ -147,8 +143,7 @@ The multi-disciplinary teams that design and develop digital services could incl
 
 _The image below may need some reworking to make sure alt text describes the hierarchy and what the image conveys.  An easier solution would be to use the infographic but write out the hierarchy underneath. _ - Kristen
 
-![Digital Services team and hierarchy]
-(https://github.com/kristenjernigan/kj-liatest/blob/a2235c7d6ed21dc35d232d8c76926494a570544c/Media/Module%201/digital%20services%20team.jpg)
+![Digital Services team and hierarchy](https://github.com/kristenjernigan/kj-liatest/blob/67d12c0757ca87a3ee720ea433584bce7c142fdc/Media/Module%201/digital%20services%20team.jpg)
 - __Product Owner__: his individual represents the organization and is responsible for working with the digital services development team (in-house or vendor). Some roles include prioritizing feature and functionality development, defining acceptance criteria for features, and providing demonstrations and reviews to the organization’s stakeholders. The Product Owner is ultimately accountable for the success of the digital service.
 
 - __Delivery Manager__: This individual orchestrates the digital services team and enables the team to deliver a quality service on time and within budget.
