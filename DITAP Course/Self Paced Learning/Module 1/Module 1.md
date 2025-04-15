@@ -50,7 +50,7 @@ USCIS wants to provide its customers with information and services digitally to 
 
 Because the site is responsive, users can access it from their computers and mobile devices. Check this out.
 
-![screenshot of My USCIS website on a mobile device](33cdb18e788919cf44310b92df9e21be68364b2d.jpg "You can take a Civics Practice Test right from your mobile phone!")
+![screenshot of My USCIS website on a mobile device](https://github.com/kristenjernigan/kj-liatest/blob/a35fff1d65346dbbf84d2220b3749b3eaf86658a/Media/Module%201/My%20USCIS%20screenshot%20on%20mobile%20device.jpg)
 
 ### How? 
 
@@ -61,7 +61,7 @@ In our online learning module, Digital Services – The How, you’ll learn how 
 
 Let’s consider the definition of digital services differently. Imagine it as a three-layered cake.
 
-![A 3-layered cake with the layers labeled as information layer, presentation layer, and platform layer](83a484c18100527dec2e3f9a2579be32c389dcac.png)
+![A 3-layered cake with the layers labeled as information layer, presentation layer, and platform layer](https://github.com/kristenjernigan/kj-liatest/blob/a35fff1d65346dbbf84d2220b3749b3eaf86658a/Media/Module%201/Digital%20Services%20Cake%20updated.png)
 
 We’ve taken some important information from [Digital Government Strategy](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html) which explains each layer in a concise manner.
 
