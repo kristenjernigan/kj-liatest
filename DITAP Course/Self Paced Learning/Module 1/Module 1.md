@@ -17,7 +17,7 @@ Let’s start with the WHAT. What is meant by digital services? That is, in fact
 
 Below you will find the Digital Service Wheel.  Each part of this wheel lists more than one answer to each question above, and the answers shown here are just the beginning. This is why defining digital services can be a complex task. 
 
-![Digital Services Wheel](3c49618ebb73d7b1b74cf0e269e74e65116aca29.jpg)
+![Digital Services Wheel](https://github.com/kristenjernigan/kj-liatest/blob/69fcbd8a9d666835f3b35864dd2192cbf4d826b5/Media/Module%201/digital%20service%20wheel.jpg))
 
 The following definition provided by the [Digital Government Strategy](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html) captures most of what this wheel displays:
 
