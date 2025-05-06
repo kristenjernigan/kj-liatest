@@ -12,7 +12,7 @@ Welcome to the project! Please go through the sections below to get oriented.
 ### 👋 Welcome Message
 > Hi! We're excited to have you on the team.
 
-[![Welcome Video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Welcome Video](https://vimeo.com/1081988681/d0f9cdd659?ts=0&share=copy)
 
 ### 🧩 Your First Week Checklist
 
