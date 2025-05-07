@@ -12,7 +12,8 @@ Welcome to the project! Please go through the sections below to get oriented.
 ### 👋 Welcome Message
 > Hi! We're excited to have you on the team.
 
-[![Welcome Video](https://i.vimeocdn.com/portrait/35678658_72x72?sig=120a5738d3b6d1890ec1548cfd995e8d568d65205ad4f4170ff732e9a2bf2190&v=1)](https://vimeo.com/1081988681/d0f9cdd659?share=copy)
+[Welcome video](https://www.canva.com/design/DAGmxZpqlsg/jeP7qfcfNqWyGjNG1TuVow/watch?utm_content=DAGmxZpqlsg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h57658fb472)
+
 
 ### 🧩 Your First Week Checklist
 
