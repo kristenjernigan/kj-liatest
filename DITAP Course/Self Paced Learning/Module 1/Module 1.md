@@ -270,6 +270,8 @@ __Document and share your findings__
 
 __Prioritize development tasks based on user needs__
 
+- Create a prioritized list of tasks the user is trying to accomplish, also known as user stories.
+
 Next, let's examine a few techniques that can help you implement the strategies listed in Play 1. 
 
 
