@@ -333,3 +333,9 @@ You can use journey mapping to explore users' feelings, questions, and needs as 
 Want to learn more about journey mapping? Read about the process USA. gov used and how they leveraged personas to create journey maps. 
 
 - [Journey Mapping the Customer Experience: A USA.gov Case Study](https://digital.gov/2015/08/12/journey-mapping-the-customer-experience-a-usa-gov-case-study/)
+
+## Contemporary Practices in Developing Digital Services
+
+Now that we’ve covered the common denominator of all digital services development, let’s explore contemporary practices outlined in the U.S. Digital Services Playbook. Take this section for what it is—a survey, not an exhaustive list, of current practices. Remember that keeping pace with current technologies takes a concerted effort. Consider this a starting point for building your digital service development know-how. 
+
+As procurement professionals, you are critical in shaping how the government invests in digital services. Modern approaches like Agile, Human-Centered Design (HCD), and DevSecOps aren’t just buzzwords—they're proven strategies that lead to better outcomes. These methods help government teams and contractors adapt quickly to changing needs, deliver working features faster, and reduce costly rework. They also provide greater transparency into contractor performance, helping ensure taxpayer dollars are used efficiently and effectively. Understanding how these approaches work—and how to look for them in proposals—can help you support more informed acquisitions and more successful digital service projects.
