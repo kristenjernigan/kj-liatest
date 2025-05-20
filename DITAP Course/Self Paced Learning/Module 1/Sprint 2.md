@@ -354,7 +354,7 @@ Transparency builds trust between contractors and federal stakeholders and impro
 
 Agile delivery is more than a set of practices. It's a mindset of continuous improvement, open communication, and user-centered design. By adopting these methods, federal acquisition professionals can better support digital transformation initiatives and make informed, agile-friendly procurement decisions.
 
-## Digital Service Delivery Methods: HCD and DevSecOps:
+## Digital Service Delivery Methods: HCD and DevSecOps
 
 ### **What is HCD?** 
 
