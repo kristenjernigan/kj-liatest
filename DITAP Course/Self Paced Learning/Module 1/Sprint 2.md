@@ -458,8 +458,9 @@ The VA undertook a comprehensive redesign of VA.gov to improve the digital exper
 **Key Resources:**
 
 * [Designing for Veterans: A Toolkit for Human-Centered Design](https://www.pathfinder.va.gov/info/assets/resources/innovation-compentencies/designing-for-veterans-a-toolkit-for-hcd.pdf)  
-* [Using Human-Centered Design to Reach More Veterans](https://news.va.gov/16942/using-human-centered-design-reach-veterans/)  
+* [Using Human-Centered Design to Reach More Veterans](https://news.va.gov/16942/using-human-centered-design-reach-veterans/)
 * [How the VA's Approach to Human-Centered Design Improved Veterans' Experience](https://govciomedia.com/how-the-vas-approach-to-human-centered-design-improved-veterans-experience/)  
+
   ---
 
   **2\. U.S. Web Design System (USWDS) – General Services Administration**  
