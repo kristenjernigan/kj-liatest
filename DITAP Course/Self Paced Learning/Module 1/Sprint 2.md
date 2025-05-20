@@ -558,4 +558,29 @@ This combination is particularly valuable in the federal context. It allows agen
 
  ---
 
+## Digital Service Delivery Providers - Sources of Supply  
+
+TBD
+ ---
+
+
+## Activity: Trend Analysis of Fast Company's Most Innovative Companies
+
+**Introduction:** The digital services landscape continues to evolve rapidly, but where is the real innovation coming from? Over the past decade, we've seen significant advances in cloud computing, artificial intelligence, and user-centered design, with smartphones, automation, and on-demand services becoming everyday expectations. Yet, this transformation has been driven by established tech giants like Google, Apple, Microsoft, and Amazon. So, is the pace of innovation still being shaped by disruptive newcomers, or are the incumbents continuing to dominate the field? And as government agencies modernize, how can public sector digital services foster meaningful, citizen-centered innovation?
+
+**Goal:** This exercise will expand on these rhetorical questions by examining the three-year history of Fast Company's Most Innovative Companies: [2023](https://www.fastcompany.com/most-innovative-companies/2023), [2024](https://www.fastcompany.com/most-innovative-companies/2024), and [2025](https://www.fastcompany.com/most-innovative-companies/list).
+
+**Instructions \- Part 1:** For Part 1 of this activity, review each year's list and identify the digital services providers among them. Then, analyze these companies and identify any trends you see. Here are a few questions to get you started in your analysis:
+
+* For those companies you identify as digital service providers, what is the breakdown among typical tech giants versus newer providers in the digital space?   
+  * Which (if any) companies were included in each year's list?  
+  * Which companies are the fastest risers (e.g., they climbed up the rankings year over year) and which were lagging?  
+  * Which digital services technology areas are best represented in the rankings?   
+  * Have any of these companies done business with the government? If so, with which agencies?
+
+**Instructions \- Part 2:** If you’re feeling motivated, examine the list once again, but this time, look for companies other than digital service providers and analyze how they are incorporating digital services into their business. What techniques are they using that could be integrated into the government?
+
+**Definition of Done & Deadline for Completion:** This shouldn't take too long, but we think it will help you understand the broader digital services marketplace. Please share your findings in the discussion space by the end of this iteration.
+
+
 
