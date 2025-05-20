@@ -211,7 +211,7 @@ A well-formed agile team includes a mix of technical, design, and product expert
 
 This section introduces key frameworks and practices that bring agile to life, including Kanban and Scrum. You’ll explore how these methods support transparency, collaboration, and continuous improvement through structured workflows, defined roles, and regular ceremonies that keep teams aligned and focused on delivering value.
 
-**Kanban**
+#### **Kanban**
 
 Kanban is a visual workflow management method that enhances efficiency and transparency in task progression. Originating from Toyota's "just-in-time" (JIT) production system, Kanban has been adapted beyond manufacturing to various fields, including software development and government project management.
 
@@ -223,7 +223,7 @@ Key elements of Kanban include:
 
 Modern Kanban implementations also utilize tools like cumulative flow diagrams and control charts to monitor workflow stability and identify areas for enhancement.
 
-**Scrum**
+#### **Scrum**
 
 Scrum is an agile framework for developing and sustaining complex products through iterative progress and collaboration. It emphasizes adaptability, team accountability, and continuous improvement.
 
