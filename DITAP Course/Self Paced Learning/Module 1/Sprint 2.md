@@ -354,6 +354,8 @@ Transparency builds trust between contractors and federal stakeholders and impro
 
 Agile delivery is more than a set of practices. It's a mindset of continuous improvement, open communication, and user-centered design. By adopting these methods, federal acquisition professionals can better support digital transformation initiatives and make informed, agile-friendly procurement decisions.
 
+---
+
 ## Digital Service Delivery Methods: HCD and DevSecOps
 
 ### **What is HCD?** 
@@ -464,7 +466,8 @@ The VA undertook a comprehensive redesign of VA.gov to improve the digital exper
   ---
 
   **2\. U.S. Web Design System (USWDS) – General Services Administration**  
-  USWDS was created to help federal agencies build accessible, mobile-friendly websites. It was developed with HCD principles and provides a standardized framework that ensures consistency and usability across government digital services.  
+  USWDS was created to help federal agencies build accessible, mobile-friendly websites. It was developed with HCD principles and provides a standardized framework that ensures consistency and usability across government digital services.
+  
   **Key Resources:**  
 * [U.S. Web Design System Official Site](https://designsystem.digital.gov/)  
 * [Design Principles – USWDS](https://designsystem.digital.gov/design-principles/)  
@@ -473,7 +476,8 @@ The VA undertook a comprehensive redesign of VA.gov to improve the digital exper
   ---
 
   **3\. COVID-19 Vaccine Finder Tool – Centers for Disease Control and Prevention (CDC)**  
-  In response to the COVID-19 pandemic, the CDC launched Vaccines.gov, a tool designed to help Americans find COVID-19 vaccines. By applying HCD methodologies, the tool was developed to be user-friendly and accessible, accommodating a diverse population during a critical time.  
+  In response to the COVID-19 pandemic, the CDC launched Vaccines.gov, a tool designed to help Americans find COVID-19 vaccines. By applying HCD methodologies, the tool was developed to be user-friendly and accessible, accommodating a diverse population during a critical time.
+  
   **Key Resources:**  
 * [Critical Code: Building COVID-19 Vaccine Finder Tools](https://usds.gov/projects/vaccines-dot-gov)  
 * [CDC Launches Tool that Helps Americans Find COVID-19 Vaccines](https://ohsonline.com/articles/2021/02/26/cdc-launches-tool-that-helps-americans-find-covid19-vaccines.aspx?admgarea=news)
