@@ -222,10 +222,52 @@ Which of the following is being portrayed in the conversation above?
 
 Explanation: In this humorous portrayal, “people friendly” refers to the User Experience Design. This involves visual design, interaction design, and user interface design to make things as intuitive as possible for the end user. The user experience designers work with the front-end software developers to develop the front-end functionality and user interface to support the vision set forth by the organization.
 
+## Who’s Who: A Starting List
+
+As government agencies embrace modern technology and user-centered practices, it’s essential to understand the key players driving this transformation. This section introduces influential leaders, organizations, and innovators shaping the future of government. Following thought leaders in this space can help you stay informed on emerging trends, proven strategies, and evolving best practices, ultimately strengthening your role as a strategic partner in delivering better digital services to the public.
+
+### Government entities
+
+* [Technology Transformation Services](https://tts.gsa.gov/) \- GSA   
+* [United States Digital Service (USDS)](https://www.usds.gov/)   
+* [Digital Service at CMS](https://www.cms.gov/digital-service)  
+* [Chief Digital and Artificial Intelligence Office (CDAO)](https://www.ai.mil/) \- DoD   
+* [Customer Experience (CX) at DHS](https://www.dhs.gov/cx) 
+
+
+### Non-government entities
+
+* [Code for America](https://codeforamerica.org/)  
+  * Code for America is a nonprofit organization that partners with governments to create human-centered digital tools and services. Its mission is to make government services more accessible, equitable, and effective, especially for underserved communities. Code for America applies agile, data-informed approaches to modernizing public systems and advocates for policy changes grounded in user needs.  
+    * Check out Code for America’s work on [GetCalFresh](https://codeforamerica.org/success-stories/simplifying-californias-online-application-for-food-benefits/), a simplified, mobile-friendly platform that helps Californians apply for food assistance in under 10 minutes. By reducing friction in the application process, GetCalFresh has helped millions of people more easily access critical benefits.  
+* [U.S. Digital Response](https://www.usdigitalresponse.org/)  
+  * U.S. Digital Response (USDR) is a nonprofit organization that connects experienced, pro bono technologists with government and nonprofit partners to meet critical public needs quickly and effectively. Founded in response to the COVID-19 crisis, USDR has since evolved into a long-term partner in modernizing public digital services. In its first five years, USDR supported over 500 projects, helping agencies scale digital solutions in areas like emergency response, benefits access, and elections.  
+    * [Explore their five-year impact journey](https://www.usdigitalresponse.org/resources/five-years-of-impact-usdrs-journey-from-crisis-response-to-strategic-partnership)
+
+* [Government Digital Service Team Tracker](https://digitalgovernmenthub.org/publications/dsn-dst-tracker/)  
+  * The Beeck Center for Social Impact \+ Innovation’s Digital Service Network (DSN) maintains a Government Digital Service Team Tracker: a living database for those seeking to learn more about the locations, structures, mandates, and more of government digital service teams across the United States.
+
+
+### Thought Leaders
+
+* [Jennifer Pahlka](https://www.linkedin.com/in/jpahlka/)   
+* [Mikey Dickerson](https://www.linkedin.com/in/mikeydickerson/)  
+* [Erie Meyer](https://www.linkedin.com/in/eriemeyer/)  
+* [Amy Gleason](https://www.linkedin.com/in/gleasonamy/)  
+* [Ann Lewis](https://www.linkedin.com/in/theannlewis/)  
+* [Traci Walker](https://www.linkedin.com/in/traci-walker78/)  
+* [Dave Zvenyach](https://www.linkedin.com/in/vdavez/)  
+* [Jonathan Mostowski](https://www.linkedin.com/in/jonmost/)  
+* [Haley Van Dyck](https://www.linkedin.com/in/haley-van-dyck-67927191/)
+
+
+
 ## Activity Break
 
 Start your own Who's Who list by finding an organization or other thought leader in the digital service community to follow on social media (X/Twitter, LinkedIn, Facebook, and so forth) or on a blog or newsletter that you sign up to receive.
 
 Post in the discussion topic below who you chose and why. You can also share what contribution to digital service made them interesting to you.
+
+
 
 
