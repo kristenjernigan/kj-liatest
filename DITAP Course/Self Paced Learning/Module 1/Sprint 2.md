@@ -468,7 +468,7 @@ The VA undertook a comprehensive redesign of VA.gov to improve the digital exper
   **2\. U.S. Web Design System (USWDS) – General Services Administration**  
   USWDS was created to help federal agencies build accessible, mobile-friendly websites. It was developed with HCD principles and provides a standardized framework that ensures consistency and usability across government digital services.
   
-  **Key Resources:**  
+**Key Resources:**  
 * [U.S. Web Design System Official Site](https://designsystem.digital.gov/)  
 * [Design Principles – USWDS](https://designsystem.digital.gov/design-principles/)  
 * [10x's Investment in the U.S. Web Design System](https://10x.gsa.gov/news/us-web-design-system/)
@@ -478,7 +478,7 @@ The VA undertook a comprehensive redesign of VA.gov to improve the digital exper
   **3\. COVID-19 Vaccine Finder Tool – Centers for Disease Control and Prevention (CDC)**  
   In response to the COVID-19 pandemic, the CDC launched Vaccines.gov, a tool designed to help Americans find COVID-19 vaccines. By applying HCD methodologies, the tool was developed to be user-friendly and accessible, accommodating a diverse population during a critical time.
   
-  **Key Resources:**  
+**Key Resources:**  
 * [Critical Code: Building COVID-19 Vaccine Finder Tools](https://usds.gov/projects/vaccines-dot-gov)  
 * [CDC Launches Tool that Helps Americans Find COVID-19 Vaccines](https://ohsonline.com/articles/2021/02/26/cdc-launches-tool-that-helps-americans-find-covid19-vaccines.aspx?admgarea=news)
 
@@ -534,7 +534,7 @@ The outcome? Veterans gained access to faster, more reliable digital tools, such
 
 The VA’s journey highlighted a key lesson for acquisition professionals: enabling DevSecOps through innovative procurement strategies leads to better software and outcomes for government customers.
 
-Key resources: 
+**Key resources:** 
 
 * [Building and Deploying VA Applications at Scale](https://digital.va.gov/engineering-excellence/building-and-deploying-va-applications-at-scale/)   
 * [DevSecOps Enables VA’s Digital Transformation](https://govciomedia.com/devsecops-enables-vas-digital-transformation/)  
@@ -555,5 +555,7 @@ This combination is particularly valuable in the federal context. It allows agen
 **Visual:** An illustrated metaphor: A ship with HCD as the navigator (compass) and DevSecOps as the engine room crew. Both are essential to reach the destination: user-centered, reliable digital services.
 
 **Playbook integration:** Federal teams use HCD to **guide direction** and DevSecOps to **power execution**, ensuring that services are aligned with user needs while being scalable and secure.
+
+ ---
 
 
