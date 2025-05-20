@@ -354,3 +354,201 @@ Transparency builds trust between contractors and federal stakeholders and impro
 
 Agile delivery is more than a set of practices. It's a mindset of continuous improvement, open communication, and user-centered design. By adopting these methods, federal acquisition professionals can better support digital transformation initiatives and make informed, agile-friendly procurement decisions.
 
+## Digital Service Delivery Methods: HCD and DevSecOps:
+
+### **What is HCD?** 
+
+Before we build anything, we have to understand *who* we're building for. **Human-centered design (HCD)** starts by putting people at the heart of the process. In this section, you’ll see how HCD helps teams listen deeply, design with empathy, and create digital services that are not only functional but meaningful. For federal procurement professionals, understanding HCD means being equipped to assess whether vendor solutions truly center the user.
+
+Designing under this lens means deeply understanding the needs, behaviors, and emotions of the people you are planning for. Using those insights, you can create solutions that align directly with an exceptional user experience.
+
+![][image1]  
+*HCD graphic by [https://www.dalberg.com](https://dalberg.com/our-ideas/human-centered-design-design-process/)*
+
+In federal digital service projects, HCD is a mindset and methodology that supports better government outcomes. By involving users early and often, HCD helps teams deliver usable and truly useful tools and services.
+
+#### **Core principles of human-centered design**
+
+##### **Empathy**
+
+* **Definition:**  
+   Understand users' lived experiences, perspectives, and pain points. This means listening with intention and designing based on your end user, not on your assumptions.   
+* **Scenario:**  
+   A digital benefits platform was designed without involving real users. After launch, veterans reported frustration navigating the interface and finding key services.  
+* **Lesson learned:**  
+   If designers had listened to user feedback earlier, they could have prevented usability issues and improved satisfaction from the start.
+
+---
+
+##### **User research**
+
+* **Definition:**  
+  Engage directly with users through interviews, surveys, and observations. Use real user data to guide decisions, not assumptions. Research and discover existing solutions so you aren’t reinventing the wheel. Conduct research continuously throughout the project lifecycle.  
+* **Scenario:**  
+   A procurement team made key design decisions to redesign a feature without conducting user interviews on the feature first. After launch, feedback revealed that the users needed minor updates to the feature, not something completely different.   
+* **Lesson learned:**  
+   Direct user research helps teams avoid costly rework and builds services people want and need.
+
+---
+
+##### **Iterations**
+
+* **Definition:**  
+  Test ideas early, gather feedback, and refine solutions through repeated cycles. HCD and Agile go hand-in-hand by enabling rapid learning and improvement.  
+* **Scenario:**  
+   After months of work, a contractor delivered a polished product, only to find it unsatisfactory to end users.  
+* **Lesson learned:**  
+  Iterating in smaller cycles and testing early would have saved time and delivered a more usable solution.
+
+---
+
+##### **Usability testing**
+
+* **Definition:**  
+   Usability testing is an ongoing process, not a one-time task. Watching users interact with prototypes helps identify pain points and uncover areas for improvement.  
+* **Scenario:**  
+   A new application was developed and launched without user testing. Post-launch feedback revealed multiple accessibility barriers and confusing workflows.  
+* **Lesson learned:**  
+   Frequent usability testing during development could have identified these issues early and improved the final product.
+
+---
+
+##### **Design for everyone**
+
+* **Definition:**  
+   Inclusive design means designing for a broad range of users. Accessibility considerations should begin early and go beyond simply meeting compliance standards.  
+* **Scenario:**  
+   An agency met WCAG 2.0 requirements but didn’t test with users who rely on screen readers. As a result, key tasks were still challenging to complete.  
+* **Lesson learned:**  
+   Truly inclusive design requires building beyond checklists—testing with real users ensures services work for everyone.
+
+---
+
+##### **Collaboration**
+
+* **Definition:**  
+   Human-centered design is a team effort. Success depends on input from stakeholders, engineers, project managers, and product owners, not just designers.  
+* **Scenario:**  
+   A project siloed the design team from developers and stakeholders. The design team created HCD designs based on user needs and testing, but because they were siloed from developers, they couldn’t affirm that their designs would work within the system constraints. The result was misaligned priorities and designs that had to be reworked, which delayed the project significantly.   
+* **Lesson learned:**  
+   Cross-functional collaboration leads to shared understanding, better decisions, and smoother delivery.
+
+---
+
+For procurement professionals, understanding HCD is key to evaluating whether a contractor or solution is truly user-focused. It also informs the type of research, testing, and iteration expectations that should be baked into solicitations and performance metrics.
+
+###  **HCD in government**
+
+#### **Designing for people: human-centered design in government**
+
+Human-centered design in government is more than just a process. It’s a mindset that prioritizes the people who use federal services. In contrast to traditional development methods focusing on policy or system constraints, HCD puts user needs at the forefront. This means engaging real users early and often, listening to their challenges, and designing intuitive, inclusive, and effective solutions.
+
+When applied to federal programs and services, HCD helps ensure that digital tools are functional, equitable, and accessible to all, regardless of ability, language, location, or digital literacy. Accessibility considerations, such as compliance with Section 508, are built into the design process rather than tacked on at the end. HCD also emphasizes continuous feedback and iteration, which means solutions evolve to better meet changing user needs.
+
+Using HCD, government teams can reduce waste, improve public trust, and create services that truly work for the people they intend to serve.
+
+When used effectively, HCD reduces barriers, simplifies complex processes, and builds trust between the government and the public.
+
+#### **Real world examples:** 
+
+**1\. VA.gov Redesign – Department of Veterans Affairs**
+
+The VA undertook a comprehensive redesign of VA.gov to improve the digital experience for Veterans. By employing HCD principles, they focused on understanding Veterans' needs and behaviors, leading to a more intuitive and accessible website. This approach resulted in increased user satisfaction and trust in VA services.
+
+**Key Resources:**
+
+* [Designing for Veterans: A Toolkit for Human-Centered Design](https://www.pathfinder.va.gov/info/assets/resources/innovation-compentencies/designing-for-veterans-a-toolkit-for-hcd.pdf)  
+* [Using Human-Centered Design to Reach More Veterans](https://news.va.gov/16942/using-human-centered-design-reach-veterans/)  
+* [How the VA's Approach to Human-Centered Design Improved Veterans' Experience](https://govciomedia.com/how-the-vas-approach-to-human-centered-design-improved-veterans-experience/)  
+  ---
+
+  **2\. U.S. Web Design System (USWDS) – General Services Administration**  
+  USWDS was created to help federal agencies build accessible, mobile-friendly websites. It was developed with HCD principles and provides a standardized framework that ensures consistency and usability across government digital services.  
+  **Key Resources:**  
+* [U.S. Web Design System Official Site](https://designsystem.digital.gov/)  
+* [Design Principles – USWDS](https://designsystem.digital.gov/design-principles/)  
+* [10x's Investment in the U.S. Web Design System](https://10x.gsa.gov/news/us-web-design-system/)
+
+  ---
+
+  **3\. COVID-19 Vaccine Finder Tool – Centers for Disease Control and Prevention (CDC)**  
+  In response to the COVID-19 pandemic, the CDC launched Vaccines.gov, a tool designed to help Americans find COVID-19 vaccines. By applying HCD methodologies, the tool was developed to be user-friendly and accessible, accommodating a diverse population during a critical time.  
+  **Key Resources:**  
+* [Critical Code: Building COVID-19 Vaccine Finder Tools](https://usds.gov/projects/vaccines-dot-gov)  
+* [CDC Launches Tool that Helps Americans Find COVID-19 Vaccines](https://ohsonline.com/articles/2021/02/26/cdc-launches-tool-that-helps-americans-find-covid19-vaccines.aspx?admgarea=news)
+
+**Playbook integration:** HCD ensures that digital services are **accessible, equitable**, and **responsive to user needs**, which is essential in a public sector committed to serving everyone.
+
+---
+
+### **DevSecOps explained**
+
+#### **Making delivery fast and secure: DevSecOps in government**
+
+DevSecOps stands for Development, Security, and Operations. It’s a modern approach to building and delivering secure software, servers, and digital services by integrating security into every step of the process.
+
+In traditional government IT projects, development, security review, and operations often happen in separate silos, which can lead to delays, miscommunications, and vulnerabilities. Usually, these tasks are completed manually, creating possibilities for human error. DevSecOps is a framework that breaks down those silos by creating mechanisms to automate system and code deployment and maintenance tasks. Automation significantly reduces the possibility of human error and speeds up deployment tasks. Instead of waiting until the end to test for vulnerabilities, DevSecOps integrates automated security checks into every step of the process. This includes code reviews, server configuration and deployment, network hardening, vulnerability, and compliance scans that are triggered anytime a change is made to a system.
+
+*![][image2]*
+
+*![][image3]*  
+*What is DevOps from [https://tech.gsa.gov/guides/what\_is\_devops/](https://tech.gsa.gov/guides/what_is_devops/)* 
+
+Another key feature of DevSecOps is the **CI/CD pipeline**, which stands for Continuous Integration and Continuous Delivery. This process enables teams to make small, frequent updates to software and get those updates into production quickly. This allows developers to respond faster to user needs and fix problems without waiting for a big release. Ultimately, the ability to rapidly make code changes to the production environment improves stability and fosters confidence in the development team. For federal digital services, new features, bug fixes, and updates can be delivered faster and with fewer errors while meeting the government’s strict security and compliance standards.
+
+Ultimately, DevSecOps helps agencies build **faster, safer, and more** **reliable software**—all critical needs in today's high-stakes digital government environment.
+
+**Playbook integration:** CI/CD pipelines and DevSecOps practices help federal teams **ship faster and safer**, making digital services more responsive and secure.
+
+
+
+#### **Why DevSecOps matters on federal projects**
+
+In federal projects, DevSecOps supports mission-critical services by ensuring they are stable, scalable, and responsive to change, all while maintaining code quality, security, and accessibility compliance, and reducing the costs associated with traditional code deployment methods. Speed, stability, and security aren’t optional in complex government systems—they're essential. DevSecOps helps federal agencies meet these demands by:
+
+* automating code deployments and testing, reducing manual errors  
+* speeding up the delivery of new features without compromising security  
+* maintaining robust, compliant systems with ongoing monitoring  
+* supporting secure data handling and backups.
+
+#### **Real world example:**
+
+**Spotlight: How the VA used DevSecOps to modernize Veteran services**
+
+In recent years, the Department of Veterans Affairs (VA) has undergone a sweeping modernization effort to improve digital services for millions of Veterans. Faced with aging IT systems and slow delivery cycles, the agency needed a new approach—one that could increase speed, enhance security, and reduce waste—the solution: DevSecOps.
+
+DevSecOps enabled the VA to embed security into every step of the software delivery process. Instead of treating security as a final checkpoint, teams initially integrated automated testing, security scanning, and compliance monitoring into their development pipelines.
+
+Before adopting DevSecOps, releasing new features or updates often took months and required coordination across siloed teams. After the shift, the VA deployed automated CI/CD pipelines and Infrastructure as Code (IaC), allowing for faster, more reliable releases. The agency began pushing out updates in days—or even hours—without compromising quality or compliance.
+
+The cultural shift was just as significant as the technical changes. Developers, operations personnel, and security experts worked together in cross-functional teams. This collaboration helped break down silos and ensured that everyone shared responsibility for delivering secure, user-friendly services.
+
+Procurement also played a vital role. Contracting officers and 1102s supported the shift by drafting performance-based contracts encouraging iterative delivery, agile teaming, and real-time performance monitoring. This allowed the VA to hold vendors accountable while enabling innovation and rapid response to changing user needs.
+
+The outcome? Veterans gained access to faster, more reliable digital tools, such as online benefits tracking, streamlined appointment scheduling, and real-time support services.
+
+The VA’s journey highlighted a key lesson for acquisition professionals: enabling DevSecOps through innovative procurement strategies leads to better software and outcomes for government customers.
+
+Key resources: 
+
+* [Building and Deploying VA Applications at Scale](https://digital.va.gov/engineering-excellence/building-and-deploying-va-applications-at-scale/)   
+* [DevSecOps Enables VA’s Digital Transformation](https://govciomedia.com/devsecops-enables-vas-digital-transformation/)  
+* [DevSecOps is Improving CX at GSA, VA](https://govciomedia.com/devsecops-is-improving-cx-at-gsa-va/)  
+
+---
+
+### **Design \+ DevSecOps: The power combo**
+
+#### **Better Together: HCD and DevSecOps in action**
+
+While HCD and DevSecOps are powerful, they become even more effective when used together. Consider this: **“Design is the compass, and DevSecOps is the engine.”** HCD ensures you're building the right thing people need, while DevSecOps helps you build it quickly, securely, and reliably.
+
+Together, these approaches support agile delivery by enabling fast feedback loops, inclusive design practices, and secure deployment pipelines. HCD drives the vision by collecting insights from real users and translating them into meaningful features. Meanwhile, DevSecOps ensures those features are built and released efficiently, securely, compliantly, and scalably.
+
+This combination is particularly valuable in the federal context. It allows agencies to deliver digital services that meet the high expectations of today’s users while also navigating the complex requirements of government regulations, security, and accessibility. When teams use both practices in tandem, they can deliver **more innovative,** **safer, and user-friendly** digital services on time and on budget.
+
+**Visual:** An illustrated metaphor: A ship with HCD as the navigator (compass) and DevSecOps as the engine room crew. Both are essential to reach the destination: user-centered, reliable digital services.
+
+**Playbook integration:** Federal teams use HCD to **guide direction** and DevSecOps to **power execution**, ensuring that services are aligned with user needs while being scalable and secure.
+
+
