@@ -556,12 +556,13 @@ This combination is particularly valuable in the federal context. It allows agen
 
 **Playbook integration:** Federal teams use HCD to **guide direction** and DevSecOps to **power execution**, ensuring that services are aligned with user needs while being scalable and secure.
 
- ---
+---
 
 ## Digital Service Delivery Providers - Sources of Supply  
+tbd
 
-TBD
- ---
+
+---
 
 
 ## Activity: Trend Analysis of Fast Company's Most Innovative Companies
