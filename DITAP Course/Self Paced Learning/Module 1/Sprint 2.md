@@ -209,7 +209,7 @@ A well-formed agile team includes a mix of technical, design, and product expert
 
 ### **Agile frameworks and methods**
 
-#### This section introduces key frameworks and practices that bring agile to life, including Kanban and Scrum. You’ll explore how these methods support transparency, collaboration, and continuous improvement through structured workflows, defined roles, and regular ceremonies that keep teams aligned and focused on delivering value.
+This section introduces key frameworks and practices that bring agile to life, including Kanban and Scrum. You’ll explore how these methods support transparency, collaboration, and continuous improvement through structured workflows, defined roles, and regular ceremonies that keep teams aligned and focused on delivering value.
 
 **Kanban**
 
