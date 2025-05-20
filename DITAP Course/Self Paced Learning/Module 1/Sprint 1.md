@@ -1,4 +1,4 @@
-# Module 1 Self-Paced
+# Module 1 Sprint 1
 
 ## Digital Services – The Who and The What
 
