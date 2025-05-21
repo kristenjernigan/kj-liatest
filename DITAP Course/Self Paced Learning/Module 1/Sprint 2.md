@@ -559,7 +559,116 @@ This combination is particularly valuable in the federal context. It allows agen
 ---
 
 ## Digital Service Delivery Providers - Sources of Supply  
-tbd
+
+### **The government ecosystem**
+
+Many federal agencies now have internal digital service teams dedicated to transforming and modernizing digital services. One example is the U.S. Digital Service (USDS), which focuses on building human-centered, agile digital services, often in collaboration with agency teams and external partners. 
+
+Internal digital service teams are embedded within agencies and vary in size, mission, and approach. They bring technical expertise in-house and help ensure services are built with users in mind and delivered iteratively.
+
+These teams play a critical role in:
+
+* **modernizing legacy systems** by promoting agile, iterative development  
+* **prioritizing user needs** through human-centered design (HCD)  
+* **improving procurement practices** by advising on modular contracting and vendor selection  
+* **supporting delivery** by embedding with program teams to guide implementation or act as product owners
+
+**Activity – Group discussion:**
+
+ How do these government teams collaborate with external vendors? What role do they play in improving digital service delivery?
+
+---
+
+### **The private sector landscape**
+
+The private sector plays a crucial role in federal digital service delivery. A growing ecosystem of vendors, from large legacy firms to nimble digital agencies, provides a wide array of services such as research, design, development, and operations. These companies offer essential capacity and expertise, particularly in areas that require specialized talent or rapid scaling.
+
+These suppliers include:
+
+* **Large companies** (e.g., IBM, Booz Allen) offer scale and breadth of services, often as prime contractors on significant efforts.  
+* **Third-party resellers** sell products/services from another vendor, such as AWS cloud services.  
+* **Value-add resellers** package and combine services for an integrated offering.  
+* **Traditional firms** have a long history with the government.   
+* **Non-traditional firms** (often startups or commercial tech companies) bring innovative practices and tools.  
+* **Joint ventures** are where two firms combine under a legal structure to offer services as a new entity.  
+* **Shared service providers** are government entities authorized to offer services to other agencies.  
+* **Internal digital service teams** aren’t vendors per se, but intra-agency service providers supporting mission delivery.  
+* **Public-private partnerships** are long-term collaborations between agencies and private companies to achieve defined goals.
+
+### **The growing digital service supplier community** 
+
+An increasing number of firms specialize in digital service delivery and either work regularly with public sector organizations and/or are seeing opportunities to perform work in this area. The [Digital Service Coalition](https://digitalservicescoalition.org/) includes a large number of companies in its membership that provide digital services today. 
+
+**Activity \- Digital Service Supplier Discovery:**  
+Select two companies from the list of Digital Service Coalition members listed [here](https://digitalservicescoalition.org/story/). Review their websites, and perform a search on [usaspending.gov](http://usaspending.gov) to identify contract awards they have received from the federal government. Consider the following questions: 
+
+* How does each company describe its services?   
+* What are some specific case studies or projects each company has worked on, and what kinds of digital services did they help to develop or deliver? How do these projects align with what you’ve learned about digital services in this sprint so far?   
+* How do these companies compare with more traditional IT suppliers you may have worked with before? What things are similar? What things feel different?   
+* How much experience has each company had performing under federal contracts so far?   
+* What else would you be interested to learn about each company? 
+
+**Activity – Group exercise:**  
+ In groups, participants map a collaboration model for delivering a large-scale digital project between a government agency and a private vendor.
+
+**Self-paced prompt:**  
+ Think about a real or hypothetical federal digital service need you’ve encountered. Which type of private-sector partner would be most helpful? Why?
+
+**Discussion prompt:**  
+What types of suppliers have you worked with in the past? What advantages or challenges did you experience?
+
+---
+
+### **Contract vehicles**
+
+Once the right supplier type is identified, the next step is choosing the appropriate **contract vehicle** to acquire their services. This decision impacts how quickly and efficiently you can move forward.
+
+| Acquisition pathway | Description | Examples |
+| ----- | ----- | ----- |
+| **Open Market (Direct Competition)** | Full and open competition through SAM.gov. Ideal for unique or non-standard needs. | RFPs, RFIs, RFQs |
+| **Government-Wide Acquisition Contracts (GWACs)** | Pre-competed vehicles available across agencies for complex IT work. | SEWP V, OASIS+, Alliant 2 |
+| **GSA Multiple Award Schedules (MAS)** | Offers pre-negotiated terms and access to a broad vendor base. | GSA IT Schedule 70 |
+| **Agency-Specific Contract Vehicles** | Tailored BPAs and IDIQs created to meet agency-specific digital needs. | VA SPRUCE IDIQ, SEC Digital Services BPA, OPM Digital Support Services BPA, GSA Total BPA |
+
+**Note:**  
+ Agency-specific vehicles are increasingly designed to support agile, iterative delivery and human-centered design, providing a more flexible and responsive way to acquire digital services.
+
+**Activity – Vehicle match game:**  
+ In small groups, review different digital service needs. Match each need with a suitable supplier type and acquisition pathway, and explain your reasoning.
+
+---
+
+### **Models of collaboration**
+
+Collaboration between federal and vendor teams takes many forms. Choosing the right model depends on the scope, budget, risk tolerance, and speed of delivery.
+
+Common models include:
+
+* **Staff augmentation** – Individual vendor staff join federal teams to fill skill gaps.
+
+* **Full team delivery** – Vendors deliver entire workstreams or products independently.
+
+* **Co-delivery / Hybrid teams** – Vendor and federal staff collaborate as one integrated team, often with shared responsibilities.
+
+**Activity – Role play:**  
+ Participants role-play various collaboration models, taking on roles such as Project Manager, Vendor Lead, and Federal Product Owner. Teams discuss the benefits and challenges of each model.
+
+---
+
+### **Real examples of “Who does what”**
+
+ Hybrid delivery models are increasingly common in digital service work. These models depend on **clear role definitions**, strong communication, and a shared understanding of outcomes.
+
+**Example scenarios:**
+
+* A small vendor handles user research and prototyping, while the agency maintains backend integration.  
+* A large integrator leads DevSecOps operations while a digital consultancy handles UX/UI and front-end development.  
+* A digital services company partners with an internal federal team to co-develop a modular CMS platform, sharing sprint planning and product ownership duties.
+
+**Activity – Group analysis:**  
+ Review a real-world case study (anonymized) and identify the agency's responsibilities vs. the vendor’s responsibilities. Discuss how each role contributed to project success.
+
+
 
 
 ---
