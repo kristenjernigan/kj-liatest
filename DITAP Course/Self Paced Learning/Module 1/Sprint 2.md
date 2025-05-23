@@ -177,11 +177,13 @@ Agile methods represent a cultural shift. While some federal stakeholders may be
 Search “agile practices” and you’ll discover various approaches to implementing them. 
 
 ![Umbrella Labeled Agile with the following words under the umbrella: Extreme Programming, Scrum, Crystal, DSDM, Kanaban, FDD, Lean](https://github.com/kristenjernigan/kj-liatest/blob/759c9c78da9622dff7e557aa1143f3ca609ee971/Media/Module%201/AgilePractices%20Umbrella.png) 
+
 *Sample of agile practices*
 
 However, all agile practices adhere to the values outlined in the [Agile Manifesto](https://agilemanifesto.org/) and illustrated in the diagram below. While the items on the right have value, agile values the items on the left more.  
 
-![Agile values are "Individuals and Interactions over processes and tools" "Working software over comprehensive documentation" Customer Collaboration over contract negotiation" and "Responding to Change over following a plan"][image2]  
+![Agile values are "Individuals and Interactions over processes and tools" "Working software over comprehensive documentation" Customer Collaboration over contract negotiation" and "Responding to Change over following a plan"](https://github.com/kristenjernigan/kj-liatest/blob/860d3f4103cafc1a5d9cf29db74672bad964690e/Media/Module%201/AgileValues.jpg)  
+
 *Agile software development values*
 
 **Should agile always be the default solution for digital services or IT projects?**
@@ -364,7 +366,7 @@ Before we build anything, we have to understand *who* we're building for. **Huma
 
 Designing under this lens means deeply understanding the needs, behaviors, and emotions of the people you are planning for. Using those insights, you can create solutions that align directly with an exceptional user experience.
 
-![][image1]  
+![HCD graphic](https://github.com/kristenjernigan/kj-liatest/blob/860d3f4103cafc1a5d9cf29db74672bad964690e/Media/Module%201/HCD.png) 
 *HCD graphic by [https://www.dalberg.com](https://dalberg.com/our-ideas/human-centered-design-design-process/)*
 
 In federal digital service projects, HCD is a mindset and methodology that supports better government outcomes. By involving users early and often, HCD helps teams deliver usable and truly useful tools and services.
@@ -494,9 +496,10 @@ DevSecOps stands for Development, Security, and Operations. It’s a modern appr
 
 In traditional government IT projects, development, security review, and operations often happen in separate silos, which can lead to delays, miscommunications, and vulnerabilities. Usually, these tasks are completed manually, creating possibilities for human error. DevSecOps is a framework that breaks down those silos by creating mechanisms to automate system and code deployment and maintenance tasks. Automation significantly reduces the possibility of human error and speeds up deployment tasks. Instead of waiting until the end to test for vulnerabilities, DevSecOps integrates automated security checks into every step of the process. This includes code reviews, server configuration and deployment, network hardening, vulnerability, and compliance scans that are triggered anytime a change is made to a system.
 
-*![][image2]*
+![DevSecOps the old way](https://github.com/kristenjernigan/kj-liatest/blob/860d3f4103cafc1a5d9cf29db74672bad964690e/Media/Module%201/DevOps%20the%20old%20way.png)  
 
-*![][image3]*  
+*![DevSecOps the new way](https://github.com/kristenjernigan/kj-liatest/blob/860d3f4103cafc1a5d9cf29db74672bad964690e/Media/Module%201/DevOps%20the%20new%20way.png) 
+
 *What is DevOps from [https://tech.gsa.gov/guides/what\_is\_devops/](https://tech.gsa.gov/guides/what_is_devops/)* 
 
 Another key feature of DevSecOps is the **CI/CD pipeline**, which stands for Continuous Integration and Continuous Delivery. This process enables teams to make small, frequent updates to software and get those updates into production quickly. This allows developers to respond faster to user needs and fix problems without waiting for a big release. Ultimately, the ability to rapidly make code changes to the production environment improves stability and fosters confidence in the development team. For federal digital services, new features, bug fixes, and updates can be delivered faster and with fewer errors while meeting the government’s strict security and compliance standards.
