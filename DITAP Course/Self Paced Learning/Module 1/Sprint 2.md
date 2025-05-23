@@ -176,7 +176,7 @@ Agile methods represent a cultural shift. While some federal stakeholders may be
 
 Search “agile practices” and you’ll discover various approaches to implementing them. 
 
-![Umbrella Labeled Agile with the following words under the umbrella: Extreme Programming, Scrum, Crystal, DSDM, Kanaban, FDD, Lean][image1]  
+![Umbrella Labeled Agile with the following words under the umbrella: Extreme Programming, Scrum, Crystal, DSDM, Kanaban, FDD, Lean] (https://github.com/kristenjernigan/kj-liatest/blob/759c9c78da9622dff7e557aa1143f3ca609ee971/Media/Module%201/AgilePractices%20Umbrella.png)
 *Sample of agile practices*
 
 However, all agile practices adhere to the values outlined in the [Agile Manifesto](https://agilemanifesto.org/) and illustrated in the diagram below. While the items on the right have value, agile values the items on the left more.  
