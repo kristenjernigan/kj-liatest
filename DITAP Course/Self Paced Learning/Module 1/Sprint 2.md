@@ -242,7 +242,7 @@ Core components of Scrum include:
 These elements ensure transparency and focus, guiding the team toward delivering value effectively.
 
 #### **Agile Practices**
-
+---
 **Assign a Project Manager or Scrum Master**
 
 The Project Manager or Scrum Master acts as the operational glue. They:
@@ -252,7 +252,7 @@ The Project Manager or Scrum Master acts as the operational glue. They:
 * Facilitate planning and alignment
 
 This role ensures team focus and alignment with priorities.
-
+---
 **Sprint planning, review, and retrospective**
 
 Each sprint includes three key ceremonies:
@@ -262,7 +262,7 @@ Each sprint includes three key ceremonies:
 * **Sprint retrospective** – Reflect on process improvements
 
 This structured rhythm enables teams to iterate and improve continuously.
-
+---
 **Daily stand-up**
 
 Also known as “scrum,” this 15-minute daily sync keeps the team aligned. Everyone shares:
@@ -273,7 +273,7 @@ Also known as “scrum,” this 15-minute daily sync keeps the team aligned. Eve
 * any after-meetings between scrum participants to work on specific problems.
 
 Stand-ups foster transparency, collaboration, and rapid issue resolution.
-
+---
 **Backlog refinement**
 
 Backlog refinement is a collaborative session where:
@@ -289,7 +289,7 @@ A healthy backlog is:
 * clear on effort, dependencies, and acceptance criteria
 
 Agile teams help product owners maintain high-quality backlogs to enable intelligent decision-making. Refinement ensures agile responsiveness to shifting priorities, which is vital in the dynamic landscape of government digital services.
-
+---
 **Use an MVP approach**
 
 A **Minimum Viable Product** approach means:
@@ -299,7 +299,7 @@ A **Minimum Viable Product** approach means:
 * reducing time-to-value while gathering feedback
 
 This method is ideal for large-scale federal platforms with evolving needs.
-
+---
 **Integrate HCD and Lean UX methodologies**
 
 Human-Centered Design (HCD) and Lean UX are complementary to agile. These practices:
@@ -309,7 +309,7 @@ Human-Centered Design (HCD) and Lean UX are complementary to agile. These practi
 * make digital services more inclusive and intuitive
 
 User research and usability testing reveal what users need and where they struggle.
-
+---
 **Prioritize accessibility**
 
 Accessibility is embedded throughout agile workflows. Practices include:
@@ -320,7 +320,7 @@ Accessibility is embedded throughout agile workflows. Practices include:
 * continuous feedback loops
 
 This ensures government services are usable by all.
-
+---
 **Run usability tests frequently**
 
 User feedback drives iteration. Usability testing explores:
@@ -330,7 +330,7 @@ User feedback drives iteration. Usability testing explores:
 * What causes frustration?
 
 Testing leads to actionable improvements baked directly into each sprint cycle.
-
+---
 **Combine Agile with DevOps**
 
 Development Operations (DevOps) focuses on keeping systems available, high performing, and secure. Modern DevOps practices support agile delivery by creating practices, protocols, and mechanisms that enable development and QA testing by creating and maintaining a Continuous Integration/Continuous Delivery (CI/CD) pipeline. These practices:
@@ -339,7 +339,7 @@ Development Operations (DevOps) focuses on keeping systems available, high perfo
 * automate system builds, code testing, and deployments;  
 * maintain stability across multiple teams and applications; and  
 * support fast code iteration while ensuring consistent code quality and minimizing regressions as new features are added.
-
+---
 **Create transparency via project scaffolding**
 
 Project scaffolding refers to the foundational practices, documentation, and tools supporting agile teams in effectively doing their work. Elements like team charters, onboarding materials, coding standards, stakeholder maps, task management systems, and documentation platforms help teams collaborate with minimal friction. Tools such as JIRA for task planning and Confluence for documentation enhance transparency and alignment across the team. When used consistently, these tools help ensure: 
@@ -349,7 +349,6 @@ Project scaffolding refers to the foundational practices, documentation, and too
 * real-time collaboration
 
 Transparency builds trust between contractors and federal stakeholders and improves delivery outcomes.
-
 ---
 
 ### **Final thoughts**
