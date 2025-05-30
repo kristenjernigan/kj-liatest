@@ -572,6 +572,22 @@ The VA undertook a comprehensive redesign of VA.gov to improve the digital exper
 **Playbook integration:** HCD ensures that digital services are **accessible, equitable**, and **responsive to user needs**, which is essential in a public sector committed to serving everyone.
 
 ---
+### Activity: Scenario review
+
+**Scenario:** A federal agency redesigned its benefits application portal after user research revealed that many applicants found the previous version confusing and inaccessible.
+
+**Instructions:**
+
+1. Review the short scenario provided.  
+2. Reflect on the following questions:   
+   * What were the main user challenges the agency discovered?  
+   * How did HCD methods help address these challenges?  
+   * What was the outcome of the redesign?  
+   * How did it improve equity or accessibility?
+
+3. Write a short response in the course discussion area.
+---
+
 
 ### **DevSecOps explained**
 
