@@ -382,6 +382,7 @@ Agile delivery is more than a set of practices. It's a mindset of continuous imp
 
 Think back to a digital service or IT project you were involved in—whether as a contracting officer, program manager, or stakeholder. Based on what you now know about agile, what might you have done differently to encourage more adaptability, feedback, or user involvement?
 
+---
 ### Knowledge check: 
 
 ✅ Question 1
@@ -438,9 +439,9 @@ Feedback (Incorrect):
  ✅ Yes\! The Product Owner owns the backlog and ensures the team focuses on what matters most.
 
 Feedback (Incorrect):  
- ❌ Nope—while Scrum Masters support team flow, the Product Owner sets priorities and gathers requirements.
+ ❌ Not quite, while Scrum Masters support team flow, the Product Owner sets priorities and gathers requirements.
 
-
+---
 
 ## Digital Service Delivery Methods: HCD and DevSecOps
 
