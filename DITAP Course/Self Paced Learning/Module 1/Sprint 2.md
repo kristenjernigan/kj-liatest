@@ -243,7 +243,7 @@ These elements ensure transparency and focus, guiding the team toward delivering
 
 ---
 
-#### **Agile Practices**
+### **Agile Practices**
 
 
 **Assign a Project Manager or Scrum Master**
