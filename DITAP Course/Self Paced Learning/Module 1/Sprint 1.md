@@ -95,7 +95,6 @@ This is the technical ingredients for the cake. The platform layer is the place 
 - Web Services
 - Web Content Management Systems
 
-_Are these terms new to you? Access this link to Webopedia and type in the term to learn more._
 
 When the digital services “cake” is served to end users, it’s put on a sturdy and stable plate. What does this mean? 
 
