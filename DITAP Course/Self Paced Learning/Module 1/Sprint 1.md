@@ -17,7 +17,7 @@ Let’s start with the WHAT. What is meant by digital services? That is, in fact
 
 Below you will find the Digital Service Wheel.  Each part of this wheel lists more than one answer to each question above, and the answers shown here are just the beginning. This is why defining digital services can be a complex task. 
 
-<img src="https://github.com/kristenjernigan/kj-liatest/blob/7d812a8b27abe4f39802dfd4ead5afcc8a7dff07/Media/Module%201/digital%20service%20wheel%202.jpg?raw=true" alt="Digital Services Wheel" width="50%">
+![Digital Services Wheel](https://github.com/kristenjernigan/kj-liatest/blob/7d812a8b27abe4f39802dfd4ead5afcc8a7dff07/Media/Module%201/digital%20service%20wheel%202.jpg)
 
 
 
