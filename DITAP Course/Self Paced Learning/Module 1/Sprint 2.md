@@ -396,7 +396,7 @@ Think back to a digital service or IT project you were involved in—whether as 
 **Feedback (Correct):**  
  ✅ Correct\! Agile supports evolving needs through iteration and user feedback.
 
-Feedback (Incorrect):  
+**Feedback (Incorrect):**  
  ❌ Not quite. Since the project scope is evolving, agile is best for delivering in stages while gathering input.
 
 ✅ Question 2
@@ -424,7 +424,7 @@ Feedback (Incorrect):
 **Feedback (Correct):**  
  ✅ That’s right\! MVPs focus on delivering core value quickly, then improving based on feedback.
 
-Feedback (Incorrect):  
+**Feedback (Incorrect):** 
  ❌ Not quite. MVPs aren’t prototypes or final products—they’re a smart way to test value early.
 
 ✅ Question 4
@@ -438,7 +438,7 @@ Feedback (Incorrect):
 **Feedback (Correct):**  
  ✅ Yes\! The Product Owner owns the backlog and ensures the team focuses on what matters most.
 
-Feedback (Incorrect):  
+**Feedback (Incorrect):**  
  ❌ Not quite, while Scrum Masters support team flow, the Product Owner sets priorities and gathers requirements.
 
 ---
@@ -556,6 +556,7 @@ The VA undertook a comprehensive redesign of VA.gov to improve the digital exper
   USWDS was created to help federal agencies build accessible, mobile-friendly websites. It was developed with HCD principles and provides a standardized framework that ensures consistency and usability across government digital services.
   
 **Key Resources:**  
+
 * [U.S. Web Design System Official Site](https://designsystem.digital.gov/)  
 * [Design Principles – USWDS](https://designsystem.digital.gov/design-principles/)  
 * [10x's Investment in the U.S. Web Design System](https://10x.gsa.gov/news/us-web-design-system/)
@@ -566,6 +567,7 @@ The VA undertook a comprehensive redesign of VA.gov to improve the digital exper
   In response to the COVID-19 pandemic, the CDC launched Vaccines.gov, a tool designed to help Americans find COVID-19 vaccines. By applying HCD methodologies, the tool was developed to be user-friendly and accessible, accommodating a diverse population during a critical time.
   
 **Key Resources:**  
+
 * [Critical Code: Building COVID-19 Vaccine Finder Tools](https://usds.gov/projects/vaccines-dot-gov)  
 * [CDC Launches Tool that Helps Americans Find COVID-19 Vaccines](https://ohsonline.com/articles/2021/02/26/cdc-launches-tool-that-helps-americans-find-covid19-vaccines.aspx?admgarea=news)
 
@@ -682,11 +684,11 @@ Which approach should you prioritize first?
 
  \[ \] Begin procurement for security and operations tools.
 
-\*\*Feedback (Correct):\*\* 
+**Feedback (Correct):** 
 
 ✅ Correct\! Applying Human-Centered Design (HCD) first helps you understand Veteran needs before building. This ensures you’re solving the right problems. DevSecOps and procurement can follow once the team knows what to build and why.
 
-Feedback (Incorrect):  
+**Feedback (Incorrect):**
 
 ❌  Not quite, understanding user needs through HCD should come first. DevSecOps supports the delivery once the team knows what to build and why.
 
