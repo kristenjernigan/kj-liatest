@@ -645,6 +645,14 @@ The VA’s journey highlighted a key lesson for acquisition professionals: enabl
 * [DevSecOps is Improving CX at GSA, VA](https://govciomedia.com/devsecops-is-improving-cx-at-gsa-va/)  
 
 ---
+### Discussion:
+
+How can DevSecOps improve the security of government digital services?
+
+Think about recent challenges in federal cybersecurity. Consider the impact of automation, early testing, and collaboration.
+
+* Share one example or idea in the discussion forum section.
+---
 
 ### **Design \+ DevSecOps: The power combo**
 
@@ -661,6 +669,27 @@ This combination is particularly valuable in the federal context. It allows agen
 **Playbook integration:** Federal teams use HCD to **guide direction** and DevSecOps to **power execution**, ensuring that services are aligned with user needs while being scalable and secure.
 
 ---
+### Knowledge check: 
+
+Prompt: You’re working with a federal team building a new mobile app for Veterans to track their healthcare appointments.
+
+✅ Question 1
+
+Which approach should you prioritize first?   
+ \[ \] Use DevSecOps to begin coding and automating deployments immediately.
+
+ \[ \] Apply HCD practices to understand Veteran needs and gather early feedback. (correct)
+
+ \[ \] Begin procurement for security and operations tools.
+
+\*\*Feedback (Correct):\*\* 
+
+✅ Correct\! Applying Human-Centered Design (HCD) first helps you understand Veteran needs before building. This ensures you’re solving the right problems. DevSecOps and procurement can follow once the team knows what to build and why.
+
+Feedback (Incorrect):  
+
+❌  Not quite, understanding user needs through HCD should come first. DevSecOps supports the delivery once the team knows what to build and why.
+
 
 ## Digital Service Delivery Providers - Sources of Supply  
 
