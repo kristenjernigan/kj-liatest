@@ -1,4 +1,4 @@
-## Module 1 Sprint 3
+# Module 1 Sprint 3
 
 ## Introduction to the Digital Service Tech Bootcamp
 
