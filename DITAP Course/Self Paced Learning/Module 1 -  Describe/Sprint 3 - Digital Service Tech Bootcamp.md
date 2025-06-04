@@ -38,9 +38,9 @@ By the end of this module, you will be able to:
 
 ---
 
-# Digital Service Tech Topic: Data
+## Digital Service Tech Topic: Data
 
-## What Is Data?
+### What Is Data?
 
 Data is just information that’s been collected and stored (“recorded”). It can come in many forms—numbers in a spreadsheet, written text in emails, pictures, or even audio and video. In government contracting, examples of data include:
 
@@ -57,7 +57,7 @@ There are three main types:
 
 Think of a contracting file that includes emails, PDFs, performance reviews, and a payment history—that’s a mix of structured and unstructured data.
 
-## Key Considerations for Government Systems
+### Key Considerations for Government Systems
 
 As data grows in size and complexity, there are more challenges related to data storage, data transfer, and data processing:
 
@@ -87,12 +87,12 @@ As a contracting officer, you will likely encounter a variety of “buzz words�
 * **Data Provenance**: The historical record of data that details data’s origins by capturing its metadata as it moves through various processes and transformations. Data provenance is primarily concerned with authenticity, providing details such as who created the data, the history of modifications, and who made those changes.
 
 
-## Open Data
+### Open Data
 
 Open Data is information that anyone can access, use, and share. In the context of government, this has two dimensions: 
 
 1. The ability for someone to *access* the data  
-2.  The legal right for the user to use the data
+2. The legal right for the user to use the data
 
 Generally, Open Data also refers to non-sensitive public information made available in data *formats* that are easy to use, reuse, and republish.
 
@@ -106,7 +106,7 @@ Why It Matters to Procurement Officers:
 2. **Privacy**: Open data can—in some cases—implicate privacy concerns, particularly when combined with other open data sets. Understanding how data is published and ensuring that contracts have adequate remedies for privacy violations is important for contracting officers.  
 3. **Efficiency**: Understanding how open data can be used to improve data publication and use can reduce duplication of effort and allow for more efficient use of government and non-government data.
 
-## Data Privacy
+### Data Privacy
 
 Data Privacy means protecting personal or sensitive information so that only people who are supposed to see it can access it. This includes things like social security numbers, health records, or confidential contract data.
 
@@ -118,7 +118,7 @@ Why It Matters to Procurement Officers:
 
 For example, If your office is collecting contractor tax IDs or employee background checks, that data must be stored and shared securely to prevent unauthorized access.
 
-## What Contracting Officers Should Keep in Mind:
+### What Contracting Officers Should Keep in Mind:
 
 * Understand what data your systems hold and how it’s organized.  
 * Ask vendors how they handle data—especially if Artificial Intelligence (AI) or analytics are part of the service.  
