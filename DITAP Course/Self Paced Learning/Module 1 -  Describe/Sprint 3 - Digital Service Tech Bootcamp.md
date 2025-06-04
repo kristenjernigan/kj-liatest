@@ -225,6 +225,145 @@ Finally, **continuous improvement** should be part of any technology investment.
 
 By prioritizing user needs, accessibility, and flexibility, agencies can deliver digital tools that are effective and inclusive. Acquisition professionals play a key role in making that happen.
 
+---
+
+## Digital Service Tech Topic: Cloud
+
+### Basics
+
+Cloud computing offers a flexible and efficient way for federal agencies to manage their IT needs. Rather than relying entirely on traditional data centers, agencies can turn to a wide range of cloud services provided by various vendors. There isn’t just one “cloud”—cloud computing refers to a model of accessing shared computing resources like storage, servers, and applications over the internet. 
+
+According to the National Institute of Standards and Technology (NIST), a true cloud service must offer five key features: 
+
+1. On-demand self-service  
+2. Broad network access  
+3. Resource pooling  
+4. Rapid elasticity  
+5. Measured service
+
+These characteristics allow agencies to access computing resources when they need them, from almost anywhere, and scale usage up or down depending on demand—all while tracking and managing usage.
+
+![A diagram of a cloud computing systemAI-generated content may be incorrect.][image1]  
+[**https://cic.gsa.gov/basics/cloud-basics**](https://cic.gsa.gov/basics/cloud-basics)
+
+Cloud computing can be deployed in several different ways: 
+
+* **Public clouds** are managed by a third-party provider and serve multiple customers.   
+* **Private clouds** are dedicated to a single agency or organization.   
+* **Community clouds** are shared between agencies with similar requirements.   
+* **Hybrid clouds** combine two or more of these types, allowing for greater flexibility and control.
+
+Cloud services also come in different models, depending on what level of service the agency needs: 
+
+* **Software as a Service (SaaS)** delivers ready-to-use applications over the internet.   
+* **Platform as a Service (PaaS)** provides a platform for developers to build and deploy applications without managing the underlying hardware.   
+* **Infrastructure as a Service (IaaS)** offers raw computing resources such as servers and storage, which agencies can configure and control as needed. 
+
+These service types are often used together depending on the agency’s goals.
+
+One of the key benefits of cloud computing is its pricing and scalability model. In a traditional data center setup, agencies must estimate and purchase all the computing power or storage they might need in advance. This often results in underused resources when traffic is low and insufficient capacity when traffic is high. With cloud computing, agencies only pay for what they use, and they can increase or decrease capacity as needed.
+
+It’s also important to understand that security and management responsibilities are shared in cloud environments. In traditional data centers, the agency is responsible for every aspect of IT security and maintenance. In cloud environments, some responsibilities—such as physical security or infrastructure updates—fall to the cloud vendor, while others remain with the agency. This division varies by cloud vendor and by service type, so contracting officers should pay close attention to the terms and service models when evaluating proposals or monitoring vendor performance.
+
+### Considerations
+
+Cloud computing is fundamentally different from traditional data center operations, and applying old practices to cloud environments can lead to inefficiencies and unnecessary costs. Cloud services are purchased and managed differently, requiring agencies to train staff in cloud-native practices. Fortunately, major cloud vendors offer training to help agencies manage usage and costs effectively. Without this knowledge, agencies risk overspending and misconfiguring services.
+
+Security concerns often deter cloud adoption, but cloud platforms are generally secure when implemented correctly. Most breaches result from human error—not cloud vulnerabilities. Agencies should follow their security policies and use best practices like strong identity and access management (IAM), vulnerability management, and Security Incident and Event Management (SIEM) tools. They should also work directly with vendors to ensure cloud-specific security configurations.
+
+Not all cloud vendors are the same—each has strengths and weaknesses. Agencies can use one as a primary provider and others as backups, as long as systems are built for flexibility and resilience. Vendor lock-in is less of a risk in the cloud than in traditional IT, and thoughtful architecture can simplify migration between platforms.
+
+Using Federal Risk and Authorization Management Program (FedRAMP)-authorized services can streamline security approvals and ensure compliance with federal standards. Lastly, agencies must ensure that cloud solutions follow vendor-recommended best practices for architecture, deployment, and emerging technologies like AI/ML. Poor implementations by contractors using outdated approaches often result in high costs and technical debt. Getting it right from the start helps ensure secure, efficient, and scalable cloud operations.
+
+### Why Understanding Cloud Computing Is Critical for Government Contracting Officers
+
+#### 1\. Cloud Procurement is Fundamentally Different
+
+Contracting for cloud services is not like buying traditional IT hardware or managing a data center:
+
+* Cloud services are dynamic — agencies buy elastic, scalable services, not fixed assets.  
+* Service catalogs change and grow frequently – agencies should ensure they have access to new and emerging services without having to renegotiate or pursue contract modifications.    
+* Payment models differ — cloud uses "pay-as-you-go" structures rather than upfront capital expenditures.  
+* Management expectations change — agencies must adapt their oversight to a shared responsibility model between the cloud vendor and agency.
+
+If contracting officers apply traditional procurement models to cloud, it can lead to:
+
+* Wasteful spending  
+* Unfulfilled mission needs  
+* Higher security risks  
+* Vendor performance issues
+
+Understanding the *unique nature* of cloud services ensures contracts are structured to drive efficiency, flexibility, and accountability.
+
+#### 2\. Risk Management, Security Responsibilities and Governance Shift
+
+In a traditional data center, the government manages everything. In cloud computing:
+
+* Some responsibilities are retained by the agency; others are managed by the cloud service provider  
+* Governance of agency implementation and usage of the cloud is important. Agency governance should include accountable agency leaders in cloud services; systems and software engineering; cyber security; program management; agency finance; and of course, the contract’s Contracting Officer Representative (COR). Best practices for governance include:  
+  * This group should work with each cloud vendor to understand the basics of effective cloud cost and utilization management  
+  * The group should review trend-level reports monthly on cloud cost and utilization, and receive input from technical and business teams on the trends.   
+  * The group should ensure that all major cloud architecture, software deployment, data management, automation, and AI/ML tooling comply with the cloud vendor’s recommended best practices
+
+Contracting officers must also be aware of:
+
+* The division of responsibilities between the agency and provider when writing requirements, SLAs, and performance metrics  
+* The importance of selecting FedRamp-authorized services to meet federal security standards more easily  
+* Building appropriate clauses around cloud-specific security issues like Identity and Access Management (IAM), vulnerability management, and incident response
+
+Ignoring these shifts can leave dangerous gaps in security and compliance.
+
+#### 3\. Cost Control in the Cloud is About Skills, Not Just Pricing
+
+Unlike traditional fixed-cost contracts:
+
+* Cloud costs can fluctuate monthly based on usage, and cloud providers may reduce commercial prices on specific cloud services over time  
+* Poor cloud management leads to unexpected cost overruns
+
+Contracting officers should ensure:
+
+* Agencies have access to vendor training, and to professional services to assist with cloud implementation from skilled and experienced providers  
+* Contract pricing approaches enable the agency to take advantage of dynamic pricing, particularly when cloud providers reduce prices in their commercial catalog, and don’t lock in rates that prevent the ability to do so, while also ensuring the agency is protected from any potential rate increases  
+* Performance metrics include effective cloud resource management
+
+Failing to address cloud cost management upfront can tie agencies into contracts that are unsustainable or difficult to justify to auditors and oversight bodies.
+
+#### 4\. Vendor Selection and Cloud Architecture Need Strategic Thinking
+
+Not all cloud providers are the same. Some specialize in certain capabilities (e.g., Artificial Intelligence/Machine Learning, Internet of Things, scalability. Contracting Officers selecting a vendor should consider:
+
+* Choosing the right provider — or mix of providers — affects mission success  
+* Architecting for flexibility — reduces lock-in and facilitates future migrations  
+* Ensuring broad access \- agencies are increasingly utilizing enterprise approaches to buy and manage cloud services
+
+Contracting officers should encourage:
+
+* Evaluations based on specific agency needs, and the creation of contracts that allow broad and flexible access to cloud services and adjacent capabilities. Common pitfalls include:  
+  * A federal agency entering a cloud contract for Infrastructure as a Service (“IaaS”), but quickly discovering the agency also needs Platform and Software as a Service (“PaaS”, “SaaS”) requiring difficult and time consuming modification.   
+  * Buying all of the cloud services themselves, but not including cloud vendor professional services and/or integrated 3rd party software “marketplaces.”   
+  * Buying cloud but restricting its use to only a specific program or part of an agency. This typically leads to “shadow IT” because other programs or divisions require cloud and can’t access it through the contract. Many agencies have problems with “shadow IT” and competing factions because multiple cloud procurement contracts are in place, causing organizational friction and inefficiency. Additionally, agencies may not get the full volume discounts possible from cloud vendors if they split the spend across multiple agency divisions.  
+* Architecture planning as part of pre-solicitation activities  
+* Inclusion of multi-cloud or hybrid-cloud strategies when appropriate
+
+These practices help protect agency investments and maximize flexibility and resilience.
+
+#### 5\. Training Is Not Optional
+
+Cloud vendors offer robust training resources. Yet without proper contracting:
+
+* Agencies may skip training  
+* Agency or contract personnel may mismanage cloud operations, leading to inefficiencies, security incidents, or mission failure
+
+Contracting officers must build training access into contracts and verify that:
+
+* Personnel certifications or training milestones are clearly required  
+* Cloud operation best practices are embedded in performance expectations
+
+## Bottom Line for Contracting Officers
+
+If you don't adapt your acquisition strategies for cloud, your agency risks financial waste, security breaches, failed missions, and poor technology outcomes.
+
+By understanding the cloud's unique characteristics and adjusting procurement approaches accordingly, contracting officers become key enablers of efficient, secure, and future-proof government operations.
 
 
 
