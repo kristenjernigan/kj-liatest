@@ -37,6 +37,100 @@ By the end of this module, you will be able to:
 * Understand the basics of cybersecurity as it applies to acquisitions, including compliance frameworks (e.g., National Institute of Standards and Technology \[NIST\]), identity and access management (IAM), vulnerability management, and Security Incident and Event Management (SIEM).
 
 ---
+
+# Digital Service Tech Topic: Data
+
+## What Is Data?
+
+Data is just information that’s been collected and stored (“recorded”). It can come in many forms—numbers in a spreadsheet, written text in emails, pictures, or even audio and video. In government contracting, examples of data include:
+
+* Contractor performance records  
+* Purchase histories  
+* Budget logs  
+* Emails between vendors and agencies
+
+There are three main types:
+
+1. **Structured Data**: Organized in a way that computers can easily process, regardless of whether a human can easily read it, like Excel sheets or databases.  
+2. **Unstructured Data**: Organized in a way that humans can easily process, but not organized for computers to process the information, like PDF documents or social media comments.  
+3. **Semi-Structured Data**: Somewhere in between, like webpages, which are human readable and are tagged so that computers can easily process them, with varying levels of granularity or structure.
+
+Think of a contracting file that includes emails, PDFs, performance reviews, and a payment history—that’s a mix of structured and unstructured data.
+
+## Key Considerations for Government Systems
+
+As data grows in size and complexity, there are more challenges related to data storage, data transfer, and data processing:
+
+* Old systems may slow down or fail under the weight  
+* Data must often be moved between different clouds, networks, or storage areas—which can cause delays or added costs  
+* Network upgrades and smarter designs are sometimes needed to keep up with demands  
+* New data processing techniques or tradeoffs may be needed as data volumes increase  
+* Ensuring data accuracy and forward/backward compatibility for different use cases can become complex
+
+Learn more about data analysis by visiting [this page](https://www.coursera.org/articles/data-analysis-tools). 
+
+These are some of the key challenges that are driving agency modernization efforts today, and are likely to come across your desk as an acquisition professional. 
+
+Modern systems need to move data across clouds, networks, and apps. That creates bottlenecks unless you’ve planned for it.
+
+Old databases weren’t built for the amount of data we use today. That’s like trying to run modern apps on a flip phone— the hardware would struggle to work correctly.
+
+You may want to change data or delete it over time, but there may be practical or legal reasons not to. (E.g., System for Award Management (SAM.gov) “Federal Procurement Reports” from 2007… useful? Not really. But should it be *deleted?* Probably not.) 
+
+As a contracting officer, you will likely encounter a variety of “buzz words”/topics related to data in your work, here are a few that are particularly relevant today: 
+
+* **Data modernization**: The process of updating and transforming data systems, infrastructure and practices to modern, cloud-based formats to enhance accessibility, security and business intelligence.   
+* **Data migration**: The process of transferring data from one storage system or computing environment to another.   
+* **Data analytics**: The process of collecting, transforming, and organizing data in order to draw conclusions, make predictions, and drive informed decision making.   
+* **Data Lake**: A data lake is a centralized repository designed to store, process, and secure large amounts of structured, semistructured, and unstructured data. It can store data in its native format and process any variety of it, ignoring size limits.  
+* **ETL (Extract, Transform, Load)**:  A data integration process that combines, cleans, and organizes data from multiple sources into a single, consistent dataset for storage in a data warehouse or other target system.   
+* **Data Provenance**: The historical record of data that details data’s origins by capturing its metadata as it moves through various processes and transformations. Data provenance is primarily concerned with authenticity, providing details such as who created the data, the history of modifications, and who made those changes.
+
+
+## Open Data
+
+Open Data is information that anyone can access, use, and share. In the context of government, this has two dimensions: 
+
+1. The ability for someone to *access* the data  
+2.  The legal right for the user to use the data
+
+Generally, Open Data also refers to non-sensitive public information made available in data *formats* that are easy to use, reuse, and republish.
+
+Many government entities, from local to federal to international, provide data sets to data.gov and/or operate their own open data websites so that information generated may be shared and utilized by the public. There are many open data sets, ranging from government operations data (e.g., Federal Procurement Data System (FPDS)) to data “products” (e.g., Census survey data tables).
+
+Outside of government, open data can also refer to a movement to provide open access and use of the massive amounts of projects and data being developed every day in commerce, science, and technology in order to promote progress and innovation, and improve the accountability of both private and public institutions.
+
+Why It Matters to Procurement Officers:
+
+1. **Licensing**: Procurements that potentially involve open data require consideration of the relative intellectual property / data rights.  
+2. **Privacy**: Open data can—in some cases—implicate privacy concerns, particularly when combined with other open data sets. Understanding how data is published and ensuring that contracts have adequate remedies for privacy violations is important for contracting officers.  
+3. **Efficiency**: Understanding how open data can be used to improve data publication and use can reduce duplication of effort and allow for more efficient use of government and non-government data.
+
+## Data Privacy
+
+Data Privacy means protecting personal or sensitive information so that only people who are supposed to see it can access it. This includes things like social security numbers, health records, or confidential contract data.
+
+Why It Matters to Procurement Officers:
+
+1. **Legal Compliance**: You must follow privacy laws like the Privacy Act of 1974 and agency-specific policies to protect personal information collected during procurement processes.  
+2. **Risk Management**: Mishandling private data could lead to security breaches, legal penalties, and loss of public trust.  
+3. **Contract Integrity**: Some procurement data may contain sensitive vendor information. Protecting this data ensures fair competition and integrity of the procurement process.
+
+For example, If your office is collecting contractor tax IDs or employee background checks, that data must be stored and shared securely to prevent unauthorized access.
+
+## What Contracting Officers Should Keep in Mind:
+
+* Understand what data your systems hold and how it’s organized.  
+* Ask vendors how they handle data—especially if Artificial Intelligence (AI) or analytics are part of the service.  
+* Support modernization efforts that improve how data is stored and accessed across departments.
+
+As a contracting officer, you are both a data user and a data steward. You should know:
+
+* What data can and should be **shared openly** (e.g., awarded contracts).  
+* What data must be **protected** (e.g., personally identifiable information or confidential business information).  
+* The **laws and best practices** that guide both.
+
+---
 ## Digital Service Tech Topic: Software
 
 ### What is software?
