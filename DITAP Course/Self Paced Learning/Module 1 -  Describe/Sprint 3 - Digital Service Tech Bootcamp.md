@@ -444,6 +444,73 @@ Bringing AI into government systems requires careful consideration of several ch
 
 * **Post-award monitoring and model drift**: Even if the AI works at the time of contract award, there is a chance that the AI model doesn’t match changing behaviors. Ensuring that AIs are updated to keep up with changing needs is essential.
 
+---
+## Digital Service Tech Topic: Cybersecurity
+
+### Why is cybersecurity important?
+
+Cybersecurity is essential to digital service delivery. Every federal digital product—from public websites to mission-critical systems—relies on the ability to protect sensitive information, preserve system integrity, and ensure continuity of operations. As federal agencies modernize IT infrastructure and expand services across cloud, mobile, and AI platforms, the attack surface expands, making cybersecurity a shared responsibility across procurement, program, and technical roles.
+
+Contracting Officers (COs) and Contracting Officer’s Representatives (CORs) are uniquely positioned to shape the cybersecurity posture of federal digital services by enforcing precise security requirements during acquisition planning, contract development, vendor evaluation, and post-award oversight.
+
+Understanding key concepts like security compliance, identity and access management (IAM), vulnerability management, and security incident and event management (SIEM) is foundational to aligning acquisitions with agency cybersecurity goals and legal mandates.
+
+### Cybersecurity in the current federal procurement context:
+
+Several federal initiatives define how agencies must secure digital systems and software:
+
+* [Executive Order 14028](https://www.gsa.gov/technology/government-it-initiatives/cybersecurity/executive-order-14028) mandates using secure software development practices and Zero Trust architectures.
+
+* [OMB M-22-09](https://www.whitehouse.gov/wp-content/uploads/2022/01/M-22-09.pdf) outlines a federal Zero Trust strategy to modernize access control, network segmentation, and device visibility.
+
+* [OMB M-22-18](https://www.whitehouse.gov/wp-content/uploads/2022/09/M-22-18.pdf) provides software supply chain security guidance, including secure development attestations.
+
+* [NIST SP 800-53](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) and [NIST SP 800-218 (SSDF)](https://csrc.nist.gov/publications/detail/sp/800-218/final) provide frameworks for implementing security and privacy controls in systems and software.
+
+### Four key areas of cybersecurity for digital services
+
+**1\. Security compliance**
+
+All federal digital systems must meet agency-defined security standards. These standards are typically based on federal frameworks such as [NIST SP 800-53](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final), [NIST Cybersecurity Framework (CSF)](https://www.nist.gov/cyberframework), and potentially industry-specific standards (e.g., FISMA, HIPAA, FedRAMP).
+
+* **CO/COR role**: Understand which frameworks apply to a given acquisition and confirm that the system’s design and implementation can meet compliance expectations.
+
+* **Technical advisory**: The technical and security teams are responsible for advising whether full compliance is feasible. If not, acceptable exceptions may be allowed through documented **compensating controls**, subject to the discretion of the agency’s Office of the Chief Information Security Officer (OCISO).
+
+**2\. Identity and Access Management (IAM)**
+
+All federal digital services must integrate with the agency’s Identity and Access Management systems. IAM ensures that only authorized users can access protected systems and data.
+
+* **CO/COR role**: Confirm that the digital system can be integrated with the agency’s approved IAM platform
+
+* **Integration requirement**: Vendors should be asked to demonstrate technical compatibility with the agency’s IAM approach as part of their response or during early planning.
+
+**3\. Vulnerability management**
+
+Every digital system has security vulnerabilities. The goal of vulnerability management is not just patching—it is the comprehensive identification, analysis, remediation, and reporting of vulnerabilities across a digital service's lifecycle.
+
+* **CO/COR role**: Ensure the vendor or technical team has tools, training, and processes to manage vulnerabilities to agency-defined standards.
+
+* **Key activities**: Vulnerability management includes continuous monitoring, security scanning, patching (where applicable), exception tracking, compliance reporting, and incident response coordination.
+
+**Note**: Patching is a tool, not a solution. Not all vulnerabilities can be addressed with patches, and some require configuration changes, compensating controls, or architectural adjustments.
+
+**4\. Security Incident and Event Management (SIEM)**
+
+SIEM systems detect, analyze, and respond to security events automatically. Agencies rely on centralized SIEM platforms to maintain situational awareness and act quickly on emerging threats.
+
+* **CO/COR role**: Verify that any procured system can fully integrate with the agency’s existing SIEM platform (e.g., Splunk, Elastic, Microsoft Sentinel).
+
+* **Orphaned tools**: If a system cannot be integrated into the existing SIEM infrastructure, the operational overhead for separate monitoring is high and introduces risk.
+
+### Conclusion
+
+Cybersecurity is not an afterthought—it must be designed into digital services from the start. Contracting officers and CORs must be able to ask the right questions and ensure security compliance, IAM integration, vulnerability management practices, and SIEM readiness are built into the acquisition process.
+
+Through innovative, security-conscious procurement, COs help ensure that government services are trustworthy, resilient, and aligned with federal cybersecurity mandates.
+
+
+
 
 
 
