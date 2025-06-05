@@ -25,7 +25,7 @@ By the end of this unit, participants will be able to:
 ---
 ## **Responsible Pre-Solicitation Communication**
 
-### INTRODUCTION
+### Introduction
 
 The Federal government spends over $500 billion yearly on goods and services. As an acquisition professional, you must complete every procurement you’re involved in as effectively, efficiently, and responsibly as possible to ensure taxpayer money is well-spent. One strategy that facilitates effective procurement is pre-solicitation communication. Pre-solicitation communication with vendors in the target market can help you access current market information and define requirements as clearly as possible. Ideally, it should begin well before the issuing of a solicitation.
 
@@ -38,7 +38,7 @@ There are two goals to this interaction:
 
 While the FAR allows for a good deal of flexibility in establishing pre-solicitation communication with potential vendors, some agencies are reluctant to exercise all of their options. They fear stepping over the line and causing protests or compromising procurement integrity. Vendors may also be reluctant to discuss requirements and solutions in the presence of potential competitors or may fear that talking privately to an agency could limit their future opportunities. However, open pre-solicitation communication with potential vendors is critical, especially in digital services procurement. Why is that the case? And how do you execute it effectively? You’ll learn the answers to these questions by completing this online learning.
 
-#### MODULE OVERVIEW
+#### Module Overview
 
 After completing this module, you should be able to: 
 
