@@ -99,6 +99,112 @@ Europe, particularly the European Union (EU), has integrated open contracting in
 
 The NMAAHC has embraced open contracting methods to enhance transparency and collaboration. For instance, in 2021, it issued a Request for Quote (RFQ) for Digital Archives Specialist services, detailing the scope of work, evaluation criteria, and performance periods. Additionally, the museum maintains a GitHub repository, promoting open access to its digital assets and encouraging community engagement in its projects. The NMAAHC sets a precedent for transparent and collaborative procurement processes in cultural institutions by leveraging platforms like GitHub and adhering to open contracting standards.
 
+---
+
+## Understand the cost-benefit and tradeoffs
+
+When considering your market research approach, it's essential to consider not only what you want to learn but also what it costs the industry to answer your questions. Every time the government issues an RFI, hosts an industry day, or releases a draft solicitation, vendors must dedicate time and resources to responding. And for industry, time is money.
+
+While large firms may absorb these costs as part of doing business, for small businesses, new entrants, and non-traditional vendors, this can be a significant burden, especially when the timelines to award stretch into months or even years. These costs show up in corporate overhead, impact pricing structures, and can deter companies from participating in future procurements altogether. In effect, overly burdensome market research doesn't just raise costs—it can shrink your vendor pool and reduce competition.
+
+So how can we streamline? Start by asking:
+
+* Am I requesting anything duplicative?  
+   Check if another agency has already done similar market research. Collaborate or borrow instead of duplicating effort. This helps reduce the government-wide burden on industry.
+
+* Can I learn what I need in a lighter-touch way?  
+   Instead of complex narratives or long-form white papers, use tools like brief surveys (even Google Forms), short video submissions, or structured Q\&A sessions.
+
+* Am I making the timeline clear?  
+   Many companies leave when they realize that a procurement might take 12–18 months before contract award. Use your market research to set expectations and provide transparency around the process and timeline.
+
+* Does this question need to be answered by the vendor community?  
+   Sometimes, the data you seek already exists—in past awards, case studies, or government dashboards. Or it might be better answered by talking to a few experts rather than releasing a public RFI.
+
+* Can I reduce response friction?  
+   Keep submission instructions simple. Avoid requiring specialized formats, excessive page limits, or hard-to-follow templates. Be human-centered in how you request input.
+
+Ultimately, every RFI or engagement comes at a cost to industry, especially for the small, diverse, and mission-driven companies we want to encourage. Being intentional and efficient with your approach isn't just good stewardship—it’s smart acquisition.
+
+###  Scenario 1: The 60-Page RFI that no one could answer
+
+Background:  
+ In 2023, the Department of Homeland Security (DHS) issued [a Request for Information (RFI) for an Investigative Case Management (ICM) system](https://sam.gov/opp/7e20d6751a0e4a97be276139b8bcecad/view). The RFI was comprehensive, requesting detailed technical narratives, staffing plans, past performance examples, and pricing breakdowns—all within a tight 10-day turnaround. ​
+
+Impact on industry:
+
+* Small businesses and non-traditional vendors found it challenging to allocate resources to respond adequately within the given timeframe.​
+
+* Several innovative companies unfamiliar with federal procurement processes were deterred by the complexity and depth of the information requested.​
+
+* Only a few large integrators responded, many of whom repurposed content from previous submissions, offering limited innovation tailored to DHS's specific needs.​
+
+Student Reflection Questions:
+
+1. Who is likely to respond to an RFI like this, and who is likely to opt out? Why?
+
+2. What assumptions did the agency make about vendor capacity and procurement timelines?
+
+3. How would this RFI affect your engagement decision if you were a small business?
+
+4. What information in this RFI might the agency have gathered more efficiently through other means (e.g., website reviews, past procurements, short vendor meetings)?
+
+5. What changes could have made this RFI more accessible while still gathering meaningful data?
+
+6. What downstream impacts could this RFI have on pricing, quality, and diversity of competition?
+
+7. What would a more human-centered or tech-aware version of this RFI look like?
+
+Result:  
+ The agency received generic responses that didn't reflect the current state of the market or modern solutions. They missed out on input from more agile, cost-effective vendors. Moreover, the time and resources expended by vendors were eventually passed back to the government in the form of higher prices.​
+
+Lesson:  
+ Instead of requesting extensive narratives and detailed pricing for undefined work, the agency could have hosted a focused industry listening session, followed by a simplified survey or form to gather essential information. This approach would have widened participation and provided a more accurate picture of market capabilities, reducing costs for all parties involved.
+
+---
+
+### Scenario 2: Open tech challenge yields better results
+
+Background:  
+ In 2010, the National Archives and Records Administration (NARA) launched [the Online Public Access (OPA) prototype](https://www.archives.gov/press/press-releases/2011/nr11-35.html) as part of its Open Government Plan. Rather than issuing a traditional RFI and extensive Performance Work Statement (PWS), NARA engaged the public and developer community through collaborative platforms, including GitHub, to develop and refine the prototype. ​
+
+Impact on industry:
+
+* Numerous small and non-traditional vendors participated, including civic tech nonprofits and small commercial SaaS firms.​
+
+* Companies invested in building real, working prototypes because the timeline was clear, and the cost of entry was low.​
+
+* Without requiring formal submissions or GSA schedules, NARA gained direct insight into user experience, technical feasibility, and potential partners.​
+
+Student Reflection Questions: 
+
+* What barriers to entry were removed using an open challenge instead of a traditional RFI?
+
+* How did the format of the engagement help uncover actual capability instead of marketing language?
+
+* What risks did NARA take using this approach, and how were those risks managed or mitigated?
+
+* How could this model be adapted for other types of federal procurements? What wouldn’t work in every context?
+
+* How might non-traditional vendors perceive this process compared to a typical SAM.gov posting?
+
+* What mechanisms allowed NARA to build trust with the vendor community before formal procurement began?
+
+* What lessons from this approach could you bring into your next market research planning session?
+
+Result:  
+ The winning concept came from a vendor who had never worked with the federal government before but offered a more modern and intuitive solution than legacy vendors. NARA was able to move quickly to refine its scope and run a targeted follow-on procurement that saved time and money.​
+
+Lesson:  
+ By designing the market research around demonstration rather than documentation, NARA engaged a broader market and avoided the overhead costs (for both government and vendors) of traditional RFIs. They didn't just find vendors—they built relationships and trust in the process.​
+
+---
+
+These scenarios underscore the importance of thoughtful market research design. By considering the burdens placed on vendors, especially small and non-traditional ones, agencies can foster greater participation, encourage innovation, and ultimately procure more effective solutions.
+
+
+
+  
 
 
 
