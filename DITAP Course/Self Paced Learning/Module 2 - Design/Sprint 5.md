@@ -46,4 +46,43 @@ After completing this module, you should be able to:
   * Describe ways you can communicate effectively with potential vendors before solicitation of digital services.  
   * Identify best practices for responsible pre-solicitation communication when procuring digital services.
 
+---
+## **Engaging the industry traditionally**
+
+The more “traditional” ways to engage with industry also have a place. These include pre-solicitation notices, draft RFPs, RFIs, pre-solicitation or pre-proposal conferences, and site visits. The Myth-Busting memo referred to at the beginning of this module offers the following suggestions on these topics:
+
+* **Requests for Information (RFIs):** Issue an RFI to ensure the government understands the industry's capabilities and can develop or improve its acquisition strategy regarding contract type, performance requirements, performance work statements/statements of work, and performance metrics. Although not required, sometimes releasing a draft Request for Proposal (RFP), including sections L and M, ensures clear solicitation instructions. Get feedback from the industry on whether the evaluation instructions are clear or what could make them better performance indicators.  
+  *  **Industry days:** Industry days are hosted by government agencies and offer a forum where vendors can learn more about pending procurements, identify potential partners and competitors, and interact and build relationships with government personnel. Such events can encourage competition and create a level playing field for all potential offerors. See the [ACT-IAC Report: Industry Day Best Practices for more guidelines on conducting an Industry Day](https://www.actiac.org/groups/document/industry-day-best-practices-white-paper-122014).
+ 
+![A group of people in business attire viewing a presentation](https://github.com/kristenjernigan/kj-liatest/blob/5c6e2dc6e2159ac3e5bd8b130ca15ab7bf98f417/Media/Module%202/Government%20employees%20attending%20an%20industry%20day.jpg) 
+
+
+  * **One-on-one communications:** As valuable as industry days can be, there are times when one-on-one communication may be more valuable. Vendors may be reluctant to expose their techniques or approaches to competitors. In private oral or written communications, the government can protect proprietary information and thus encourage vendors to share more.  
+  * **Agency opportunity forecast:** Many agencies post advanced procurement plans and upcoming opportunities on their websites. Often, this includes a variety of background documents and information that the industry can use to understand better the agency's mission and specific acquisition needs well before specific individual actions. The industry can be given opportunities to respond and provide valuable feedback in crafting and refining requirements.
+
+### **Evolving market research for digital services**
+
+While they can still be used and are often required by acquisition strategy, traditional government RFIs often create unnecessary barriers for modern digital service providers. The burdensome processes can discourage the very vendors you want to engage—especially small, agile companies and non-traditional government vendors delivering high-quality tech services.
+
+**Key concepts:**
+
+* **Adapt to digital delivery realities:**  
+  Digital services require flexibility, speed, and iteration. Forcing companies into rigid government templates or overly complex RFIs slows acquisitions and alienates top performers.
+
+* **Streamline the approach:**  
+  Don’t default to the RFI template. Align your market research format with the complexity of the solicitation. For simple needs, consider lighter-touch methods: video responses, virtual industry days, or facilitated roundtables.
+
+* **Ask smarter questions:**  
+  Avoid boilerplate checklists. Instead, ask about predictability in iterative delivery.  
+  How does the company handle failure or pivots? Ask them to provide real examples of managing risk and client expectations.  
+  Be wary of vendors claiming perfection—true partners acknowledge uncertainty and plan for it.
+
+* **Watch for AI-filled answers:**  
+  With AI now able to auto-fill generic responses, acquisition professionals must intentionally structure questions to reveal authentic capability, not just polished language. Use AI to support the process, but also be aware of overreliance. 
+
+**Bottom Line:**  
+Effective market research is about getting real insight, not compliance. Be thoughtful, be flexible, and design your research to surface true digital delivery capability, not just who can fill out the most forms.
+
+
+
 
