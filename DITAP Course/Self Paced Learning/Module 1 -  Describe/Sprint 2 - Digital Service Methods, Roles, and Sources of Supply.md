@@ -827,5 +827,27 @@ Common models include:
 
 **Definition of Done & Deadline for Completion:** This shouldn't take too long, but we think it will help you understand the broader digital services marketplace. Please share your findings in the discussion space by the end of this iteration.
 
+---
+## Recommended Readings
+
+[\[Re\]Coding \<America/\>](https://www.recodingamerica.us/)
+
+* The Recoding America website introduces the key ideas behind the bestselling book by Jennifer Pahlka, exploring how outdated systems and processes—not just technology—hold government back. It offers insights into why digital transformation in government is hard, what’s needed to fix it, and how public servants can drive meaningful change. 
+
+
+[Digital.gov HCD series](https://digital.gov/guides/hcd) 
+
+* A series of guides to help you understand and practice Human-Centered Design.
+
+[Learning from the Legacy of 18F](https://www.lawfaremedia.org/article/learning-from-the-legacy-of-18f)
+
+* Although the government has terminated 18F—the team that modernized government tech—its legacy offers lessons for future digital services. 
+
+[18F Guides](https://guides.18f.org/)
+
+* The 18F Guides website is a comprehensive collection of best practices, tools, and methodologies designed to help government teams and their partners build effective, user-centered digital services. It covers topics such as agile development, accessibility, open source, and design systems, aiming to improve public service delivery through modern technology practices. 
+
+
+
 
 
