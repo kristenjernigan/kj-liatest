@@ -370,7 +370,7 @@ How do you see pre-solicitation communication as essential to acquiring digital 
 
 Now that we’ve established it’s acceptable to engage with vendors and potential end-users beyond just a Request for Information (RFI) as pre-solicitation communication, let’s explore why doing so is beneficial.  
 
-![Two panel cartoon with workers gathered around a table discussing an RFP](https://github.com/kristenjernigan/kj-liatest/blob/70eed689917b7c8b58b0673c3421318c028d4754/Media/Module%202B/Govt%20Vendor%20Information%20Sharing.png)
+![Two panel cartoon with workers gathered around a table discussing an RFP](https://github.com/kristenjernigan/kj-liatest/blob/1b50d1d0040ed1dea89d42f3a5ed49ffc38f071c/Media/Module%202/pre-solicitation%20communication%20cartoon.png)
 
 The cartoon shows that the government may issue a clear solicitation to them, only to have vendors interpret it differently when it “hits the street.” This is the situation illustrated in the above cartoon. If you avoid situations like the one in the cartoon and keep the lines of communication open between government and industry during the pre-solicitation phase, you’ll wind up with:
 
