@@ -370,6 +370,8 @@ How do you see pre-solicitation communication as essential to acquiring digital 
 
 Now that we’ve established it’s acceptable to engage with vendors and potential end-users beyond just a Request for Information (RFI) as pre-solicitation communication, let’s explore why doing so is beneficial.  
 
+![Two panel cartoon with workers gathered around a table discussing an RFP](https://github.com/kristenjernigan/kj-liatest/blob/70eed689917b7c8b58b0673c3421318c028d4754/Media/Module%202B/Govt%20Vendor%20Information%20Sharing.png)
+
 The cartoon shows that the government may issue a clear solicitation to them, only to have vendors interpret it differently when it “hits the street.” This is the situation illustrated in the above cartoon. If you avoid situations like the one in the cartoon and keep the lines of communication open between government and industry during the pre-solicitation phase, you’ll wind up with:
 
 1. Better requirements  
@@ -383,6 +385,8 @@ Let’s look at each of these.
 Let the experts be experts. This is particularly important in the digital services industry, where technology changes daily.
 
 Industry representatives are constantly exposed to new technologies and must be aware of changing marketplace trends. Take advantage of their expertise on digital products and services you may be procuring to discover solutions and approaches you may not be aware of.
+
+![two heads, one with a question, the other with an answer](https://github.com/kristenjernigan/kj-liatest/blob/ab48652a2c32cd2ebe8c9060bc02a65c81a40ae4/Media/Module%202/questions%20answers.png)
 
 By engaging with potential vendors early on, you can solicit their feedback on what’s possible. You might learn your ideal solution may not be the best choice. 
 
