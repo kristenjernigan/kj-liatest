@@ -47,6 +47,59 @@ After completing this module, you should be able to:
   * Identify best practices for responsible pre-solicitation communication when procuring digital services.
 
 ---
+
+## Why Pre-Solicitation Communication Matters 
+
+Now that we’ve established it’s acceptable to engage with vendors and potential end-users beyond just a Request for Information (RFI) as pre-solicitation communication, let’s explore why doing so is beneficial.  
+
+![Two panel cartoon with workers gathered around a table discussing an RFP](https://github.com/kristenjernigan/kj-liatest/blob/1b50d1d0040ed1dea89d42f3a5ed49ffc38f071c/Media/Module%202/pre-solicitation%20communication%20cartoon.png)
+
+The cartoon shows that the government may issue a clear solicitation to them, only to have vendors interpret it differently when it “hits the street.” This is the situation illustrated in the above cartoon. If you avoid situations like the one in the cartoon and keep the lines of communication open between government and industry during the pre-solicitation phase, you’ll wind up with:
+
+1. Better requirements  
+2. Better bids  
+3. Increased interoperability through shared standards
+
+Let’s look at each of these. 
+
+**1\. Pre-solicitation communication leads to better requirements** 
+
+Let the experts be experts. This is particularly important in the digital services industry, where technology changes daily.
+
+Industry representatives are constantly exposed to new technologies and must be aware of changing marketplace trends. Take advantage of their expertise on digital products and services you may be procuring to discover solutions and approaches you may not be aware of.
+
+![two heads, one with a question, the other with an answer](https://github.com/kristenjernigan/kj-liatest/blob/ab48652a2c32cd2ebe8c9060bc02a65c81a40ae4/Media/Module%202/questions%20answers.png)
+
+By engaging with potential vendors early on, you can solicit their feedback on what’s possible. You might learn your ideal solution may not be the best choice. 
+
+What is available from the industry will inform other considerations when forming your requirements. For example, are you sure you want to build a custom digital service solution, or would a commercial off-the-shelf (COTS) solution work with modification? These decisions will affect sustainment and maintenance. Technical data rights, intellectual property, long- and short-term costs, resources, and mission accomplishment priorities should be considered. 
+
+**2\. Pre-solicitation communication results in better bids**
+
+By engaging vendors in discussion and information sharing before issuing a solicitation, you condition the market to submit more constructive proposals. Vendors can’t submit good offers on what they don’t understand. Communicating about what you want to buy and sharing your vision for the contract outcome helps the industry:
+
+* Prepare for pursuit, including finding teaming partners  
+  * Decrease the overall business costs by allowing them to plan and forecast more accurately  
+  * Find labor and other resources in advance rather than during the proposal.
+
+Answering questions about the acquisition this early may seem tedious, but it will save time and money once the solicitation is released. If you release a solicitation without effective communication, you’ll be flooded with dozens of questions as industry attempts to clarify their understanding of your need. When this occurs after your solicitation has already “hit the street,” it can cause delays and extensions to the proposal due date, which is disruptive to your program and costly for industry.
+
+**3\. Pre-solicitation communication results in shared standards and increased interoperability**
+
+You may be operating on outdated or inappropriate standards for a particular digital services requirement. Pre-solicitation communication with industry allows vendors to tell you that and to suggest more effective and efficient alternatives for current and future requirements.
+
+On the other hand, if you know of a standard or requirement (e.g., Federal Risk and Authorization Management Program (FedRAMP)) for an upcoming acquisition, why not publish it ahead of time rather than only include it in solicitations? Make the standards known to industry as far in advance as possible so they may incorporate them into their commercial products and other offerings.
+
+## Knowledge Check
+Answering questions about a potential acquisition from vendors before a solicitation is released may result in:  
+
+- [[ ]] A. Delays and extensions to the due date
+- [[X]] B. Better bids (correct)
+- [[ ]] C. Charges of unethical behavior
+- [[X]] D. Lower costs (correct)
+
+---
+
 ## **Engaging the industry traditionally**
 
 The more “traditional” ways to engage with industry also have a place. These include pre-solicitation notices, draft RFPs, RFIs, pre-solicitation or pre-proposal conferences, and site visits. The Myth-Busting memo referred to at the beginning of this module offers the following suggestions on these topics:
@@ -365,56 +418,7 @@ Finally, join the discussion below by responding to the following question:
 
 How do you see pre-solicitation communication as essential to acquiring digital services? Provide an example of a situation in which communicating with vendors before solicitation significantly impacted the outcome.  
 
----
-## Why Pre-Solicitation Communication Matters 
 
-Now that we’ve established it’s acceptable to engage with vendors and potential end-users beyond just a Request for Information (RFI) as pre-solicitation communication, let’s explore why doing so is beneficial.  
-
-![Two panel cartoon with workers gathered around a table discussing an RFP](https://github.com/kristenjernigan/kj-liatest/blob/1b50d1d0040ed1dea89d42f3a5ed49ffc38f071c/Media/Module%202/pre-solicitation%20communication%20cartoon.png)
-
-The cartoon shows that the government may issue a clear solicitation to them, only to have vendors interpret it differently when it “hits the street.” This is the situation illustrated in the above cartoon. If you avoid situations like the one in the cartoon and keep the lines of communication open between government and industry during the pre-solicitation phase, you’ll wind up with:
-
-1. Better requirements  
-2. Better bids  
-3. Increased interoperability through shared standards
-
-Let’s look at each of these. 
-
-**1\. Pre-solicitation communication leads to better requirements** 
-
-Let the experts be experts. This is particularly important in the digital services industry, where technology changes daily.
-
-Industry representatives are constantly exposed to new technologies and must be aware of changing marketplace trends. Take advantage of their expertise on digital products and services you may be procuring to discover solutions and approaches you may not be aware of.
-
-![two heads, one with a question, the other with an answer](https://github.com/kristenjernigan/kj-liatest/blob/ab48652a2c32cd2ebe8c9060bc02a65c81a40ae4/Media/Module%202/questions%20answers.png)
-
-By engaging with potential vendors early on, you can solicit their feedback on what’s possible. You might learn your ideal solution may not be the best choice. 
-
-What is available from the industry will inform other considerations when forming your requirements. For example, are you sure you want to build a custom digital service solution, or would a commercial off-the-shelf (COTS) solution work with modification? These decisions will affect sustainment and maintenance. Technical data rights, intellectual property, long- and short-term costs, resources, and mission accomplishment priorities should be considered. 
-
-**2\. Pre-solicitation communication results in better bids**
-
-By engaging vendors in discussion and information sharing before issuing a solicitation, you condition the market to submit more constructive proposals. Vendors can’t submit good offers on what they don’t understand. Communicating about what you want to buy and sharing your vision for the contract outcome helps the industry:
-
-* Prepare for pursuit, including finding teaming partners  
-  * Decrease the overall business costs by allowing them to plan and forecast more accurately  
-  * Find labor and other resources in advance rather than during the proposal.
-
-Answering questions about the acquisition this early may seem tedious, but it will save time and money once the solicitation is released. If you release a solicitation without effective communication, you’ll be flooded with dozens of questions as industry attempts to clarify their understanding of your need. When this occurs after your solicitation has already “hit the street,” it can cause delays and extensions to the proposal due date, which is disruptive to your program and costly for industry.
-
-**3\. Pre-solicitation communication results in shared standards and increased interoperability**
-
-You may be operating on outdated or inappropriate standards for a particular digital services requirement. Pre-solicitation communication with industry allows vendors to tell you that and to suggest more effective and efficient alternatives for current and future requirements.
-
-On the other hand, if you know of a standard or requirement (e.g., Federal Risk and Authorization Management Program (FedRAMP)) for an upcoming acquisition, why not publish it ahead of time rather than only include it in solicitations? Make the standards known to industry as far in advance as possible so they may incorporate them into their commercial products and other offerings.
-
-## Knowledge Check
-Answering questions about a potential acquisition from vendors before a solicitation is released may result in:  
-
-- [[ ]] A. Delays and extensions to the due date
-- [[X]] B. Better bids (correct)
-- [[ ]] C. Charges of unethical behavior
-- [[X]] D. Lower costs (correct)
 
 
 
