@@ -34,7 +34,7 @@ There are two goals to this interaction:
 1. To improve procurement outcomes by obtaining as much information as possible regarding potential solutions from vendors before preparing a solicitation  
 2.  To better communicate government needs to vendors, so they will provide better-informed offers. 
 
-![The White House and a city connected by an arrow reading, "Information"][image1]
+![The White House and a city connected by an arrow reading, "Information"](https://github.com/kristenjernigan/kj-liatest/blob/70eed689917b7c8b58b0673c3421318c028d4754/Media/Module%202B/Govt%20Vendor%20Information%20Sharing.png) 
 
 While the FAR allows for a good deal of flexibility in establishing pre-solicitation communication with potential vendors, some agencies are reluctant to exercise all of their options. They fear stepping over the line and causing protests or compromising procurement integrity. Vendors may also be reluctant to discuss requirements and solutions in the presence of potential competitors or may fear that talking privately to an agency could limit their future opportunities. However, open pre-solicitation communication with potential vendors is critical, especially in digital services procurement. Why is that the case? And how do you execute it effectively? You’ll learn the answers to these questions by completing this online learning.
 
