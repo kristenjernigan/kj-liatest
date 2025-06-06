@@ -405,16 +405,12 @@ You may be operating on outdated or inappropriate standards for a particular dig
 On the other hand, if you know of a standard or requirement (e.g., Federal Risk and Authorization Management Program (FedRAMP)) for an upcoming acquisition, why not publish it ahead of time rather than only include it in solicitations? Make the standards known to industry as far in advance as possible so they may incorporate them into their commercial products and other offerings.
 
 ## Knowledge Check
+Answering questions about a potential acquisition from vendors before a solicitation is released may result in:  
 
-Answering questions about a potential acquisition from vendors before a solicitation is released may result in:
-
-A. Delays and extensions to the due date
-
-B. Better bids (correct)
-
-C. Charges of unethical behavior
-
-D. Lower costs (correct)
+- [[ ]] A. Delays and extensions to the due date
+- [[X]] B. Better bids (correct)
+- [[ ]] C. Charges of unethical behavior
+- [[X]] D. Lower costs (correct)
 
 
 
