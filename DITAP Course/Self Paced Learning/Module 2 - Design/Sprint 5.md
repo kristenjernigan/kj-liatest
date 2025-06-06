@@ -83,6 +83,24 @@ While they can still be used and are often required by acquisition strategy, tra
 **Bottom Line:**  
 Effective market research is about getting real insight, not compliance. Be thoughtful, be flexible, and design your research to surface true digital delivery capability, not just who can fill out the most forms.
 
+---
+
+## 3\. Explore other promising alternatives and approaches 
+
+As the Federal Acquisition Regulation (FAR) continues to evolve, driven partly by new Executive Orders from the White House, procurement guidance is shifting toward a more flexible, modular approach. In this new era, we can expect to see more “ordering guides” and implementation policies that exist alongside, but are distinct from, the core statutes that must be followed. This creates a critical opportunity for acquisition professionals to think beyond rigid templates and embrace creative, compliant ways to conduct market research and shape solicitations. One powerful approach is to bring the vendor community into the early stages of requirement development and evaluation design. This method, used widely by other governments and increasingly piloted in the U.S., includes tools like open contracting workshops, prototype competitions via Challenge.gov, and collaborative drafting through platforms like GitHub. These practices help ensure solicitations are grounded in real-world capability and modern delivery approaches—before they’re even released.
+
+### Open contracting standards in Canada and Europe
+
+Canada has been a pioneer in adopting open contracting principles. In 2014, it incorporated open contracting into its national action plan, leading to the publication of pilot datasets using the Open Contracting Data Standard (OCDS). The Treasury Board Secretariat is working towards implementing a Proactive Disclosure policy to provide timely and standardized open data on public contracting. Cities like Montreal have also begun publishing open contracting data, enhancing transparency and civic engagement.​
+
+Europe, particularly the European Union (EU), has integrated open contracting into its procurement processes. The EU has aligned its eForms for public procurement notices with the OCDS to standardize data publication. Member states like Italy and Finland have received funding to implement OCDS in their contract registers, promoting transparency and efficiency in public procurement.​
+
+### Smithsonian’s National Museum of African American History and Culture (NMAAHC) open contracting approach
+
+The NMAAHC has embraced open contracting methods to enhance transparency and collaboration. For instance, in 2021, it issued a Request for Quote (RFQ) for Digital Archives Specialist services, detailing the scope of work, evaluation criteria, and performance periods. Additionally, the museum maintains a GitHub repository, promoting open access to its digital assets and encouraging community engagement in its projects. The NMAAHC sets a precedent for transparent and collaborative procurement processes in cultural institutions by leveraging platforms like GitHub and adhering to open contracting standards.
+
+
+
 
 
 
