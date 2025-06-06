@@ -25,8 +25,6 @@ The following definition provided by the [Digital Government Strategy](https://o
 
 _“Digital services” refers to “the delivery of digital information (data or content) and transactional services (e.g., online forms, benefits applications) across a variety of platforms, devices, and delivery mechanisms (e.g., websites, mobile applications, and social media).” Digital services may be delivered to internal customers, external customers, or both._
 
-Review the full Digital Government Strategy in the Readings for this iteration.
-
 ## Then and Now: USCIS.gov Use Case
 
 A few decades ago, individuals filing for immigration status in the United States had to complete several tasks, including completing a variety of forms, obtaining medical exams with designated area doctors, locating a field office, scheduling appointments with the field office, and calling to check on case status once filed. The process was confusing and cumbersome. As of 2015, individuals can access my.uscis.gov, and what a difference this makes, saving time and minimizing frustration.
