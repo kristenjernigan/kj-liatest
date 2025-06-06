@@ -202,6 +202,171 @@ Lesson:
 
 These scenarios underscore the importance of thoughtful market research design. By considering the burdens placed on vendors, especially small and non-traditional ones, agencies can foster greater participation, encourage innovation, and ultimately procure more effective solutions.
 
+---
+## Conclusion 
+
+### Applying human-centered design to market research in federal acquisition
+
+Human-centered design (HCD) isn’t just for product development—it can (and should) be applied to the acquisition process, especially in the critical early stage of market research. We can build a more effective and inclusive buying process by centering the needs, behaviors, and constraints of the vendor community, procurement staff, and program stakeholders.
+
+#### Start with empathy—even after the RFI closes
+
+Most government RFIs go out with little follow-up or feedback once the window closes. But this is a missed opportunity for learning. Using HCD principles, we should treat RFIs as two-way engagements, not just data collection exercises.
+
+Here’s how:
+
+* Follow up with respondents to ask about their experience. What was easy? What was unclear? Did the questions help them understand what you need?  
+* Reach out to companies you expected but didn’t hear from. Ask: Why didn’t they respond? Was it the timeline, format, unclear objectives, or something else?  
+* These simple feedback loops help you understand what the market can do and how your processes shape who chooses to participate.
+
+#### Hold a retrospective with your procurement team
+
+After every significant market research activity, bring your team together for a 15–30 minute retrospective using a simple "traffic light" format:
+
+**Keep doing**: What worked well that we should repeat?
+
+**Change or improve**: What felt clunky or unclear?
+
+**Stop doing**: What created friction or added unnecessary burden?
+
+This format helps normalize reflection and ensures everyone—contracting, program, and technical—can speak a common language. Applying digital service thinking to your acquisition approach builds internal trust, improves communication, and leads to better, more actionable outcomes.
+
+### Leveraging AI to Enhance Productivity in Federal Market Research
+
+#### Introduction: The challenge
+
+As discussed, Federal acquisition professionals often face tight deadlines, complex regulations, and limited resources. Traditional market research methods—such as drafting RFIs, analyzing vendor responses, and preparing documentation—are time-consuming and labor-intensive. These processes can lead to delays in procurement cycles and increased workloads for already overburdened staff.​
+
+#### The solution: Integrating AI tools
+
+Artificial Intelligence (AI) tools offer a transformative solution to streamline market research activities. By automating routine tasks, AI can free up valuable time, reduce errors, and enhance the quality of procurement decisions. 
+
+Importantly, AI isn’t here to steal your job but to help you keep your sanity. Think of it as the junior contract specialist you’re training up: eager, fast, sometimes a little too confident, but ultimately helpful in handling the busy work you don’t have time for. You’re still the decision-maker, with the judgment, experience, and authority to guide the acquisition. The checks and balances of the procurement process still apply, and no AI tool is signing anything on your behalf. But if you need help sorting responses, drafting first-pass documents, or chasing down that one clause you can never remember—AI’s your overenthusiastic intern who *never* takes a lunch break.
+
+#### Key areas where AI enhances market research
+
+**1\. Drafting and reviewing documents**
+
+Traditional approach:
+
+* Depending on their complexity, manually drafting RFIs, market research reports, and other procurement documents can take several hours to days.​
+
+AI-enhanced approach:
+
+* AI tools like ChatGPT, Co-Pilot, Gemini, or Claude can generate initial drafts of documents in minutes, which professionals can then review and customize.​
+
+Time savings:
+
+* Studies have shown that AI can reduce document drafting time by up to 80%, allowing staff to reallocate time to higher-value tasks.
+
+**2\. Analyzing vendor responses**
+
+Traditional approach:
+
+* Reviewing and synthesizing responses from multiple vendors is a manual process that can take days, especially for large procurements.​
+
+AI-enhanced approach:
+
+* AI can quickly analyze large volumes of text, identify key themes, and summarize vendor capabilities, facilitating, but not replacing, faster decision-making.​
+
+Time savings:
+
+* AI-assisted analysis can increase throughput by approximately 66%, significantly reducing the time required for comprehensive reviews.
+
+**3\. Conducting market research**
+
+Traditional approach:
+
+* Gathering information on potential vendors and market capabilities often involves extensive manual research.​
+
+AI-enhanced approach:
+
+* AI tools can aggregate and analyze data from various sources, providing insights into vendor performance, market trends, and potential risks.​
+
+Time savings:
+
+* Implementing AI in market research can improve productivity by up to 40%, enabling faster and more informed procurement decisions.
+
+### Top AI security \+ integrity considerations for acquisition professionals
+
+**1\. Sensitive data can be exposed in public AI tools**
+
+DO NOT input proprietary, confidential, procurement-sensitive, or personally identifiable information (PII) into public AI tools (like free versions of ChatGPT or Bard).  
+ Why? Some platforms use what you type to train their models, meaning your info could live on beyond your session.
+
+Use AI tools approved by your agency or ensure your tool has a “no data retention” policy or private model settings.
+
+---
+
+**2\. Hallucinations are real (and annoying)**
+
+What’s a hallucination? It’s when an AI confidently makes something up and passes it off as fact, like citing a non-existent FAR clause or quoting a policy that doesn’t exist.  
+ AI doesn’t *know* things—it predicts plausible answers based on patterns in the data it was trained on.
+
+Always verify AI-generated content, especially concerning regulations, law, or pricing. AI is a helpful co-pilot, not a final authority.
+
+---
+
+**3\. Model biases can skew results**
+
+AI tools reflect the data they’re trained on, and that data might carry biases, such as favoring certain vendors, tech solutions, or assumptions about what “good performance” looks like.
+
+Be mindful of potential bias in AI outputs, especially when comparing vendors or analyzing performance data. Use AI for synthesis, but maintain human judgment for fairness.
+
+---
+
+**4\. Version drift and inconsistent output**
+
+AI tools change frequently—what you get today may be slightly different tomorrow. Model updates can affect tone, structure, and even the accuracy of responses.
+
+Save outputs you plan to use. Don’t assume you’ll get the same response twice—AI doesn’t have a memory unless you give it one.
+
+---
+
+**5\. AI can reinforce bad inputs**
+
+If your prompt is vague, incorrect, or biased, the AI will roll with it—and might make things worse. For example:  
+ “Write a justification for this sole-source award” will return a different answer than:  
+ “Assess if a sole-source justification aligns with FAR 6.302 guidance.”
+
+Prompt engineering matters—how you ask a question influences what you get back. Be clear, specific, and ask for sources when needed.
+
+---
+
+**6\. Output may not be audit-ready**
+
+AI can help you draft documents, summaries, and reports—but you’re still responsible for accuracy, compliance, and traceability.
+
+Always double-check final outputs, and don’t submit AI-generated work as-is. Think of AI as a strong first draft machine, not a compliance tool.
+
+---
+
+**7\. Follow your agency’s IT and privacy policies**
+
+Some agencies are adopting AI use policies that govern what tools can be used, what kinds of data can be input, and how outputs are handled.
+
+Check your agency's policy before using any AI tool or talk to your IT/security lead.
+
+---
+
+### Final thought:
+
+AI can be like the world’s fastest intern—helpful but unreliable. You’re still the Contracting Officer, COR, or Specialist in charge. Use AI to speed up your work—but never let it replace your judgment.
+
+---
+
+Agencies need to understand what the market can provide to acquire the best digital service solutions they can afford. Appropriate communication with potential vendors is key to gaining this understanding. 
+
+In this module, we’ve shown that pre-solicitation communication with vendors is not only allowed but desirable, and there are many different ways to engage with offerors effectively.
+
+OMB has outlined [specific steps for obtaining and utilizing](https://obamawhitehouse.archives.gov/sites/default/files/omb/procurement/memo/acquisition-360-improving-acquisition-process-timely-feedback-external-internal-stakeholders.pdf) employee and industry feedback regarding the acquisition process to continually motivate and encourage agencies to assess and improve vendor engagement practices. As you read, ask yourself what you can do as an individual acquisition professional to improve the pre-solicitation communication in your agency.
+
+Finally, join the discussion below by responding to the following question:
+
+How do you see pre-solicitation communication as essential to acquiring digital services? Provide an example of a situation in which communicating with vendors before solicitation significantly impacted the outcome.  
+
+
+
 
 
   
