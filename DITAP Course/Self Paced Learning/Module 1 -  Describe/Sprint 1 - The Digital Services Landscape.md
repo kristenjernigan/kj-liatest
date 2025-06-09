@@ -187,13 +187,30 @@ __What about mobile apps?__
 
 Look how you can find information about and report information to the [City of Philadelphia](https://www.phila.gov/departments/philly311/) from your mobile device.
 
-![Woman looking at information on her mobile phone](https://github.com/kristenjernigan/kj-liatest/blob/7d812a8b27abe4f39802dfd4ead5afcc8a7dff07/Media/Module%201/Woman%20looking%20at%20information%20on%20her%20phone%202.jpg)
+![Woman looking at information on her mobile phone](https://github.com/kristenjernigan/kj-liatest/blob/2810af7ee6289c4a0e6fe7a752bee578cdcb9070/Media/Module%201/Woman%20looking%20at%20cell%20phone.png) 
 
 __Do only government agencies (federal, state or municipal) provide digital services?__
 
 Private sector and commercial organizations can also provide digital services to the end user. In fact, in a given day, you might access websites to perform transactions such as
 
-__Course includes 3 images here, these need updating -Kristen_
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
+
+  <div style="flex: 1 1 30%; max-width: 30%; border: 1px solid #ccc; padding: 8px; box-sizing: border-box; text-align: center;">
+    <img src="https://github.com/kristenjernigan/kj-liatest/blob/2810af7ee6289c4a0e6fe7a752bee578cdcb9070/Media/Module%201/comic.1.jpg" alt="Alt text 1" style="max-width: 100%; height: auto;">
+    <p style="margin-top: 8px; font-size: 0.9em;">Caption 1</p>
+  </div>
+
+  <div style="flex: 1 1 30%; max-width: 30%; border: 1px solid #ccc; padding: 8px; box-sizing: border-box; text-align: center;">
+    <img src="https://github.com/kristenjernigan/kj-liatest/blob/2810af7ee6289c4a0e6fe7a752bee578cdcb9070/Media/Module%201/comic.2.jpg" alt="Alt text 2" style="max-width: 100%; height: auto;">
+    <p style="margin-top: 8px; font-size: 0.9em;">Caption 2</p>
+  </div>
+
+  <div style="flex: 1 1 30%; max-width: 30%; border: 1px solid #ccc; padding: 8px; box-sizing: border-box; text-align: center;">
+    <img src="https://github.com/kristenjernigan/kj-liatest/blob/2810af7ee6289c4a0e6fe7a752bee578cdcb9070/Media/Module%201/comic.3.jpg" alt="Alt text 3" style="max-width: 100%; height: auto;">
+    <p style="margin-top: 8px; font-size: 0.9em;">Caption 3</p>
+  </div>
+
+</div>
 
 - View and pay your bills online.
 - Check the status of a healthcare claim online.
