@@ -191,13 +191,14 @@ Look how you can find information about and report information to the [City of P
 
 __Do only government agencies (federal, state or municipal) provide digital services?__
 
-Private sector and commercial organizations can also provide digital services to the end user. In fact, in a given day, you might access websites to perform transactions such as
+Private sector and commercial organizations can also provide digital services to the end user. In fact, in a given day, you might access websites to perform transactions such as: 
+
 ![Woman sitting at a computer asking who ordered from a dog bone website, dog with bone sits behind her](https://github.com/kristenjernigan/kj-liatest/blob/2810af7ee6289c4a0e6fe7a752bee578cdcb9070/Media/Module%201/comic.1.jpg)
-- View and pay your bills online.
+View and pay your bills online.
  ![Cat asking receptionist how to pay vet bill](https://github.com/kristenjernigan/kj-liatest/blob/d37b229592a40ba81c1263e6d61e3127b7c47104/Media/Module%201/comic.3.jpg) 
-- Check the status of a healthcare claim online.
+Check the status of a healthcare claim online.
  ![Young boy sitting in front of TV, procrastinating on doing his book report](https://github.com/kristenjernigan/kj-liatest/blob/d37b229592a40ba81c1263e6d61e3127b7c47104/Media/Module%201/comic.2.jpg) 
-- Order new TV services online.
+Order new TV services online.
 
 These examples are from the perspective of the end user. The Digital Services Ecosystem involves additional roles that support the delivery of services to the end user.  You can learn about the Digital Service Ecosystem through the [Digital Services Playbook](https://playbook.usds.gov/). 
 
