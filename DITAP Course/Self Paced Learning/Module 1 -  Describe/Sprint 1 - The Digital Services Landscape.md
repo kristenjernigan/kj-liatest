@@ -17,7 +17,7 @@ Let’s start with the WHAT. What is meant by digital services? That is, in fact
 
 Below you will find the Digital Service Wheel.  Each part of this wheel lists more than one answer to each question above, and the answers shown here are just the beginning. This is why defining digital services can be a complex task. 
 
-![Digital Services Wheel](https://github.com/kristenjernigan/kj-liatest/blob/7d812a8b27abe4f39802dfd4ead5afcc8a7dff07/Media/Module%201/digital%20service%20wheel%202.jpg)
+![Digital Services Wheel with sections for who, what, where, why and how](https://github.com/kristenjernigan/kj-liatest/blob/7d812a8b27abe4f39802dfd4ead5afcc8a7dff07/Media/Module%201/digital%20service%20wheel%202.jpg)
 
 
 
@@ -61,7 +61,7 @@ In our online learning module, Digital Services – The How, you’ll learn how 
 
 Let’s consider the definition of digital services differently. Imagine it as a three-layered cake.
 
-![A 3-layered cake with the layers labeled as information layer, presentation layer, and platform layer](https://github.com/kristenjernigan/kj-liatest/blob/a35fff1d65346dbbf84d2220b3749b3eaf86658a/Media/Module%201/Digital%20Services%20Cake%20updated.png)
+![A 3-layered cake with the layers labeled as information layer, presentation layer, and platform layer representing digital services](https://github.com/kristenjernigan/kj-liatest/blob/a35fff1d65346dbbf84d2220b3749b3eaf86658a/Media/Module%201/Digital%20Services%20Cake%20updated.png)
 
 We’ve taken some important information from [Digital Government Strategy](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html) which explains each layer in a concise manner.
 
@@ -140,9 +140,8 @@ When outside help is needed, the organization, private sector, or government sec
 
 The multi-disciplinary teams that design and develop digital services could include the following roles: 
 
-_The image below may need some reworking to make sure alt text describes the hierarchy and what the image conveys.  An easier solution would be to use the infographic but write out the hierarchy underneath. _ - Kristen
 
-![Digital Services team and hierarchy](https://github.com/kristenjernigan/kj-liatest/blob/67d12c0757ca87a3ee720ea433584bce7c142fdc/Media/Module%201/digital%20services%20team.jpg)
+![Digital Services hierarchy diagram illustrating the structure of a digital service team. The top section shows two groups: "Developers – In-House" and " Developers – Professional Service Vendors," both connecting to an "Organization (Government or Private Sector)." The organization then connects to "The end user," depicted as a smartphone displaying a digital service interface. Below the developers, a vertical list details team roles which are explained in the next section.](https://github.com/kristenjernigan/kj-liatest/blob/67d12c0757ca87a3ee720ea433584bce7c142fdc/Media/Module%201/digital%20services%20team.jpg)
 - __Product Owner__: his individual represents the organization and is responsible for working with the digital services development team (in-house or vendor). Some roles include prioritizing feature and functionality development, defining acceptance criteria for features, and providing demonstrations and reviews to the organization’s stakeholders. The Product Owner is ultimately accountable for the success of the digital service.
 
 - __Delivery Manager__: This individual orchestrates the digital services team and enables the team to deliver a quality service on time and within budget.
@@ -187,7 +186,7 @@ __What about mobile apps?__
 
 Look how you can find information about and report information to the [City of Philadelphia](https://www.phila.gov/departments/philly311/) from your mobile device.
 
-![Woman looking at information on her mobile phone](https://github.com/kristenjernigan/kj-liatest/blob/2810af7ee6289c4a0e6fe7a752bee578cdcb9070/Media/Module%201/Woman%20looking%20at%20cell%20phone.png) 
+![Woman looking at her mobile phone](https://github.com/kristenjernigan/kj-liatest/blob/2810af7ee6289c4a0e6fe7a752bee578cdcb9070/Media/Module%201/Woman%20looking%20at%20cell%20phone.png) 
 
 __Do only government agencies (federal, state or municipal) provide digital services?__
 
