@@ -599,9 +599,9 @@ DevSecOps stands for Development, Security, and Operations. It’s a modern appr
 
 In traditional government IT projects, development, security review, and operations often happen in separate silos, which can lead to delays, miscommunications, and vulnerabilities. Usually, these tasks are completed manually, creating possibilities for human error. DevSecOps is a framework that breaks down those silos by creating mechanisms to automate system and code deployment and maintenance tasks. Automation significantly reduces the possibility of human error and speeds up deployment tasks. Instead of waiting until the end to test for vulnerabilities, DevSecOps integrates automated security checks into every step of the process. This includes code reviews, server configuration and deployment, network hardening, vulnerability, and compliance scans that are triggered anytime a change is made to a system.
 
-![DevSecOps the old way](https://github.com/kristenjernigan/kj-liatest/blob/860d3f4103cafc1a5d9cf29db74672bad964690e/Media/Module%201/DevOps%20the%20old%20way.png)  
+![Diagram illustrating the 'Old Way' of DevOps, showing a linear flow from Code by Developers, to Build, then Test, Release, and Operate, with handoffs between each stage.](https://github.com/kristenjernigan/kj-liatest/blob/860d3f4103cafc1a5d9cf29db74672bad964690e/Media/Module%201/DevOps%20the%20old%20way.png)  
 
-*![DevSecOps the new way](https://github.com/kristenjernigan/kj-liatest/blob/860d3f4103cafc1a5d9cf29db74672bad964690e/Media/Module%201/DevOps%20the%20new%20way.png) 
+*![Diagram illustrating the 'New Way' of DevOps, showing a continuous, circular flow of Code, Build, Test, Release, and Operate, with a central team of developers.](https://github.com/kristenjernigan/kj-liatest/blob/860d3f4103cafc1a5d9cf29db74672bad964690e/Media/Module%201/DevOps%20the%20new%20way.png) 
 
 *What is DevOps from [https://tech.gsa.gov/guides/what\_is\_devops/](https://tech.gsa.gov/guides/what_is_devops/)* 
 
