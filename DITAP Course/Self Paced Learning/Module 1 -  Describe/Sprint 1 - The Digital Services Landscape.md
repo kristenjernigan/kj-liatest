@@ -267,6 +267,14 @@ Start your own Who's Who list by finding an organization or other thought leader
 
 Post in the discussion topic below who you chose and why. You can also share what contribution to digital service made them interesting to you.
 
+## **Recommended Readings**
+
+We curated the following readings to help you dive deeper into the world of digital services. 
+
+[10 Years of the U.S. Digital Service: Transforming government for the digital age](https://www.usds.gov/news-and-blog/10-years-of-usds)  
+This article provides a compelling look at how the U.S. Digital Service has evolved over the past decade, highlighting its role in transforming government services through technology and human-centered design, and outlining how it plans to build on that impact in the years ahead.
+
+
 
 
 
