@@ -243,7 +243,7 @@ According to the National Institute of Standards and Technology (NIST), a true c
 
 These characteristics allow agencies to access computing resources when they need them, from almost anywhere, and scale usage up or down depending on demand—all while tracking and managing usage.
 
-![Five essential characteristics of cloud computing](https://github.com/kristenjernigan/kj-liatest/blob/f0fd8784f6f47867fcb0a56b1646925ca7e9ac4d/Media/Module%201/5%20essentials%20cloud.png) 
+![Diagram illustrating the 5 essential characteristics of cloud computing: On-Demand Self-Service, Broad Network Access, Resource Pooling, Rapid Elasticity, and Measured Service, all stemming from a central cloud icon.](https://github.com/kristenjernigan/kj-liatest/blob/f0fd8784f6f47867fcb0a56b1646925ca7e9ac4d/Media/Module%201/5%20essentials%20cloud.png) 
 
 https://cic.gsa.gov/basics/cloud-basics
 
