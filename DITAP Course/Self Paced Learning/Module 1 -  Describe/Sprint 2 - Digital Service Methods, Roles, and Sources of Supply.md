@@ -96,7 +96,7 @@ Read how USA.gov updated their personas based on themes and insights they collec
 
 You can use journey mapping to explore users' feelings, questions, and needs as they interact with your organization and the service/product offered. Personas can also serve as a foundation for creating journey maps.
 
-![Diagram that maps how Linda identifies information need, looks for information, finds information, and seeks help. It outlines her activities, feelings and needs, and potential opportunities for improvement](https://github.com/kristenjernigan/kj-liatest/blob/a2235c7d6ed21dc35d232d8c76926494a570544c/Media/Module%201/1000-x-800-USAgov-Personas-and-Journey-Maps_small%20Linda.jpg)
+![Journey map diagram that maps how Linda identifies information need, looks for information, finds information, and seeks help. It outlines her activities, feelings and needs, and potential opportunities for improvement](https://github.com/kristenjernigan/kj-liatest/blob/a2235c7d6ed21dc35d232d8c76926494a570544c/Media/Module%201/1000-x-800-USAgov-Personas-and-Journey-Maps_small%20Linda.jpg)
 
 #### For Further Exploration
 
@@ -451,7 +451,7 @@ Before we build anything, we have to understand *who* we're building for. **Huma
 
 Designing under this lens means deeply understanding the needs, behaviors, and emotions of the people you are planning for. Using those insights, you can create solutions that align directly with an exceptional user experience.
 
-![HCD graphic](https://github.com/kristenjernigan/kj-liatest/blob/860d3f4103cafc1a5d9cf29db74672bad964690e/Media/Module%201/HCD.png) 
+![Circular diagram illustrating a human-centered design process. The outer ring is divided into three segments: "Understanding User Needs", "Designing for Their Needs", and "Getting Them Engaged". Each segment lists related activities: "Understanding User Needs" includes Quantitative Research, Qualitative Research, and Ethnography; "Designing for Their Needs" includes Usability Testing, Prototyping, and Co-Creation; "Getting Them Engaged" includes Community Engagement, Awareness & Access, and Messaging & Communication. The inner circle is labeled "Synthesizing Insights into Actions," surrounded by arrows indicating a flow from "Strategy & Assessment" on the left to "Program Design & Implementation" on the right.](https://github.com/kristenjernigan/kj-liatest/blob/860d3f4103cafc1a5d9cf29db74672bad964690e/Media/Module%201/HCD.png)  
 *HCD graphic by [https://www.dalberg.com](https://dalberg.com/our-ideas/human-centered-design-design-process/)*
 
 In federal digital service projects, HCD is a mindset and methodology that supports better government outcomes. By involving users early and often, HCD helps teams deliver usable and truly useful tools and services.
