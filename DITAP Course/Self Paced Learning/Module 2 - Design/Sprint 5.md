@@ -172,7 +172,116 @@ A vendor can’t and won’t propose a premier solution on a shoestring budget. 
 **5\. Requirements:** Requirements are the result of considering your mission, desired outcomes, constraints, timelines, and resources, along with what you learned from your market research, including industry communications, and establishing the scope of your acquisition. Your statement of those requirements describes what needs to be realistically provided or accomplished by the impending contract or contracts. These requirements may be communicated to industry as a Statement of Work (SOW), but they may also take other, more open-ended forms such as a Statement of Objectives (SOO). It may be helpful to draft these documents, but depending on where you are in market research, it’s okay to not yet have the requirements defined. The knowledge of the technical staff supporting the project and how familiar they are with the market should be considered. 
 
 ---
+## 2\. Engage early with industry regarding opportunities
 
+As you’ve learned throughout this module, engaging early with industry is critical in the ever-evolving digital services market. To facilitate communication, consider using the following traditional and non-traditional techniques.
+
+**Non-traditional ways to engage with industry**: Our acquisition environment is ever changing, and so must our methods for conducting market research and communicating with vendors.  Today, the government uses new techniques to engage with industry early on in the process and to reach non-traditional vendors who may or may not already do business with the government. These techniques include but are not limited to the following:
+
+**MVPs & challenges.** MVPs and challenges help test acquisition hypotheses to determine how best to conduct a full solicitation for a product. They allow for a lightweight way to determine if a particular platform, service, or tool can be implemented in an agency or solve an agency problem before making a significant investment. These approaches prove that the platform, service, or tool works or doesn’t work via actual delivery; they get a functioning solution from end users to see how well they respond. This reduces overall risk and lets an agency try before it buys. Contrast this with long-term market analysis reports that provide helpful information but don’t allow you to try and test with end users.
+
+**MVPs:** The Minimum Viable Product (MVP), or alpha delivery, can be complex. In product development, the minimum viable product (MVP) has just enough features to gather “validated learning” about the product and its continued development. It uses a minimum investment to test a product. An MVP tests the actual usage scenario in contrast to conventional market research that relies on surveys or focus groups, often providing misleading results. Here are some more resources to further your understanding of MVPs:
+
+* The popular file-sharing system [Dropbox](https://techcrunch.com/2011/10/19/dropbox-minimal-viable-product/) started as an MVP.
+
+**Challenges:** Challenges are a great way to test out pilots or prototypes – get small MVPs created without going through the formal acquisition process. Also, it is potentially a way to encourage the open-source community to interact with the government. It does not require that individuals or companies be registered with a DUNS number, unless the challenge rules call for that specifically. [Challenge.gov](https://www.challenge.gov/) has a complete list of current challenges and how to use them.
+
+**Reverse industry days:** When determining where to take market research and how to understand what is available in a certain technology sector, a reverse industry day is a great market research tool. Short presentations allow the industry to tell the government what existing solutions can meet the problem. There is no specific FAR reference to these. Still, they are becoming more common and in the digital service sector could be very beneficial to finding and getting companies interested in telling the government what kind of products or services exist that can meet our needs without a formal “RFI” process having to be completed first. Here are a few recent examples:
+
+* [Acquisition Innovations in Motion](https://acquisitiongateway.gov/periodic-table/resources/4933?_a%5Eg_nid=12158)  
+* [DHS Reverse Industry Day](https://www.dhs.gov/publication/reverse-industry-day)  
+* [The Story of DHS’ Reverse Industry Days](https://www.publicspendforum.net/podcasts/the-story-of-dhs-s-reverse-industry-days-a-new-approach-to-public-procurement/) (podcast)  
+* [Example Agenda](https://ditap.learning-transformation.com/assets/courseware/v1/35973cab5eee445d2a6fe9aab5d410a8/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/2.B_Reverse_Industry_Day_-_Agenda_-_May_26_2016_0.pdf)  
+* [Example Invitation](https://ditap.learning-transformation.com/assets/courseware/v1/afb06cbd441668e933164e7d134101f8/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/2.B_Reverse-Industry-Day-28-Jan-2015.pdf)
+
+**Market surveys:** A market research survey is a more informal, flexible method for collecting targeted information from potential vendors. It’s usually distributed as a questionnaire and can include a mix of multiple-choice, scaled, and open-ended questions.
+
+**Key characteristics:**
+
+* Surveys are short and specific (often 10–20 questions).  
+* They are sent via email, Google Forms, SurveyMonkey, etc.  
+* They gauge vendor capabilities, interest, experience, business size, or appropriate NAICS codes.  
+* Surveys can be anonymous or low-commitment.  
+* They’re easy to analyze and compare responses.  
+* They allow you to test evaluation criteria, maturity models, or service needs before writing an RFI.
+
+## **Summary comparison**
+
+| Feature | Market research survey | Request for Information (RFI) |
+| ----- | ----- | ----- |
+| **Formality** | Informal | Formal, part of the acquisition record |
+| **Length** | Short survey (10–20 questions) | Longer with attachments or drafts |
+| **Posting** | Direct to vendors or targeted | Publicly posted (e.g., SAM.gov) |
+| **Purpose** | Quick insight, validation | Deeper insight, planning procurements |
+| **Response Effort** | Low | Medium to high |
+| **Outcome** | Inform strategic thinking | Shapes solicitation structure |
+
+You can distribute your survey in several ways, such as posting it with your RFI or sending it directly to vendors via email.
+
+If your agency allows the use of Google products, you might consider creating your survey in **Google Forms** to make distributing and collecting responses easier.
+
+This [sample Word version](https://techfarhub.cio.gov/assets/files/Sources%20Sought.docx) is based on a real Sources Sought survey originally shared as a Google Form. We’ve adapted it into a Word document so you can easily copy, edit, and distribute it using your agency’s approved tools.
+
+NOTE: [If Google Forms can’t be accessed, alternative tools can be found](https://www.makeuseof.com/best-google-forms-alternatives/). Some are open source, and some have paid-for versions. 
+
+**Virtual industry day webinar or videos:**   
+​In the wake of the COVID-19 pandemic, virtual industry days have become a prevalent method for government agencies to engage with industry partners. Hosting a virtual industry day allows for broader participation, enabling companies from various locations to access critical information without traveling. Recording these sessions ensures that those unable to attend live can view the presentations conveniently. An added advantage of virtual platforms is the ability for participants to submit questions anonymously, fostering more open discussions around requirements and reducing the reticence often observed in traditional in-person industry days.
+
+Examples of virtual industry days:
+
+* [Mission and Installation Contracting Command (MICC) Advance Planning Briefing for Industry (APBI):](https://www.army.mil/article/282863/registration_open_for_2025_army_contracting_virtual_outreach_for_industry?utm_source=chatgpt.com) In response to COVID-19 safety precautions, the MICC transitioned to a virtual format for its annual APBI event. This approach allowed small businesses and industry partners to engage in contracting forecasts and discussions without the need for physical attendance.  
+* [PILCast Episode \#9](https://www.youtube.com/watch?v=u_FQM9yR_2Q) \- Innovative Techniques for Market Research: The PIL has experimented with incorporating videos into these solicitations to provide a more dynamic and comprehensive understanding of project needs.
+
+**Blogs \+ social media:** Use blogs and social media, such as LinkedIn, to socialize an upcoming requirement or to engage a community around the problem you are trying to solve. Tell the compelling story of the agency and the need, and you will entice the kinds of companies who respond well to this type of outlet. Procurement language is formal and somewhat off-putting for a vibrant digital service community. By adapting to the community, we can show industry that we can learn their communication patterns and build trust from the first publication of the need. 
+
+**Similar industry experts:** Another way to interact with the industry is as an advisor. Finding an industry with similar challenges and problems as ours and discussing how they implement digital service techniques and solutions can help lend insight to how the commercial world buys these services. For example, Virgin Air has been awarded the Best Functional Web Design, Webby Award. An airline company is similar to an agency in terms of regulations, compliance, etc., but it must also engage customers to use its web services to book travel. Nothing prevents the government from contacting other industries to candidly discuss the method and the market that supports their products. In this space, the government is another consumer with similar challenges. 
+
+**Using a 3rd party to conduct market research**
+
+When the government needs to make a strategic technology choice—such as selecting a commercial off-the-shelf (COTS) solution, AI platform, open source alternative, or cloud platform—it’s often too complex to decide without deep technical research. By engaging with a third-party vendor to conduct the market research, you can significantly improve your decision-making by providing data that can help better inform acquisition strategies. An 8(a), GSA non-SOW schedule purchase, or a simplified acquisition, can give you a light-weight market research sprint acquisition to help a larger, more complex decision-making process. 
+
+**What can this market research cover?**
+
+**1\. Product and platform evaluation**
+
+* Feature/functionality analysis
+
+* Licensing and cost models
+
+* Security posture (FedRAMP, SOC2, etc.)
+
+* Performance and scalability
+
+* Extensibility and vendor lock-in risks
+
+**2\. Real-life scenario testing**
+
+* Use your agency’s real workflows or data (where possible).
+
+* Simulate mission-critical use cases.
+
+* Collect user feedback on the interface or performance.
+
+* Conduct short pilots, sandboxes, or demos.
+
+**3\. Integrator ecosystem maturity**
+
+* Assess the maturity of the services community around each product/platform.
+
+* Consider:
+
+  * How many qualified integrators exist?
+
+  * What delivery models do they use?
+
+  * What is their experience in government contexts?
+
+  * Are they aligned to agile, modular delivery?
+
+  * Are they familiar with Section 508, FedRAMP, and the 21st Century IDEA Act?  
+  * If Open Source, how involved is their community in the continual development of the tool? 
+
+---
 ## **Engaging the industry traditionally**
 
 The more “traditional” ways to engage with industry also have a place. These include pre-solicitation notices, draft RFPs, RFIs, pre-solicitation or pre-proposal conferences, and site visits. The Myth-Busting memo referred to at the beginning of this module offers the following suggestions on these topics:
