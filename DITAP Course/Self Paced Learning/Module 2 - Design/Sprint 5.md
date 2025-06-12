@@ -141,6 +141,37 @@ Answering questions about a potential acquisition from vendors before a solicita
 - [[X]] D. Lower costs (correct)
 
 ---
+## How to Communicate Effectively 
+
+By now, you can explain why pre-solicitation communication is important. Let’s take a few minutes to look at how to do it most effectively. Here are a few tips:
+
+### 1\. Provide foundational information
+
+Think of the information you have to provide in the shape of a pyramid. The background and mission of your agency program form the foundation of that pyramid, and the other elements are built on top of that foundation. When going into the market research phase, you may not know the constraints, requirements, timelines, and resources you have or need for the acquisition. Utilize market research to get information that will help guide the requirements development process and determine the rest of the information needed for a solicitation. 
+
+![A pyramid diagram illustrating a hierarchy for effective communication, from a broad base to a narrow top: Background and Mission, Desired Outcomes, Constraints, Timelines and Resources, and Reqs (Requirements)](https://github.com/kristenjernigan/kj-liatest/blob/a54fd80832e1b2564b3ac8f6d4a476f6c3847667/Media/Module%202/communicate%20effectively%20pyramid.png)
+
+Read about each building block of the pyramid above. 
+
+**1\. Background and Mission:** All agency programs and acquisitions must be tied to supporting and accomplishing the agency’s mission. The more your potential vendors know about your mission and related background information, the more likely they are to propose appropriate solutions and provide proper support for that mission. Be sure to include the end users of the system, their specific problems, and any attempts to meet those needs in previous acquisitions. Are there lessons learned or retrospectives of those efforts that would help the industry not repeat previous approaches? 
+
+**2\. Desired outcomes:** The desired outcomes inform and drive the acquisition requirements. You want to buy products or services that help you and your users accomplish specific outcomes (think of the [Digital Services Playbook Play \#1](https://playbook.usds.gov/#play1)), not simply complying with a list of requirements. Market research may be less effective if a product vision has not been defined, or what outputs equal success aren’t understood. 
+
+**3\. Constraints:** These are operating conditions, environments, or circumstances that limit the possibilities that vendors can propose to provide your desired outcomes. Examples include cybersecurity regulations, agency policies, and server environments. Because constraints impose limits on innovation and can introduce unnecessary costs to potential vendor solutions, every effort should be made to avoid unnecessary constraints or allow flexibility in complying with those constraints. 
+
+Some constraints are absolutely necessary, and potential vendors should be aware of them to propose compliant solutions. While it may not be appropriate to communicate all timelines and resource constraints, consider the benefits of being as transparent as possible.
+
+**4\. Timelines and resources:** Vendors can’t offer realistic information about satisfying your desired outcomes if they don’t know timelines or available government manpower, dollars, and equipment resources. For example:
+
+* Will software development and/or testing be done on government or vendor servers?  
+  * How long would vendors have to accomplish the requirements? What can be accomplished in two years is substantially different from what can be accomplished in two months.   
+  * How much is the government willing to invest? What the government is willing to budget impacts the proposed resulting system's quality, acceptability, and functionality.
+
+A vendor can’t and won’t propose a premier solution on a shoestring budget. Still, since you’re trying to determine what’s possible, you may choose not to disclose timelines and resources available for the acquisition. Instead, indicate a broad range, from “x” to “y” of available resources, and encourage industry to expand on trade-offs and potential solutions within that schedule and resources.
+
+**5\. Requirements:** Requirements are the result of considering your mission, desired outcomes, constraints, timelines, and resources, along with what you learned from your market research, including industry communications, and establishing the scope of your acquisition. Your statement of those requirements describes what needs to be realistically provided or accomplished by the impending contract or contracts. These requirements may be communicated to industry as a Statement of Work (SOW), but they may also take other, more open-ended forms such as a Statement of Objectives (SOO). It may be helpful to draft these documents, but depending on where you are in market research, it’s okay to not yet have the requirements defined. The knowledge of the technical staff supporting the project and how familiar they are with the market should be considered. 
+
+---
 
 ## **Engaging the industry traditionally**
 
