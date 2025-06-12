@@ -180,11 +180,17 @@ As you’ve learned throughout this module, engaging early with industry is crit
 
 **MVPs & challenges.** MVPs and challenges help test acquisition hypotheses to determine how best to conduct a full solicitation for a product. They allow for a lightweight way to determine if a particular platform, service, or tool can be implemented in an agency or solve an agency problem before making a significant investment. These approaches prove that the platform, service, or tool works or doesn’t work via actual delivery; they get a functioning solution from end users to see how well they respond. This reduces overall risk and lets an agency try before it buys. Contrast this with long-term market analysis reports that provide helpful information but don’t allow you to try and test with end users.
 
+![A hand-drawn blue circular brushstroke framing the red text, 'Do the minimum needed to test your product'](https://github.com/kristenjernigan/kj-liatest/blob/05ca2c2a603adf55f12235a7508de79c86ef5cd2/Media/Module%202/MVP.png)
+
 **MVPs:** The Minimum Viable Product (MVP), or alpha delivery, can be complex. In product development, the minimum viable product (MVP) has just enough features to gather “validated learning” about the product and its continued development. It uses a minimum investment to test a product. An MVP tests the actual usage scenario in contrast to conventional market research that relies on surveys or focus groups, often providing misleading results. Here are some more resources to further your understanding of MVPs:
 
 * The popular file-sharing system [Dropbox](https://techcrunch.com/2011/10/19/dropbox-minimal-viable-product/) started as an MVP.
 
+![ ](https://github.com/kristenjernigan/kj-liatest/blob/05ca2c2a603adf55f12235a7508de79c86ef5cd2/Media/Module%202/Challenges.jpg)
+
 **Challenges:** Challenges are a great way to test out pilots or prototypes – get small MVPs created without going through the formal acquisition process. Also, it is potentially a way to encourage the open-source community to interact with the government. It does not require that individuals or companies be registered with a DUNS number, unless the challenge rules call for that specifically. [Challenge.gov](https://www.challenge.gov/) has a complete list of current challenges and how to use them.
+
+![ ](https://github.com/kristenjernigan/kj-liatest/blob/05ca2c2a603adf55f12235a7508de79c86ef5cd2/Media/Module%202/IndustryDays.jpg)
 
 **Reverse industry days:** When determining where to take market research and how to understand what is available in a certain technology sector, a reverse industry day is a great market research tool. Short presentations allow the industry to tell the government what existing solutions can meet the problem. There is no specific FAR reference to these. Still, they are becoming more common and in the digital service sector could be very beneficial to finding and getting companies interested in telling the government what kind of products or services exist that can meet our needs without a formal “RFI” process having to be completed first. Here are a few recent examples:
 
@@ -224,6 +230,8 @@ This [sample Word version](https://techfarhub.cio.gov/assets/files/Sources%20Sou
 
 NOTE: [If Google Forms can’t be accessed, alternative tools can be found](https://www.makeuseof.com/best-google-forms-alternatives/). Some are open source, and some have paid-for versions. 
 
+![ ](https://github.com/kristenjernigan/kj-liatest/blob/05ca2c2a603adf55f12235a7508de79c86ef5cd2/Media/Module%202/Webinars.png)
+
 **Virtual industry day webinar or videos:**   
 ​In the wake of the COVID-19 pandemic, virtual industry days have become a prevalent method for government agencies to engage with industry partners. Hosting a virtual industry day allows for broader participation, enabling companies from various locations to access critical information without traveling. Recording these sessions ensures that those unable to attend live can view the presentations conveniently. An added advantage of virtual platforms is the ability for participants to submit questions anonymously, fostering more open discussions around requirements and reducing the reticence often observed in traditional in-person industry days.
 
@@ -232,7 +240,11 @@ Examples of virtual industry days:
 * [Mission and Installation Contracting Command (MICC) Advance Planning Briefing for Industry (APBI):](https://www.army.mil/article/282863/registration_open_for_2025_army_contracting_virtual_outreach_for_industry?utm_source=chatgpt.com) In response to COVID-19 safety precautions, the MICC transitioned to a virtual format for its annual APBI event. This approach allowed small businesses and industry partners to engage in contracting forecasts and discussions without the need for physical attendance.  
 * [PILCast Episode \#9](https://www.youtube.com/watch?v=u_FQM9yR_2Q) \- Innovative Techniques for Market Research: The PIL has experimented with incorporating videos into these solicitations to provide a more dynamic and comprehensive understanding of project needs.
 
+![ ](https://github.com/kristenjernigan/kj-liatest/blob/05ca2c2a603adf55f12235a7508de79c86ef5cd2/Media/Module%202/Blog.jpg)
+
 **Blogs \+ social media:** Use blogs and social media, such as LinkedIn, to socialize an upcoming requirement or to engage a community around the problem you are trying to solve. Tell the compelling story of the agency and the need, and you will entice the kinds of companies who respond well to this type of outlet. Procurement language is formal and somewhat off-putting for a vibrant digital service community. By adapting to the community, we can show industry that we can learn their communication patterns and build trust from the first publication of the need. 
+
+![ ](https://github.com/kristenjernigan/kj-liatest/blob/05ca2c2a603adf55f12235a7508de79c86ef5cd2/Media/Module%202/Industry_Experts.jpg)
 
 **Similar industry experts:** Another way to interact with the industry is as an advisor. Finding an industry with similar challenges and problems as ours and discussing how they implement digital service techniques and solutions can help lend insight to how the commercial world buys these services. For example, Virgin Air has been awarded the Best Functional Web Design, Webby Award. An airline company is similar to an agency in terms of regulations, compliance, etc., but it must also engage customers to use its web services to book travel. Nothing prevents the government from contacting other industries to candidly discuss the method and the market that supports their products. In this space, the government is another consumer with similar challenges. 
 
