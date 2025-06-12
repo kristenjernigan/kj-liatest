@@ -45,6 +45,48 @@ After completing this module, you should be able to:
 * Discuss why pre-solicitation communication with offerors is essential in acquiring digital services.  
   * Describe ways you can communicate effectively with potential vendors before solicitation of digital services.  
   * Identify best practices for responsible pre-solicitation communication when procuring digital services.
+ 
+---
+## Acquisition Process Myths 
+
+To alleviate some of these concerns and encourage agencies to pursue all legitimate avenues of communication, the Office of Federal Procurement Policy (OFPP) developed two memoranda addressing 10 government and eight vendor “myths” regarding the acquisition process. Review these lists before you dig into this module, and then keep them in mind as you move forward. Many of the myths deal with responsible pre-solicitation (the focus of this module), but others apply to other phases in the acquisition lifecycle. Do your part as an acquisition myth-buster\!
+
+### Government Myths
+
+|   | Government Myth | Fact |
+| :---- | ----- | ----- |
+| 1\. | “We can’t meet one-on-one with a potential offeror.” | Government officials can meet one-on-one with potential offerors if no vendor receives preferential treatment. |
+| 2\. | “Since communication with contractors is like communication with registered lobbyists, and since contact with lobbyists must be disclosed, more communication with contractors will involve a substantial additional disclosure burden, so we should avoid these meetings.” | Disclosure is required only in certain circumstances, such as for meetings with registered lobbyists. Many contractors don’t fall into this category, and even when disclosure is required, it is usually a minimal burden that should not prevent a useful meeting from occurring. |
+| 3\. | “A protest is something to be avoided at all costs \- even if it means the government limits conversations with industry.” | Restricting communication won’t prevent a protest; it might increase the chance of one and deprive the government of potentially helpful information. |
+| 4\. | “Conducting discussions/negotiations after receipt of proposals will add too much time to the schedule.” | Whether discussions should be conducted is a key decision for contracting officers to make. Avoiding discussions solely because of schedule concerns may be counterproductive and cause delays and other problems during contract performance. |
+| 5\. | “If the government meets with vendors, that may cause them to submit an unsolicited proposal, which will delay the procurement process.” | Submission of an unsolicited proposal shouldn’t affect the schedule. Generally, the unsolicited proposal process is separate from the process for a known agency requirement that can be acquired using competitive methods. |
+| 6\. | “When the government awards a task or delivery order using the Federal Supply Schedules, debriefing the offerors isn’t required, so it shouldn’t be done.” | Providing feedback is important for both offerors and the government, so agencies should generally provide feedback whenever possible. |
+| 7\. | “Industry days and similar events attended by multiple vendors are of low value to industry and the government because industry won’t provide useful information in front of competitors, and the government doesn’t release new information.” | Well-organized industry days, pre-solicitation, and pre-proposal conferences are valuable opportunities for the government and potential vendors, both prime contractors and subcontractors, many of whom are small businesses. |
+| 8\. | “The program manager already talked to the industry about developing the technical requirements, so the contracting officer doesn’t need to do anything else before issuing the Request for Proposal (RFP).” | The technical requirements are only part of the acquisition. Getting feedback on terms and conditions, pricing structure, performance metrics, evaluation criteria, and contract administration matters will improve the award and implementation process. |
+| 9\. | “Giving industry only a few days to respond to an RFP is OK since the government has been talking to industry about this procurement for over a year.” | Providing short response times may result in the government receiving fewer proposals, and the ones received may not be as well-developed, which can lead to a flawed contract. This approach signals that the government isn’t interested in competition. |
+| 10\. | “Getting broad participation by many different vendors is too difficult; we’re better off dealing with the established companies we know.” | The government loses when we limit ourselves to the companies we already work with. Instead, we must look for opportunities to increase competition and ensure that all vendors, including small businesses, are considered fairly. |
+
+
+### Vendor Myths
+
+|  | Vendor Myth | Fact |
+| :---- | ----- | ----- |
+| 1\. | “The best way to present my company’s capabilities is by marketing directly to contracting officers and/or signing them up for my mailing list.” | Contracting officers and program managers are often inundated with general marketing material that doesn’t reach the right people at the right time. As an alternative, vendors can take advantage of the various outreach sessions that agencies hold to connect contracting officers and program managers with companies whose skills are needed. |
+| 2\. | “It is a good idea to bring only business development and marketing people to meetings with the agency’s technical staff.” | In meetings with government technical personnel, bringing subject matter experts to the meeting is far more valuable than focusing on the sales pitch. |
+| 3\. | “Attending industry days and outreach events isn’t valuable because the agency doesn’t provide new information.” | Industry days and outreach events can be valuable sources of information for potential vendors and are increasingly being used to leverage scarce staff resources. |
+| 4\. | “Agencies generally have already determined their requirements and acquisition approach, so our impact during the pre-RFP phase is limited.” | Early and specific industry input is valuable. Agencies generally expend great effort collecting and analyzing information about capabilities within the marketplace. It’s best to be as specific as possible about what works, what doesn’t, and how it can be improved. |
+| 5\. | “If I meet one-on-one with agency personnel, they may share my proprietary data with my competition.” | Agency personnel are responsible for protecting proprietary information from disclosure outside the government and will not share it with other companies. |
+| 6\. | “Agencies have an obligation not to share information about their contracts, such as prices, with other agencies, similar to the obligation they have not to disclose proprietary information to the public.” | There are no general limitations on disclosing information regarding existing contracts between agencies within the government. Agencies are encouraged to share pricing information to ensure we get the best value for our taxpayers. |
+| 7\. | “To develop my new proposal, I don’t need to tailor my solution to the specific solicitation since the government won’t read my proposal that closely anyway.” | Offerors should tailor each proposal to the evaluation criteria, proposal instructions, and specific solicitation requirements to which they respond. Contracting officers and evaluation team members read proposals closely to ensure compliance with the proposal instructions. They must then evaluate them against the evaluation factors and the statement of work in the solicitation. |
+| 8\. | “If I lose the competition, I shouldn’t bother to ask for a debriefing.” | Unsuccessful offerors should ask for a debriefing to understand the award decision and improve future proposals. |
+
+If you would like to read the original Myth-Busting memos, which offer more details, you may access them online at: 
+
+* [“Myth-Busting”: Addressing Misconceptions to Improve Communication with Industry during the Acquisition Process](https://obamawhitehouse.archives.gov/sites/default/files/omb/procurement/memo/Myth-Busting.pdf)
+
+We will refer to these memos again later in the module. 
+
+
 
 ---
 
