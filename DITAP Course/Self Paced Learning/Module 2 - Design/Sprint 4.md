@@ -6,7 +6,7 @@ Effective market research is the cornerstone of a successful digital services ac
 This unit equips acquisition professionals with the tools, methods, and mindset needed to conduct meaningful market research. Learners will explore resources like the Gartner Magic Quadrant, discover unconventional data sources such as open GitHub repositories and Reddit communities, and develop a personalized Acquisition Toolkit to capture ideas, tools, and strategies for future use. By blending structured analysis with flexible exploration, participants will learn to generate actionable intelligence that supports smart, user-centered procurement decisions.
 
 ---
-
+.
 ### Learning Objectives
 
 By the end of this unit, participants will be able to:
