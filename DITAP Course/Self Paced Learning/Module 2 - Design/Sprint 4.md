@@ -6,7 +6,6 @@ Effective market research is the cornerstone of a successful digital services ac
 This unit equips acquisition professionals with the tools, methods, and mindset needed to conduct meaningful market research. Learners will explore resources like the Gartner Magic Quadrant, discover unconventional data sources such as open GitHub repositories and Reddit communities, and develop a personalized Acquisition Toolkit to capture ideas, tools, and strategies for future use. By blending structured analysis with flexible exploration, participants will learn to generate actionable intelligence that supports smart, user-centered procurement decisions.
 
 ---
-.
 ### Learning Objectives
 
 By the end of this unit, participants will be able to:
@@ -24,6 +23,64 @@ By the end of this unit, participants will be able to:
 * Assess how data-driven insights from market research can improve requirements definition and vendor engagement
 
 ---
+
+## Building Your Market Research Toolkit
+
+### Build Your Personalized Acquisition Toolkit
+
+As you move through this course, you’ll be exposed to a wide range of market research tools, strategies, and resources. But not everything will resonate with everyone. That’s why you’ll create your own Acquisition Toolkit—a living, personal resource that helps you capture what works for *you*, what you want to explore more, and what might help you in real-world procurement work.
+
+This Toolkit is yours to build and shape. Use it to document:
+
+* New tools or websites you discover  
+* Blogs, articles, or guides you found helpful  
+* Concepts or ideas you want to try in your work  
+* Data sources or vendor lists you want to keep handy  
+* Questions or reflections as you test ideas
+
+By the end of the course, this toolkit becomes a go-to reference guide, a record of your learning journey, and a cheat sheet for future procurements.
+
+**Example Resources You Might Include:**
+
+* A Medium blog post that helped you understand the Software as a Service (SaaS) marketplace  
+* A link to [Reddit’s r/sysadmin](https://www.reddit.com/r/sysadmin/) for understanding IT culture  
+* A useful past Request for Information (RFI) on [SAM.gov](https://sam.gov)  
+* A federal GitHub repo you didn’t know existed  
+* A source for open datasets like [data.gov](https://data.gov)  
+* A PDF of a General Services Administration (GSA) Emerging Tech report  
+* A quote or idea from a guest speaker you want to remember  
+* A visualization tool or AI prompt that saved you time
+
+#### Concepts I Want to Try:
+
+* Use a short video in future RFIs to explain context  
+* Send a Google Form instead of a 5-page RFI  
+* Try drafting a “challenge brief” instead of a traditional Statement of Objectives (SOO)
+
+#### Helpful Articles, Blogs, or Posts:
+
+* *“How Startups Read Your RFI” – Medium post* → Gave me a new perspective on industry’s point of viewPOV  
+* *DSC’s Guide to AI in Procurement* → Helped clarify what’s hype vs helpful
+
+#### Data Sources & Reports:
+
+* [Data.gov](https://data.gov) → For understanding digital inclusion metrics  
+* Government Accountability Office (GAO) Reports on Agile Contracts → Reference for senior leadership buy-in
+
+#### Ongoing Questions:
+
+* How do I figure out if I’m asking too much in my RFI?  
+* When is it okay to skip an RFI entirely?  
+* How do small businesses *actually* find out about opportunities?
+
+#### Assignment Instructions:
+
+1. Start your Toolkit in the first week of the course and organize it however makes sense for you\!  
+2. Add to it weekly based on readings, lectures, personal exploration, or class discussions.  
+3. Share a few highlights from your Toolkit near the end of the course (not graded—just shared insights).
+
+---
+
 ## **Responsible Pre-Solicitation Communication**
 
 ### Introduction
