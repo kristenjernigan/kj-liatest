@@ -30,6 +30,16 @@ Your OGC may not have in-depth knowledge of your program or acquisition, making 
   * If you’re faced with a difficult question on a complicated topic, ask for OGC help early. Figuring out what is reasonable and enforceable regarding government data rights and intellectual property and incorporating that information early in your acquisition strategy will allow for a more coherent, compliant solicitation and source selection plan.  
   * Do the research yourself. Synopsize and provide references (e.g., GAO decisions, policy, regulation, statute, acquisition guidance documents) supporting your position. Provide both sides of a position and alternatives, but back up your desired course with compelling references. Be complete, but succinct. They just need to know that your argument is complete and in the government’s best interest and that backing you won’t hurt them.
 
+---
+## What is Intellectual Property?
+
+In a digital age, Intellectual Property (IP) isn’t as easy to safeguard as it has been in the past. In the days past, an artist such as Van Gogh would paint something, and it would be a one-of-a-kind piece that would be sold by the artist only once. Now that you can re-print a canvas, you can buy multiple copies of The Starry Night. However, the painting—the original image—is still the artist's intellectual property and resides in a museum. So, how does he (his estate) get compensated for reprints? How can this artist monitor or account for people who find the image online and upload it to a local printer or website to create their own canvas re-print? Of course, these sorts of questions extend to all digital media. If it is on the internet, can it be kept safe? Can we prevent people from obtaining a movie illegally or sharing music?
+
+![The Starry Night by Vincent van Gogh](https://github.com/kristenjernigan/kj-liatest/blob/03179a35315f8ecd02c79dc75d24b6fd360d0104/Media/Module%203/The%20Starry%20Night%20-%20Vincent%20van%20Gogh.jpg) 
+
+When buying digital services, you can apply many of these concepts to the government. IP is protected in law through patents, copyright, and trademarks, which enable people to earn recognition or financial benefit from what they invent or create. 
+
+
 
 
 
