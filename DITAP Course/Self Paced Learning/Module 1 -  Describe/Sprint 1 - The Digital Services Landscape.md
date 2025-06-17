@@ -11,7 +11,7 @@ At the conclusion of this module, you will be able to:
 
 ### Defining Digital Services
 
-Let’s start with the WHAT. What is meant by digital services? That is, in fact, the question. It cannot be defined by one simple noun or even one simple sentence. To define digital services, we need to ask ourselves more questions: who, what, why, where, and how?
+Let’s start with the what. What is meant by digital services? That is, in fact, the question. It cannot be defined by one simple noun or even one simple sentence. To define digital services, we need to ask ourselves more questions: who, what, why, where, and how?
 
 ### Digital Service Wheel
 
