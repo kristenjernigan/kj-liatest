@@ -73,11 +73,52 @@ By the end of the course, this toolkit becomes a go-to reference guide, a record
 * When is it okay to skip an RFI entirely?  
 * How do small businesses *actually* find out about opportunities?
 
-#### Assignment Instructions:
+### Assignment Instructions:
 
 1. Start your Toolkit in the first week of the course and organize it however makes sense for you\! Refer to the Acquisition Toolkit Worksheet to help you get started.
 2. Add to it weekly based on readings, lectures, personal exploration, or class discussions.  
 3. Share a few highlights from your Toolkit near the end of the course (not graded—just shared insights).
+
+---
+
+## Acquisition Toolkit Worksheet
+
+This toolkit is your personal space to capture ideas, tools, articles, and reflections throughout the course. Use it to build a custom resource that helps you navigate real-world market research and acquisition work.
+
+### Useful Links & Tools
+
+List any tools, websites, or platforms that you find valuable.
+
+| Name/Link | Description | Why It’s Useful to Me |
+| :---- | :---- | :---- |
+| &nbsp;<br><br> | &nbsp;<br><br> | &nbsp;<br><br> |
+| &nbsp;<br><br> | &nbsp;<br><br> | &nbsp;<br><br> |
+| &nbsp;<br><br> | &nbsp;<br><br> | &nbsp;<br><br> |
+
+
+### Concepts I Want to Try:
+
+Use bullet points to list acquisition or market research ideas you want to experiment with.
+
+·        \-
+
+### Helpful Articles, Blogs, or Posts:
+
+Track readings or content that helped shape your thinking. Include links or key takeaways.
+
+·        \-
+
+### Data Sources & Reports:
+
+Add links or titles to datasets, market reports, or other sources you want to revisit.
+
+·        \-
+
+### Ongoing Questions:
+
+Jot down any questions that come up during the course you want to revisit or discuss later.
+
+·        \-
 
 ---
 
