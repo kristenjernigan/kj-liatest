@@ -75,7 +75,7 @@ By the end of the course, this toolkit becomes a go-to reference guide, a record
 
 #### Assignment Instructions:
 
-1. Start your Toolkit in the first week of the course and organize it however makes sense for you\!  
+1. Start your Toolkit in the first week of the course and organize it however makes sense for you\! Refer to the Acquisition Toolkit Worksheet to help you get started.
 2. Add to it weekly based on readings, lectures, personal exploration, or class discussions.  
 3. Share a few highlights from your Toolkit near the end of the course (not graded—just shared insights).
 
