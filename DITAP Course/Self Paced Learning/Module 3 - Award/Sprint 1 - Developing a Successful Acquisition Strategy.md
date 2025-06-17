@@ -61,11 +61,45 @@ Let’s begin with definitions of IP and then shift into how it directly affects
 The government has put in place measures to protect all types of IP. When considering digital services, the Digital Millennium Copyright Act (DMCA) is a vital copyright law to be familiar with. DMCA is a U.S. copyright law that implements two 1996 World Intellectual Property Organization (WIPO) treaties. It criminalizes:
 
 * Production and dissemination of technology, devices, or services intended to circumvent measures (commonly known as digital rights management or DRM) that control access to copyrighted works.  
-  * The act of circumventing an access control, whether or not there is actual infringement of copyright itself.
+* The act of circumventing an access control, whether or not there is actual infringement of copyright itself.
 
 In addition, the DMCA heightens the penalties for copyright infringement on the internet.
 
 Read more about the [Digital Millennium Copyright Act of 1998, U.S. Copyright Office summary](http://www.copyright.gov/legislation/dmca.pdf).
+
+---
+## FAR Subpart 27.4 Rights in Data and Copyrights
+
+Digital services acquisition—particularly acquisitions involving software development or existing proprietary solutions—is substantially impacted by the contractual arrangements for data rights between the contractor and the government. These arrangements affect competition, legal liability, lifecycle costs, and related issues.
+
+Accordingly, digital services acquisition professionals like you must be familiar with and understand FAR 27.4 and its clauses. Under FAR 27.402, and as discussed previously in this program, agencies may require data to be delivered under contracts, and the ability to use or disclose it, to:
+
+(1) Obtain competition among suppliers;  
+(2) Fulfill specific responsibilities for disseminating and publishing the results of their activities;  
+(3) Ensure appropriate utilization of the results of research, development, and demonstration activities, including the dissemination of technical information to foster subsequent technological developments;  
+(4) Meet other programmatic and statutory requirements; and  
+(5) Meet specialized acquisition needs and ensure logistics support.
+
+Conversely, contractors may have proprietary interests in data that provide competitive advantages in the commercial or government marketplace or both. Protection of legitimate proprietary data from unauthorized use and disclosure “…is necessary to encourage qualified contractors to participate in and apply innovative concepts to Government programs. In light of these considerations, *agencies shall balance the Government's needs and the contractor’s legitimate proprietary interests.”*
+
+[**Video - Data Rights: Understanding and Negotiating Data Rights**](https://www.youtube.com/watch?v=BZBys4jBZOk)
+
+
+### What does “data” mean, and how does it apply to data rights and copyrights?
+
+FAR 27.401 defines data in the following ways:
+
+* “Data” means recorded information, regardless of form or the media on which it may be recorded. The term *includes technical data and computer software*. The term *does not* *include information incidental to contract administration, such as financial, administrative, cost or pricing, or management information.*  
+* “Form, fit, and function data”: For computer software, this means data identifying the source, functional characteristics, and performance requirements, but it *specifically excludes the source code, algorithms, processes, formulas, and flow charts of the software*.  
+* “Restricted computer software” means computer software *developed at private expense and that is a trade secret; is commercial or financial and confidential or privileged; or is copyrighted computer software, including minor modifications of such computer software.*
+
+While the definitions and resulting data rights under a contract may seem straightforward, many issues must be considered when deciding who (the contractor and the government) gets which type of rights to what data in any particular contract. The clauses and alternates associated with this FAR part provide a variety of arrangements and tailoring to support the government and contractor’s interests, given the particular circumstances of any digital services acquisition.
+
+It’s important to note that in federal acquisition, the contractor is responsible for claiming proprietary data and marking it as such when delivered to the government. Absent such claims and markings, the contractor may not be able to enforce limitations on the government’s rights to that data.
+
+When data is first produced under the performance of the contract, the government historically prefers complete contractor ownership of the data to encourage commercial development; however, the government often retains complete license to the data without fees or cost in perpetuity. While this practice was mainly for hardware, equipment, and supplies developed and delivered under contract at government expense, the principle applies to software, even software solutions developed using open source code. The potential for applying the solution, in whole or in part, to commercial markets is a powerful incentive for commercial contractors to engage in government contracts and a source of potential government leverage in negotiations.
+
+
 
 
 
