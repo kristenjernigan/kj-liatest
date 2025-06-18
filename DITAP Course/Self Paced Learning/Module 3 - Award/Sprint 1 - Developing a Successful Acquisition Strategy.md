@@ -137,6 +137,27 @@ The principle of First Performance is also key. Generally, when the software sol
 
 The data rights clauses prescribed in FAR Part 27 allow for establishing the parties' data rights and ownership, as well as mechanisms for asserting those rights in the contract. However, suppose the government asserts the need for specific government rights for parts of, or the entirety of, the solution. In that case, that needs to be established in the solicitation, made a condition for source selection, negotiated, and memorialized in the resulting contract requirements and clauses. To the maximum extent possible, both parties should understand the government's and contractor's IP and data rights going in to minimize problems later.
 
+---
+## Data in the Cloud (It’s Cloudy Out There\!)
+
+What about data in the cloud? Here are some common questions and answers about such data.
+
+### Q: If I store my data in the cloud, does that make it public?
+
+A: No. Just as commercial sector customers using cloud services expect security and privacy for the data or content stored in the cloud, the government also has that reasonable expectation. Supporting that expectation is the Federal Risk and Authorization Management Program (FEDRAMP), which supports the certification and listing of cloud providers who meet strict security and reliability requirements for content stored in their infrastructure.
+
+### Q: Does storing Personally Identifiable Information (PII) in the cloud mean I don’t have to get authorization to establish a database with PII?
+
+A: No. The statutory requirements for establishing a system or database that collects or stores PII cannot be circumvented, regardless of where that system or database resides. If archiving functions or processing are moved to the cloud, a complete approval process for a system may be required, or merely certification that the repository is secure. Consult your HR, Security, and Agency Counsel.
+
+### Q: If my custom software solution is deployed in a cloud service (SaaS), does that mean the government can’t get unlimited data rights for the software?
+
+A: No, cloud storage has no impact on data rights.
+
+### Q: My custom software solution and corresponding database are in the cloud. Does it have to stay that way? What if I need to switch development contractors down the road?
+
+A: No. Assuming the government obtained rights in the custom solution (which they should), they can choose to store it wherever they want. The complication here is that if the solution was developed to operate in the cloud, it may be financially or time-prohibitive to move it.
+
 
 
 
