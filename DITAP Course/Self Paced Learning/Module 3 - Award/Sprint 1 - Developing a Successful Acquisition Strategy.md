@@ -183,6 +183,33 @@ You may have a latent defect. The contractor knew, but whether the government co
 
 However, the best approach is an adequate testing regime (automated, preferably), combined with a proper definition of done that supports reliable examination of the delivered functionality. Good communication between team members (government and contractor) will help identify where required testing and inspection may be inadequate and how to resolve the issue before it becomes a problem. Sometimes it’s more productive to focus on fixing the problem instead of assigning blame and equitable adjustments.
 
+---
+## What Happens When Open Source Software Breaks?
+
+If you are developing software using open-source software as your foundation, there’s potential for malfunctions. The question is, who’s responsible if the software stops working? This needs to be built into the contract to protect the government. You’ll want to ensure that the contractor/vendor is responsible for fixing the software, no matter where it comes from or how they built it.
+
+In the case of commercial software, the vendor owns the source code, and liability for the performance of the code is clear since they control it from start to finish. This concept doesn’t directly apply to solutions developed using open source since the contractor doesn’t “own” the code. The contractor doesn’t control releases or upgrades, and doesn’t control identification or patching of vulnerabilities in the software. Nor is the open source software’s controlling organization a subcontractor that can be held accountable through a contractual relationship with the “prime” applicable to its contract with the government. The licensing agreement for the open source platform makes no guarantees or warranties about suitability, reliability, or merchantability, nor is there consideration involved.
+
+### Third-party developers
+
+The third-party developer (the open source licensee) proposes that the open source software to be used is suitable for the need and will meet the contractual requirements. In the proposal evaluation process, the government will determine whether that assertion is realistic and backed up by historical information in the commercial and government markets.
+
+In evaluating whether the third-party developer’s use of a particular open-source platform for the custom software solution is reasonable regarding performance risk, the government has several approaches available:
+
+* Evaluate aspects of past performance or experience, including experience with open-source software such as contributions to the base version (e.g., upgrades, patches) accepted by the controlling organization and projects successfully completed using the specific open-source software.  
+* Evaluate reliability and compliance stats with industry standards, including testing and security regimes.  
+* Examine the third-party developer risk mitigation and corrective methods for the open-source software in case it breaks. Does the developer have any documented experience in this area?
+
+Actions the government can take when implementing to reduce risks include:
+
+* Incorporate testing procedures and test environment for new releases before deploying to the production environment.  
+* Use backups to restore the previous release configuration when the new release breaks things.  
+* Is the open-source software white-listed at your agency? That’s a good indicator of lower risk using that software.  
+* Be prepared to pay for maintenance and support. If your solution was written in Ruby on Rails 4.0 and your agency just upgraded to 4.2, are you sure everything will keep working?  
+* If agency personnel modify the software themselves, all bets are off, and vendor liability will likely evaporate.
+
+Understand that the offeror has to sell you on his choice of open source software and his ability to manage the risks of using what he doesn’t own. Ensure your solicitation is clear: you must be comfortable with the risks of using a proposed open source platform being manageable and palatable. Also, ensure that the vendor is ready to be contractually obligated to deal with problems arising from using a particular open source platform.
+
 
 
 
