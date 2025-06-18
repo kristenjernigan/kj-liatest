@@ -210,6 +210,29 @@ Actions the government can take when implementing to reduce risks include:
 
 Understand that the offeror has to sell you on his choice of open source software and his ability to manage the risks of using what he doesn’t own. Ensure your solicitation is clear: you must be comfortable with the risks of using a proposed open source platform being manageable and palatable. Also, ensure that the vendor is ready to be contractually obligated to deal with problems arising from using a particular open source platform.
 
+---
+## Knowledge Check
+
+**Multiple Choice**
+
+What term refers to distinguishing the goods or services of one enterprise from those of other enterprises?
+
+A. Patent  
+B. Copyright  
+C. Trademark  
+D. Official seal
+
+**Correct answer: C**
+
+**True or False**
+
+You can patent open-source software as your own and resell it commercially.
+
+True  
+False
+
+**Correct answer: False**
+
 
 
 
