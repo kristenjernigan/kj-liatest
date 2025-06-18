@@ -158,6 +158,31 @@ A: No, cloud storage has no impact on data rights.
 
 A: No. Assuming the government obtained rights in the custom solution (which they should), they can choose to store it wherever they want. The complication here is that if the solution was developed to operate in the cloud, it may be financially or time-prohibitive to move it.
 
+---
+## Legal Liabilities
+
+You need to consider your IP rights and protection, and any potential legal liabilities that could arise with your digital service. Examples include latent defects and patent defects.
+
+### Patent defects
+
+The government should notice patent defects upon a “reasonable” inspection of the delivered service or supply. 
+
+For example, your agency’s website requires public users to input Personally Identifiable Information (PII) to interact with the agency; however, the PII input screen does not appear upon login. 
+
+You have a patent defect. If the government had been monitoring performance and delivery adequately, it would have discovered the software's lack of adequate security. In such a circumstance, the assignment of liability between the contractor and the government may be a bit contentious. It will probably hinge on the specific requirements of the contract document.
+
+### Latent defects
+
+Latent defects are different. Those defects are not discoverable in a reasonable inspection of the delivered service or supply. For example:
+
+1. The developer provided documentation for the required security testing of a prior obsolete version of the code instead of the delivered version.  
+2. The organization that maintains the open source code used in your custom solution had issued two major security patches a week before the contractor delivered the latest release, and the contractor neglected to mention the discovered vulnerabilities or implement the available patches.  
+3. The software failed to produce a retroactive listing of annual patches.
+
+You may have a latent defect. The contractor knew, but whether the government could have reasonably discovered this before delivery and deployment is unclear. If the government were reasonably expected to inventory vulnerability patches, maybe. Resolution, again, depends on the terms and conditions of the contract. Did the contract require all patches to be current as of the delivery date? Was the government’s reliance on the contractor’s documentation reasonable? Legal precedent indicates that it could be the case.
+
+However, the best approach is an adequate testing regime (automated, preferably), combined with a proper definition of done that supports reliable examination of the delivered functionality. Good communication between team members (government and contractor) will help identify where required testing and inspection may be inadequate and how to resolve the issue before it becomes a problem. Sometimes it’s more productive to focus on fixing the problem instead of assigning blame and equitable adjustments.
+
 
 
 
