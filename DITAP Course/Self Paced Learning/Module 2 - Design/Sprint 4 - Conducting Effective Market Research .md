@@ -121,6 +121,31 @@ Jot down any questions that come up during the course you want to revisit or dis
 ·        \-
 
 ---
+## The Magic Quadrant
+
+The Magic Quadrant is a market research tool used by the market research firm Gartner. The Magic Quadrant tool helps you think about the market through the lens of your customer’s needs. As Gartner explains in its discussion of the Magic Quadrant, you can generally segment a market four ways as depicted in the Magic Quadrant below:
+
+![A chart divided into four quadrants by horizontal and vertical axes. The horizontal axis is labeled "Completeness of Vision" and the vertical axis is labeled "Ability to Execute." The four quadrants are labeled as follows: Top Left: Challengers, Top Right: Leaders, Bottom Left: Niche Players, Bottom Right: Visionaries.](https://github.com/kristenjernigan/kj-liatest/blob/a167e49b6dcb9af8b1d5faeaf9d8aebf4824e9b9/Media/Module%202/Gartner%20Magic%20Quadrant.png)
+
+*Graphic retrieved from [http://www.business2community.com/](http://www.business2community.com/) on 10/7/2016*  
+*Gartner Quadrant \- © 2016 Gartner, Inc. and/or its Affiliates. All Rights Reserved.*
+
+Using a tool like this can help you further segment the market and make market research more efficient. Read more about the Gartner Magic Quadrant approach [here and how you can tailor it for your use](http://www.gartner.com/technology/research/methodologies/research_mq.jsp). If you want to dive deeper into a current Gartner Quadrant, check [this one out from Deloitte](https://www.deloitte.com/global/en/about/recognition/analyst-relations/gartner-magic-quadrant-for-digital-experience-services.html). 
+
+**How can you use this tool in your own work?**
+
+As a federal contracting professional, you’ll often need to explore different types of solutions like open source, commercial off-the-shelf (COTS), or proprietary software to meet your agency’s digital service needs. One way to organize what you learn is by creating a simple comparison chart, like the Gartner Magic Quadrant. You can use it to quickly show how different options stack up based on what matters most to your customer. Try adapting the chart by changing up the labels on each axis relative to your customer’s needs.  Here’s how to get started:
+
+1. First, identify the characteristics of your customer’s needs. Who is the end user and what are their main concerns? Is it security, ease of use, cost, or another factor?  
+2. Next, select the two most important characteristics and plot them on your own quadrant on each axis. For example, are your customer’s largest priorities security and price?  
+3. Once you determine what your magic quadrant looks like, then begin to place vendors in each quadrant as they best fit.  Plotting providers in the quadrants is a quick way to determine which companies deserve the most of your limited time and attention. Focus on those vendors in the section of your quadrant that is most important to your customer.  
+4. As a final step, look at those vendors that are in the quadrant you are targeting. Narrow your follow-on research to that quadrant and focus on those characteristics. Determine if you need to do more market research to define your acquisition strategy and approach. You may want to discuss your findings with your team and be prepared to share them in class during the case study review and application activities.
+
+### Market Intelligence vs. Market Research
+
+Market research is the process of gathering and analyzing information about capabilities within the commercial marketplace to benefit from its technologies and competitive forces in meeting an agency need. In contrast, market intelligence focuses on specific classes of customers, including demographic and geographic information and what they buy, all of which can help inform an analysis of business intelligence. [Read this short article](https://www.businessnewsdaily.com/4697-market-intelligence.html) and consider how market intelligence might help your agency in framing out an understanding of the commercial market.
+
+
 
 ## **Responsible Pre-Solicitation Communication**
 
