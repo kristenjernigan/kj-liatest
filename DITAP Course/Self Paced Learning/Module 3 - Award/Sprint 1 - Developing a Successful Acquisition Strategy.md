@@ -99,6 +99,31 @@ It’s important to note that in federal acquisition, the contractor is responsi
 
 When data is first produced under the performance of the contract, the government historically prefers complete contractor ownership of the data to encourage commercial development; however, the government often retains complete license to the data without fees or cost in perpetuity. While this practice was mainly for hardware, equipment, and supplies developed and delivered under contract at government expense, the principle applies to software, even software solutions developed using open source code. The potential for applying the solution, in whole or in part, to commercial markets is a powerful incentive for commercial contractors to engage in government contracts and a source of potential government leverage in negotiations.
 
+---
+## Contribution, Attribution, Retribution…Oh My\!
+
+Open source means public domain, right? Short answer is…wrong. Even open-source software has licensing agreements and copyright protections. These affect how open source software is developed, used, maintained, upgraded, and when used to develop custom software, the IP rights of the developer. The Business Software Alliance's “Open Source and Commercial Software \- An In-Depth Analysis” paper is an excellent primer for this issue and many others related to IP in open source software. The paper describes open source and IP as follows:
+
+*“Open Source” is a software-licensing model where the software's source code is typically made royalty-free to the software users, under terms allowing redistribution, modification, and addition, though often with certain restrictions. The support, training, updates, and other services for the software may be provided by a range of entities, increasingly under commercial arrangements. Open source programs are often, though not exclusively, developed through a collaborative effort in which several persons contribute elements of the final software. Software companies also contribute paid programmer time and in-house programs to the open source community.”*
+
+So, how does this affect the government's acquisition of professionals? The data rights arena directly affects what the custom software developer can claim as restricted data or proprietary software in the delivered solution. Because open source code can be integrated with proprietary software in developing a solution, it also impacts the type, magnitude, and level of open software components the contractor may incorporate. For a better understanding, let’s look at the two main types of open software licensing agreements typically in use today.
+
+### GNU General Public License (GPL)
+
+Developers using open source software under a GPL cannot sell “derivative” works they develop from the software at more than the nominal distribution cost. Because the source code is subject to the GPL in the solution, both the developer and the customer are subject to the terms of the GPL for the source code of that derivative work. This means the customer can make copies and distribute the software to as many people or agencies as desired with no additional payments due to the developer. 
+
+While this presents a problem for the contractor in making its developed solution commercially viable, the contractor can charge what the market will bear for setup, installation, training, and other services supporting the software installation and operation.
+
+The GPL is not a standard, one-size-fits-all document, and there are more than a few variants established by organizations that control open source software to fit their commercial, cultural, and mission needs.
+
+### Berkley Software Distribution (BSD) License
+
+Open source software subject to the BSD License is more easily converted to a commercially viable product for developers because they can integrate their own source code and then market and distribute the resulting software under more traditional IP and commercial software licensing arrangements.
+
+Digital services acquisition professionals like you should understand these two licensing arrangements regarding government rights in data and the proposed solution(s) to be acquired. While the effectiveness of the proposed/contracted solution for the agency’s mission is paramount, licensing agreements can affect IP claims, which will in turn affect sustainment and maintenance, and access and rights to data (including the cost of distributing the software solution to other agencies or components).
+
+
+
 
 
 
