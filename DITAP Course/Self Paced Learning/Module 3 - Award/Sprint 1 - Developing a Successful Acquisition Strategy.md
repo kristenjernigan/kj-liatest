@@ -122,6 +122,21 @@ Open source software subject to the BSD License is more easily converted to a co
 
 Digital services acquisition professionals like you should understand these two licensing arrangements regarding government rights in data and the proposed solution(s) to be acquired. While the effectiveness of the proposed/contracted solution for the agency’s mission is paramount, licensing agreements can affect IP claims, which will in turn affect sustainment and maintenance, and access and rights to data (including the cost of distributing the software solution to other agencies or components).
 
+---
+## Who Owns Open Source Code?
+
+As covered in the previous section, open source doesn’t necessarily mean public domain. In addition, ownership of software solutions developed from open source platforms depends significantly on the terms of the licensing agreement issued by the controlling organization and the terms and conditions of the contract under which the government acquired it. 
+
+If you interpret ownership as the ability to control something, then the range and depth of that control define effective ownership. Complete “ownership” of open source will never truly be attained by the government since the open source code is managed and maintained by the controlling organization (e.g., Mozilla, Ruby on Rails), in joint ownership with the contributors, under the terms of the applicable licensing agreement.
+
+However, the licensing agreement, together with the negotiated terms and conditions of the contract, can provide the government with sufficient control to support the acquisition requirements, both long-term and short-term.
+
+From previous content and discussion in the program, we know that open source can offer a path to effective software solutions without the IP issues and cost of proprietary solutions. In effect, it can provide effective government control and ownership of the solution.
+
+The principle of First Performance is also key. Generally, when the software solution is first developed under a government contract at government expense, the government gets unrestricted rights to the solution. However, it is rarely as clean as that. The software solution may incorporate First Performance data with open source (GPL or BSD) and previously developed proprietary (restricted) software. Ownership of the data and IP assignment gets more complicated in such conditions.
+
+The data rights clauses prescribed in FAR Part 27 allow for establishing the parties' data rights and ownership, as well as mechanisms for asserting those rights in the contract. However, suppose the government asserts the need for specific government rights for parts of, or the entirety of, the solution. In that case, that needs to be established in the solicitation, made a condition for source selection, negotiated, and memorialized in the resulting contract requirements and clauses. To the maximum extent possible, both parties should understand the government's and contractor's IP and data rights going in to minimize problems later.
+
 
 
 
