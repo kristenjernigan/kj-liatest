@@ -50,6 +50,55 @@ We will discuss each of these in more detail as we go, but recognize that none e
 
 ---
 
+## The Acquisition Plan and Lean Canvas Approach
+
+!image here
+
+As you know, planning is an essential part in the acquisition process, and   
+this is particularly true in digital services acquisitions. The Federal Acquisition Regulation (FAR) requires that some acquisition planning be accomplished and documented for every acquisition, consistent with the size and complexity of the procurement. And let’s admit it, we have all seen the acquisition plan—and some of the other required items in the contract file—as “check the box” items. You complete them because you have to, but might not put a lot of effort into them. When buying digital services, however, your acquisition plan takes on a new level of importance. Do not take it lightly.. This is where the lean canvas tool can help.
+
+### Using the Lean Canvas Approach
+
+You were introduced to this tool in Module 2\.  In this module, you will put this tool into action.  The lean acquisition canvas is a way to capture the main points in the acquisition strategy or plan in a quick reference format that provides a high-level vision for the acquisition. The idea of using lean approaches comes from [Lean Startup methodology](http://theleanstartup.com/principles).This approach was originally designed as a way to create and manage startups to quickly get products into customers’ hands using an efficient “build-measure-learn” cycle. The methodology is called “lean” for a reason—it favors testing and experimenting over elaborate upfront planning. These “lean” approaches are quickly being adopted by both large and small businesses across various industries For instance, you may have read about applications of lean methodologies to user experience (UX) design as part of the readings in Module 1\. These lean approaches were used to develop the “lean canvas” approach for writing “lighter,” more effective business plans. (You can read more about the [lean startup concept](https://hbr.org/2013/05/why-the-lean-start-up-changes-everything) and [lean canvas](https://www.lap-alliance.org/why-lap/the-lean-procurement-canvas). There are even [tools](https://canvanizer.com/new/lean-canvas) to help you build virtual lean canvases\!)
+
+ These concepts can be applied to acquisitions as well. Typically, the acquisition strategy and acquisition plan are seen as paperwork exercises— lengthy documents that take time.
+
+The name of our game is Agile\! We want to be efficient and not spend all of our time planning instead of doing.  The lean canvas will bring the acquisition strategy and plan to the forefront of the team’s vision and get everyone on the same page, literally and figuratively. By presenting a high-level overview of the major components of the acquisition strategy and plan, it allows teams to more easily talk through decisions and tradeoffs as they shape the Product Vision.
+
+Let’s look at two examples of how you might re-imagine the various parts of an acquisition plan using the lean canvas tool:
+
+#### Example 1: Lean Acquisition Planning Canvas: Acquisition Background and Objectives
+
+|  |  |
+| --- | --- |
+| **Statement of Need** | Product Vision / Objective / Desired Outcomes |  |
+|**Cost** | Ask the following questions:<br> - How will we approach price structure?<br>- What are the risks for T&M versus FP?<br>- What is most advantageous to the government? |
+| **Trade-Offs** |Ask the following questions: <br>- Look at the iron triangle of schedule/cost/scope/quality.<br>- Rank these factors with relation to the importance of this acquisition.<br>- What factors need to be included in a tradeoff discussion? |
+| **Risks** | Ask the following questions:<br>- What is the greatest risk to the end user?<br>- What is the greatest risk to the agency?<br>- What is the greatest risk to acquisition success?<br>- How do we mitigate these risks? |
+| **Acquisition Streamlining** | Ask the following questions:<br>- What does industry engagement look like?<br>- Can you start with a blog to get interest?<br>- How do we craft a message that makes industry want to work on this acquisition?<br>- What does phased approach to acquisition look like? |
+| **Applicable Conditions** | Ask the following questions:<br>- Is there an existing legacy system that it is replacing?<br>- What cost, delivery, environmental constraints exist?<br>- What will this have to interface with?<br>- Is this going into a cloud environment? Why or why not?<br>- Can you use open source? Why or why not? |
+| **Delivery or Performance Requirements** |Ask the following questions:<br> - What can be envisioned for a Minimum Viable Product(MVP)?<br>- Do you need a design phase?<br>- What does modular contracting opportunities look like for this?<br>- Are there program or organizational dates that affect urgency or performance? |
+
+#### Example 2: Lean Acquisition Planning Canvas: Plan of Action
+|  |  |
+| --- | --- |
+| **Test and Evaluation** | Ask the following questions:<br>- What amount of testing must be accomplished before production release?<br>- How will you incorporate usability testing?<br>- Do you have IV&V requirements or contracts?<br>- How will automated testing be incorporated? |
+| **Sources** | Ask the following questions:<br>- Are there required sources or vehicles?<br>- Are there preferred sources or socio-economic category requirements?<br>- What is the result of market research? |
+| **Competition** | Ask the following questions:<br>- Will this be competed?<br>- What are the competition goals? |
+| **Budgeting and Funding** | Ask the following questions:<br>- How much budget is set out for this?<br>- Is there an Independent Government Cost Estimate (IGCE)?<br>- What is the office willing to invest to get success?<br>- What fiscal year funding concerns need to be addressed?<br>- What color of money is being used? |
+| **Logistics Considerations** |Ask the following questions:<br> - What is the impact or requirements for operations following an MVP deployment?<br>- Will you include data rights clauses in your solicitation?<br>- Are you willing to develop in the open and share development with other agencies? |
+| **Contract Administration** | Ask the following questions:<br> |
+| **Contract Type** | Ask the following questions:<br> |
+| **Acquisition Considerations** | Ask the following questions:<br>- Have you considered open source, mixed source, commercial off-the-shelf (COTS), or proprietary software as referenced in the Federal Source Code Policy?<br>- Will you be using performance-based acquisition? Why or why not? |
+| **Source Selection Procedures** | Ask the following questions:<br>- Have you considered a multi-phased approach to source selection?<br>- Will you have a coding or agile walkthrough challenge?<br>- Who is performing the technical evaluation and what is their current agile or design maturity?<br>- Is Earned Value Management (EVM) required?<br>- What is your timeline and plan for negotiations?<br>- Will you consider due diligence and discussions with vendors? |
+
+How can you integrate the lean canvas tool to your advantage, you ask? Well, you can use them to:  
+
+* **More effectively work with your stakeholders.** As many of you have noted on the discussion boards and in guided learning sessions, the processes and techniques you are learning for digital services acquisition are unfamiliar to many stakeholders. This means you may encounter resistance and sometimes outright hostility to your chosen approach. The lean canvas can help you not only make your case, but also provide the vehicle for required approvals of your acquisition solution.  
+* **Record the “why” of your solution.** You may still need a formal acquisition plan, so base it on your lean canvas tool.  The plan provides the historical record and justification for the acquisition solution in the contract file.
+
+
+
 ## Compliance & Other Legal Issues
 
 This online module will teach you about regulatory compliance, legal considerations, and risk avoidance/mitigation when procuring digital services. It will address significant challenges identified in acquiring digital services and provide guidance and best practices to address those challenges. Specifically, it will address intellectual property and data rights and how to protect your data in a digital service environment.
