@@ -28,7 +28,27 @@ In either case, it is important to document all of the decisions made throughout
 
 Each time you update or complete an activity, you will want to revise your acquisition strategy and document it using the lean canvas approach that you learned about in the Release 2 classroom session. This lean canvas is a living document and will evolve as you refine your strategy and gain input from stakeholders and the vendor community. You will learn more about the lean canvas later in this module.
 
+---
+## What Feeds the Acquisition Strategy?
 
+Planning your acquisition strategy helps you lay out the scheduling, integration, and coordination of all acquisition-related efforts and is an essential and required component of all acquisitions. It should begin as soon as you identify the need for the acquisition.
+
+There are many considerations that feed the development of an acquisition strategy. It begins with the Product Vision, the principle driver of the overall acquisition solution (refer to the [Requirements Development and Acquisition Planning](https://techfarhub.cio.gov/handbook/requirements/) section of the TechFAR for more discussion of the Product Vision and the Release 2 content). The Product Vision also influences how other conditions and considerations in both the market and your acquisition environment will be handled in the acquisition solution. Conditions and considerations as they exist in the market and at your agency may have either positive or negative impacts on the acquisition strategy and solution. You want to plan for these impacts to seize opportunities and mitigate potential problems.
+
+These other conditions and considerations include, but are not limited to:
+
+* Stakeholder engagement, including their level of capability and cooperation  
+* Availability and applicability of existing contract vehicles  
+* New contract vehicle considerations  
+* Contract type and pricing structure  
+* Funding and programmatic considerations  
+* Legacy systems and services, i.e., technical requirements, security concerns, risk, etc.  
+* State of the market  
+* How you will evaluate vendor quotes/proposals
+
+We will discuss each of these in more detail as we go, but recognize that none exist in a vacuum. Each has the potential to impact the other considerations, which can substantially affect the ultimate acquisition strategy and solution. Understanding these conditions and considerations as they apply to your acquisition and Product Vision is key to effective planning.
+
+---
 
 ## Compliance & Other Legal Issues
 
