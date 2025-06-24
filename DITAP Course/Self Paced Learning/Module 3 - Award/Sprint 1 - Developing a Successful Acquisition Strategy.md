@@ -52,7 +52,7 @@ We will discuss each of these in more detail as we go, but recognize that none e
 
 ## The Acquisition Plan and Lean Canvas Approach
 
-!image here
+![](https://github.com/kristenjernigan/kj-liatest/blob/0d2f0879d93d9deb2ed4363ca05edcfb5bb273ae/Media/Module%203/checklist.png)
 
 As you know, planning is an essential part in the acquisition process, and   
 this is particularly true in digital services acquisitions. The Federal Acquisition Regulation (FAR) requires that some acquisition planning be accomplished and documented for every acquisition, consistent with the size and complexity of the procurement. And let’s admit it, we have all seen the acquisition plan—and some of the other required items in the contract file—as “check the box” items. You complete them because you have to, but might not put a lot of effort into them. When buying digital services, however, your acquisition plan takes on a new level of importance. Do not take it lightly.. This is where the lean canvas tool can help.
