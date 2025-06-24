@@ -97,7 +97,35 @@ How can you integrate the lean canvas tool to your advantage, you ask? Well, you
 * **More effectively work with your stakeholders.** As many of you have noted on the discussion boards and in guided learning sessions, the processes and techniques you are learning for digital services acquisition are unfamiliar to many stakeholders. This means you may encounter resistance and sometimes outright hostility to your chosen approach. The lean canvas can help you not only make your case, but also provide the vehicle for required approvals of your acquisition solution.  
 * **Record the “why” of your solution.** You may still need a formal acquisition plan, so base it on your lean canvas tool.  The plan provides the historical record and justification for the acquisition solution in the contract file.
 
+---
+## Common Pitfalls and Risks
 
+Before you sit down to develop the solicitation package, you should consider some common pitfalls and risks that may arise as the acquisition solution is developed. Review the following items before you put the solicitation “on the street”:
+
+* **Is the acquisition focused on the end user and their ability to successfully use the product?** The final product’s end users are key to contract success and delivering a high-quality product. For the purpose of procurement, the acquisition’s end users are the “customer/program owner.” By viewing the acquisition itself as the creation of a “product,” you help align strategic methods throughout the entire process.  
+* **Is the Product Vision clear?** While the details don’t have to be defined, the vision does. All acquisition considerations should be consistent with realizing that vision.  
+* **Is there an exit strategy?** Government typically solves non-performance by increasing funding or lengthening schedules because it’s perceived to be too hard to get out of a contract. Is there a strategy to effectively resolve issues of performance on a contract?  
+* **Are there incentives that can be applied to increase end user satisfaction?** Leverage commercial incentive strategies where and when you can. Speak with trade experts and industry during  your market research,  to gain a better understanding of how the various digital service sectors operate in the private sector.  
+* **Is the acquisition structured around commercial item acquisition methods as referenced in the Federal Acquisition Regulation FAR) Part 12 and 13.5?** Unless we ask the developers to invent a new coding language specifically for the government, we are utilizing commercial item services and products.
+
+| Risk | Mitigation | Links |
+| --- | --- | --- |
+| **Poorly defined requirements**<br>- Misaligned expectations<br>- Scope creep<br>- Failed delivery | - Modular contracting<br>- Discovery sprints<br>- Technical Subject Matter Experts (SMEs)<br>- User involvement and focus | |
+| **Lack of agency technical expertise**<br>- Difficult to evaluate and find the right solution<br>- Prevents oversight and verification | - Identify participants early<br>- Contract for expertise to verify<br>- Identify analogues in other agencies | |
+| **Vendor lock-in**<br>- Higher costs<br>- Loss of data rights<br>- Lack of flexibility<br>- Inability to respond to changes in technical landscape | - Open standards<br>- Application Programming Interfaces (APIs)<br>- Data portability<br>- Open source<br>- Exit clauses<br>- Clear transition plans | [“Rule number one: Avoid vendor lock-in” by Sean Boots](https://sboots.ca/2021/05/12/rule-number-one-avoid-vendor-lock-in/?utm_source=chatgpt.com) |
+| **Lack of regulatory alignment**<br>- Higher costs through rework<br>- Slower time to market<br>- Not serving the taxpayer | - Involve security and privacy early<br>- Include compliance early<br>- Timeline for certification<br>- Automate accessibility | |
+| **Inflexible contracts**<br>- Difficulty respond to change<br>- Higher costs through change orders | - Agile Blanket Purchase Agreements (BPAs)<br>- Performance-based contracting<br>- Do not design the whole system early<br>- Include optional Contract Line Item Numbers (CLINs)<br>- Capacity buying<br>- Multiple award Minimum Viable Products (MVPs)<br>- Outcomes over requirements | |
+| **Lack of user centricity**<br>- Prevents user adoption<br>- Lack of alignment to objectives | - Require Human-Centered Design (HCD) practices and user testing<br>- Fund early prototyping and pilots<br>- Involve end users throughout<br>- Ensure a government product owner is identified | |
+| **Integration/interoperability**<br>- Higher integration costs<br>- Lack of data portability<br>- Higher enterprise costs<br>- Effects user experience and adoption | - Adherence to government data/API standards<br>- Mandate documentation and automate where possible<br>- Test integration points<br>- Technical discovery and architecture reviews | |
+| **Cultural resistance**<br>- Slower time to market<br>- Reduces benefits of Agile<br>- Misaligned expectations | - Engage leadership early<br>- Include change management as a CLIN<br>- Identify internal champions<br>- Demand cross-functional team involvement | |
+| **Security**<br>- Data loss<br>- Personally Identifiable Information (PII) breaches | - DevSecOps practices<br>- Continuous monitoring<br>- Federal Risk and Authorization Management Program (FedRAMP) tools and infrastructure | |
+| **Tech obsolescence**<br>- Higher costs due to system replacement<br>- Effects user adoption<br>- Inability to respond to tech landscape changes | - Modular design<br>- Tech refresh clauses in long-term contracts and Commercial off-the-shelf (COTS) products or services<br>- Consistent industry interactions | |
+
+
+### **Discussion question (optional):**
+Based on what you’ve learned, what are some mistakes you would avoid for your next procurement? Share the wealth with your peers here\! 
+
+---
 
 ## Compliance & Other Legal Issues
 
