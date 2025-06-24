@@ -251,7 +251,8 @@ As government agencies embrace modern technology and user-centered practices, it
 ### Thought Leaders
 
 * [Jennifer Pahlka / Niskanen Center](https://www.linkedin.com/in/jpahlka/)   
-* [Mikey Dickerson](https://www.linkedin.com/in/mikeydickerson/)  
+* [Mikey Dickerson](https://www.linkedin.com/in/mikeydickerson/)
+* [Vernon Edwards](https://thefarbootcamp.com/component/content/article/vernon-j-edwards?catid=11)
 * [Erie Meyer](https://www.linkedin.com/in/eriemeyer/)  
 * [Amy Gleason](https://www.linkedin.com/in/gleasonamy/)  
 * [Ann Lewis](https://www.linkedin.com/in/theannlewis/)  
