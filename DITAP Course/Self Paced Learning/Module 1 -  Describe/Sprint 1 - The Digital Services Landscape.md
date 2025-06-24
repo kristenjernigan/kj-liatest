@@ -231,7 +231,8 @@ As government agencies embrace modern technology and user-centered practices, it
 * [United States Digital Service (USDS)](https://www.usds.gov/)   
 * [Digital Service at CMS](https://www.cms.gov/digital-service)  
 * [Chief Digital and Artificial Intelligence Office (CDAO)](https://www.ai.mil/) \- DoD   
-* [Customer Experience (CX) at DHS](https://www.dhs.gov/cx) 
+* [Customer Experience (CX) at DHS](https://www.dhs.gov/cx)
+* [US Digital Corps](https://digitalcorps.gsa.gov/) 
 
 
 ### Non-government entities
@@ -249,7 +250,7 @@ As government agencies embrace modern technology and user-centered practices, it
 
 ### Thought Leaders
 
-* [Jennifer Pahlka](https://www.linkedin.com/in/jpahlka/)   
+* [Jennifer Pahlka / Niskanen Center](https://www.linkedin.com/in/jpahlka/)   
 * [Mikey Dickerson](https://www.linkedin.com/in/mikeydickerson/)  
 * [Erie Meyer](https://www.linkedin.com/in/eriemeyer/)  
 * [Amy Gleason](https://www.linkedin.com/in/gleasonamy/)  
@@ -258,6 +259,7 @@ As government agencies embrace modern technology and user-centered practices, it
 * [Dave Zvenyach](https://www.linkedin.com/in/vdavez/)  
 * [Jonathan Mostowski](https://www.linkedin.com/in/jonmost/)  
 * [Haley Van Dyck](https://www.linkedin.com/in/haley-van-dyck-67927191/)
+* [The Nash & Cibinic Report](https://en.wikipedia.org/wiki/The_Nash_%26_Cibinic_Report)
 
 
 
