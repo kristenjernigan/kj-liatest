@@ -259,7 +259,7 @@ As government agencies embrace modern technology and user-centered practices, it
 * [Dave Zvenyach](https://www.linkedin.com/in/vdavez/)  
 * [Jonathan Mostowski](https://www.linkedin.com/in/jonmost/)  
 * [Haley Van Dyck](https://www.linkedin.com/in/haley-van-dyck-67927191/)
-* [The Nash & Cibinic Report](https://en.wikipedia.org/wiki/The_Nash_%26_Cibinic_Report)
+* [The Nash & Cibinic Report (Monthly periodical)](https://en.wikipedia.org/wiki/The_Nash_%26_Cibinic_Report)
 
 
 
