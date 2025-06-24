@@ -1,6 +1,5 @@
 # Module 3 Sprint 1
 
----
 ## Introduction: Developing an Acquisition Strategy
 
 Effective acquisition planning is essential for ensuring that government agencies deliver the right solutions to their users—on time, within budget, and aligned with mission needs. Whether adjusting an existing contract or developing a new procurement from the ground up, a well-documented acquisition strategy reduces risk, promotes transparency, and supports informed decision-making throughout the pre-award process.
@@ -16,6 +15,18 @@ By the end of this module, you will be able to:
 * Apply key pre-award activities—such as stakeholder engagement and market research—to inform strategic decisions  
 * Describe the lean canvas approach and its role as a living document in agile acquisition environments  
 * Recognize when and how to update the acquisition strategy based on new inputs and evolving conditions
+
+---
+## Why Do We Plan?
+
+Just as in our personal lives, in the government, we plan so that we reduce the risk of buying the wrong solution. We want to ensure we are buying the solution our users need at a price we can afford.  As you may know from your on-the-job experience, acquisition planning and the strategy will differ somewhat depending on a few factors:
+
+* You may inherit an existing contract that requires adjustment, so you will need to build a strategy for making those adjustments.  
+* You may be involved in developing a new strategy for a new procurement.
+
+In either case, it is important to document all of the decisions made throughout the pre-award process and include what led you to those decisions. This support rationale will come from all of the pre-award activities you have conducted, from product visions to market research, and all communications with stakeholders.
+
+Each time you update or complete an activity, you will want to revise your acquisition strategy and document it using the lean canvas approach that you learned about in the Release 2 classroom session. This lean canvas is a living document and will evolve as you refine your strategy and gain input from stakeholders and the vendor community. You will learn more about the lean canvas later in this module.
 
 
 
