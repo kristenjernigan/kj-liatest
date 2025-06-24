@@ -163,10 +163,17 @@ The following challenges and recommended approaches are offered to help guide yo
   * Ensure that data from the service is explicitly in the public domain, and that rights are waived globally via an international public domain dedication, such as the “Creative Commons Zero” waiver.  
   * Catalog data in the agency’s enterprise data inventory and add any public datasets to the agency’s public data listing.  
   * Ensure that Government maintains the rights to all data developed by third parties in a manner that is releasable and reusable at no cost to the public.  
-  * Ensure that Government maintains contractual rights to all custom software developed by third parties in a manner that is publishable and reusable at no cost.  
+  * Ensure that Government maintains contractual rights to all custom software developed by third parties in a manner that is publishable and reusable at no cost. 
 * *Use warranties and innovate*: Pull content from the FAR. In addition to the warranties prescribed in the FAR, contracting officers should request more l warranties that extend beyond the period of performance, holding contractors liable for the products that they produce.
 
+---
+## Stakeholder Engagement: Capability and Cooperation
 
+Many of the techniques you are learning in this program will be new territory for your stakeholders. Customers, as well as stakeholders in the acquisition review process, may be put off by all these unfamiliar concepts. They may be resistant to moving the acquisition forward in accordance with your vision or your team’s vision. This has to figure into your acquisition approach. Sometimes, small steps are better than rapid wholesale change. Keep as much as you can in familiar territory for these people, and move them in the direction they need to go incrementally. Think of it as another aspect of “buy small, miss small.”
+
+If an organization is just starting to adopt agile processes, it may make more sense to establish a plan to slowly ramp up the organization under the performance of the contract versus jumping right into a two-week development sprint.
+
+We will explore how you can influence your stakeholders and gain their buy-in in the online training later in this iteration.
 
 
 ## Compliance & Other Legal Issues
