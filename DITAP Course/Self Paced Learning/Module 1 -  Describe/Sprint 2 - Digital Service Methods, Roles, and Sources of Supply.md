@@ -62,7 +62,7 @@ You might think you know what your end user needs. However, starting development
 
 Read how the Department of Education developed a simple prototype made of cardboard and paper to test their ideas for a mobile-friendly college scorecard. They also took Play 1 to heart in other ways by talking directly to high school students and leveraging a variety of data to inform their development.  
 
-[Behind the scenes: Building a new College Scorecard with students](https://obamawhitehouse.archives.gov/blog/2015/09/12/under-hood-building-new-college-scorecard-students)
+[Behind the scenes: Building a new College Scorecard with students](https://medium.com/the-u-s-digital-service/under-the-hood-building-a-new-college-scorecard-with-students-cbcf21a745fc) 
 
 ### A/B Testing
 
