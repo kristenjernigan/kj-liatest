@@ -26,7 +26,7 @@ Just as in our personal lives, in the government, we plan so that we reduce the 
 
 In either case, it is important to document all of the decisions made throughout the pre-award process and include what led you to those decisions. This support rationale will come from all of the pre-award activities you have conducted, from product visions to market research, and all communications with stakeholders.
 
-Each time you update or complete an activity, you will want to revise your acquisition strategy and document it using the lean canvas approach that you learned about in the Release 2 classroom session. This lean canvas is a living document and will evolve as you refine your strategy and gain input from stakeholders and the vendor community. You will learn more about the lean canvas later in this module.
+Each time you update or complete an activity, you will want to revise your acquisition strategy and document it using the lean canvas approach that you learned about in the Module 2. This lean canvas is a living document and will evolve as you refine your strategy and gain input from stakeholders and the vendor community. You will learn more about the lean canvas later in this module.
 
 ---
 ## What Feeds the Acquisition Strategy?
