@@ -126,6 +126,48 @@ Before you sit down to develop the solicitation package, you should consider som
 Based on what you’ve learned, what are some mistakes you would avoid for your next procurement? Share the wealth with your peers here\! 
 
 ---
+## Contract Exit Strategies
+
+As part of the acquisition strategy cycle, you need to plan for what happens if things go wrong and you need to plan a contract exit. From a lack of delivery to a change in needs, there are many reasons why you might need to exit a contract early. In industry, this can happen quickly, but in Government, it is not always as easy. From building flexibility into your contracts to planning communication around insufficient results, it’s important to have solid exit strategies planned out as part of your acquisition strategy.
+
+The following challenges and recommended approaches are offered to help guide you through this process. Follow them closely or choose your own adventure\!
+
+ **Challenge: Have a clear vision of what you are buying and why.**
+
+* *Before thinking about exiting, consider why you are entering.* Identify if your contract, the way you envision it, is the best option to meet your needs. Explore more options like prototyping, pilots, or [challenges.](https://techfarhub.usds.gov/resources/learning-center/field-guides/tech-challenge-playbook/)  
+* *Know what your objective is*. Can you define what success looks like? What does it not look like? What are the high-level contract objectives?  
+* *Focus on delivery.* Create a trusted environment where individuals can innovate but allows both contractor and government the ability to exit when necessary.
+
+ **Challenge: Scope your contract in a safe way.** 
+
+* *Use modular contracting and limit contract scope.* Leveraging the Federal Acquisition Regulation (FAR) Part 39.103 \- Modular Contracting can help you avoid long periods of performance. When possible, limit award periods of performance to six months or a year. Shorter periods of performance avoid the need for termination. Product delivery should happen within a year. Smaller contracts are easier to manage, identify potential points of failure, and re-compete.  
+* *Separate product purchases from service purchases.* When purchasing a solution that includes licenses for a commercial off-the-shelf (COTS) product and custom development work, consider creating a separate licensing contract from the development contract. This allows the government maximum ownership over the solution and makes the transition easier if a development contractor change is needed.  
+
+**Challenge:** **Motivate and manage your contractors.** 
+
+* *Build in award term option incentives*. Since the contractor controls the award of the follow-on contract, it is important to incentivize the team as much as the contractor. Align option periods to sprints and use award term incentives to motivate contractors.   
+* *Monitor progress using Agile software development tools and techniques.* Monitor progress toward objectives and measure the value provided to users using tools like Jira. Keep up to date with decisions made during backlog grooming sessions. Track development team velocity. 
+
+**Challenge: Avoid lengthy on-boarding and security clearance timelines.**    
+* *Leverage multiple award Blanket Purchase Agreements (BPAs) to keep the vendor pool small, but already cleared*. Some agencies will allow for cleared staff to be on-boarded under a BPA number. This helps when transition needs to occur quickly and time is not available for ramping up new staff.  
+   
+**Challenge:** **Motivate and manage your contractors**
+
+* *Include any documentation requirements as part of agile iterations, not in a separate task.* Required documentation should be specified in the definition of done. Be sure that documentation is completed and delivered throughout the life of the contract or task, not just at the end. Take into consideration that requesting more documentation may take time away from the completion of technical tasks.  
+* *Remember the importance of transition planning*. Awarded contracts must include some type of transition plan. This plan should account for both the incoming and outgoing transition of code, knowledge, and documentation.
+
+**Challenge: Get the most out of your contract.** 
+
+* *Follow Play 13 of the [Digital Service Playbook](http://playbook.cio.gov/#play13), “Default to Open”*.
+* Consider the following:  
+  * Ensure that data from the service is explicitly in the public domain, and that rights are waived globally via an international public domain dedication, such as the “Creative Commons Zero” waiver.  
+  * Catalog data in the agency’s enterprise data inventory and add any public datasets to the agency’s public data listing.  
+  * Ensure that Government maintains the rights to all data developed by third parties in a manner that is releasable and reusable at no cost to the public.  
+  * Ensure that Government maintains contractual rights to all custom software developed by third parties in a manner that is publishable and reusable at no cost.  
+* *Use warranties and innovate*: Pull content from the FAR. In addition to the warranties prescribed in the FAR, contracting officers should request more l warranties that extend beyond the period of performance, holding contractors liable for the products that they produce.
+
+
+
 
 ## Compliance & Other Legal Issues
 
