@@ -228,7 +228,28 @@ Ask yourself:
 * Is the proposal realistic regarding cost, schedule, and the approach for satisfying the product vision?  
 * Suppose you establish multiple award vehicles like an IDIQ or BPA. How can you develop streamlined selection criteria in the Fair Opportunity procedures to make awarding orders rapid, simple, and effective?
 
-  --- 
+--- 
+## Funding and Programmatic Considerations
+
+As acquisition and contracting professionals, we are very familiar with the typical “color of money” and continuing resolution issues that impact what, and how much, can be acquired. These are just a few of many issues where you bring your knowledge and creativity to bear and encourage your customer to do the same. To help you think creatively, consider the following:
+
+**Question assumptions:** Question high estimates, long timelines for implementation, overly specific technical requirements (or requirement gathering processes), and legacy sustainment. Do you need to replace an existing product or service wholesale, or can it be transitioned incrementally? Does it only need augmentation? What are the costs, risks, benefits, and opportunities associated with any particular approach to legacy systems or a new procurement? What about technology data/IP rights, operations and maintenance, upgrades, future completion, future functionality requirements, etc? 
+
+
+**Funding:** Consider funding and budget implications of all previous decisions. What lessons learned can be taken from previous contracts? Were deliverables based on delivering an actual system or documents and plans? If the budget doesn’t allow for procurement of the complete product vision right now, explore cheaper interim solutions and incremental solutions that build upon the initial product or service, and structure the contract vehicles to support that strategy. This may include vehicles that allow orders to qualified and capable contractors as funding and need arise. This is also consistent with the FAR Part 39 emphasis on modular contracting. You’ll want to structure your budget and contract to support timely delivery.
+
+**Flexibility:** What flexibility is there in your customer’s requirements? Is an interim or partial solution possible while delivering the total product vision? Which methods could be used to achieve that?
+
+**Contract type:** An important consideration is contract type. The two most commonly used for digital services are Firm Fixed Price (FFP) and Time and Materials (T\&M) or Labor Hours (similar to T\&M but without the materials). These are almost at opposite ends of the contract spectrum as far as assumption of risk by the contractor and government. FFP shifts the performance risk to the contractor, who must perform the work at the agreed-upon fixed price. On the other hand, T\&M has the government assuming much of the performance risk because the contractor is paid hourly, essentially without a firm guarantee of results delivered. 
+
+Each type has its place when contracting for digital services. A fixed-price contract is suitable when the work can be defined in sufficient detail so that performance uncertainties are identified and manageable. However, the issue with digital services is that it’s often extremely difficult and overly complicated to formulate detailed statements of requirements suitable for fixed-price contracts. 
+
+Time and materials benefit the contractor performing work, and neither party is constrained by a detailed statement of work or specification that may require constant changes or become quickly obsolete. T\&M may provide the flexibility necessary for rapid developmental efforts, where the programming and testing follow right behind the customer’s articulation of needs. 
+
+Modular contracting is a technique that may reduce program risks in dealing with rapidly changing requirements and technology while incentivizing contractor performance. It consists of dividing up a system into smaller increments, which are then easier to manage. It’s easier to address complex issues incrementally, provide for delivery and testing in discrete increments, and allow future increments. Concerning contract type, each module/increment could be performed on a fixed price basis since the contractor assumes much less overall risk because of the fewer unknowns.
+
+---
+
 ## Compliance & Other Legal Issues
 
 This online module will teach you about regulatory compliance, legal considerations, and risk avoidance/mitigation when procuring digital services. It will address significant challenges identified in acquiring digital services and provide guidance and best practices to address those challenges. Specifically, it will address intellectual property and data rights and how to protect your data in a digital service environment.
