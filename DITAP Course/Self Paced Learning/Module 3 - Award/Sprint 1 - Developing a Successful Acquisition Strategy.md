@@ -132,13 +132,13 @@ As part of the acquisition strategy cycle, you need to plan for what happens if 
 
 The following challenges and recommended approaches are offered to help guide you through this process. Follow them closely or choose your own adventure\!
 
- **Challenge: Have a clear vision of what you are buying and why.**
+**Challenge: Have a clear vision of what you are buying and why.**
 
 * *Before thinking about exiting, consider why you are entering.* Identify if your contract, the way you envision it, is the best option to meet your needs. Explore more options like prototyping, pilots, or [challenges.](https://techfarhub.usds.gov/resources/learning-center/field-guides/tech-challenge-playbook/)  
 * *Know what your objective is*. Can you define what success looks like? What does it not look like? What are the high-level contract objectives?  
 * *Focus on delivery.* Create a trusted environment where individuals can innovate but allows both contractor and government the ability to exit when necessary.
 
- **Challenge: Scope your contract in a safe way.** 
+**Challenge: Scope your contract in a safe way.** 
 
 * *Use modular contracting and limit contract scope.* Leveraging the Federal Acquisition Regulation (FAR) Part 39.103 \- Modular Contracting can help you avoid long periods of performance. When possible, limit award periods of performance to six months or a year. Shorter periods of performance avoid the need for termination. Product delivery should happen within a year. Smaller contracts are easier to manage, identify potential points of failure, and re-compete.  
 * *Separate product purchases from service purchases.* When purchasing a solution that includes licenses for a commercial off-the-shelf (COTS) product and custom development work, consider creating a separate licensing contract from the development contract. This allows the government maximum ownership over the solution and makes the transition easier if a development contractor change is needed.  
@@ -235,7 +235,6 @@ As acquisition and contracting professionals, we are very familiar with the typi
 
 **Question assumptions:** Question high estimates, long timelines for implementation, overly specific technical requirements (or requirement gathering processes), and legacy sustainment. Do you need to replace an existing product or service wholesale, or can it be transitioned incrementally? Does it only need augmentation? What are the costs, risks, benefits, and opportunities associated with any particular approach to legacy systems or a new procurement? What about technology data/IP rights, operations and maintenance, upgrades, future completion, future functionality requirements, etc? 
 
-
 **Funding:** Consider funding and budget implications of all previous decisions. What lessons learned can be taken from previous contracts? Were deliverables based on delivering an actual system or documents and plans? If the budget doesn’t allow for procurement of the complete product vision right now, explore cheaper interim solutions and incremental solutions that build upon the initial product or service, and structure the contract vehicles to support that strategy. This may include vehicles that allow orders to qualified and capable contractors as funding and need arise. This is also consistent with the FAR Part 39 emphasis on modular contracting. You’ll want to structure your budget and contract to support timely delivery.
 
 **Flexibility:** What flexibility is there in your customer’s requirements? Is an interim or partial solution possible while delivering the total product vision? Which methods could be used to achieve that?
@@ -249,6 +248,41 @@ Time and materials benefit the contractor performing work, and neither party is 
 Modular contracting is a technique that may reduce program risks in dealing with rapidly changing requirements and technology while incentivizing contractor performance. It consists of dividing up a system into smaller increments, which are then easier to manage. It’s easier to address complex issues incrementally, provide for delivery and testing in discrete increments, and allow future increments. Concerning contract type, each module/increment could be performed on a fixed price basis since the contractor assumes much less overall risk because of the fewer unknowns.
 
 ---
+## State of the Market
+
+Due diligence in market research is critical. In the digital services arena, there’s an entire universe of firms that can satisfy your needs. However, many of these firms are overlooked because traditional market research methods fail to identify and engage them. While your program office is responsible for market research, the familiarity factor can often restrict a pool of potential offerors to those with a history with the agency. They may be significantly expanded with nontraditional providers.
+
+As you recall from your training on how to survey the marketplace and how to engage with nontraditional providers, consider the following:
+
+* Leverage small vendors, 8a’s, or other set-asides if possible. Use the knowledge and skills of your agency’s small business program office.  
+* Communicate with colleagues in other agencies who have found or successfully contracted with nontraditional vendors. When practicable, learn and build from their market research.  
+* Research small or niche providers, as they can offer innovative and focused solutions. Just be aware that sometimes, the most innovative solution may not be the best once all relevant issues are considered and weighed.  
+* Use [FAR Part 19](https://www.acquisition.gov/far/part-19). Part 19 offers substantial flexibility for engaging and contracting with small businesses new to government contracting.
+
+As you explore the marketplace, know that new or nontraditional providers can provide serious challenges in contract management simply by not being familiar with how the government does things. It’s a good idea to help them understand CDRLs, contractor certifications, SAM, CPARS/PPIRS, requirements resulting from mandatory clauses and provisions, and other items unique to how the government conducts business. However, to the maximum extent practicable, the government should use procedures, terms, and conditions that are as close to commercial practice as possible. The more familiar and comfortable the contract is, the more likely it is that such vendors will start, and continue, to do business with the government. 
+
+---
+## Knowledge check
+
+1\. As you prepare to buy your product or service, which of the following milestones should be completed?  
+
+A.  Stakeholder engagement, including their level of capability and cooperation  
+B. Contract considerations, i.e., availability and applicability of existing contract vehicles or necessity for a new contract vehicle  
+C. Funding  
+D. Period or performance (base vs. option years)  
+E. All of the above
+
+Correct answer: E. All of the above
+
+2\. When developing an acquisition strategy for procuring a digital service, which of the following is the best option for documenting your strategy?
+
+A. Lean canvas tool  
+B. Acquisition plan  
+C. On sticky notes in your office  
+D. In a series of emails in a folder
+
+Correct answer: A. Lean canvas tool
+
 
 ## Compliance & Other Legal Issues
 
