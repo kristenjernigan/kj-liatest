@@ -6,7 +6,7 @@ Effective acquisition planning is essential for ensuring that government agencie
 
 This module introduces the foundational elements of acquisition strategy planning. Learners will explore how acquisition strategies are shaped by real-world circumstances, why documentation and rationale matter, and how the lean canvas approach can serve as a dynamic tool for refining strategy based on stakeholder input, market insights, and evolving user needs.
 
-### **Learning Objectives**
+### Learning Objectives
 
 By the end of this module, you will be able to:
 
@@ -175,7 +175,18 @@ If an organization is just starting to adopt agile processes, it may make more s
 
 We will explore how you can influence your stakeholders and gain their buy-in in the online training later in this iteration.
 
+---
+## Existing Contracts
 
+What if an existing contract can provide what your agency needs? Not every need will, or should, result in a new contract, complete with all the planning, source selection (or J\&A), and review baggage that comes with a new acquisition. There might be an agency or interagency digital services contract already in place, and with allowed modifications, it will simplify getting to the proper acquisition solution. Or, it may not. Even if a contract can be modified to obtain the product vision, a closer look at the details will help you determine. 
+
+Consider what other agencies are doing:
+
+* What solutions that are already available can be leveraged?  
+* What do you need to implement them?  
+* Can you leverage an Interagency Agreement or mirror the process used at the other agency to streamline the acquisitions? 
+
+---
 ## Compliance & Other Legal Issues
 
 This online module will teach you about regulatory compliance, legal considerations, and risk avoidance/mitigation when procuring digital services. It will address significant challenges identified in acquiring digital services and provide guidance and best practices to address those challenges. Specifically, it will address intellectual property and data rights and how to protect your data in a digital service environment.
