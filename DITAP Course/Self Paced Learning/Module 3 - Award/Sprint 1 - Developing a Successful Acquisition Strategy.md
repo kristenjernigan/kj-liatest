@@ -187,6 +187,48 @@ Consider what other agencies are doing:
 * Can you leverage an Interagency Agreement or mirror the process used at the other agency to streamline the acquisitions? 
 
 ---
+
+## Streamline the Process
+
+If you are attempting to transition an existing contract to more agile-based development, you’ll have additional considerations that could enable you to streamline your procurement process. Consider the following:
+
+* Resources and skills of both contractor and government personnel in the agile arena.   
+* Even if you could modify an existing contract, would the current contractor be up for it? Can the contractor be trained or adjust its processes to accommodate successful agile development?  
+* Are sufficient government personnel trained and available to be part of the agile team?  
+* Do you need to change the entire contract, or could just a small portion be adjusted to reduce risk, provide experience, and prove the concept for stakeholder buy-in?  
+* Can you piggyback on another agency’s contract or one of your agency’s enterprise contracts?  
+* Does the contract type allow for orders, and would the order be within scope?  
+* What flexibilities do you have within the existing contract or scope as it currently stands? Do the CLIN descriptions and requirements document provide the needed flexibility? Would modifications be out of scope?  
+* How cooperative is the contractor? How much leverage do you have (e.g., options, task orders for continued work, incentive contract)?  
+* How difficult will it be to re-baseline performance metrics to accommodate agile processes and then get both the contractor and the government to buy in?
+
+---
+## Considerations for a New Contract
+
+A new procurement is likely if you’ve determined that using an existing contract vehicle would be inappropriate or ineffective. Aside from the knowledge that the contact requirements should accurately reflect the product vision, here are a few more items to consider as you put together the acquisition solution:
+
+|                                                             	                 | Yes?      |                                           	Description |
+| :---- | :---- | :---- |
+| **Make or buy**   |    	    | Determine where it makes sense for government personnel to develop or adapt a solution from existing commercial off-the-shelf software or acquire and develop a modern technology, non-proprietary solution from contractors. |
+| **Open source**          |     	   | Open-source software should be considered in market research. It’s a commercial item and should not be treated as noncommercial software. Acquisitions need to consider this and specific data rights to the solutions created on open-source solutions. The default Government position is that the government should have the maximum data rights allowable. Utilize FAR Clause 52.227-17 in contracts for new development. |
+| **Beware of data centers** |           | Consider leveraging SaaS or PaaS solutions before investing in new or existing data centers. It costs much more to host and provision data than it does to utilize XaaS solutions. |
+| **Establish CLINS**       | 	      | Think “a-la-carte,” high-level, and maximum flexibility. You want to ensure that the CLINs identify and support the product vision, but provide flexibility for achieving it and accountability for the contractor. |
+| **Minimize magnitude**    | 	      | “Can you, or should you, minimize the magnitude of the acquisition to reduce both layers of bureaucratic review and approval and time to award?” Consider the regulatory requirements associated with dollar value thresholds, including, but not limited to: small business requirements, simplified acquisition procedures, and multiple award requirements. |
+| **Regulatory requirements**               | 	      | Consider the regulatory requirements associated with dollar value thresholds, including, but not limited to, small business requirements, simplified acquisition procedures, and multiple award requirements. |
+| **Price**                           |   	    | Can you maximize price competition without bogging down source selection? Do you have sufficient government expertise to help develop or analyze various pricing strategies? |
+| **Commercial procurements** |           | Cost reimbursable contracts aren’t allowed for commercial procurements, including orders from GSA’s Federal Supply Schedule. How does this fit into your risk picture? |
+| **Modular contracting**  |  	     | What contract types will support Modular Contracting and “buy small, miss small” (FAR Part 39)? Think about IDIQs, BPAs, BOAs, Base period with options versus multiple-year, multiple-award ordering vehicles, etc. |
+| **Define an exit strategy** |  	     | Ensure that getting out of a non-performing results-based contract is as easy as getting into it. Utilize Award Term incentives, modular contracting methods, streamlined acquisitions, data rights clauses, multiple award strategies, and back-up acquisition strategies so that you can quickly end one contract and start a new one. |
+
+Of course, a sound strategy can’t exist without a plan for selecting the vendor. Source selection is critical and will entail many considerations. You’ll want to develop effective, meaningful, and simple source selection criteria.
+
+Ask yourself: 
+
+* Does the offeror understand and have relevant experience in agile development and delivery? It should be clear to offerors that experience and proven capability in this process are evaluation criteria.  
+* Is the proposal realistic regarding cost, schedule, and the approach for satisfying the product vision?  
+* Suppose you establish multiple award vehicles like an IDIQ or BPA. How can you develop streamlined selection criteria in the Fair Opportunity procedures to make awarding orders rapid, simple, and effective?
+
+  --- 
 ## Compliance & Other Legal Issues
 
 This online module will teach you about regulatory compliance, legal considerations, and risk avoidance/mitigation when procuring digital services. It will address significant challenges identified in acquiring digital services and provide guidance and best practices to address those challenges. Specifically, it will address intellectual property and data rights and how to protect your data in a digital service environment.
