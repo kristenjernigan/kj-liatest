@@ -515,6 +515,141 @@ False
 
 **Correct answer: False**
 
+---
+## Multi-Vendor Contracts
+
+Engaging multiple vendors under an IDIQ or BPA is increasingly common in complex government digital service environments. These multi-vendor ecosystems promise flexibility, competitive pricing, and access to a diverse pool of expertise. But with that opportunity comes a new set of management challenges, requiring agencies to shift their mindset from simply managing contracts to managing a marketplace. This lesson explores effectively structuring, administering, and leading in a multi-vendor environment.
+
+### Learning objectives
+
+By the end of this lesson, participants will be able to:
+
+* Understand the dynamics of vendor competition and collaboration within a shared contract.  
+* Identify strategies to promote fairness, trust, and transparency among vendors.  
+* Understand and mitigate risks associated with this approach  
+* **PLACEHOLDER**: See these concepts applied in the real-world example of VA’s CEDAR & SPRUCE contracts 
+
+In modular, iterative contracting, a well-structured multiple award vehicle is one of the most effective strategies to support agility, mitigate risk, and maintain delivery momentum. When thoughtfully designed, this approach creates the flexibility to pivot between vendors if performance falters or priorities shift, without starting over. It also prevents vendor lock-in and supports a culture of continuous improvement through healthy competition. 
+
+However, implementing a multi-vendor model isn’t a simple checkbox—it’s a strategic acquisition decision that requires balancing complexity, performance oversight, and mission alignment. Experience has shown that multi-vendor structures deliver better outcomes when tailored to a specific system or digital service, especially in environments that require specialized talent and rapid iteration. The goal isn’t just to hire vendors from generic IT agency-wide vehicles, but to design a delivery ecosystem that promotes resilience, knowledge sharing, and sustained product excellence. 
+
+### Modular contracting & scaled agile delivery with multi-vendor teams
+
+In modular, iterative contracting, a multi-vendor delivery model supports flexibility, reduces the risk of vendor lock-in, and promotes ongoing performance improvement. This approach aligns with scaled agile delivery practices, where multiple teams work in parallel on different features, components, or functions—each contributing to the broader product vision. These teams may be from different vendors but operate within a unified delivery framework to maintain alignment and cohesion.
+
+Scaled agile delivery emphasizes breaking down complex needs into smaller, modular workstreams that can be tackled incrementally and assigned independently. This modularization makes it easier to shift direction, reassign scope, and hold vendors accountable for discrete outcomes without disrupting the overall mission. Each team maintains its own backlog, works within a common cadence, and integrates its work with others through structured coordination points, such as shared sprint reviews, backlog refinement sessions, or cross-team retrospectives.
+
+Industry research supports this approach. Organizations that implement scaled agile practices report:
+
+* Faster time to delivery through parallelized work across multiple teams  
+* Higher quality outputs due to focused team ownership and shorter feedback loops  
+* Greater adaptability by enabling modular changes without full-system disruption  
+* Improved vendor engagement by reinforcing a culture of accountability and shared outcomes
+
+While multiple frameworks support scaled agile delivery—including Large-Scale Scrum (LeSS), Nexus, and SAFe (Scaled Agile Framework)—the core principles remain the same:
+
+* Shared product vision  
+* Coordinated, but not necessarily matched, cadences, dependencies, and planning cycles  
+* Defined team responsibilities and interfaces  
+* Transparent Return on Mission metrics across all participating vendors
+
+When applied to federal acquisitions, this model enables agencies to:
+
+* Structure work around discrete, outcome-based modules  
+* Retain multiple specialized vendors contributing to a shared ecosystem  
+* Prevent knowledge silos by distributing deliverables, documentation, and decision-making  
+* Encourage performance through continued vendor engagement and competition
+
+By focusing on deliberate team structure, alignment mechanisms, and outcome-based tasking, agencies can foster a high-functioning digital service environment where modular contracting and agile delivery reinforce one another.
+
+### Shaping a high-performing vendor community
+
+One key variation on this practice from potentially other multiple award contracts is the intention that the team should have going into this. As every other lesson has shown to this point, there are considerations to this strategy that resonate better with digital service providers, which align with open communications, building trust, and working to continually deliver high-quality outcomes to end users. 
+
+### Considerations to think about when employing this strategy
+
+#### 1\. You’re managing a market, not just contracts
+
+In a traditional acquisition mindset, agencies view contracting as a one-to-one relationship: one agency, vendor, and contract. However, the program office no longer manages vendors when multiple vendors are brought in under a shared vehicle, whether through BPAs, IDIQs, or TO-based modular contracting. It’s working as a miniature marketplace.
+
+This market requires active stewardship:
+
+* Fairness and opportunity must be visible and tangible.  
+  *  Trust and motivation erode if the same few vendors repeatedly win task orders without explanation.  
+* Forecasting future work helps vendors align their capacity and retain their teams.   
+  * Vendors who understand the upcoming pipeline can make smarter staffing decisions and deliver higher quality.  
+* Transparency in award decisions is critical.   
+  * Vendors invest time and effort in responses. Even when they don’t win, meaningful feedback helps them improve and continue competing. Silence—or boilerplate rejection notices—drives disengagement.
+
+**Key Insight:** You are more than a buyer. You’re curating an ecosystem where competition and collaboration coexist. When this market is nurtured well, agencies see stronger proposals, more thoughtful delivery, and greater innovation.
+
+#### 2\. Cultural Intentionality
+
+Culture is often treated as a soft skill, but it's an operational lever in a multi-vendor environment. Vendors model their behavior based on how they see the government treating partners. If the agency is reactive, opaque, or overly punitive, vendors may become risk-averse, avoid transparency, and resort to gaming behavior.
+
+Instead, culture can be intentionally designed to support collaboration and continuous improvement:
+
+* Quarterly program-wide syncs can bring COs, CORs, POs, and all vendor partners to celebrate wins, align on upcoming priorities, and foster a shared mission.
+
+* Feedback loops—including post-award debriefs, user research with competitors, and anonymous vendor surveys—allow vendors to voice concerns without fear of retaliation.
+
+* Tone-setting in meetings matters. A posture of partnership (rather than compliance policing) encourages openness, especially when discussing blockers or scope adjustments.
+
+A healthy vendor market isn’t defined by tension between buyers and sellers. While a history of mistrust between government and vendors may linger, it doesn’t have to shape how we work today. In a small but capable vendor ecosystem, contracting officers have a unique opportunity to influence behavior and outcomes by fostering a culture of transparency and responsiveness.
+
+Creating a strong culture doesn’t mean sacrificing accountability, but being intentionally collaborative. When teams operate with mutual trust and clear expectations, it becomes easier to hold one another accountable while encouraging innovation and shared problem-solving.
+
+#### 3\. Equity in vendor capabilities
+
+Not all vendors start from the same position. In digital services, some may be traditional large federal contractors with built-in proposal machines. Others might be small, nimble, and talented firms with little federal experience.
+
+To avoid reinforcing incumbency and inequity, agencies should:
+
+* Level the playing field in task order design. Avoid requirements that demand only past federal performance or extremely complex pricing structures unless necessary.
+
+* Support new entrants with:
+
+  * Pre-award Q\&A or due diligence sessions
+
+  * Post-award evaluation feedback  
+  * Shadowing opportunities or partner team-ups
+
+* Evaluate based on capability, not just legacy. A less experienced vendor might outperform a legacy provider in delivering modern design, engineering, or agile leadership.  
+* Be deliberate about how large and complex a task is. Are there areas that can be split off to support smaller, quicker efforts by smaller teams with unique qualifications? 
+
+Warning: If your task order format is so complex that only 2 out of 8 vendors can submit viable bids, you’re creating a self-defeating structure. The goal of a multi-vendor vehicle is modularity with flexibility, not just spreading work across the same incumbents.
+
+#### 4\. Structure for shared success
+
+Managing a team of vendors is like managing a fleet, not a single ship. Without shared structures and expectations, the fleet will drift.
+
+Key practices to support multi-vendor effectiveness include:
+
+* Definition of Done (DoD) and QASP clarity: Each task order should be anchored in clear, measurable expectations. The DoD should be co-created or validated with the government team and shared openly across vendors.
+
+* Transparent task order processes:
+
+  * Provide draft notices with time for vendor feedback.  
+  * Use rotating evaluation panels to build trust and limit bias.  
+  * Share highlights of the winning proposals (or redacted versions) to raise the bar for future bids.
+
+* Group retrospectives: Invite others to learn from the task order’s delivery, even if only one vendor is awarded. This promotes institutional learning and vendor resilience.
+
+* Standardized templates for task orders and evaluation scoring ensure that reviews are consistent and auditable, reducing vendor suspicion and increasing internal efficiency.
+
+* Incorporate inter-vendor collaboration into performance evaluation. Effective collaboration with peer teams is essential for successful delivery in a multi-vendor environment. Add a QASP metric that explicitly measures how well vendors contribute to shared goals, communicate across vendor lines, and engage constructively in joint problem-solving.
+
+
+The Vendor Collaboration Index (VCI) is a performance metric that assesses how well vendors engage and collaborate within a multi-vendor environment. The table below outlines the performance standard, measurement methods, and rating scale used to evaluate and encourage constructive vendor-to-vendor interactions.
+
+| Metric element | Description |
+| ----- | ----- |
+| **Performance standard** | Vendor demonstrates active, constructive collaboration with other vendors on the contract. |
+| **Measurement methods** | • Participation in shared retrospectives and planning sessions • Responsiveness in cross-vendor communication • Willingness to support shared technical integration or data sharing • Feedback from COR/PO and peer vendor teams (via documented surveys or evaluations) |
+| **Rating scale** | **Exceptional (5):** Consistently leads or enhances collaborative efforts; receives positive feedback from peer vendors.  **Satisfactory (3):** Participates in shared activities with minimal friction; meets expectations.  **Unsatisfactory (1):** Withholds information, resists coordination, or causes blockers for other vendor teams. |
+
+Bottom line: Multi-vendor success is not self-managing. It requires structure, transparency, consistency, and the commitment to treat vendors as delivery partners, not interchangeable parts.
+
 
 
 
