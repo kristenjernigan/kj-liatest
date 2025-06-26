@@ -32,3 +32,5 @@ By the end of this module, you will be able to:
 
 6. **Construct** or critique a Statement of Objectives (SOO) that promotes vendor innovation and aligns with agile principles.
 
+
+
