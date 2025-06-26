@@ -264,13 +264,13 @@ As government agencies embrace modern technology and user-centered practices, it
 
 
 
-## Activity Break
+## Activity Break (Optional)
 
 Start your own Who's Who list by finding an organization or other thought leader in the digital service community to follow on social media (X, LinkedIn, Facebook, and so forth) or on a blog or newsletter that you sign up to receive.
 
-Post in the discussion topic below who you chose and why. You can also share what contribution to digital service made them interesting to you.
+Post in the discussion topic who you chose and why. You can also share what contribution to digital service made them interesting to you.
 
-## **Recommended Readings**
+## Recommended Readings
 
 We curated the following readings to help you dive deeper into the world of digital services. 
 
