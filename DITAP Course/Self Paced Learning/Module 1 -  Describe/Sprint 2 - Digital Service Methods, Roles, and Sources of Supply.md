@@ -15,7 +15,7 @@ After this module, you will be able to:
 
 All digital projects should start with the end user. This simple principle is foundational to designing, developing, and delivering digital services. In fact, “Understand what people need” is the first play in the [U.S. Digital Service Playbook](https://playbook.usds.gov/), which you will explore as you progress through this module.
 
-### Discussion: The Good, The Bad, and The Ugly
+### Discussion: The Good, The Bad, and The Ugly (Optional)
 
 - What commercial companies or government agencies do you know of that keep user needs at the forefront? How does this show? What steps do you think they took to get to where they are?
 - What commercial companies or government agencies do you know of that didn’t prioritize user needs? What were the consequences?
@@ -114,9 +114,9 @@ As procurement professionals, you are critical in shaping how the government inv
 
 ## Digital Service Delivery Methods: Agile
 
-### **Agile foundations**
+### Agile foundations
 
-#### **What is agile delivery?**
+#### What is agile delivery?
 
 Agile delivery emphasizes working code over planning and team cohesiveness over formal process. It relies on the hypothesis that iterative development, collaboration, and transparency lead to better product development. It empowers delivery teams to work in short cycles (sprints), respond to change, and continuously deliver value to users. Agile is a departure from traditional waterfall delivery, where requirements are set initially and progress is linear. Instead, agile adapts as needs and dependencies are identified and evolve.
 
@@ -134,13 +134,13 @@ Agile can be scaled across multiple teams using **SAFe** (Scaled Agile Framework
 
 ---
 
-### **Why agile in government?**
+### Why agile in government?
 
 Before we dive into the case for agile in government, take a few minutes to hear from Jeff Sutherland, co-creator of the Agile Manifesto. In this short TED Talk, Jeff shares how agile started and has been used in everything from military operations to education. As you watch, consider how core principles like collaboration, adaptability, and continuous improvement might help federal teams deliver smarter, faster, and more user-centered digital services.
 
 [Jeff Sutherland's TED Talk about Agile](https://www.youtube.com/watch?v=s4thQcgLCqk) 
 
-#### **The case for agile in federal digital projects**
+#### The case for agile in federal digital projects
 
 Modern digital service delivery in government requires agility. With constantly evolving user needs, policy changes, and high expectations for speed and usability, federal agencies benefit from agile methods that foster adaptability and transparency. 
 
@@ -150,7 +150,7 @@ The Agile method is distinguished from artisanal or waterfall projects by emphas
 
 Waterfall project management was developed to address the shortcomings of artisanal development, attempting to bound the scope of a project before work begins, and address changes and additions in a structured way. Waterfall projects rely on a rigid, linear process: define detailed requirements up front, plan and award the contract, and then move into a long development phase and make changes only through formal change orders. This approach often delays feedback until the end, when the finished product is delivered. By then, it's costly and time-consuming to make changes, even if the original requirements no longer reflect user or mission needs. Testing and course corrections are squeezed by schedule pressures, increasing the risk of delivering something that misses the mark.
 
-#### **Why agile matters:**
+#### Why agile matters:
 
 Agile delivery enables teams to:
 
@@ -162,7 +162,7 @@ Agile delivery enables teams to:
 * prioritize accessibility, security, and user-centered design  
 * empower decision makers to manage the project to budget, timeline, or feature set, and have the impact of those decisions be visible to all participants
 
-#### **A shift in mindset**
+#### A shift in mindset
 
 Agile methods represent a cultural shift. While some federal stakeholders may be accustomed to waterfall, agile teams demonstrate the value of iteration and user feedback by:
 
@@ -192,9 +192,9 @@ You shouldn’t default to agile development because you need digital services o
 
 ---
 
-### **Who’s on an agile team?**
+### Who’s on an agile team?
 
-#### **Agile team roles**
+#### Agile team roles
 
 Each role on an agile team has a clear function. Common roles include:
 
@@ -209,11 +209,11 @@ A well-formed agile team includes a mix of technical, design, and product expert
 
 ---
 
-### **Agile frameworks and methods**
+### Agile frameworks and methods
 
 This section introduces key frameworks and practices that bring agile to life, including Kanban and Scrum. You’ll explore how these methods support transparency, collaboration, and continuous improvement through structured workflows, defined roles, and regular ceremonies that keep teams aligned and focused on delivering value.
 
-#### **Kanban**
+#### Kanban
 
 Kanban is a visual workflow management method that enhances efficiency and transparency in task progression. Originating from Toyota's "just-in-time" (JIT) production system, Kanban has been adapted beyond manufacturing to various fields, including software development and government project management.
 
@@ -225,7 +225,7 @@ Key elements of Kanban include:
 
 Modern Kanban implementations also utilize tools like cumulative flow diagrams and control charts to monitor workflow stability and identify areas for enhancement.
 
-#### **Scrum**
+#### Scrum
 
 Scrum is an agile framework for developing and sustaining complex products through iterative progress and collaboration. It emphasizes adaptability, team accountability, and continuous improvement.
 
@@ -243,7 +243,7 @@ These elements ensure transparency and focus, guiding the team toward delivering
 
 ---
 
-### **Agile Practices**
+### Agile Practices
 
 
 **Assign a Project Manager or Scrum Master**
@@ -373,12 +373,12 @@ Transparency builds trust between contractors and federal stakeholders and impro
 
 ---
 
-### **Final thoughts**
+### Final thoughts
 
 Agile delivery is more than a set of practices. It's a mindset of continuous improvement, open communication, and user-centered design. By adopting these methods, federal acquisition professionals can better support digital transformation initiatives and make informed, agile-friendly procurement decisions.
 
 ---
-### Discussion: 
+### Discussion (Optional)
 
 Think back to a digital service or IT project you were involved in—whether as a contracting officer, program manager, or stakeholder. Based on what you now know about agile, what might you have done differently to encourage more adaptability, feedback, or user involvement?
 
@@ -445,7 +445,7 @@ Not quite, while Scrum Masters support team flow, the Product Owner sets priorit
 
 ## Digital Service Delivery Methods: HCD and DevSecOps
 
-### **What is HCD?** 
+### What is HCD?
 
 Before we build anything, we have to understand *who* we're building for. **Human-centered design (HCD)** starts by putting people at the heart of the process. In this section, you’ll see how HCD helps teams listen deeply, design with empathy, and create digital services that are not only functional but meaningful. For federal procurement professionals, understanding HCD means being equipped to assess whether vendor solutions truly center the user.
 
@@ -456,9 +456,9 @@ Designing under this lens means deeply understanding the needs, behaviors, and e
 
 In federal digital service projects, HCD is a mindset and methodology that supports better government outcomes. By involving users early and often, HCD helps teams deliver usable and truly useful tools and services.
 
-#### **Core principles of human-centered design**
+#### Core principles of human-centered design
 
-##### **Empathy**
+##### Empathy
 
 * **Definition:**  
    Understand users' lived experiences, perspectives, and pain points. This means listening with intention and designing based on your end user, not on your assumptions.   
@@ -469,7 +469,7 @@ In federal digital service projects, HCD is a mindset and methodology that suppo
 
 ---
 
-##### **User research**
+##### User research
 
 * **Definition:**  
   Engage directly with users through interviews, surveys, and observations. Use real user data to guide decisions, not assumptions. Research and discover existing solutions so you aren’t reinventing the wheel. Conduct research continuously throughout the project lifecycle.  
@@ -480,7 +480,7 @@ In federal digital service projects, HCD is a mindset and methodology that suppo
 
 ---
 
-##### **Iterations**
+##### Iterations
 
 * **Definition:**  
   Test ideas early, gather feedback, and refine solutions through repeated cycles. HCD and Agile go hand-in-hand by enabling rapid learning and improvement.  
@@ -491,7 +491,7 @@ In federal digital service projects, HCD is a mindset and methodology that suppo
 
 ---
 
-##### **Usability testing**
+##### Usability testing
 
 * **Definition:**  
    Usability testing is an ongoing process, not a one-time task. Watching users interact with prototypes helps identify pain points and uncover areas for improvement.  
@@ -502,7 +502,7 @@ In federal digital service projects, HCD is a mindset and methodology that suppo
 
 ---
 
-##### **Design for everyone**
+##### Design for everyone
 
 * **Definition:**  
    Inclusive design means designing for a broad range of users. Accessibility considerations should begin early and go beyond simply meeting compliance standards.  
@@ -513,7 +513,7 @@ In federal digital service projects, HCD is a mindset and methodology that suppo
 
 ---
 
-##### **Collaboration**
+##### Collaboration
 
 * **Definition:**  
    Human-centered design is a team effort. Success depends on input from stakeholders, engineers, project managers, and product owners, not just designers.  
@@ -526,9 +526,9 @@ In federal digital service projects, HCD is a mindset and methodology that suppo
 
 For procurement professionals, understanding HCD is key to evaluating whether a contractor or solution is truly user-focused. It also informs the type of research, testing, and iteration expectations that should be baked into solicitations and performance metrics.
 
-###  **HCD in government**
+###  HCD in government
 
-#### **Designing for people: human-centered design in government**
+#### Designing for people: human-centered design in government
 
 Human-centered design in government is more than just a process. It’s a mindset that prioritizes the people who use federal services. In contrast to traditional development methods focusing on policy or system constraints, HCD puts user needs at the forefront. This means engaging real users early and often, listening to their challenges, and designing intuitive, inclusive, and effective solutions.
 
@@ -538,7 +538,7 @@ Using HCD, government teams can reduce waste, improve public trust, and create s
 
 When used effectively, HCD reduces barriers, simplifies complex processes, and builds trust between the government and the public.
 
-#### **Real world examples:** 
+#### Real world examples:
 
 **1\. VA.gov Redesign – Department of Veterans Affairs**
 
@@ -591,9 +591,9 @@ The VA undertook a comprehensive redesign of VA.gov to improve the digital exper
 ---
 
 
-### **DevSecOps explained**
+### DevSecOps explained
 
-#### **Making delivery fast and secure: DevSecOps in government**
+#### Making delivery fast and secure: DevSecOps in government
 
 DevSecOps stands for Development, Security, and Operations. It’s a modern approach to building and delivering secure software, servers, and digital services by integrating security into every step of the process.
 
@@ -613,7 +613,7 @@ Ultimately, DevSecOps helps agencies build **faster, safer, and more** **reliabl
 
 
 
-#### **Why DevSecOps matters on federal projects**
+#### Why DevSecOps matters on federal projects
 
 In federal projects, DevSecOps supports mission-critical services by ensuring they are stable, scalable, and responsive to change, all while maintaining code quality, security, and accessibility compliance, and reducing the costs associated with traditional code deployment methods. Speed, stability, and security aren’t optional in complex government systems—they're essential. DevSecOps helps federal agencies meet these demands by:
 
@@ -622,7 +622,7 @@ In federal projects, DevSecOps supports mission-critical services by ensuring th
 * maintaining robust, compliant systems with ongoing monitoring  
 * supporting secure data handling and backups.
 
-#### **Real world example:**
+#### Real world example:
 
 **Spotlight: How the VA used DevSecOps to modernize Veteran services**
 
@@ -647,7 +647,7 @@ The VA’s journey highlighted a key lesson for acquisition professionals: enabl
 * [DevSecOps is Improving CX at GSA, VA](https://govciomedia.com/devsecops-is-improving-cx-at-gsa-va/)  
 
 ---
-### Discussion:
+### Discussion (Optional)
 
 How can DevSecOps improve the security of government digital services?
 
@@ -656,9 +656,9 @@ Think about recent challenges in federal cybersecurity. Consider the impact of a
 * Share one example or idea in the discussion forum section.
 ---
 
-### **Design \+ DevSecOps: The power combo**
+### Design \+ DevSecOps: The power combo
 
-#### **Better Together: HCD and DevSecOps in action**
+#### Better Together: HCD and DevSecOps in action
 
 While HCD and DevSecOps are powerful, they become even more effective when used together. Consider this: **“Design is the compass, and DevSecOps is the engine.”** HCD ensures you're building the right thing people need, while DevSecOps helps you build it quickly, securely, and reliably.
 
@@ -695,7 +695,7 @@ Which approach should you prioritize first?
 
 ## Digital Service Delivery Providers - Sources of Supply  
 
-### **The government ecosystem**
+### The government ecosystem
 
 Many federal agencies now have internal digital service teams dedicated to transforming and modernizing digital services. One example is the U.S. Digital Service (USDS), which focuses on building human-centered, agile digital services, often in collaboration with agency teams and external partners. 
 
@@ -708,13 +708,13 @@ These teams play a critical role in:
 * **improving procurement practices** by advising on modular contracting and vendor selection  
 * **supporting delivery** by embedding with program teams to guide implementation or act as product owners
 
-**Activity – Group discussion:**
+**Activity – Group discussion (Optional)**
 
  How do these government teams collaborate with external vendors? What role do they play in improving digital service delivery?
 
 ---
 
-### **The private sector landscape**
+### The private sector landscape
 
 The private sector plays a crucial role in federal digital service delivery. A growing ecosystem of vendors, from large legacy firms to nimble digital agencies, provides a wide array of services such as research, design, development, and operations. These companies offer essential capacity and expertise, particularly in areas that require specialized talent or rapid scaling.
 
@@ -730,7 +730,7 @@ These suppliers include:
 * **Internal digital service teams** aren’t vendors per se, but intra-agency service providers supporting mission delivery.  
 * **Public-private partnerships** are long-term collaborations between agencies and private companies to achieve defined goals.
 
-### **The growing digital service supplier community** 
+### The growing digital service supplier community
 
 An increasing number of firms specialize in digital service delivery and either work regularly with public sector organizations and/or are seeing opportunities to perform work in this area. The [Digital Service Coalition](https://digitalservicescoalition.org/) includes a large number of companies in its membership that provide digital services today. 
 
@@ -746,15 +746,15 @@ Select two companies from the list of Digital Service Coalition members listed [
 **Activity – Group exercise:**  
  In groups, participants map a collaboration model for delivering a large-scale digital project between a government agency and a private vendor.
 
-**Self-paced prompt:**  
+**Self-paced reflection prompt (Optional)**  
  Think about a real or hypothetical federal digital service need you’ve encountered. Which type of private-sector partner would be most helpful? Why?
 
-**Discussion prompt:**  
+**Discussion prompt (Optional)**  
 What types of suppliers have you worked with in the past? What advantages or challenges did you experience?
 
 ---
 
-### **Contract vehicles**
+### Contract vehicles
 
 Once the right supplier type is identified, the next step is choosing the appropriate **contract vehicle** to acquire their services. This decision impacts how quickly and efficiently you can move forward.
 
@@ -773,7 +773,7 @@ Once the right supplier type is identified, the next step is choosing the approp
 
 ---
 
-### **Models of collaboration**
+### Models of collaboration
 
 Collaboration between federal and vendor teams takes many forms. Choosing the right model depends on the scope, budget, risk tolerance, and speed of delivery.
 
@@ -790,7 +790,7 @@ Common models include:
 
 ---
 
-### **Real examples of “Who does what”**
+### Real examples of “Who does what”
 
  Hybrid delivery models are increasingly common in digital service work. These models depend on **clear role definitions**, strong communication, and a shared understanding of outcomes.
 
