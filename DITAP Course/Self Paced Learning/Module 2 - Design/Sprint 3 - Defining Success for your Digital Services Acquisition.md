@@ -372,7 +372,7 @@ D. It only works if legal is in the room
 
 ---
 
-**5\. Scenario:** You’re planning a new digital services procurement. During early discovery, you learn that:
+5\. Scenario: You’re planning a new digital services procurement. During early discovery, you learn that:
 
 * Your COR has limited availability,  
 * Contractor onboarding takes 60–90 days,  
