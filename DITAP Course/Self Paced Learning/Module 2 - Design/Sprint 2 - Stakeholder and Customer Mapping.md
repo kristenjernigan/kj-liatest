@@ -2,7 +2,7 @@
 
 ## Navigating the Stakeholder Landscape 
 
-### **Introduction**
+### Introduction
 
 When it comes to digital services, success isn't just about technology. It's about people—*your stakeholders*. Some are obvious, like program owners or end users. Others might only become visible once you're deep into the work. By then, their feedback can slow things down or force major changes.
 
@@ -56,7 +56,7 @@ You won’t engage a compliance officer the same way you would a product owner o
 That’s why thoughtful engagement—early and tailored to their role—is key. It builds trust, reduces friction, and helps your team avoid unnecessary roadblocks later on.
 
 ![A circular stakeholder map for digital services acquisition, showing categories like Acquisition Stakeholders, Oversight/Governance, Advocates/Influencers, and Partners/Suppliers/Co-Creators, with 'Digital Services Acquisition Partnership' at the center.](https://github.com/kristenjernigan/kj-liatest/blob/1e3a9122e69124a7a37263e7029d849eab3dfe14/Media/Module%202/StakeholderMap_Small.jpg)
-### 
+
 
 ### Zooming Out: Who’s in the Landscape?
 
@@ -69,7 +69,7 @@ Here’s a quick look at the six main stakeholder groups you might encounter in 
 * **Oversight and Governance:** Legal, Office of General Counsel (OGC), Inspector General (IG), and other bodies ensuring compliance and regulatory alignment.  
 * **Advocates and Influencers:** Senior champions who can open doors, build buy-in, and smooth the path forward.
 
-### Reflection Prompt
+### Reflection Prompt (Optional)
 
 Think about a recent or upcoming digital services acquisition you’re working on.
 
@@ -81,7 +81,7 @@ Think about a recent or upcoming digital services acquisition you’re working o
 ---
 ## Activity: Stakeholder Selection & Interview Assignment 
 
-### **Introduction:** 
+### Introduction:
 
 In this two-part activity, you’ll identify the individuals within your agency who are major influencers or gatekeepers in digital services acquisition and develop your strategy for engaging with them. You’ll use your experiences with this program as a springboard for the conversation.
 
