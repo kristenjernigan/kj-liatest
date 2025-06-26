@@ -296,7 +296,7 @@ A vendor can’t and won’t propose a premier solution on a shoestring budget. 
 **5\. Requirements:** Requirements are the result of considering your mission, desired outcomes, constraints, timelines, and resources, along with what you learned from your market research, including industry communications, and establishing the scope of your acquisition. Your statement of those requirements describes what needs to be realistically provided or accomplished by the impending contract or contracts. These requirements may be communicated to industry as a Statement of Work (SOW), but they may also take other, more open-ended forms such as a Statement of Objectives (SOO). It may be helpful to draft these documents, but depending on where you are in market research, it’s okay to not yet have the requirements defined. The knowledge of the technical staff supporting the project and how familiar they are with the market should be considered. 
 
 ---
-## 2\. Engage early with industry regarding opportunities
+### 2\. Engage early with industry regarding opportunities
 
 As you’ve learned throughout this module, engaging early with industry is critical in the ever-evolving digital services market. To facilitate communication, consider using the following traditional and non-traditional techniques.
 
@@ -335,7 +335,7 @@ As you’ve learned throughout this module, engaging early with industry is crit
 * They’re easy to analyze and compare responses.  
 * They allow you to test evaluation criteria, maturity models, or service needs before writing an RFI.
 
-## **Summary comparison**
+**Summary comparison**
 
 | Feature | Market research survey | Request for Information (RFI) |
 | ----- | ----- | ----- |
@@ -418,7 +418,7 @@ When the government needs to make a strategic technology choice—such as select
   * If Open Source, how involved is their community in the continual development of the tool? 
 
 ---
-## **Engaging the industry traditionally**
+## Engaging the industry traditionally
 
 The more “traditional” ways to engage with industry also have a place. These include pre-solicitation notices, draft RFPs, RFIs, pre-solicitation or pre-proposal conferences, and site visits. The Myth-Busting memo referred to at the beginning of this module offers the following suggestions on these topics:
 
@@ -431,7 +431,7 @@ The more “traditional” ways to engage with industry also have a place. These
   * **One-on-one communications:** As valuable as industry days can be, there are times when one-on-one communication may be more valuable. Vendors may be reluctant to expose their techniques or approaches to competitors. In private oral or written communications, the government can protect proprietary information and thus encourage vendors to share more.  
   * **Agency opportunity forecast:** Many agencies post advanced procurement plans and upcoming opportunities on their websites. Often, this includes a variety of background documents and information that the industry can use to understand better the agency's mission and specific acquisition needs well before specific individual actions. The industry can be given opportunities to respond and provide valuable feedback in crafting and refining requirements.
 
-### **Evolving market research for digital services**
+### Evolving market research for digital services
 
 While they can still be used and are often required by acquisition strategy, traditional government RFIs often create unnecessary barriers for modern digital service providers. The burdensome processes can discourage the very vendors you want to engage—especially small, agile companies and non-traditional government vendors delivering high-quality tech services.
 
@@ -456,7 +456,7 @@ Effective market research is about getting real insight, not compliance. Be thou
 
 ---
 
-## 3\. Explore other promising alternatives and approaches 
+### 3\. Explore other promising alternatives and approaches 
 
 As the Federal Acquisition Regulation (FAR) continues to evolve, driven partly by new Executive Orders from the White House, procurement guidance is shifting toward a more flexible, modular approach. In this new era, we can expect to see more “ordering guides” and implementation policies that exist alongside, but are distinct from, the core statutes that must be followed. This creates a critical opportunity for acquisition professionals to think beyond rigid templates and embrace creative, compliant ways to conduct market research and shape solicitations. One powerful approach is to bring the vendor community into the early stages of requirement development and evaluation design. This method, used widely by other governments and increasingly piloted in the U.S., includes tools like open contracting workshops, prototype competitions via Challenge.gov, and collaborative drafting through platforms like GitHub. These practices help ensure solicitations are grounded in real-world capability and modern delivery approaches—before they’re even released.
 
