@@ -177,24 +177,23 @@ Once negotiation objectives are established, the team should review and reach a 
 
 It is important to address logistical considerations prior to conducting negotiation sessions.
 
-|  | Schedule a Time Negotiations should be conducted as soon as possible after the Government completes its evaluation of proposals and develops its negotiation objectives. When planning a time, consider the availability of all required Government personnel and offeror personnel. Allow enough lead time for both parties to assemble their teams. Consider the depth and breadth of the issues that will be covered, and allow reasonable time for discussion. This could be a couple hours for smaller acquisitions to a week or more for significant programs.  |
-| :---- | :---- |
-|  | **Arrange for a Location** If the negotiation session will be face to face, arrange for a location. Generally, the Government will want to hold the session at its own site. However, there may be reasons to use a neutral site. (Conducting negotiations at the offeror’s location is generally considered the least desirable alternative.) Consider and prepare for related requirements, such as room size, seating capacity, and internet access.  In addition to conducting the negotiation session face to face, it may also be held via phone, video conference, or web meeting.  |
+|  |  |
+|--|--|
+|   ![ ](https://github.com/kristenjernigan/kj-liatest/blob/f09c9e5d26ada1e17c911bf401125dc40609fc6b/Media/Module%203/clock.gif)   | **Schedule a Time** <br> Negotiations should be conducted as soon as possible after the Government completes its evaluation of proposals and develops its negotiation objectives.  When planning a time, consider the availability of all required Government personnel and offeror personnel. Allow enough lead time for both parties to assemble their teams. Consider the depth and breadth of the issues that will be covered, and allow reasonable time for discussion. This could be a couple hours for smaller acquisitions to a week or more for significant programs. |
+| ![ ](https://github.com/kristenjernigan/kj-liatest/blob/f09c9e5d26ada1e17c911bf401125dc40609fc6b/Media/Module%203/arrange%20location.gif) | **Arrange for a Location**  <br> If the negotiation session will be face to face, arrange for a location. Generally, the Government will want to hold the session at its own site. However, there may be reasons to use a neutral site. (Conducting negotiations at the offeror’s location is generally considered the least desirable alternative.) Consider and prepare for related requirements, such as room size, seating capacity, and internet access.  In addition to conducting the negotiation session face to face, it may also be held via phone, video conference, or web meeting. |
+|![ ](https://github.com/kristenjernigan/kj-liatest/blob/f09c9e5d26ada1e17c911bf401125dc40609fc6b/Media/Module%203/invite%20participants.gif)  | **Invite Appropriate Participants**  <br>It is extremely important that the Government have experienced, qualified people in attendance. Offerors will ask questions about revisions and their impacts, and the Government must have the right people to field these questions. Secure the support of the experts you think you may need, and avoid inviting people only because they are available. It is generally advisable to ask the offeror in advance who will be attending from its firm. This allows the Government to match expertise. For example, if the offeror is bringing legal experts to discuss intellectual property issues and licensing, the Government can ensure it has its counterparts at the meeting. In addition, if necessary/appropriate, the Government can place limits on the number of participants. |
+| ![ ](https://github.com/kristenjernigan/kj-liatest/blob/f09c9e5d26ada1e17c911bf401125dc40609fc6b/Media/Module%203/draft%20materials.gif) | **Draft and Distribute Read-Ahead Materials**  <br>The Government should prepare and distribute a written agenda to all participants. The agenda should include items to be discussed and background information substantiating the Government’s position, if available.  In most instances, the agenda and any other read-ahead materials should be provided so the offeror has time to review them and be prepared to respond. |
 
-|  | Invite Appropriate Participants It is extremely important that the Government have experienced, qualified people in attendance. Offerors will ask questions about revisions and their impacts, and the Government must have the right people to field these questions. Secure the support of the experts you think you may need, and avoid inviting people only because they are available. It is generally advisable to ask the offeror in advance who will be attending from its firm. This allows the Government to match expertise. For example, if the offeror is bringing legal experts to discuss intellectual property issues and licensing, the Government can ensure it has its counterparts at the meeting. In addition, if necessary/appropriate, the Government can place limits on the number of participants.   |
-| :---- | :---- |
-|  | **Draft and Distribute Read-Ahead Materials** The Government should prepare and distribute a written agenda to all participants. The agenda should include items to be discussed and background information substantiating the Government’s position, if available.  In most instances, the agenda and any other read-ahead materials should be provided so the offeror has time to review them and be prepared to respond. |
 
-## 
 
 #### Success Strategy \#4: Prepare the Team for the Negotiation Sessions
 
 Prior to conducting negotiations, the team should prepare thoroughly. Each member should have a clear understanding of:
 
 * The requirement and the solicitation  
-  * The source selection processes and evaluation factors/criteria outlined in the solicitation  
-  * The Independent Cost Estimate/Independent Government Cost Estimate, how it was prepared, and the budgeted amount available  
-  * The negotiation objectives for the specific negotiation session
+* The source selection processes and evaluation factors/criteria outlined in the solicitation  
+* The Independent Cost Estimate/Independent Government Cost Estimate, how it was prepared, and the budgeted amount available  
+* The negotiation objectives for the specific negotiation session
 
 Normally, the CO conducts negotiations, but it will be necessary for other Government team members to participate and answer questions as needed. As a result, the CO should ensure that each member understands their role and when they should respond to a contractor’s questions. In addition, the CO should ensure that each member understands what can and should be discussed and what should *not*. 
 
@@ -237,7 +236,7 @@ Once negotiations have concluded, several follow-up actions may occur:
   * After the Government receives the final proposal revisions, the evaluation team reconvenes and revises previous evaluation findings.   
   * Finally, a source is selected for contract award.
 
-Conclusion
+**Conclusion**
 
 Negotiations can be daunting, but with planning and preparation, you can navigate the process with ease. Remember, at its core, negotiation is the process of coming to mutual agreement on the terms and conditions of a proposed contract with regard to price, schedule, technical requirements, type of contract, or other contract terms. A successful negotiation results in a meeting of the minds, and a mutually agreeable solution. 
 
