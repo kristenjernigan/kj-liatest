@@ -246,5 +246,194 @@ Here are several readings to help further your understanding of this process, as
 * [Negotiations and Source Selection Q\&A](https://github.com/kristenjernigan/kj-liatest/blob/c08c614c72b5a394b3c946bc154ec9d5817c13a4/Media/Module%203/Q_A_B2B_Overview_of_Negotiations_and_source_Selection.pdf)
 * [Price Negotiation Template](https://github.com/kristenjernigan/kj-liatest/blob/c08c614c72b5a394b3c946bc154ec9d5817c13a4/Media/Module%203/Template_Price_NEG_Memo.doc)
 
+---
+## The Art of the Post-Evaluation Feedback in Digital Services Procurements
+
+Generally, offerors spend a considerable amount of time and money to bid on a contract. When they are unsuccessful, they deserve to know why. Post-evaluation feedback is a critical part of this process.
+
+Quality feedback — whether through a formal debrief or informal explanation — helps companies learn, improve future bids, and strengthens trust between government and industry, especially in digital service acquisitions.
+
+### Learning Objectives
+
+By the end of this section, you will be able to:
+
+* Define debriefings and other post-evaluation feedback methods  
+* Recognize the benefits of effective feedback  
+* Describe tools and techniques used to prepare for and deliver feedback
+
+## Why It Matters
+
+In modern acquisitions — especially digital services — post-evaluation feedback is essential.
+
+* Offerors invest time and resources into proposals  
+* Clear, fair explanations help them improve and stay engaged  
+* Vague or defensive responses increase the risk of protests  
+* Digital vendors expect transparency and speed  
+* Poorly handled feedback drives top firms away
+
+Digital companies expect transparency and speed. The private tech sector is used to feedback loops and open communication. A slow, vague, defensive, or non-existent explanation of decision-making erodes trust — and risks driving these critical players away from future procurements.
+
+Additionally, protests often stem from *poorly executed explanations*, not dissatisfaction with the outcome itself. 
+
+By treating feedback as a **two-way conversation**, agencies can also:
+
+* Gather input on what worked and what didn’t  
+* Improve future solicitations  
+* Build a stronger, more informed tech vendor ecosystem
+
+Done well, a post-evaluation feedback can:
+
+* Build industry trust
+* Defend the integrity of the selection process
+* Improve the bidding process in the future for similar solicitations
+
+## Debriefing vs other forms of post-evaluation feedback
+
+### Key Rules for Formal Debriefings (FAR Part 15\)
+
+Debriefings Are Required when using FAR Part 15 (Negotiated Procurement):
+
+|  | Pre-Award Debrief | Post-Award Debrief |
+| ----- | ----- | ----- |
+| When? | Offeror eliminated before award | After award decision |
+| Required Info | Summary of evaluation, reason for exclusion, procedures followed | Strengths/weaknesses of proposal, past performance info, award rationale |
+| What’s Prohibited | Other offerors’ scores, rankings, proposals | Point-by-point comparisons, trade secrets, confidential info |
+
+### Debriefing Expectations Outside FAR 15
+
+Other acquisition methods handle debriefs differently:
+
+* **Simplified Acquisitions (FAR Part 13):** Only require a brief explanation if requested. Avoid formal FAR 15 terminology.
+
+* **Federal Supply Schedules (FAR Part 8.4):** Similar to simplified acquisition — brief explanation allowed if requested.
+
+* **Task/Delivery Orders under ID/IQs:** Formal debrief required only if order exceeds $5.5M and debrief is requested.
+
+With respect to communications with unsuccessful offerors, FAR Subpart 13.106-3(d) states: “If a supplier requests information on an award that was based on factors other than price alone, a brief explanation of the basis for the contract award decision shall be provided.” The CO has considerable latitude in the “brief explanation” provided to unsuccessful offerors.
+
+FAR 8.405-2(d) states: “If an unsuccessful offeror requests information on an award that was based on factors other than price alone, a brief explanation of the basis for the award decision shall be provided.” As with simplified acquisitions, explanations can be simply stated. For example, the CO may say that the selected offer provides better value consistent with the evaluation factors outlined in the Government’s Request for Quotations. While not required to furnish additional information to an unsuccessful offeror, some agencies may elect to do so.
+
+⚠️ *Avoid using “FAR Part 15” language for simplified methods — it may trigger protest grounds.*
+
+Generally, the Contracting Officer schedules and organizes the feedback session once a request is received, in a timely fashion. The COR, Program Manager/Program Lead, and other technical specialists support the CO and may lead the discussion of or address questions related to the technical findings/evaluation, if applicable.
+
+Other technical specialists participate as needed to address the contractor’s specific concerns. For example, if an acquisition involves complex pricing issues, a cost/pricing analyst may be needed. It is also advisable to include Legal Counsel if contentious issues are involved or if the contractor has an attorney participating.
+
+## The Benefits of Effective Post-Evaluation Exchanges
+
+One of the biggest misconceptions in government procurement is that sharing less information with unsuccessful offerors lowers protest risk.
+
+In practice — especially in digital services acquisitions — the opposite is true. While the CO can choose to give brief explanations, it may actually cause more confusion and lead to companies wanting more information, which they can get through the process of a protest. 
+
+Today’s tech firms and digital service providers are highly sophisticated. 
+
+When done well, feedback shows the Government:
+
+* Followed a fair and clear evaluation process  
+* Carefully reviewed each proposal  
+* Has nothing to hide
+
+## What Companies Are Really Looking For
+
+When companies request feedback, they are trying to understand a few critical things, such as:
+
+1. Did the evaluation team understand our technical solution?  
+    (Or did misunderstandings impact our score?)  
+2. Did we fully understand and address the solicitation’s requirements?  
+    (Or did we miss something we didn’t realize was critical?)  
+3. Was the evaluation conducted exactly as written in the solicitation?  
+    (Or did the process shift or become subjective?)
+
+**Answering these clearly builds trust — even if the offeror didn’t win.**
+
+You can also ask them:
+
+* What did or didn’t work for them?  
+* Why did they bid?  
+* Would they bid again?
+
+Making it a two-way conversation can increase both parties' awareness of what can be done to make future acquisition more successful. 
+
+## **What High Quality Post-Evalutation Feedback Should Include:** 
+
+When possible, agencies should provide feedback that connects the what (requirement), the where (proposal page), and the how (evaluation result).
+
+Best practices include:
+
+| Element | Why It Matters |
+| ----- | ----- |
+| **Specific Solicitation Requirement Reference** | Shows the evaluation tied back to the rules everyone agreed to (Section M). |
+| **Proposal Page Numbers** | Demonstrates evaluators reviewed the proposal carefully and fairly. |
+| **Benefit or Risk Discussion** | Explains whether and how the proposed solution would help the government mission. |
+| **Acknowledgment of Offeror Assumptions** | Addresses where offeror assumptions may have hurt their evaluation — helping them improve in future bids. |
+| **Clear Attribution of Strengths and Weaknesses** | Helps offerors understand competitive gaps without speculating or comparing proposals improperly. |
+
+Digital solutions are often modular, iterative, and designed for change — meaning evaluation panels must be even more careful to:
+
+* Accurately recognize technical maturity
+
+* Understand modern practices (agile, human-centered design, devops, cloud-native architectures)
+
+* Avoid traditional biases against non-traditional approaches
+
+**A Model for Setting up Feedback using Slides:** 
+
+Preparing for an evaluation conversation is good to do even if you are only giving a verbal explanation. Setting up slides is a valuable tool in preparing for and conducting effective feedback sessions. The slides included should be tailored to the duration and complexity of the debriefing as well as the specific issues that need to be addressed. Here are some ideas for key points to bring up in any format: 
+
+**Ground Rules**
+
+* The most important ground rule to communicate is that the CO leads the process.   
+* The Government is prohibited from doing a point-by-point comparison of the offeror’s proposal with the proposals of others, including the selected company.  
+* The Government cannot disclose proprietary information or trade secrets or information exempt from the Freedom of Information Act (FOIA), including confidential business or manufacturing processes, commercial or financial information, or the identities of individuals who have provided past performance information.
+
+**Summary Slides**
+
+The Summary slides should provide meaningful information that facilitates the contractor’s ability to enhance their future competitiveness. For example, one Summary slide or a set of slides might contrast the debriefed contractor’s ratings and cost with that of the successful offeror.
+
+![tbd ](https://github.com/kristenjernigan/kj-liatest/blob/4086a8c8656030276efbcb0cd59d281ed877a289/Media/Module%203/Evaluation%20Summary%20Slide.png)
+
+For pre-award debriefings, revealing ratings and cost/price information for other offerors is not permitted. As a result, this information would be blanked out. 
+
+Pre-award post-evaluation discussions include only the agency’s evaluation of significant elements of the offeror’s proposal and rationale for eliminating it from the competitive range. Because the competitive acquisition is still proceeding, a pre-award feedback session does not provide information such as the number of other offerors nor their evaluations or rankings.
+
+As part of the Summary slides, the team might also include their consensus ratings. This slide depicts the team consensus ratings of the offeror being debriefed for the Management Approach evaluation factor. It cites the specific strengths and weaknesses of the offeror’s management approach. 
+
+![tbd ](https://github.com/kristenjernigan/kj-liatest/blob/4086a8c8656030276efbcb0cd59d281ed877a289/Media/Module%203/Example%20Caucus%20Rating%20Format.png)
+
+**Final Slide(s):**
+
+The final slide(s) should provide a high-level summary. It should indicate that the evaluation is considered complete and closed. The slide might state, for example:
+
+“In summary, the Government’s selection decision was based on a comparative assessment of all offers consistent with the criteria set forth in Section M of the RFP. As the debriefing showed, the selection represents the most advantageous offer to the Government, price and other factors considered. This concludes the debriefing, and it is considered complete and closed.”
+
+## Checklist: Do’s and Don’ts
+
+During the post-evaluation feedback sessions, DO:
+
+* Set expectations up front  
+* Start with strengths  
+* Provide helpful, clear information  
+* Remain courteous and professional  
+* Answer questions if permissible  
+* Stay flexible with time  
+* Invite feedback to improve future solicitations
+
+During the debriefing, DON’T:
+
+* Apologize  
+* Argue or negotiate  
+* Compare vendors directly
+
+**Conclusion**
+
+Debriefings can really help shape the way vendors bid on future procurements, as well as give you the opportunity to explain why they didn’t win or what they could do better next time.  Here are several readings to help further your understanding of this process, as well as add new tools to your toolbox:
+
+* [Debriefing Agendas Template](https://github.com/kristenjernigan/kj-liatest/blob/4086a8c8656030276efbcb0cd59d281ed877a289/Media/Module%203/Template_Debriefing_Agendas.cfm.docx)   
+* [Proposed Debriefing Agenda](https://github.com/kristenjernigan/kj-liatest/blob/4086a8c8656030276efbcb0cd59d281ed877a289/Media/Module%203/Template_Proposed_Debriefing_Agenda.cfm.doc)   
+* [Sample Debriefing](https://github.com/kristenjernigan/kj-liatest/blob/4086a8c8656030276efbcb0cd59d281ed877a289/Media/Module%203/Sample_Debriefing.pdf)
+
+
+
+
 
 
