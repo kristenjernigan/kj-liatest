@@ -120,7 +120,7 @@ Let’s check your knowledge on the what, or the definition of digital services,
 
 Explanation: Digital services can be deployed on a mobile phone using your data plan.
 
-2. It sounds like only adults can be end users of digital servies since it's for finding important information or filling out forms. 
+2. It sounds like only adults can be end users of digital services since it's for finding important information or filling out forms. 
 
 - [[ ]] True
 - [[X]] False
