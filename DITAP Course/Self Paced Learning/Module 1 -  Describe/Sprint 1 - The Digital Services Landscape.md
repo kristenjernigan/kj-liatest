@@ -31,28 +31,28 @@ A few decades ago, individuals filing for immigration status in the United State
 
 Take a quick look at the [https://my.uscis.gov/](https://my.uscis.gov/) website. Even the home page gives you an idea of how much easier this process has become. Let’s analyze this use case, starting with “the who.”
 
-### Who?
+**Who?**
 
 The Department of Homeland Security U.S. Citizenship and Immigration Services (USCIS), wants to provide a digital service for its customers: individuals filing for immigration status in the United States. In a sense, who benefits from or is affected by implementing the digital service?
 
 
-### What? 
+**What?**
 
 The end user can access information about the process and content, like downloadable forms. The end user can also complete transactions online, like checking case status or scheduling appointments. Those working in USCIS can process the information less burdensomely.
 
 
-### Why?
+**Why?**
 
 USCIS wants to provide its customers with information and services digitally to minimize time and frustration. This article, "[Why I’m Bringing the U.S. Digital Service to the Department of Homeland Security](https://medium.com/the-u-s-digital-service/why-i-m-bringing-the-u-s-digital-service-to-the-department-of-homeland-security-c96437bc017d)," helps explain why.
 
 
-### Where? 
+**Where?**
 
 Because the site is responsive, users can access it from their computers and mobile devices. Check this out.
 
 ![screenshot of My USCIS website on a mobile device](https://github.com/kristenjernigan/kj-liatest/blob/a35fff1d65346dbbf84d2220b3749b3eaf86658a/Media/Module%201/My%20USCIS%20screenshot%20on%20mobile%20device.jpg)
 
-### How? 
+**How?**
 
 In our online learning module, Digital Services – The How, you’ll learn how the digital service was developed, including development methodologies, technologies, etc.
 
@@ -96,6 +96,8 @@ This is the technical ingredients for the cake. The platform layer is the place 
 
 
 When the digital services “cake” is served to end users, it’s put on a sturdy and stable plate. What does this mean? 
+
+![A 3-layered cake with the layers labeled as information layer, presentation layer, and platform layer representing digital services, sitting on a layer titled security and privacy](https://github.com/kristenjernigan/kj-liatest/blob/015395ca895e708cc78106c3637c249ef1b06add/Media/Module%201/Digital%20Services%20Cake%20Security%20and%20Privacy.PNG)
 
 Security, privacy, and data protection must be built into the technology's life cycle to ensure the safe and secure delivery and use. Thus, the layers of digital services rest on a platform of security and privacy.
 
