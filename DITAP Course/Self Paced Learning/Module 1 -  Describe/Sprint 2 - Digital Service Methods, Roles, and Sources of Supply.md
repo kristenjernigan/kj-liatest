@@ -84,7 +84,7 @@ Imagine you’re remodeling your house. It’s up to you and your spouse to deci
 
 Because your personas drive development decisions, it is important that you consider personas as living documents. User needs can evolve as technology evolves. Keep your users' needs in check by leveraging research, engaging them in dialogue, and involving them in the testing of your digital product or service.
 
-#### For Further Exploration
+**For Further Exploration**
 
 Read how USA.gov updated their personas based on themes and insights they collected from different data sets.
 
@@ -98,7 +98,7 @@ You can use journey mapping to explore users' feelings, questions, and needs as 
 
 ![Journey map diagram that maps how Linda identifies information need, looks for information, finds information, and seeks help. It outlines her activities, feelings and needs, and potential opportunities for improvement](https://github.com/kristenjernigan/kj-liatest/blob/a2235c7d6ed21dc35d232d8c76926494a570544c/Media/Module%201/1000-x-800-USAgov-Personas-and-Journey-Maps_small%20Linda.jpg)
 
-#### For Further Exploration
+**For Further Exploration**
 
 Want to learn more about journey mapping? Read about the process USA. gov used and how they leveraged personas to create journey maps. 
 
@@ -116,7 +116,7 @@ As procurement professionals, you are critical in shaping how the government inv
 
 ### Agile foundations
 
-#### What is agile delivery?
+**What is agile delivery?**
 
 Agile delivery emphasizes working code over planning and team cohesiveness over formal process. It relies on the hypothesis that iterative development, collaboration, and transparency lead to better product development. It empowers delivery teams to work in short cycles (sprints), respond to change, and continuously deliver value to users. Agile is a departure from traditional waterfall delivery, where requirements are set initially and progress is linear. Instead, agile adapts as needs and dependencies are identified and evolve.
 
@@ -708,7 +708,7 @@ These teams play a critical role in:
 * **improving procurement practices** by advising on modular contracting and vendor selection  
 * **supporting delivery** by embedding with program teams to guide implementation or act as product owners
 
-**Activity – Group discussion (Optional)**
+### Activity – Group discussion (Optional)
 
  How do these government teams collaborate with external vendors? What role do they play in improving digital service delivery?
 
@@ -734,7 +734,7 @@ These suppliers include:
 
 An increasing number of firms specialize in digital service delivery and either work regularly with public sector organizations and/or are seeing opportunities to perform work in this area. The [Digital Service Coalition](https://digitalservicescoalition.org/) includes a large number of companies in its membership that provide digital services today. 
 
-**Activity \- Digital Service Supplier Discovery:**  
+### Activity \- Digital Service Supplier Discovery:
 Select two companies from the list of Digital Service Coalition members listed [here](https://digitalservicescoalition.org/story/). Review their websites, and perform a search on [usaspending.gov](http://usaspending.gov) to identify contract awards they have received from the federal government. Consider the following questions: 
 
 * How does each company describe its services?   
@@ -743,13 +743,13 @@ Select two companies from the list of Digital Service Coalition members listed [
 * How much experience has each company had performing under federal contracts so far?   
 * What else would you be interested to learn about each company? 
 
-**Activity – Group exercise:**  
+### Activity – Group exercise: 
  In groups, participants map a collaboration model for delivering a large-scale digital project between a government agency and a private vendor.
 
-**Self-paced reflection prompt (Optional)**  
+### Self-paced reflection prompt (Optional)  
  Think about a real or hypothetical federal digital service need you’ve encountered. Which type of private-sector partner would be most helpful? Why?
 
-**Discussion prompt (Optional)**  
+### Discussion prompt (Optional)
 What types of suppliers have you worked with in the past? What advantages or challenges did you experience?
 
 ---
@@ -785,7 +785,7 @@ Common models include:
 
 * **Co-delivery / Hybrid teams** – Vendor and federal staff collaborate as one integrated team, often with shared responsibilities.
 
-**Activity – Role play:**  
+### Activity – Role play: 
  Participants role-play various collaboration models, taking on roles such as Project Manager, Vendor Lead, and Federal Product Owner. Teams discuss the benefits and challenges of each model.
 
 ---
@@ -800,7 +800,7 @@ Common models include:
 * A large integrator leads DevSecOps operations while a digital consultancy handles UX/UI and front-end development.  
 * A digital services company partners with an internal federal team to co-develop a modular CMS platform, sharing sprint planning and product ownership duties.
 
-**Activity – Group analysis:**  
+### Activity – Group analysis:
  Review a real-world case study (anonymized) and identify the agency's responsibilities vs. the vendor’s responsibilities. Discuss how each role contributed to project success.
 
 ---
