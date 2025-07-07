@@ -1,5 +1,28 @@
 # Module 3 Sprint 2
 
+## Strategic Planning and Execution in Digital Acquisitions
+
+In today’s rapidly evolving federal procurement environment, agencies must adopt more agile, outcome-driven approaches to meet complex mission needs. Traditional acquisition methods—anchored in prescriptive requirements, fixed personnel, and lengthy timelines—often fail to deliver timely and adaptable solutions, especially in digital service contexts.
+
+This unit prepares learners to navigate and lead digital acquisitions by focusing on strategic planning, flexible documentation, collaborative execution, and modern decision-support tools. The learning journey begins with a case-based exploration of tradeoffs and mission alignment, then moves into crafting outcome-oriented Statements of Objectives (SOOs) and rethinking staffing through the lens of Agile. Learners will also explore how **artificial intelligence (AI)** is reshaping the acquisition landscape—supporting faster analysis, enhancing decision-making, and aligning procurement with agency maturity models. The unit concludes by equipping participants with practical strategies for negotiating with vendors in a way that fosters trust, clarity, and best-value outcomes.
+
+By weaving together foundational practices with forward-leaning technologies, this unit empowers acquisition professionals to lead with both strategy and innovation.
+
+### Learning Objectives
+
+By the end of this unit, participants will be able to:
+
+1. **Analyze tradeoffs and mission priorities** using structured case study methods to inform acquisition strategy decisions.
+
+2. **Develop a Statement of Objectives (SOO)** that articulates clear, outcome-based needs aligned with user and agency goals.
+
+3. **Differentiate between key personnel requirements and outcome-based contracting**, and apply Agile-compatible strategies to team evaluation.
+
+4. **Evaluate the strategic role of AI** in acquisition planning, risk mitigation, and digital services maturity.
+
+5. **Plan and conduct effective vendor negotiations** that clarify assumptions, resolve misunderstandings, and support best-value outcomes in digital procurements.
+
+
 ## Introduction to Artificial Intelligence and the Acquisition Strategy
 
 As artificial intelligence (AI) reshapes both private industry and public sector operations, its application within acquisition strategy development offers a transformative opportunity. Predictive and generative AI technologies enable acquisition professionals to analyze vast amounts of data, forecast needs, automate documentation, and support decision-making throughout the program lifecycle. However, while these tools offer efficiency and insight, the success of an acquisition strategy still relies on critical thinking, human judgment, and an understanding of the unique context each program presents.
