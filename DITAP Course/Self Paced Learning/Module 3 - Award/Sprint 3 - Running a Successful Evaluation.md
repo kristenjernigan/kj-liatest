@@ -418,6 +418,96 @@ Here are several readings to help further your understanding of this process, as
 * [Price Negotiation Template](https://github.com/kristenjernigan/kj-liatest/blob/c08c614c72b5a394b3c946bc154ec9d5817c13a4/Media/Module%203/Template_Price_NEG_Memo.doc)
 
 ---
+## Knowledge Check: Negotiating with Vendors
+
+1\. True or False
+
+Statement:  
+In digital service acquisitions, it’s usually a waste of time to open negotiations with vendors early in the process.
+
+☐ True  
+☒ False *(Correct)*
+
+2\. Multiple Choice – Scenario-Based
+
+Question:  
+During a code challenge, a top vendor assumed and proposed the use of a commercial cloud service that doesn’t meet FedRAMP requirements. What should the agency do next?
+
+☐ Eliminate the vendor immediately  
+ ☐ Ask for a new full proposal  
+ ☒ Open discussions to clarify assumptions and allow revision *(Correct)*  
+ ☐ Ignore it and continue
+
+### 
+
+3\. Match the Terms 
+
+Match each term to its correct definition by writing the matching letter next to the number.
+
+Terms:
+
+1. Clarifications  
+2. Communications  
+3. Negotiations  
+4. Best Value
+
+Definitions:  
+ A. Discussions that allow vendors to revise proposals  
+ B. Limited exchanges to fix minor errors (no proposal changes)  
+ C. Offer that provides the greatest advantage based on price and technical merit  
+ D. Exchanges to determine competitive range (no proposal changes)
+
+Your Answers:
+
+1. ---
+
+2. ---
+
+3. ---
+
+4. ---
+
+Correct Answers:
+
+1. B
+
+2. D
+
+3. A
+
+4. C
+
+4\. Reflection Prompt
+
+Think of a time when expectations weren’t clear during a collaboration:
+
+* What happened as a result?
+
+* How might early communication or negotiation have helped?
+
+Your Response:  
+ *\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
+
+5\. Select All That Apply
+
+What are the benefits of negotiating early in digital services procurements?  
+ ☒ Prevents misunderstandings  
+ ☐ Automatically reduces price  
+ ☒ Builds vendor trust  
+ ☒ Helps clarify technical assumptions  
+ ☐ Avoids needing any evaluation
+
+
+6\. Short Answer – Reflection
+
+**Prompt:**  
+Your team is preparing for negotiations. Based on what you’ve learned, name *two things* the team should do before the session.
+
+Your Response:  
+1\.  *\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*  
+2\.  *\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
+
+---
 ## The Art of the Post-Evaluation Feedback in Digital Services Procurements
 
 Generally, offerors spend a considerable amount of time and money to bid on a contract. When they are unsuccessful, they deserve to know why. Post-evaluation feedback is a critical part of this process.
@@ -604,94 +694,7 @@ Debriefings can really help shape the way vendors bid on future procurements, as
 * [Sample Debriefing](https://github.com/kristenjernigan/kj-liatest/blob/4086a8c8656030276efbcb0cd59d281ed877a289/Media/Module%203/Sample_Debriefing.pdf)
 
 ---
-## Knowledge Check: Negotiating with Vendors
 
-1\. True or False
-
-Statement:  
-In digital service acquisitions, it’s usually a waste of time to open negotiations with vendors early in the process.
-
-☐ True  
-☒ False *(Correct)*
-
-2\. Multiple Choice – Scenario-Based
-
-Question:  
-During a code challenge, a top vendor assumed and proposed the use of a commercial cloud service that doesn’t meet FedRAMP requirements. What should the agency do next?
-
-☐ Eliminate the vendor immediately  
- ☐ Ask for a new full proposal  
- ☒ Open discussions to clarify assumptions and allow revision *(Correct)*  
- ☐ Ignore it and continue
-
-### 
-
-3\. Match the Terms 
-
-Match each term to its correct definition by writing the matching letter next to the number.
-
-Terms:
-
-1. Clarifications  
-2. Communications  
-3. Negotiations  
-4. Best Value
-
-Definitions:  
- A. Discussions that allow vendors to revise proposals  
- B. Limited exchanges to fix minor errors (no proposal changes)  
- C. Offer that provides the greatest advantage based on price and technical merit  
- D. Exchanges to determine competitive range (no proposal changes)
-
-Your Answers:
-
-1. ---
-
-2. ---
-
-3. ---
-
-4. ---
-
-Correct Answers:
-
-1. B
-
-2. D
-
-3. A
-
-4. C
-
-4\. Reflection Prompt
-
-Think of a time when expectations weren’t clear during a collaboration:
-
-* What happened as a result?
-
-* How might early communication or negotiation have helped?
-
-Your Response:  
- *\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
-
-5\. Select All That Apply
-
-What are the benefits of negotiating early in digital services procurements?  
- ☒ Prevents misunderstandings  
- ☐ Automatically reduces price  
- ☒ Builds vendor trust  
- ☒ Helps clarify technical assumptions  
- ☐ Avoids needing any evaluation
-
-
-6\. Short Answer – Reflection
-
-**Prompt:**  
-Your team is preparing for negotiations. Based on what you’ve learned, name *two things* the team should do before the session.
-
-Your Response:  
-1\.  *\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*  
-2\.  *\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
 
 
 
