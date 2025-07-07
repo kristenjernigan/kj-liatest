@@ -603,7 +603,7 @@ In traditional government IT projects, development, security review, and operati
 
 *![Diagram illustrating the 'New Way' of DevOps, showing a continuous, circular flow of Code, Build, Test, Release, and Operate, with a central team of developers.](https://github.com/kristenjernigan/kj-liatest/blob/860d3f4103cafc1a5d9cf29db74672bad964690e/Media/Module%201/DevOps%20the%20new%20way.png) 
 
-*What is DevOps from [https://tech.gsa.gov/guides/what\_is\_devops/](https://tech.gsa.gov/guides/what_is_devops/)* 
+*What is DevOps from [https://medium.com/strategio/devops-a-harmonious-movement-1380e03e5bdd](https://medium.com/strategio/devops-a-harmonious-movement-1380e03e5bdd)* 
 
 Another key feature of DevSecOps is the **CI/CD pipeline**, which stands for Continuous Integration and Continuous Delivery. This process enables teams to make small, frequent updates to software and get those updates into production quickly. This allows developers to respond faster to user needs and fix problems without waiting for a big release. Ultimately, the ability to rapidly make code changes to the production environment improves stability and fosters confidence in the development team. For federal digital services, new features, bug fixes, and updates can be delivered faster and with fewer errors while meeting the government’s strict security and compliance standards.
 
