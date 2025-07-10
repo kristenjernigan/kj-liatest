@@ -437,5 +437,52 @@ Here's a list of additional elements that would strengthen your multi-vendor man
 
 Managing multi-vendor digital service contracts isn’t just about awarding and administering discrete scopes of work—it’s about curating a collaborative, high-performing delivery ecosystem. When government teams treat vendors as strategic partners, foster a culture of transparency and fairness, and create structures for joint accountability, the results are faster delivery, better products, and a healthier vendor marketplace. From onboarding and coordination to retrospectives and incentives, every touchpoint offers an opportunity to reinforce shared goals and reduce friction. By embracing the role of a ***Delivery Marketplace Architect*****,** agencies can shape a multi-vendor environment that is adaptive, resilient, and continuously improving—not in spite of its complexity, but because of how intentionally it’s managed.
 
+---
+## Knowledge Check: Managing a Multi-Vendor Environment
+
+### 1\. Which of the following best describes the role of a government team in a multi-vendor digital services environment?
+
+ *(Select one)*  
+ A. Enforcing strict competition between vendors  
+ B. Monitoring each vendor individually with no coordination  
+ C. Acting as a Delivery Marketplace Architect to support shared outcomes  
+ D. Leaving vendors to figure things out on their own
+
+**Correct Answer: C**
+
+---
+
+### 2\. What is the purpose of joint retrospectives and quarterly program reviews (QPRs)?
+
+ *(Select all that apply)*  
+ ☐ Track individual vendor contract compliance  
+ ☐ Surface system-wide blockers and risks  
+ ☐ Co-design improvements across teams  
+ ☐ Celebrate delivery wins and analyze what went wrong
+
+**Correct Answers: B, C, D**
+
+---
+
+### 3\. Which of the following is a good example of *vendor self-organization*?
+
+ *(Select one)*  
+ A. Waiting for the CO to assign tasks  
+ B. Forming a working group to align on shared DevOps tools  
+ C. Competing with other vendors to block their progress  
+ D. Ignoring dependencies between contracts
+
+**Correct Answer: B**
+
+---
+
+### 4\. Imagine you are reviewing a recurring delivery issue that impacted three vendors. What’s the best next step?
+
+ *(Short answer)*
+
+*\[Your response here\]*
+
+**Example of acceptable answer:** “Host a joint root cause analysis to understand what happened and agree on system-level improvements.”
+
 
 
