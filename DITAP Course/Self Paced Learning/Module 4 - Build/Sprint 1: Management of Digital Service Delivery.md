@@ -240,3 +240,37 @@ In an upcoming live session,  you will complete the Agile Role Round Robin activ
 
 This activity will reinforce key concepts from the *Managing Digital Service Delivery* lesson and help you apply them in a realistic, role-based context.
 
+---
+## Amplifying Agile Delivery
+
+
+
+From culture to automated security testing measures, this activity provides ongoing Agile IT insights through various mediums. Best practices and lessons learned from these articles will make valuable additions to your Agile IT toolbox. In true Agile nature, you’ll go forth equipped to adapt and apply this wisdom into your digital acquisition sphere. 
+
+This collection of readings has been specifically curated to enhance your knowledge and understanding of how the industry manages and delivers Agile projects.
+
+* [Agile Government](https://www2.deloitte.com/us/en/insights/industry/public-sector/government-trends/2024/agile-government-is-imperative-for-public-sector.html) – This report from Deloitte Insights provides a comprehensive analysis of how government agencies worldwide are applying agile approaches across procurement, regulation, policymaking, and workforce management with recent federal case studies.
+* [The 5 A's of Agile Government Performance and Tools for Adoption](https://napawash.org/articles-from-our-partners/the-5-as-of-agile-government-performance-and-tools-for-adoption)– A summary and introduction to a practical framework for measuring and improving government performance using agile principles with specific federal implementation guidance.
+* [Adopting Agile in Government: A Comparative Case Study](https://www.tandfonline.com/doi/full/10.1080/14719037.2024.2354776) (optional)– An academic analysis of successful and failed agile implementations across government agencies, with focus on implementation challenges and success factors.
+* [GAO Agile Assessment Guide](https://www.gao.gov/products/gao-20-590g) (optional) - Latest government auditing guidance from GAO on evaluating agile implementations, with metrics for program health and success indicators.
+* [DevSecOps: Challenges and Solutions](https://www.actiac.org/documents/devsecops-challenges-and-solutions) (optional) - As organizations go through this transformational journey towards DevSecOps, it is likely to encounter challenges that can be organized in three high level categories—Cultural, Leadership and Technical.  ACT-IAC developed this whitepaper to document those challenges as well as offer possible solutions that have had some measure of success within federal organizations.
+* [5 IT Security Considerations for Building a CI/CD Pipeline](https://citizant.com/blog/devsecops/5-security-considerations-cicd-pipeline/) (optional) - Government-specific guidance by Citizant on implementing security in CI/CD pipelines with NIST compliance considerations.
+
+
+
+### Discussion (optional)
+
+For this activity, read at least 2 of the articles listed above and use the discussion board to answer the following questions:
+
+1. How can government agencies balance agile flexibility with compliance requirements?
+2. What are the most meaningful leading indicators for government IT project success?
+3. How can contracting officers create incentive structures that promote healthy agile behaviors in government contractors?
+4. When is it appropriate to pivot or terminate an agile initiative in government?
+5. How do we measure public value in government digital services beyond traditional ROI?
+
+**Share Your Resources:** Use the course **discussion board** to share resources related to industry best practices. Did any of the articles mentioned above lead you to a new resource that could support your research into delivering high-quality digital services? If so, post a brief description and the link to the discussion board. You’re also encouraged to share any helpful resources you’ve discovered on your own during the course. Reviewing each other’s contributions can help build a stronger, shared knowledge base across the class.
+
+**Definition of Done:** Your discussion posts should fully address the questions listed in the instructions.
+
+
+
