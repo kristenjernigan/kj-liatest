@@ -170,6 +170,109 @@ Selecting the right evaluation criteria is both a technical and strategic task. 
 
 In agile environments, where collaboration, adaptability, and working software are paramount, evaluation criteria should reward vendors who demonstrate team maturity, technical fluency, and alignment with end-user needs preferably in real time through oral presentations or working prototypes.
 
+---
+## APPENDIX A: Comparative Evaluation Model for RFPs
+
+### I. Introduction: A model for comparative evaluation of vendor proposals.
+
+### II. Evaluation Methodology: Use comparative assessments across multiple stages to determine best fit.
+
+### III. Evaluation Characteristics
+
+* No scoring required  
+* Focuses on relative merit  
+* Narrative-based justifications
+
+### IV. Evaluation Stages & Criteria
+
+#### 1\. White Paper Evaluation
+
+* Past Experience  
+* Technical Understanding  
+* Team Qualifications
+
+#### 2\. Oral Presentation / Technical Challenge
+
+* Demonstrated Solutions  
+* Problem Solving  
+* Team Dynamics
+
+#### 3\. Draft PWS and Pricing
+
+* Alignment with Goals  
+* Risk Mitigation  
+* QA Processes  
+* Cost-Effectiveness
+
+### V. Evaluation Flow
+
+* Use white paper to screen vendors  
+* Compare solutions during oral presentations  
+* Select final vendor based on relative merit and alignment with goals
+
+### VI. Additional Considerations
+
+* Require verifiable data  
+* Allow narrative rationale for selections  
+* Focus on value and mission impact
+
+---
+
+## APPENDIX B: Best-Value Trade-Off Evaluation Model for RFPs
+
+### I. Introduction
+
+A model for best-value (adjectival) evaluation of vendor proposals, used to assess proposal merit based on how well offerors meet predefined criteria and requirements.
+
+### II. Evaluation Methodology
+
+Apply adjectival ratings to each evaluation factor based on proposal quality, alignment with requirements, and risk. Use narrative justifications to support ratings and facilitate trade-off decisions.
+
+### III. Adjectival Ratings
+
+* Excellent – Exceeds requirements with significant strengths and low risk  
+* Good – Meets requirements with some strengths and low to moderate risk  
+* Acceptable – Adequately meets requirements with no significant strengths or weaknesses; moderate risk  
+* Marginal – Fails to clearly meet requirements or contains weaknesses; high risk  
+* Unacceptable – Fails to meet one or more key requirements; not eligible for award
+
+### IV. Evaluation Stages & Criteria
+
+#### 1\. White Paper Evaluation
+
+* Past Experience  
+* Technical Understanding  
+* Team Qualifications
+
+#### 2\. Oral Presentation / Technical Challenge
+
+* Demonstrated Solutions  
+* Problem Solving  
+* Team Dynamics
+
+#### 3\. Draft PWS and Pricing
+
+* Alignment with Goals  
+* Risk Mitigation  
+* QA Processes  
+* Cost-Effectiveness
+
+### V. Evaluation Flow
+
+* Evaluate white papers using adjectival ratings  
+* Conduct oral presentations or technical challenges  
+*   
+* Review Draft PWS and pricing for realism and value  
+* Select vendor offering the best combination of ratings, strengths, and overall value
+
+### VI. Additional Considerations
+
+* Use clearly defined rating definitions and evaluation criteria  
+* Require narrative rationale for all ratings  
+* Calibrate evaluators to ensure consistency  
+* Ratings may be adjusted based on new information or clarification  
+* Maintain focus on measurable value and mission impact
+
 
 ---
 ## Negotiating with Vendors
