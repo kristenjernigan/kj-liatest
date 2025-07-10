@@ -57,7 +57,7 @@ To better understand how agile delivery unfolds in a federal environment, the fo
 **Structure:** 2-week sprints over 4 weeks, including product demo and CO/COR/PO check-in  
 **Purpose:** Demonstrate how agile ceremonies align with federal procurement oversight roles and responsibilities
 
-(insert image here)
+![Infographic titled 'Basic Scrum Cadence' showing a weekly schedule for three sprints (Sprint 1, Sprint 2, Sprint 3). Each week (Monday to Friday) includes 'Daily Scrum'. On Tuesday, 'Backlog refinement' is added. On Wednesday, 'Sprint review', 'Retrospective', and 'Sprint Planning' are added. Arrows indicate flow between days, showing the continuous nature of Daily Scrums.](https://github.com/kristenjernigan/kj-liatest/blob/724b890d63e87770de78ae7ab3b4c10f3ec4adf4/Media/Module%204/basic%20scrum%20cadence.png)
 
 *Image Credit: Blackboard PISG Agile and Scrum Training 2018*
 
@@ -68,13 +68,16 @@ To better understand how agile delivery unfolds in a federal environment, the fo
 **Activities:**
 
 * **User Story Sizing:**  
-   The vendor team reviews upcoming stories with the PO and provides rough estimates of effort (e.g., story points or time-based sizing).  
-  (insert image here)  
+   The vendor team reviews upcoming stories with the PO and provides rough estimates of effort (e.g., story points or time-based sizing).
+  
+ ![Infographic titled 'Epic/story pointing and relativity'. It illustrates functionality/issues as different-sized boxes, each paired with a silhouette of a person. These correspond to 'Relative difference' (Smallest to Biggest) and 'Story pointing' values (1, 2, 3, 5, 8, 13). Below, a graph shows 'Uncertainty' increasing proportionally as 'Story Points' increase, with text stating 'Uncertainty of completion increases in proportion to story point increases'.](https://github.com/kristenjernigan/kj-liatest/blob/724b890d63e87770de78ae7ab3b4c10f3ec4adf4/Media/Module%204/epic%20-%20story%20pointing%20and%20relativity.png) 
   *Image Credit: Blackboard PISG Agile and Scrum Training 2018*
+  
 
 * **Backlog Refinement:**  
-  Based on the sizing and team velocity, the PO re-prioritizes the backlog and adjusts scope.  
-  (insert image here)  
+  Based on the sizing and team velocity, the PO re-prioritizes the backlog and adjusts scope.
+  
+ ![Diagram titled 'Discovering and defining the backlog'. On the left, 'Product Backlog' shows a 'Theme' containing multiple 'Epics'. A Product Manager (PM, Visionary) is shown above, and a Product Owner (PO, Execution) below. Black arrows show the PM and PO influencing the creation of a 'Prioritized Product Backlog' on the right, which breaks down Epics into 'Stories' for Sprint 1, 2, and 3, with some Epics remaining for refinement or later sprints. A timeline at the bottom shows versions 1.2.2.0 and 1.2.3.0.](https://github.com/kristenjernigan/kj-liatest/blob/724b890d63e87770de78ae7ab3b4c10f3ec4adf4/Media/Module%204/discovering%20and%20defining%20the%20backlog.png)
   *Image Credit: Blackboard PISG Agile and Scrum Training 2018*
 
 * **Definition of Done (DoD) Review:**  
@@ -90,7 +93,7 @@ To better understand how agile delivery unfolds in a federal environment, the fo
 
 * Surfaces early signals of risks that might require CO attention before the sprint begins.
 
-(insert image here)
+![On the left, 'Vision: Describes the purpose, goals, and change that the product will create,' accompanied by a winding road with multiple location pins, suggesting a journey. A tip below states, 'Think of this step as a roadmap for success. Remember scope may change.' On the right, 'Product Strategy: Describes the path chosen to deliver the vision,' is illustrated by a circular diagram labeled 'Product Strategy' at its center, surrounded by connected bubbles for 'Who', 'Needs', 'Defining Success', 'Innovation', 'Revenue', and 'Logistics'.](https://github.com/kristenjernigan/kj-liatest/blob/724b890d63e87770de78ae7ab3b4c10f3ec4adf4/Media/Module%204/vision%20and%20prodcut%20strategy.png)
 *Image Credit: Blackboard PISG Agile and Scrum Training 2018*
 
 
@@ -136,7 +139,7 @@ To better understand how agile delivery unfolds in a federal environment, the fo
 
 ---
 
-(insert image here)
+![Diagram illustrating the flow from 'Corporate Leadership and Architectural Strategy and Vision' down to specific planning levels. It shows three rows: 'Product Vision (6+ months)' handled by 'Product Management' with bullet points for Vision, Product strategy, and Epic creation/priority. 'Release Planning (Quarterly/monthly)' handled by 'PM with PO, Design, Dev Manager' with bullet points for Epic mapping, Release plan, and Quarterly plan. 'Sprint Planning (2 weeks)' handled by 'Scrum Team (PO, SM, Eng. team, Design)' with bullet points for Product backlog and Sprint plan. Double-headed arrows on the right indicate feedback loops or continuous interaction between Product Management, PM/PO/Design/Dev Manager, and the Scrum Team levels.](https://github.com/kristenjernigan/kj-liatest/blob/724b890d63e87770de78ae7ab3b4c10f3ec4adf4/Media/Module%204/corporate%20leadership%20and%20architectural%20strategy%20and%20vision.png)
 
 *Image Credit: Blackboard PISG Agile and Scrum Training 2018*
 
@@ -195,7 +198,7 @@ To better understand how agile delivery unfolds in a federal environment, the fo
 
 
 
-(insert image here)
+![Slide titled 'Scrum metrics' with text stating Scrum is built on continuous improvement, requiring measurement to identify ways to get better. A diagram on the right shows 'Scrum Team Maturity Metrics' at the center, surrounded by interconnected circles representing other metrics: Forecasting, Epic and Story velocity, Resource change rate, Throughput, Release metrics, Bugs metrics, Epic and Story metrics, and Requirement quality.](https://github.com/kristenjernigan/kj-liatest/blob/724b890d63e87770de78ae7ab3b4c10f3ec4adf4/Media/Module%204/scrum%20metrics.png)
 
 *Image Credit: Blackboard PISG Agile and Scrum Training 2018*
 
