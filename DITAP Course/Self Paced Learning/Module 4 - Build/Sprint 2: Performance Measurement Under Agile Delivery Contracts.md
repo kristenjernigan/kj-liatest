@@ -484,5 +484,54 @@ Managing multi-vendor digital service contracts isn’t just about awarding and 
 
 **Example of acceptable answer:** “Host a joint root cause analysis to understand what happened and agree on system-level improvements.”
 
+---
+## Warranties in Agile Development Readings 
+
+As you wrap up Sprint 2, we’re shifting focus to warranties—an important but often overlooked tool in managing performance under agile contracts. The readings below will help you understand how warranties work in federal acquisitions and how they can be used in agile software projects. You’ll learn about the rules in the FAR and explore ways to make sure each part of an iterative product works together. 
+
+### Federal Acquisition Regulation Framework
+
+#### Article: [FAR Subpart 46.7 \- Warranties](https://www.acquisition.gov/far/subpart-46.7)
+
+**Summary:** This official resource outlines the fundamental warranty provisions in federal acquisition. The FAR establishes that warranties are discretionary tools available to Contracting Officers. The regulation defines various warranty types, including warranties of conformance to specifications and warranties of merchantability. It also addresses considerations for commercial items, remedies for breach of warranty, and warranty administration responsibilities.
+
+**Key Takeaways to Address:** 
+
+* What is the legal framework for warranties in federal acquisitions?   
+* When should a Contracting Officer consider using a warranty?   
+* What are the primary limitations of traditional warranty approaches when applied to software development?
+
+The following readings discuss using warranties in Agile development projects. When reading, think about how these techniques can be adopted by your agency:  
+
+#### Article: [The Beauty and Terror of Agile Software Development](https://www.mintz.com/insights-center/viewpoints/2866/2021-03-24-beauty-and-terror-agile-software-development) 
+
+This article discusses contracting challenges in agile development and recommends including warranties that specify "each iteration will work with all other iterations" and "the final product will conform to expectations set out in each SOW" It addresses the unique challenges of warranties in iterative development.
+
+**Key Takeaways to Address:** 
+
+* How can warranties ensure that iteratively developed components will work together in the final system?   
+* What language can be used to ensure each sprint's deliverables integrate with previous work?   
+* How should warranty periods be structured when system components are delivered through different contracts with varying timelines?
+
+#### **Article:** [Warranties and Liabilities](https://github.com/kristenjernigan/kj-liatest/blob/6eed5df9334353e6fb50c3a350e21dfcdc6bcdaf/Media/Module%204/Chapter_7_-_Warranties_and_Liabilities.pdf) (excerpt from Contracts in Agile Software Development)
+
+In this reading, warranties and liability are compared in traditional contracting to agile contracting. Think about the differences and considerations for each type. 
+
+**Key Takeaways to Address:** 
+
+* Since agile projects typically don't develop comprehensive specifications upfront, what alternative documentation should be used to define warranty scope?  
+* Should warranties start after each iteration/sprint, after final acceptance, or use a hybrid approach?  
+* How do you define "good enough" software that can be accepted and moved to warranty coverage?  
+* What minimal documentation is needed despite the agile principle of "working software over comprehensive documentation"?
+
+## Discussion (Optional)
+
+**Based on the warranty readings, post your response to the following questions:**
+
+* In agile development, when features are created iteratively, what type of language can you use in the warranty to ensure that the vendor is responsible for the outcome of the entire project?  
+* Warranties for agile development can be difficult to establish due to the iterative nature. What can you do in both the acquisition strategy phase and the contract administration phase to ensure that you are fully protected by warranty?
+
+
+
 
 
