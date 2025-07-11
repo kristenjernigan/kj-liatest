@@ -18,8 +18,8 @@ You’ve reviewed performance reports, technical analyses, and integration test 
 #### What’s your decision?
 
 1. [Terminate CloudTech for default](#module-2-terminate-cloudtech-for-default)
-2. [Accept CloudTech’s remediation plan](#module-3-remediate)
-3. [Restructure the system under a single prime contractor](#module-4-prime)
+2. [Accept CloudTech’s remediation plan](#module-3-accept-remediation-plan)
+3. [Restructure the system under a single prime contractor](#module-4-move-to-prime-contractor-model)
 
 ---
 
@@ -41,7 +41,7 @@ You decide to terminate CloudTech’s contract.
 
 ---
 
-## Module 3: Accept Remediation Plan {#module-3-remediate}
+## Module 3: Accept Remediation Plan
 
 You agree to CloudTech’s proposal—with conditions.
 
@@ -59,7 +59,7 @@ You agree to CloudTech’s proposal—with conditions.
 
 ---
 
-## Module 4: Move to Prime Contractor Model {#module-4-prime}
+## Module 4: Move to Prime Contractor Model
 
 You decide to abandon the modular contracting approach.
 
