@@ -17,7 +17,7 @@ You’ve reviewed performance reports, technical analyses, and integration test 
 
 #### What’s your decision?
 
-1. [Terminate CloudTech for default](#module-2-terminate)
+1. [Terminate CloudTech for default](#module-2-terminate-cloudtech-for-default)
 2. [Accept CloudTech’s remediation plan](#module-3-remediate)
 3. [Restructure the system under a single prime contractor](#module-4-prime)
 
