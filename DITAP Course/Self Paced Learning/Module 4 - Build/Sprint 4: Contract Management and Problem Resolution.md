@@ -42,4 +42,39 @@ The broader context of federal IT challenges in 2025 includes several significan
 
 DevSecOps practices are becoming increasingly essential as cybersecurity threats evolve, with industry predictions suggesting that organizations implementing these practices will reduce vulnerabilities by 50% by 2026\. Meanwhile, recent executive orders have begun modernizing defense acquisitions and overhauling the Federal Acquisition Regulation to encourage more streamlined engagement with commercial technology providers.
 
+---
+## Activity Instructions
+
+Using your knowledge of modern software engineering practices and the context provided above, could you look over the FAFSA case study or select another current federal IT challenge from GAO's 2025 High Risk List?
+
+Your analysis should show that you understand how contemporary DevOps, CI/CD, and digital transformation practices could address systemic issues that plague federal IT acquisitions.
+
+### Question 1: 
+
+Modernization Strategy Given GAO's finding that 463 IT acquisition recommendations remain unimplemented across the federal government, what specific modern DevOps and CI/CD practices would you implement to address the three significant federal IT challenges identified, strengthening IT portfolio oversight, implementing mature acquisition practices, and building federal IT capacity?
+
+*Learning Note: In developing your response, consider how AI-powered automation could improve project management and oversight, what role DevSecOps practices would play in reducing security vulnerabilities, how progressive delivery methods could minimize deployment risks, and what modern workforce development approaches are needed to build sustainable technical capacity within government.*
+
+### Question 2: 
+
+Strategic Leadership Approach With federal agencies spending over $100 billion annually on IT, mostly on legacy system maintenance rather than innovation, how would you design a comprehensive digital transformation strategy that incorporates current best practices while addressing the unique procurement and organizational challenges identified in the case study?
+
+*Learning Note: Your response should address the integration of modern CI/CD pipelines with federal acquisition processes, strategies for balancing innovation with security and compliance requirements, approaches for building internal technical capacity versus continuing to depend on contractors, and change management strategies for large-scale government transformation initiatives.*
+
+### Question 3: 
+
+Contemporary Policy Analysis The 2024 State of CI/CD Report identified "a concerning trend where a significant portion of organizations are lagging in performance despite widespread adoption of DevOps practices." How does this finding apply to federal IT transformation efforts? What are the implications for government agencies attempting to modernize their technology capabilities?
+
+*Learning Note: Consider why technical adoption alone doesn't guarantee success, the role of organizational culture and change management in digital transformation, how federal constraints such as regulatory requirements, budget cycles, and political pressures impact implementation, and lessons that can be drawn from both successful and failed government digital initiatives.*
+
+## Definition of Done:
+
+To complete this activity, post your responses to the questions above in the discussion board. Be sure to state which failed project you selected as part of your response.
+
+After you post your responses, read through your classmates’ posts. Did anyone select the same project as you and choose an approach different from your own? Did anyone select a different project but use a similar strategy for change? Start a conversation with your classmates and ask how they came up with their strategy or how their approach is different from your own.
+
+**Due Date:** Your discussion board contributions are due by the end of Module 4\.
+
+
+
 
