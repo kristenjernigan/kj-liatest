@@ -23,7 +23,7 @@ You’ve reviewed performance reports, technical analyses, and integration test 
 
 ---
 
-## Module 2: Terminate CloudTech for Default {#module-2-terminate}
+## Module 2: Terminate CloudTech for Default
 
 You decide to terminate CloudTech’s contract.
 
