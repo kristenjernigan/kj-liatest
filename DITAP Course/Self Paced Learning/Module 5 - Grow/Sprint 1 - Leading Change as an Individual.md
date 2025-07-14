@@ -728,6 +728,120 @@ Tips to navigate approvals:
 
 Framing your story as a contribution to professional development and government-wide learning often shifts the tone from "risk" to "value." The more you position yourself as a thoughtful steward of your agency’s mission, the more likely you are to get support.
 
+---
+## AI Tool Procurement Case Study Template
+
+This template is designed to help contracting officers document and share their procurement experience with AI tools. Use it to reflect on your process, capture insights, and contribute to shared learning across government.
+
+---
+
+### Title:
+
+Give your case study a clear and specific title that reflects the nature of the procurement.
+
+Example: *“Procuring an AI-Powered Document Summarization Tool for FOIA Requests”*
+
+---
+
+### Executive Summary:
+
+Brief overview of what this procurement aimed to accomplish, the kind of AI tool involved, and the overall outcome.
+
+---
+
+### Agency Context:
+
+* Name of agency and office
+
+* Program or mission the AI tool was supporting
+
+* Key stakeholders involved
+
+### Initial Use Case:
+
+* What problem were you trying to solve?
+
+* Who was the end user or beneficiary of the AI tool?
+
+* What did you hope the tool would accomplish?
+
+### Desired AI Capabilities:
+
+* What specific type of AI or machine learning capability were you seeking? (e.g., summarization, classification, chat interface, generative models, etc.)
+
+* What requirements did you define upfront?
+
+### Market Research Conducted:
+
+* What tools or techniques did you use for market research? (e.g., RFIs, industry days, market surveys)
+
+* What surprised you about the vendor landscape?
+
+* How did market research affect your solicitation approach or requirements?
+
+### Final Tool Selected:
+
+* Description of the tool or platform selected
+
+* How did it compare to what you initially envisioned?
+
+* Was it off-the-shelf, custom-built, or a hybrid?
+
+### Security and Privacy Navigation:
+
+* What were the major concerns or constraints related to security, privacy, or data governance?
+
+* How did you work with the CISO, legal, or privacy office?
+
+* What requirements or clauses did you include to mitigate risk?
+
+### Procurement Strategy:
+
+* What type of contract or vehicle did you use?
+
+* Any special techniques or authorities leveraged (e.g., CSOs, OTAs, BPA call, etc.)?
+
+* How did you evaluate vendors?
+
+### Implementation Lessons:
+
+* What went well during implementation?
+
+* What challenges came up (technical, cultural, contractual)?
+
+* How were those resolved or worked around?
+
+### Results / Outcomes:
+
+* What impact has the tool had (so far)?
+
+* Include both quantitative (time savings, accuracy, etc.) and qualitative (user feedback, improved workflow) measures if available.
+
+
+### Retrospective & Recommendations:
+
+* What would you do differently next time?
+
+* What lessons are most worth sharing?
+
+* Would you recommend the tool or approach to other agencies?
+
+### Supporting Materials:
+
+Attach or link to any of the following if available:
+
+* Sample RFQ/RFI/SOW
+
+* Market research artifacts
+
+* Evaluation criteria or scorecards
+
+* Security/privacy checklists
+
+* Post-award performance reviews
+
+*Use this template to document your AI tool procurement experience and share with your peers, acquisition community, or as a formal case study contribution to internal or external knowledge hubs.*
+
 
 
 
