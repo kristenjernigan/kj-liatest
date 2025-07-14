@@ -491,7 +491,19 @@ When dealing with rejection in the workplace, it’s easy to isolate yourself to
 
 Start by thinking about small rituals you can incorporate into your everyday now. Try incorporating one ritual each week to tap into each performance area. Over time, those small rituals become [habits](http://www.npr.org/2012/02/27/147296743/how-you-can-harness-the-power-of-habit)—and habits are a powerful thing. When things become hard or you’re faced with rejection, you’ve already built these behaviors into your everyday, which increases your resilience and keeps you at your “Ideal Performance State.”
 
+---
+## Analyze Where the “No” Came From
 
+So, you’ve been told no. You’ve been cultivating your growth mindset and using wellness techniques to keep you in the right frame of mind. Now it’s time to think through why you were told “no” and determine how to move forward from there.
+
+When you are told “no,” it becomes easy to dwell on what went wrong. It’s common for cognitive traps to take over your thinking and cloud your assessment of the situation after the fact. Often, these blunders encourage a fixed/negative mindset over a growth mindset. Some common cognitive traps, as noted by the [Canadian Mental Health Association](http://www.heretohelp.bc.ca/wellness-module/wellness-module-8-healthy-thinking), include:
+
+* **Mindreading**, i.e., jumping to conclusions about what other people are thinking without any evidence  
+* **Overgeneralizing**, i.e., thinking that a negative situation is a part of a constant cycle of bad things  
+* **Confirmation Bias**, i.e., focusing on the negative evidence from a conversation and ignoring other evidence  
+* **Emotional Reasoning**, i.e., believing that negative emotions toward you are reflected in the situation
+
+To avoid falling victim to these cognitive traps, take a step back and revisit your preparation for the conversation. Think back to the Ladder of Inference as a tool to help you think about how the other party in a conversation draws his/her conclusions. Try to consider the role that the Ladder of Inference may have had when you were told “no.” Did the other party interpret the information differently than you expected? Are they even looking at the same information as you in their analysis? 
 
 
 
