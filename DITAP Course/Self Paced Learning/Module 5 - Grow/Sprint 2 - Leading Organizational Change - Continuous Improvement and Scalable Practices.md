@@ -91,4 +91,123 @@ Take a few minutes to reflect on the following questions. You can jot down your 
     *(e.g., setting a monthly “tech check” reminder, following a specific newsletter or expert)*  
 4. **Who in my agency or network is already good at this? Could I learn from or connect with them?**
 
+---
+## Continuous Improvement in Everyday Procurement
+
+Continuous improvement doesn’t always require a big initiative. In fact, some of the most valuable changes come from the small, repeatable steps we take after each procurement. By pausing to reflect, collaborate, and refine, you can strengthen your acquisition process and contribute to a culture of innovation, one project at a time.
+
+### Conducting Mini "Lessons Learned"
+
+After each procurement, take time to reflect on what went well and what could be improved. This doesn't have to be formal—just 20–30 minutes of focused discussion with your team or program partners can surface valuable insights.
+
+You might ask:
+
+* What worked well in this acquisition?  
+* What slowed us down or caused confusion?  
+* Were the requirements clear and accurate?  
+* Did we get the responses we expected from industry?
+
+Even a quick review helps you avoid repeating mistakes and reinforces good practices.
+
+### Try an Agile-Style Retrospective
+
+Borrowing from Agile project teams, consider holding a **procurement retrospective** at the end of each buy, especially for larger or more complex efforts. A retrospective is a short, structured meeting where the team discusses:
+
+* What went well  
+* What didn’t go well  
+* What we’ll do differently next time
+
+This lightweight practice builds a habit of learning and positions your team to continuously improve across procurements.
+
+Use the template below to guide your Procurement Retrospective and reflect on what worked well, what didn’t, and what to improve next time.
+
+#### Procurement Retrospective Template
+
+**Project/Procurement Name:**  
+ *E.g., “Cloud Migration Services BPA – Q2 FY25”*
+
+**Retrospective Date:**  
+ *E.g., June 30, 2025*
+
+**Participants:**  
+ *E.g., CO, Contract Specialist, Program Staff, COR, Legal, SMEs*
+
+---
+
+1\. What went well?
+
+*   
+*   
+* 
+
+---
+
+2\. What could have gone better?
+
+*   
+*   
+* 
+
+---
+
+3\. What should we try next time?
+
+*   
+*   
+* 
+
+---
+
+4\. What should we repeat or reinforce?
+
+*   
+*   
+* 
+
+---
+
+5\. Lessons Learned Summary
+
+*(Summarize the top 1–3 takeaways in 1–2 sentences.)*
+
+---
+
+6\. Next Steps / Action Items
+
+| Action Item | Owner | Due Date | Status |
+| ----- | ----- | ----- | ----- |
+|  |  |  |  |
+|  |  |  |  |
+
+---
+
+Tips for Using This Template
+
+* **Timebox to 30–45 minutes** for focused, efficient discussion.  
+* **Encourage a no-blame environment**—this is about learning, not fault.  
+* **Capture action items clearly**, with accountability and timelines.  
+* **Share a summary** with the team or archive it in a shared location for future reference.
+
+### Refine Your Tools Over Time
+
+Templates, checklists, and communication workflows should evolve based on experience. For example:
+
+* Update market research templates to reflect new tech or outreach strategies  
+* Refine evaluation criteria to better reflect lessons learned from industry responses  
+* Improve communication timelines or milestone checklists with each cycle
+
+Small updates over time can lead to significant time savings and better outcomes.
+
+### Collaborate Early and Often
+
+Working closely with program staff, especially on **iterative requirement development**, helps reduce rework and misalignment. Continuous improvement starts with shared ownership. Ask program leads for feedback on acquisition support, and share what you learned from your post-award reflections.
+
+### Document and Share What Works
+
+Sharing what worked—and what didn’t—with peers or newer contracting officers fosters collective learning. Whether you write a short summary in a shared folder, present a “top 3 takeaways” at a team meeting, or contribute to an internal playbook, knowledge sharing turns individual experience into agency-wide progress.
+
+### Final Thoughts
+
+You don’t need permission to improve. You just need a process. Continuous improvement in procurement is about reflecting, adapting, and applying small changes that add up over time. The result? Better buys, stronger collaboration, and more effective support for your agency’s mission.
+
 
