@@ -565,6 +565,170 @@ You’ve determined that this is an important enough topic that you should pursu
 - [ ] Let some time pass so that the memory of the recent IT failure starts to fade, then reengage and present your idea again.  
 - [ ] Brainstorm just one small task or part of the solicitation where you can test this approach. Present the idea as just that—an idea that you want to test. Discuss the benefits that could result. Work with someone the technical team trusts and have them present the idea with you. **(correct)**
 
+---
+## Adjust Approach & Identify Lessons Learned
+
+Now that you’ve assessed the root of the “no,” considered whether or how to advance change, and considered the right-size amount of change, determine how best to approach the situation. Use the Lean “[build-measure-learn](http://theleanstartup.com/principles)” approach here. Decide how to adjust, test it out, and see how it works. Then, learn from the experience by documenting lessons learned and sharing them with others.
+
+Remember our discussion of wellness rituals and performance areas from our earlier discussion? [Well, it just so happens that research shows that capitalizing on your strengths leads you to feel revitalized](http://www.sciencedirect.com/science/article/pii/S0191886910003946). Another wellness ritual to add to your arsenal\! If you’re dealing with a difficult situation, remind yourself and affirm your strengths. Then, think about how to leverage those strengths along your change and innovation journey.
+
+---
+## Telling Your Procurement Story
+
+### Sharing What You’ve Learned to Help Others Succeed
+
+#### Why Your Story Matters
+
+Digital service procurement is constantly evolving. What worked last year might not work today—and what you figure out today might help someone else tomorrow. That’s why telling the story of your procurement work—what went right, what went sideways, and what you’d do differently—is such a powerful contribution to the community.
+
+You don’t have to be a professional writer. You just have to be willing to reflect, be honest, and share. Storytelling helps you communicate complex decisions, lessons, and context that others might not find in a policy memo or contract clause. By putting your real-world experiences into words, you help others learn faster and navigate similar challenges with more confidence.
+
+As a DITAP graduate, you’ve learned a lot about designing smarter, more flexible procurements. Now, you’re in a great position to pay it forward by documenting what worked (and what didn’t) and sharing your experience with others. Think of it as contributing to the larger body of knowledge—one story at a time.
+
+### Why Sharing Matters in Government Procurement
+
+#### When You Share, Everyone Gets Smarter
+
+We all know procurement can be messy, especially when you’re dealing with new technologies, tight timelines, or unexpected curveballs. But every procurement teaches you something—about collaboration, process, communication, risk, or innovation. When you share those lessons, it helps the whole ecosystem work better.
+
+Knowledge sharing helps:
+
+* Make future procurements stronger by avoiding repeat mistakes
+
+* Build resilience by highlighting how you adapted to challenges
+
+* Spread good ideas across agencies
+
+* Create a record of lessons learned that others can build on
+
+Whether it’s a quick blog post, a deeper case study, or a hallway chat, these conversations add up to a smarter, more connected acquisition workforce.
+
+#### Stories Help Make Sense of the Work
+
+Let’s be real: most acquisition work isn’t linear. You make trade-offs, adapt plans, and build relationships that shape the outcome. A story gives you the space to explain the “why” and “how” behind the decisions—not just the end result. That kind of nuance is hard to capture in checklists or templates, but stories bring it to life.
+
+They also help others *feel* the experience. A good story isn’t just informative—it’s memorable. That emotional connection helps others remember the lesson and apply it later, even in totally different situations.
+
+#### What’s Worth Sharing?
+
+There are two types of knowledge to think about when telling your story:
+
+* Explicit knowledge is easy to document—things like policies, templates, and rules.
+
+* Tacit knowledge is harder to explain—it’s the gut instincts, relationship strategies, and workarounds you develop through experience.
+
+Your procurement story is a great way to turn that tacit knowledge into something useful for others. Talk about the decisions you made, the questions you asked, the conversations that helped move things forward. These details are gold for other acquisition professionals who might face similar situations.
+
+#### Building a Culture of Sharing Starts With Us
+
+For knowledge sharing to really take root, we need to normalize it—and that starts with leadership and culture. That means:
+
+* Creating space for learning from mistakes, not hiding them
+
+* Encouraging open, judgment-free conversations
+
+* Recognizing and rewarding people who take time to reflect and share
+
+Psychological safety plays a big part in this. People need to feel safe being honest, even when things didn’t go perfectly. And while financial rewards aren’t always feasible, small things like public shout-outs, leadership support, or adding knowledge sharing to performance goals can go a long way.
+
+### Blogging Your Procurement Journey
+
+#### Why Blog?
+
+Blogging is one of the easiest ways to start sharing what you know. It doesn’t have to be fancy or long—just honest, helpful, and clear. Think of it as talking to a colleague who wasn’t in the room but wants to understand how you approached something tricky or how a particular strategy played out. Check out [TTS’s Blogging Guide](https://handbook.tts.gsa.gov/office-of-operations/blogging/) for more guidance and other ways to get started.
+
+Sharing your experiences helps others feel less alone, speeds up learning across teams, and builds a sense of community. Plus, it reinforces your own thinking and makes your work visible—both inside and outside your agency.
+
+Blogs can:
+
+* Break down what worked and why  
+* Highlight tools, templates, or techniques others can borrow  
+* Help you process challenges and share lessons learned  
+* Serve as starting points for bigger case studies
+
+The act of blogging is also a form of "working in the open." It models the user-centered, iterative approach we push for in digital services.
+
+#### Good Blogging is User-Centered Too
+
+Sound familiar? Just like our digital service work, good blogging puts the user (in this case, the reader) first.
+
+Ask yourself:
+
+* Who am I writing for?  
+* What do I want them to learn?  
+* What will help them do their work better?
+
+A blog post doesn’t have to be long—500 to 800 words is often enough. Use plain language. Break things into sections with clear headers. Add links or visuals if it helps. Be specific. Be real. And make sure it’s accessible (use good contrast, alt text, and readable fonts).
+
+#### Blog Structure: Keep it Simple
+
+Use a basic "problem-solution-impact" structure:
+
+* Problem: What were you trying to solve?  
+* Solution: What did you try? How did you approach it?  
+* Impact: What happened? What changed? What would you do differently?
+
+End with a small call to action, like inviting others to try the approach, share feedback, or connect for more info.
+
+### Writing a Procurement Case Study
+
+#### What Makes a Good Case Study?
+
+Case studies have been a core part of this course—used to evaluate vendor approaches, support your in-class activities, and serve as key reference material drawn from the Periodic Table of Acquisition Innovations. They help us learn not just by doing, but by seeing how others have approached similar challenges. In fact, creating your own case study is an outstanding way to reflect and capture the insights you’ve gained from a particular strategy, approach, or procurement process. It helps solidify your learning and contributes to the broader community of practice. Case studies give you the chance to go deep—to show not just what happened, but how and why. They offer a fuller picture of your procurement approach, including the real-world conditions that shaped your decisions and the results that followed.
+
+They're not just stories to read; they're tools for learning. Whether someone is looking for examples to follow or pitfalls to avoid, a well-written case study becomes a how-to guide grounded in lived experience.
+
+#### Key Elements of a Great Case Study
+
+A good case study balances narrative and analysis. It provides the big picture and zooms in on key moments that changed the direction or tone of the work. Here's how you might break it down:
+
+* **Title:** Choose something short but specific that gives a sense of the outcome or topic (e.g., "Improving Vendor Feedback with a Two-Week Sprint Review").  
+* **Summary:** Write a short paragraph at the top that covers the key points: what the problem was, how you approached it, and what changed as a result.  
+* **Context:** Set the stage. What agency or program is this? What was the mission or objective of the project? Include timelines, user populations, or anything that helps ground the reader.  
+* **Problem:** Be honest and clear about the challenge. Was it a tight timeline? A policy hurdle? A team that had never done agile before? The more specific you are, the easier it is for others to relate and learn.  
+* **Solution:** What did you actually do? Talk about the procurement method you chose, the design of the solicitation, how you built the team, or any new processes you tested. Include rationale: why did you take that approach?  
+* **Journey:** This is the meat of the story. What surprises came up? What needed to shift along the way? Share both the high points and the friction—team dynamics, evaluation challenges, collaboration with vendors. Show your work and describe how you responded.  
+* **Results:** What was the outcome? Use data when you can (number of vendors, user satisfaction scores, cost savings, etc.), but also describe qualitative impact. What changed for the team, the agency, or the end users?  
+* **Takeaways:** Reflect on what you learned. What would you do again? What would you change? These are the parts that help others skip the guesswork.  
+* **Call to Action:** Invite others to try the method, borrow a tool you used, or reach out for more context. This turns your story into an ongoing conversation.
+
+#### Tips for Writing a Strong Case Study
+
+* **Use plain language.** Don’t assume readers know your agency’s acronyms or internal jargon.  
+* **Make it skimmable.** Use bullet points, headers, and pull quotes so readers can scan and dig in where needed.  
+* **Be real.** It's okay to admit where things got hard or didn't go as planned. Those are often the most helpful parts of the story.  
+* **Include supporting materials.** Add links to relevant RFQs, templates, evaluation criteria, or performance dashboards if you can. These make it easier for others to reuse what worked.  
+* **Tell a story.** Use a narrative arc. Think beginning (the challenge), middle (what you tried), and end (what happened). It helps readers stay engaged.
+
+By documenting your process in this way, you help others avoid having to reinvent the wheel. You show that good procurement work isn't always linear or perfect—and that shared learning makes us all better.
+
+We have included a sample case study template for Procurements of AI Tools, which is a relevant and immediate topic. The more agencies can share what and how they are procuring AI solutions, the better everyone will get. 
+
+### **Navigating Disclosure: What and How to Share**
+
+While transparency is a core principle, acquisition professionals must understand the boundaries of what information can be shared. This involves careful consideration of sensitive information, proprietary data, and ongoing legal or contractual obligations. The focus should remain on sharing lessons learned, process improvements, and measurable public benefits. Government guidelines on transparency, even in areas like supply chains, often detail requirements for disclosing organizational structure, supply chain overview, long-term partnerships, and how information was gathered. 
+
+Emphasis is placed on detailed disclosure requirements and data accuracy and verification in procurement documents. For audit purposes, it is often advised to "over-document everything" and to "Trust, but verify" vendor data.  
+
+Navigating disclosure requires a balance between openness and strategic protection. While extensive disclosure requirements exist in government and procurement, there is an inherent tension between complete transparency and safeguarding sensitive commercial or national security information. Acquisition professionals need to understand that sharing "what worked well" should be done in a manner that provides actionable insights without compromising competitive advantage for vendors or sensitive government operations. This often necessitates careful judgment and potentially redacting specific figures or proprietary details while still conveying the core lessons and benefits. It is about *strategic* transparency that maximizes public benefit without undue risk. The ability to share transparent stories about procurement success is directly tied to the quality and completeness of internal documentation. The advice to "Over-document everything" for audit trails and the observation that "Better Record Management" is a benefit of transparency underscore this connection. Acquisition professionals should be encouraged to maintain meticulous records throughout the acquisition process, not solely for compliance, but as a foundational element for future storytelling. Robust documentation makes it easier to verify claims, provide evidence, and ensure the accuracy required for public sharing.
+
+### Getting Internal Approval to Publish
+
+Publishing your procurement story often means getting approval from your agency’s communications office, Office of General Counsel (OGC), and sometimes public affairs or external media teams. Don’t let that slow you down—there are steps you can take to make the process smoother and increase your chances of a green light.
+
+Tips to navigate approvals:
+
+* Start early: Mention your intention to publish while the project is still active. This helps stakeholders feel looped in from the beginning.  
+* Use plain language: Draft your blog or case study using non-technical, non-promotional language. This helps reviewers see the value in knowledge sharing, not PR.  
+* Focus on the facts: Stick to lessons learned, tools used, approaches tested, and measurable impact. Avoid vendor endorsements or sensitive details.  
+* Frame it as value to the public: Emphasize how this story contributes to government transparency, shared learning, and better service delivery.  
+* Ask about templates or prior examples: Your agency may have a preferred format or clearance checklist. Starting from one makes things easier.  
+* Engage OGC early: Legal reviews can take time. Share your intent with them, highlight any sensitive areas, and be open to redactions if needed.  
+* Offer informal briefings: Sometimes, a quick conversation with comms or legal teams can speed up understanding and buy-in.
+
+Framing your story as a contribution to professional development and government-wide learning often shifts the tone from "risk" to "value." The more you position yourself as a thoughtful steward of your agency’s mission, the more likely you are to get support.
+
+
 
 
 
