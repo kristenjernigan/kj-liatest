@@ -333,4 +333,33 @@ Once you’ve successfully accomplished one change, look for the next one. If th
 
 Watch the following [TEDx video](https://www.youtube.com/watch?v=AdKUJxjn-R8) about accomplishing big change by building small habits and think about how you could apply this principle of starting small in your own work as a leader of digital acquisition change.
 
+---
+## Kotter Model Introduction
+
+Over 40 years ago, Dr. Kotter began observing leaders and organizations as they tried to transform or execute strategies for change. Over time, Dr. Kotter was able to identify and extract the factors that lead to success and bring them together into a methodology and an eight-step process of pursuing change.
+
+Let’s look at each of these eight steps by studying examples of companies, organizations, and even some unlikely heroes who have put each (if not all) of these steps into action.
+
+![A circular diagram representing the 8 steps of Kotter's Model. The steps are presented as bubbles in a clockwise order starting from the top: 1. Create a sense of urgency. 2. Build a guiding coalition. 3. Form a strategic vision 4. Enlist a volunteer army. 5. Enable action by removing barriers. 6. Generate short-term wins. 7. Sustain acceleration. 8. Institute change](https://github.com/kristenjernigan/kj-liatest/blob/03c9f3f37be6964cc0f6f10cd2e94c99e2994f34/Media/Module%205/8Steps_Final_Transparent.webp)
+
+*Figure 1 Source: [Kotter International](http://www.kotterinternational.com/the-8-step-process-for-leading-change/)*
+
+### Step 1: Create a Sense of Urgency
+
+Urgency is the fuel that ignites and drives the change. It replaces complacency.
+
+Complacency says, “This is the way we’ve always done it” and that we could wait for some point in the not-so-distant future to try something different. Urgency says, “Time is of the essence.” These are important to keep in mind because, as mentioned earlier, technology and science is changing very quickly. To effectively and creatively respond to evolving needs, we have to be willing to change and try new things.
+
+Relative success can breed a sense of comfort with the status quo, even if the status quo isn’t what brought you success. The problem with success is that it tells a story about the past and doesn’t necessarily dictate future performance. Take a company like Kodak for example. A leader in its industry, management never thought that the digital revolution would snap up its market share. So they stayed the same, failed to lead, and the rest is history.
+
+While the Kodak example speaks to management, midlevel leaders are not exempt from leading change and being a part of the urgency. In fact, the entire step is to use your statement of opportunity to “raise a large, urgent army of volunteers.” Because you’re leading from the middle, change occasionally requires extra time, a little more faith, and a lot more patience for iterating processes. Whether you chose a small project or acquisition, you still have to describe an opportunity that appeals to the heads and hearts of your team. They must understand that the time is now to engage in this change. And they must help you recruit others who believe the same to help.
+
+To do this, think back to the following:
+
+* **Activity: Stakeholder Analysis**, where you learned techniques for engaging with your stakeholders and thinking about their interests. Specifically, the **Stakeholder Interests Template** and **Stakeholder Interview Guide Template** are useful starting points.  
+* Then, think back to earlier in this module, particularly: **Preparing for and Having an Influence Conversation** and **Difficult Conversations**. In it, you learned about some common topics for difficult conversations.  
+* Next, recall the influence conversations you conducted. Consider how to apply the techniques that were discussed within the context of the framework. As a refresher, communicate your goal, ask open-ended questions, use appropriate tone and words, handle emotions, explain technical concepts in a way that makes sense to your audience (don’t assume what will make sense—test it\!), position your effort as an opportunity for incremental change and experimentation, handle a negotiator who has all the “no’s” or a direct negotiator in a productive fashion, and encourage and gain commitment from others to participate in the change (which makes them more bought into and supportive of the initiative).
+
+You can use all these techniques to execute Step 1 and build the “business case” for change. Consider how you might use these strategies to describe an opportunity that motivates your various stakeholders to action. How might you effectively tell the story and get them on board?
+
 
