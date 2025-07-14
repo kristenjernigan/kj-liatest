@@ -505,6 +505,27 @@ When you are told “no,” it becomes easy to dwell on what went wrong. It’s 
 
 To avoid falling victim to these cognitive traps, take a step back and revisit your preparation for the conversation. Think back to the Ladder of Inference as a tool to help you think about how the other party in a conversation draws his/her conclusions. Try to consider the role that the Ladder of Inference may have had when you were told “no.” Did the other party interpret the information differently than you expected? Are they even looking at the same information as you in their analysis? 
 
+---
+## Should I Fight This Battle, or How Might I Adjust My Approach To Make It More “Winnable”?
+
+Once you’ve analyzed the situation, and you understand the origin of the “no,” assess whether this is a challenge that you should pursue. Ask yourself the following questions:
+
+* **Is this a situation that, if left unaddressed, could cause real harm to my agency or the government or threaten our ability to achieve our mission?** The answer to this question is relative, and it’s not black and white. Recall the discussion from the classroom session and the example included at the beginning of this module about Carmen Medina. Ms. Medina felt that the mission of the CIA—and the intelligence community—was at risk by not having a real-time way to share information.  
+* **What are my obstacles and opportunities?** Size up the risks associated with continuing to advocate for this change, and determine if it’s a risk worth taking. Ask yourself: could continuing to push for this change *in the same way* threaten my job? How might I adjust my approach or bide my time until conditions are more favorable? Again, think of Carmen Medina and her approach to change. (Beware of using the “bide my time” approach as a cop-out\!)  
+* **How do I advance some change—any change—while also maintaining working relationships?** Consider how to meet the person where they are and advance change incrementally, while maintaining relationships and not demoralizing the team. As you learned earlier, this is the essence of being a network leader, and your role in digital services acquisition; you have to collaborate with people in your network to make change happen. Remember the content around influence? Meeting another person where they are shows that you care about them and makes them more willing to work with you over time. 
+
+***What does this look like in action?*** As you’ve learned throughout this program, USDS, others in government, and now you have a vision for what a true agile solicitation should look like. However, at times, you may be called in to support a team in your agency or another agency that has already spent time developing an RFQ that doesn’t quite align with that vision. For instance, as Traci and Jonathan have experienced, they have been called in to review an RFQ that an agency team has been working on for three months and that is now 100 pages long. The agency team is energized and excited about it. Although it might not align with Traci, Jonathan, or your vision for what a true agile solicitation should look like, the battle isn’t won by throwing out what the team has been working on. Instead, consider how to take what the team has worked on, make tweaks, and include an exit strategy so that the team has a way out if something goes wrong. This allows you to find a middle ground that helps meet the team where they are, advances some change, maintains your working relationship and keeps the team’s energy up, and protects the government from some of the biggest risks.
+
+If you determine that you should revisit the conversation, think about taking a different approach and the trade offs that come with adjusting your approach. Put on your consultant hat and think about how to move the needle incrementally. If you can’t fully implement the change that you were pushing for, can you make a smaller change to later build from? Remember the old mantra, Rome wasn’t built in a day. It may help to ask yourself some of these questions:
+
+* Who is your audience, and what are their needs?  
+* What is the primary message of the conversation?  
+* How should you open the conversation?  
+* Which trade off will you present?
+
+Refer back to your Change and Innovation Readiness Survey from Module 2 to help you assess how you should move forward. Based on your agency’s change and innovation readiness, recognize how drastic a change you should be pushing for, e.g., if your agency hasn’t used true agile methods for digital services development, try testing it out on a small task before trying to implement it more broadly.
+
+
 
 
 
