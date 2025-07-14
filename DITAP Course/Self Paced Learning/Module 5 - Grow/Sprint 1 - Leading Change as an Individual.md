@@ -525,6 +525,45 @@ If you determine that you should revisit the conversation, think about taking a 
 
 Refer back to your Change and Innovation Readiness Survey from Module 2 to help you assess how you should move forward. Based on your agency’s change and innovation readiness, recognize how drastic a change you should be pushing for, e.g., if your agency hasn’t used true agile methods for digital services development, try testing it out on a small task before trying to implement it more broadly.
 
+---
+
+## What to Do When You’re Told No \- Framework in Action
+
+Now that you’ve learned about a framework you can use to figure out why you were told “no” and how to respond, try putting it into practice in the scenario that follows.
+
+### Part 0
+
+First, review the scenario below:
+
+You are working with a technical team to draft a solicitation. The technical team has recently experienced challenges that put them in the public spotlight for some IT failures. They need to find a new vendor. They have told you many times that we “can’t mess this one up” and that “we can’t introduce risk.” The previous contract failed, in part, because of a reliance on a waterfall-based method and a contract that had a lengthy list of system requirements but no statement that the software needed to work. The solution to fix this problem seems so obvious to you—they need to write a contract that supports agile software development\! You’re excited coming out of this class, and you tell them what your diagnosis of the problem is and how you have a solution that can really improve results and deliver what their users need. You finish your presentation to them. Silence. Uncomfortable shifting in their seats. Finally, someone speaks up, “That’s great and all that you’re some expert in digital services acquisition, but that’s not how things work in the real world. Swooping in and making large-scale changes like this—that will not work here in this organization right now. Maybe next year when things settle down.” You’re floored. The solution is sitting right in front of them\! How could they be so deluded?\!
+
+Review the following factors were at play in this situation:
+
+* The Availability and Representativeness Biases may have come into play here. The way you presented your solution made it sound like a large divergence from their current practices, making them more likely to resist or want to control it.  
+* You used your Expert Power in a way that was threatening to the technical team and that made them less likely to hear and listen to your ideas.  
+* If this is a technical team that you don’t frequently work with, then you might have considered enlisting someone whom they trust to help you deliver the message and/or presenting it in a humbler way, asking questions and getting their input along the way.
+
+### Part 1: Analyze the no
+
+#### Knowledge Check
+
+So what’s next? Analyze the “no” a bit more. Besides not presenting the change in a way that made it sound less “scary” and using Expert Power inappropriately with a team that you haven’t worked with extensively, what else was driving the “no” response?
+
+Select 2 responses that apply
+
+- [ ] The technical team recognizes there is a problem with the status quo, but ironically is resistant to change it—system justification theory at work\! **(correct)**  
+- [ ] The technical team is so afraid of another failure that they’re afraid to do anything that might “rock the boat” (like the Disney Animation studio before they acquired Pixar). **(correct)**  
+- [ ] The technical team likely didn’t trust you because they didn’t know your credentials. You should’ve started your presentation by listing your credentials and the successful contracts you’ve administered in the past.
+
+### Part 2: How Might I Adjust My Approach to Make it More Winnable?
+
+#### Knowledge Check
+
+You’ve determined that this is an important enough topic that you should pursue it, but that you need to change up your approach. So, size up the situation, obstacles, and opportunities. Think of small incremental changes you can make. Given the environment and what has recently happened, what should you do?
+
+- [ ] Send the technical team links and examples that you’ve read, which discuss how to make this approach work in government. Once they see the use cases from other agencies, they’ll be more likely to try it out in your agency.  
+- [ ] Let some time pass so that the memory of the recent IT failure starts to fade, then reengage and present your idea again.  
+- [ ] Brainstorm just one small task or part of the solicitation where you can test this approach. Present the idea as just that—an idea that you want to test. Discuss the benefits that could result. Work with someone the technical team trusts and have them present the idea with you. **(correct)**
 
 
 
