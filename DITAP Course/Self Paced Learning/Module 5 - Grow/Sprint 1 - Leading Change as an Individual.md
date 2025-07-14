@@ -434,6 +434,27 @@ Select the best response.
 - [ ] “I have a great case study from another agency about how they implemented this approach and mitigated risk. It really can work in government\!”  
 - [ ] “I understand where you’re coming from. It doesn’t sound like this is the time to try something different, but please keep it in mind for future efforts.”
 
+---
+## Introduction \-  Building Your Resilience
+
+* *As an inventor, Edison made 1,000 unsuccessful attempts at inventing the light bulb. When a reporter asked, "How did it feel to fail 1,000 times?" Edison replied, "I didn't fail 1,000 times. The light bulb was an invention with 1,000 steps."*  
+* *During the American Revolution, John Adams said that “we were about one-third Tories, and \[one\] third timid, and one-third true blue.” In other words, a minority of the colonists (only one-third) supported independence from Britain. The other two-thirds either supported Britain or were waiting to see which side won.*  
+* *As memorialized in the movie “Lincoln” and many books and movies that preceded it, Abraham Lincoln received pushback when attempting to push forward the Emancipation Proclamation. As Adam Grant describes in his book The Originals, Lincoln spent six months agonizing about this decision before he made it. He was told it would lead to chaos and destroy the nation. Luckily, he didn’t listen.*  
+* *Carmen Medina, the former CIA analyst, was repeatedly told “no” by her superiors and peers for more than a decade as she attempted to push for real-time information sharing across intelligence agencies. However, she kept trying—for more than a decade. As a result, she helped create the intelligence community’s version of Wikipedia.*
+
+As these examples illustrate, innovation by definition requires risk taking and change. Change is not easy, and people will resist it—even when they suffer most from it (see political psychologist John Jost’s [theory of system justification](https://en.wikipedia.org/wiki/System_justification) for an interesting application of this). As a result, you’re going to be told no—frequently—as you advance change. Most important initiatives will have more people saying no than saying yes—at first. How do you prime yourself—and your team and agency—to respond productively in these situations and build momentum in support of the change?
+
+In addition, technologists and individuals across the private sector and government talk about “failing fast,” and you’ve learned about building/buying small and missing small. Knowing that failure is okay versus *believing* that it’s okay (and getting your leadership to believe it) are two different things. How do you truly accept and cultivate this mindset over time?
+
+In this module, you’ll learn techniques to help you cultivate your mindset around change and thus, respond productively when you encounter setbacks and pushback. Specifically, you’ll learn:
+
+* Characteristics of a “growth mindset”  
+* Wellness rituals and techniques that can enhance your performance during transition  
+* How resilience and a growth mindset help you take risks and innovate  
+* How to positively respond to negative feedback and failure by analyzing the situation and adjusting your approach  
+* How to differentiate between situations where it makes sense to continue pushing for change and others where you may need to redirect
+
+
 
 
 
