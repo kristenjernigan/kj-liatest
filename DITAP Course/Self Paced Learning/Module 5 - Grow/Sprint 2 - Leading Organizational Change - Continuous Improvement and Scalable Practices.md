@@ -310,4 +310,27 @@ So if you've got experience that others could benefit from, write it down. Call 
 
 Start small. Keep it real. And make it shareable.
 
+---
+## Exploring your role as an ambassador of change
+
+### Introduction
+
+Earlier, you learned how to prepare for and have influencing conversations. Now, let’s explore how to think strategically about those influence conversations and how to use them—in combination with other tactics and techniques—to drive change. This online learning will build upon that study and focus on how to lead the change itself.
+
+In this online module, you’ll learn about a framework to help you think about the phases of change and some specific strategies you can use to implement change at each phase.
+
+### What Does Change Look Like in the 21st Century?
+
+Change is one of the few constants. According to Dr. John Kotter, a Harvard Professor and authority on change and leadership, society is not only changing, it’s changing faster than ever before, and our capacity to keep up with said change is not maintaining the same pace.
+
+Typically, change can be viewed as something that happens *to* you, rather than something that is created *by* you. This may be a symptom of position – or operating from the middle of the organization without a lot of formal authority. This may also be a matter of comfort or complacency; after all, if you’re not calling the shots, you can’t be blamed for the decision if it goes wrong (or so the thought process goes). Change can be scary, inconvenient, and cumbersome, but change can also lead to better, more efficient processes, innovative thinking, and a reinvigorated workforce.
+
+### Start Small
+
+A key best practice to leading change—whether leading change in how your agency operates or leading change in your own life (e.g., starting a new exercise regime)—is to start with small, iterative changes. Choose something that is “easy” to adopt and implement. The success of even the smallest accomplishments can prepare you to succeed in bigger areas, as well as build your influence and reputation within your agency as a person who can accomplish tasks. It’s the same concept that underlies the “buy small/miss small” principle you learned about in earlier releases.
+
+Once you’ve successfully accomplished one change, look for the next one. If the next change is bigger, analyze how to break it down into smaller pieces and work incrementally until the change is accomplished.
+
+Watch the following [TEDx video](https://www.youtube.com/watch?v=AdKUJxjn-R8) about accomplishing big change by building small habits and think about how you could apply this principle of starting small in your own work as a leader of digital acquisition change.
+
 
