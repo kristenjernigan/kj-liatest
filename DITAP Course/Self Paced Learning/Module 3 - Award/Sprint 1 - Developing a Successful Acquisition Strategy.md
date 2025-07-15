@@ -331,13 +331,46 @@ When buying digital services, you can apply many of these concepts to the govern
 
 Let’s begin with definitions of IP and then shift into how it directly affects you in the acquisition world. There are many ways to categorize intellectual property. These are the main categories:
 
-|  |  |
-| :---- | :---- |
-| ![ ](https://github.com/kristenjernigan/kj-liatest/blob/f6b3a8c6266cbe72eca1c0ab63db9c4c957b08de/Media/Module%203/Copyright.jpg)  | **Copyright** is a legal term used to describe creators' rights over their literary and artistic works. Copyrighted works include books, music, paintings, sculpture, and films, as well as computer programs, databases, advertisements, maps, and technical drawings.  |
-| ![ ](https://github.com/kristenjernigan/kj-liatest/blob/f6b3a8c6266cbe72eca1c0ab63db9c4c957b08de/Media/Module%203/Patent.jpg)  | A **patent** is an exclusive right granted for an invention. Generally speaking, a patent gives the owner the right to decide how—or whether—others can use the invention. In exchange for this right, the patent owner makes technical information about the invention publicly available in the published patent document. |
-| ![ ](https://github.com/kristenjernigan/kj-liatest/blob/f6b3a8c6266cbe72eca1c0ab63db9c4c957b08de/Media/Module%203/Trademark.jpg)  | A **trademark** is a sign capable of distinguishing the goods or services of one enterprise from those of other enterprises. Trademarks date back to ancient times when craftsmen used to put their signature or "mark" on their products.   |
-| ![ ](https://github.com/kristenjernigan/kj-liatest/blob/f6b3a8c6266cbe72eca1c0ab63db9c4c957b08de/Media/Module%203/industrial%20design.jpg) | An **industrial design** constitutes the ornamental or aesthetic aspect of an article. A design may consist of three-dimensional features, such as the article's shape or surface, or two-dimensional features, such as patterns, lines, or color.   |
-|![ ](https://github.com/kristenjernigan/kj-liatest/blob/f6b3a8c6266cbe72eca1c0ab63db9c4c957b08de/Media/Module%203/Geographical.jpg)  | **Geographical indications and appellations** **of origin** are signs used on goods with a specific geographical origin and possessing qualities, a reputation, or characteristics that are essentially attributable to that place of origin. Most commonly, a geographical indication includes the name of the place of origin of the goods. For example, Napa Valley is an appellation in California known for its unique growing conditions for producing wine.  |
+---
+
+### Copyright
+
+![Copyright icon – a pencil over a sheet of paper](https://github.com/kristenjernigan/kj-liatest/blob/f6b3a8c6266cbe72eca1c0ab63db9c4c957b08de/Media/Module%203/Copyright.jpg)
+
+**Copyright** is a legal term used to describe creators' rights over their literary and artistic works. Copyrighted works include books, music, paintings, sculpture, and films, as well as computer programs, databases, advertisements, maps, and technical drawings.
+
+---
+
+### Patent
+
+![Patent icon – a gear and document](https://github.com/kristenjernigan/kj-liatest/blob/f6b3a8c6266cbe72eca1c0ab63db9c4c957b08de/Media/Module%203/Patent.jpg)
+
+A **patent** is an exclusive right granted for an invention. Generally speaking, a patent gives the owner the right to decide how—or whether—others can use the invention. In exchange for this right, the patent owner makes technical information about the invention publicly available in the published patent document.
+
+---
+
+### Trademark
+
+![Trademark icon – a stamp with a registered symbol](https://github.com/kristenjernigan/kj-liatest/blob/f6b3a8c6266cbe72eca1c0ab63db9c4c957b08de/Media/Module%203/Trademark.jpg)
+
+A **trademark** is a sign capable of distinguishing the goods or services of one enterprise from those of other enterprises. Trademarks date back to ancient times when craftsmen used to put their signature or "mark" on their products.
+
+---
+
+### Industrial Design
+
+![Industrial design icon – a stylized 3D object with artistic curves](https://github.com/kristenjernigan/kj-liatest/blob/f6b3a8c6266cbe72eca1c0ab63db9c4c957b08de/Media/Module%203/industrial%20design.jpg)
+
+An **industrial design** constitutes the ornamental or aesthetic aspect of an article. A design may consist of three-dimensional features, such as the article's shape or surface, or two-dimensional features, such as patterns, lines, or color.
+
+---
+
+### Geographical Indications and Appellations of Origin
+
+![Geographical indication icon – a map pin and vineyard](https://github.com/kristenjernigan/kj-liatest/blob/f6b3a8c6266cbe72eca1c0ab63db9c4c957b08de/Media/Module%203/Geographical.jpg)
+
+**Geographical indications and appellations of origin** are signs used on goods with a specific geographical origin and possessing qualities, a reputation, or characteristics that are essentially attributable to that place of origin. Most commonly, a geographical indication includes the name of the place of origin of the goods. For example, Napa Valley is an appellation in California known for its unique growing conditions for producing wine.
+
 
 
 ### Digital media rights
