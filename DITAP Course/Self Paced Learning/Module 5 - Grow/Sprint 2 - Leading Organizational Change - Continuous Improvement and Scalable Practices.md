@@ -362,4 +362,73 @@ To do this, think back to the following:
 
 You can use all these techniques to execute Step 1 and build the “business case” for change. Consider how you might use these strategies to describe an opportunity that motivates your various stakeholders to action. How might you effectively tell the story and get them on board?
 
+### Step 2: Build a Guiding Coalition
+
+In your first step, you create a sense of urgency among those around you and see who buys-in to your idea. Within that group, “point” people will arise that help you to lead the change from various points across the organization. Think about your current processes and answer the following questions:
+
+* How many people are necessary to move that process along?  
+* Do each of these people understand the process and their role within the process?  
+* If you were to attempt a small (or large) change to the acquisitions process, which people in your organization are the ones that see problems and create solutions?  
+* Who is a good champion?  
+* Who can smooth certain rough patches over for your idea?  
+* Who are the people (in any department) that can be choke points in the process if they aren’t bought into an idea that you’re committed to enacting? How can you bring those people onboard now to prevent that in the future?
+
+Identify those people and give them room to elevate themselves to the “guide” level in your coalition. If they see the value and the appeal of the change, they should capture the urgency themselves and help you to then guide, steer, and communicate with the group. Let’s look at a few examples of coalitions.
+
+For a historical example of building your coalition, take a look at the **United Nations**. The United Nations is an international organization that came into existence during World War II to stop the Axis powers. Since the end of the war, they continue to function as leaders in preventing the re-occurrence of another world war.
+
+In 1945, representatives from 50 nations met to create the Charter, which reaffirms fundamental human rights, calls out the principles of equal rights, and self-determination of all people, as well as international cooperation in solving economic, social, cultural, and humanitarian problems around the world. The formulation of the organization actually took place over several years and took time to get key stakeholders onboard.
+
+Or consider **Congress**. A Representative or Senator introduces legislation on the floor, then it goes to Committee. Then, they must form a coalition in the committee to get it onto the floor for vote.
+
+Another example comes from popular culture and film: **Marvel’s The Avengers**. This group of superheroes are influencers individually. Collectively, they’re able to save the world. They all must have room to exert their own power, and when they choose to work together collectively, it turns out they are unstoppable. They are a potentially unlikely team, but an unstoppable force when they work together to achieve the same goal.
+
+Our final example takes us into the worlds of fashion and social media that began with a flash event initiated by clothing store **Lord & Taylor**. The brand reached out to 50 “style influencers” and asked that they all post pictures in the same dress (styled however they wanted) within a certain window of time on the photo-sharing platform Instagram. This is an interesting example because Lord & Taylor knew that this would be a unique way to attract their customers – through the style influencers they trust and admire. Each influencers had the flexibility to style the garment and then saturate the market with the image. The dress sold out almost immediately\! While using brand and style bloggers or “Instagrammers” might not be a typical coalition, it’s actually a unique way to deliver your message to your client via a trusted source. Lord & Taylor recognized that the point of key players in your coalition was to build the bridge of trust when embarking on an uncertain or new task.
+
+In your role, you might not be building world-changing coalitions or building fashionista coalitions, but the same principles used in those contexts apply to you. Say you’re looking to shift your digital services solicitations to be more outcome focused (instead of requirements focused). Think through the questions presented at the beginning of this section:
+
+### Building Your Guiding Coalition: Key Questions
+
+| **Question** | **Considerations** |
+|--------------|--------------------|
+| **How many people are necessary to move that process along?** | This will depend on your organization and how big of a change you’re enacting. Perhaps you need someone in each of the areas of the organization (e.g., various technical specialties and procurement) and a few influencers in leadership. |
+| **Do each of these people understand the process and their role within the process?** | In today’s digital world, roles are shifting daily as we work to keep up with the pace of technology change. Your role as a digital services acquisition ambassador is new. The level of collaboration you’ll have with your teams during contract administration is new. Therefore, take time to talk this through with those who you want to be part of the change process. Never underestimate the simple power of talking through and agreeing on roles and responsibilities at the beginning of any new initiative. |
+| **If you were to attempt a small (or large) change to the acquisitions process, which people in your organization are the ones that see problems and create solutions?** | Use the information you’ve gathered in earlier activities within this program to answer this question. If you haven’t completed those activities, complete them now. |
+| **Who is a good cheerleader?** | Use data from your experience working in your organization, as well as activities we recommended in this program, to answer this question. By “cheerleader,” we mean someone who has a positive attitude and can keep the team upbeat even when the going gets tough (see the section on Building Your Resilience from this module for discussion of how to handle the inevitable tough patches). |
+| **Who can smooth certain rough patches over for your idea?** | Perhaps this is a supportive leader like your supervisor or someone else with influence in the organization who supports your idea. |
+| **Who are the people (in any department) that can be choke points in the process if they aren’t bought into an idea that you’re committed to enacting? How can you bring those people onboard now to prevent that in the future?** | Remember our discussion of this point in the Stakeholder Analysis Activity. We’ve all had those experiences where we forget to bring someone onboard who makes things tough later in the process. Save yourself time and headache—and potentially add to your guiding coalition—by getting all stakeholders (or as many as you can realistically identify now) on board. Revisit this question and the building of your coalition over time as you learn more during the change process. |
+
+
+As scientist Margaret Mead stated, “Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has.” It may sound trite, but it is true.
+
+### Step 3: Develop a Vision and Strategy
+
+Next, clearly articulate your vision so that initiatives that build toward it make sense and perpetuate the sense of urgency you’ve built in Step 1\. Your vision needs to be clear picture of the future and include why people should strive to create that future.
+
+Observe how a clear vision might work in different parts of your organization. Take a moment to think about where in your organization people are aligned around a single idea that inspires them to do things and move ideas forward. If you haven’t seen this so far, how can you create this coalescing?
+
+We’ve identified three examples of popular tech companies and their visions. Analyze their vision statements and think about how these visions have helped them become leaders in their fields.
+
+### Vision Statements from Leading Tech Companies
+
+#### Google
+
+> *"To organize the world’s information and make it universally accessible and useful."*
+
+#### Amazon
+
+> *"To be Earth’s most customer-centric company; to build a place where people can come to find and discover anything they might want to buy online."*
+
+#### Apple
+
+> *"We believe that we are on the face of the earth to make great products and that’s not changing. We are constantly focusing on innovating. We believe in the simple not the complex. We believe that we need to own and control the primary technologies behind the products that we make, and participate only in markets where we can make a significant contribution. We believe in saying no to thousands of projects, so that we can really focus on the few that are truly important and meaningful to us. We believe in deep collaboration and cross-pollination of our groups, which allow us to innovate in a way that others cannot. And frankly, we don’t settle for anything less than excellence in every group in the company, and we have the self-honesty to admit when we’re wrong and the courage to change. And I think regardless of who is in what job those values are so embedded in this company that Apple will do extremely well."*  
+> — **Apple CEO Tim Cook**
+
+
+As consumers, we may not always be able to quote what a leading company’s vision is. However, many of them have a unique way that they share that with their consumers. 
+
+As these examples illustrate, some companies tend to focus on how their work impacts the world; others talk more about what they’re doing internally; and still others present more of “here’s who we are” statements. Likewise, as a digital acquisition officer, think about how you can use strategies like this to convey your vision. You may not be creating and conveying vision for an entire billion dollar organization like these examples. However, the principles they use apply to each and every change initiative—and these organizations all started as ideas in someone’s head and those ideas had to be formulated into a vision that was then pitched and conveyed to others over time.
+
+Think about the companies listed above. How are their visions similar? How are they different? What is it about their visions that really empowers them to bring about change in our world? How might you use their techniques to craft your vision in a way that’s impactful to your stakeholders?
+
 
