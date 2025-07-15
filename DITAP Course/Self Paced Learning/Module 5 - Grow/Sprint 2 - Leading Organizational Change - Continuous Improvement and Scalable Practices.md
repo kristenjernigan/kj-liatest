@@ -585,6 +585,33 @@ Note: This self-assessment is a simplified framework inspired by common change l
 2\. What’s one way you can use your strengths to promote change in your next procurement or team collaboration?  
 3\. Are there other styles you’d like to develop more intentionally? How might you start?
 
+--- 
+
+## Create Your Change Contribution Plan
+
+Knowing your change style is a powerful first step. Now, it’s time to turn that insight into action.
+
+Continuous learning and improvement don’t happen by accident—they happen through small, intentional choices made over time. This section prompts you to craft a simple plan to guide how you'll contribute to positive change in your agency, starting today.
+
+Take a few minutes to reflect and jot down your responses to the prompts below. You’re encouraged to tie your personal strengths, whether you’re a Connector, Implementer, Strategist, or Challenger, to specific, concrete actions.
+
+### Your Change Contribution Plan
+
+**1\. How will I stay informed about emerging tech and trends?**  
+ *(Example: I’ll subscribe to the FAI (Federal Acquisition Institute) Acquisition Today newsletter and follow two gov tech leads on LinkedIn.)*  
+ 
+
+**2\. What’s one change I’ll lead or support in my agency or team?**  
+ *(Example: As a Connector, I’ll start a quarterly knowledge-sharing session on lessons learned in acquisition.)*  
+ 
+
+**3\. What’s one learning habit I’ll strengthen this year?**  
+ *(Example: I’ll set aside one hour each month for a “tech check” and review a recent article or case study.)*  
+ 
+
+This doesn’t need to be a full strategic plan—just a focused way to anchor your strengths to action. Whether you’re mentoring a colleague, piloting a new procurement strategy, or simply building your tech fluency, **your contribution matters**.
+
+>**Tip:** Want to take it further? Share your plan with a teammate, mentor, or supervisor to help stay accountable—and inspire others to do the same.
 
 
 
