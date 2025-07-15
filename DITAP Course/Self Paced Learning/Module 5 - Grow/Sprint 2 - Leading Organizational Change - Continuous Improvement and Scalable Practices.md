@@ -362,6 +362,8 @@ To do this, think back to the following:
 
 You can use all these techniques to execute Step 1 and build the “business case” for change. Consider how you might use these strategies to describe an opportunity that motivates your various stakeholders to action. How might you effectively tell the story and get them on board?
 
+---
+
 ### Step 2: Build a Guiding Coalition
 
 In your first step, you create a sense of urgency among those around you and see who buys-in to your idea. Within that group, “point” people will arise that help you to lead the change from various points across the organization. Think about your current processes and answer the following questions:
@@ -400,6 +402,8 @@ In your role, you might not be building world-changing coalitions or building fa
 
 
 As scientist Margaret Mead stated, “Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has.” It may sound trite, but it is true.
+
+--- 
 
 ### Step 3: Develop a Vision and Strategy
 
