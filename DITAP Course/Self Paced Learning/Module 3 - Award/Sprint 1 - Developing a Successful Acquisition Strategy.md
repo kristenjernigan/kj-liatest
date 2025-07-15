@@ -69,28 +69,30 @@ Let’s look at two examples of how you might re-imagine the various parts of an
 
 #### Example 1: Lean Acquisition Planning Canvas: Acquisition Background and Objectives
 
-|  |  |
-| --- | --- |
-| **Statement of Need** | Product Vision / Objective / Desired Outcomes |  |
-|**Cost** | Ask the following questions:<br> - How will we approach price structure?<br>- What are the risks for T&M versus FP?<br>- What is most advantageous to the government? |
-| **Trade-Offs** |Ask the following questions: <br>- Look at the iron triangle of schedule/cost/scope/quality.<br>- Rank these factors with relation to the importance of this acquisition.<br>- What factors need to be included in a tradeoff discussion? |
-| **Risks** | Ask the following questions:<br>- What is the greatest risk to the end user?<br>- What is the greatest risk to the agency?<br>- What is the greatest risk to acquisition success?<br>- How do we mitigate these risks? |
-| **Acquisition Streamlining** | Ask the following questions:<br>- What does industry engagement look like?<br>- Can you start with a blog to get interest?<br>- How do we craft a message that makes industry want to work on this acquisition?<br>- What does phased approach to acquisition look like? |
-| **Applicable Conditions** | Ask the following questions:<br>- Is there an existing legacy system that it is replacing?<br>- What cost, delivery, environmental constraints exist?<br>- What will this have to interface with?<br>- Is this going into a cloud environment? Why or why not?<br>- Can you use open source? Why or why not? |
-| **Delivery or Performance Requirements** |Ask the following questions:<br> - What can be envisioned for a Minimum Viable Product(MVP)?<br>- Do you need a design phase?<br>- What does modular contracting opportunities look like for this?<br>- Are there program or organizational dates that affect urgency or performance? |
+| Acquisition Element | Key Questions / Considerations |
+|---------------------|-------------------------------|
+| **Statement of Need** | What is the product vision, objective, or desired outcomes? |
+| **Cost** | Ask the following questions:<br> - How will we approach price structure?<br> - What are the risks for T&M versus FP?<br> - What is most advantageous to the government? |
+| **Trade-Offs** | Ask the following questions:<br> - Consider the iron triangle of schedule, cost, scope, and quality.<br> - Rank these factors in terms of importance for this acquisition.<br> - What factors need to be included in a trade-off discussion? |
+| **Risks** | Ask the following questions:<br> - What is the greatest risk to the end user?<br> - What is the greatest risk to the agency?<br> - What is the greatest risk to acquisition success?<br> - How do we mitigate these risks? |
+| **Acquisition Streamlining** | Ask the following questions:<br> - What does industry engagement look like?<br> - Can you start with a blog to generate interest?<br> - How do we craft a message that encourages industry participation?<br> - What does a phased approach to acquisition look like? |
+| **Applicable Conditions** | Ask the following questions:<br> - Is there an existing legacy system this replaces?<br> - What cost, delivery, or environmental constraints exist?<br> - What will this need to interface with?<br> - Is this going into a cloud environment? Why or why not?<br> - Can you use open source? Why or why not? |
+| **Delivery or Performance Requirements** | Ask the following questions:<br> - What can be envisioned for a Minimum Viable Product (MVP)?<br> - Do you need a design phase?<br> - What modular contracting opportunities exist?<br> - Are there program or organizational dates that affect urgency or performance? |
+
 
 #### Example 2: Lean Acquisition Planning Canvas: Plan of Action
-|  |  |
-| --- | --- |
-| **Test and Evaluation** | Ask the following questions:<br>- What amount of testing must be accomplished before production release?<br>- How will you incorporate usability testing?<br>- Do you have IV&V requirements or contracts?<br>- How will automated testing be incorporated? |
-| **Sources** | Ask the following questions:<br>- Are there required sources or vehicles?<br>- Are there preferred sources or socio-economic category requirements?<br>- What is the result of market research? |
-| **Competition** | Ask the following questions:<br>- Will this be competed?<br>- What are the competition goals? |
-| **Budgeting and Funding** | Ask the following questions:<br>- How much budget is set out for this?<br>- Is there an Independent Government Cost Estimate (IGCE)?<br>- What is the office willing to invest to get success?<br>- What fiscal year funding concerns need to be addressed?<br>- What color of money is being used? |
-| **Logistics Considerations** |Ask the following questions:<br> - What is the impact or requirements for operations following an MVP deployment?<br>- Will you include data rights clauses in your solicitation?<br>- Are you willing to develop in the open and share development with other agencies? |
-| **Contract Administration** | Ask the following questions:<br> |
-| **Contract Type** | Ask the following questions:<br> |
-| **Acquisition Considerations** | Ask the following questions:<br>- Have you considered open source, mixed source, commercial off-the-shelf (COTS), or proprietary software as referenced in the Federal Source Code Policy?<br>- Will you be using performance-based acquisition? Why or why not? |
-| **Source Selection Procedures** | Ask the following questions:<br>- Have you considered a multi-phased approach to source selection?<br>- Will you have a coding or agile walkthrough challenge?<br>- Who is performing the technical evaluation and what is their current agile or design maturity?<br>- Is Earned Value Management (EVM) required?<br>- What is your timeline and plan for negotiations?<br>- Will you consider due diligence and discussions with vendors? |
+| Acquisition Element | Key Questions / Considerations |
+|---------------------|-------------------------------|
+| **Test and Evaluation** | Ask the following questions:<br> - What amount of testing must be accomplished before production release?<br> - How will you incorporate usability testing?<br> - Do you have IV&V (Independent Verification and Validation) requirements or contracts?<br> - How will automated testing be incorporated? |
+| **Sources** | Ask the following questions:<br> - Are there required sources or contract vehicles?<br> - Are there preferred sources or socio-economic category requirements?<br> - What is the result of market research? |
+| **Competition** | Ask the following questions:<br> - Will this be competed?<br> - What are the competition goals? |
+| **Budgeting and Funding** | Ask the following questions:<br> - How much budget is allocated for this?<br> - Is there an Independent Government Cost Estimate (IGCE)?<br> - What is the office willing to invest for success?<br> - What fiscal year funding concerns must be addressed?<br> - What type (color) of money is being used? |
+| **Logistics Considerations** | Ask the following questions:<br> - What are the operational impacts or requirements following MVP deployment?<br> - Will you include data rights clauses in your solicitation?<br> - Are you willing to develop in the open and share development with other agencies? |
+| **Contract Administration** | Ask the following questions:<br> - What level of contract oversight and support will be needed?<br> - How will agile delivery be monitored and reported?<br> - Who will serve as the COR (Contracting Officer’s Representative)? |
+| **Contract Type** | Ask the following questions:<br> - Is a firm-fixed-price (FFP), time-and-materials (T&M), or cost-reimbursement structure most appropriate?<br> - How do risk and requirements maturity affect contract type selection? |
+| **Acquisition Considerations** | Ask the following questions:<br> - Have you considered open source, mixed source, commercial off-the-shelf (COTS), or proprietary software, as referenced in the Federal Source Code Policy?<br> - Will you use performance-based acquisition? Why or why not? |
+| **Source Selection Procedures** | Ask the following questions:<br> - Have you considered a multi-phased approach to source selection?<br> - Will you include a coding or agile walkthrough challenge?<br> - Who will perform the technical evaluation, and what is their agile or design maturity?<br> - Is Earned Value Management (EVM) required?<br> - What is your timeline and negotiation plan?<br> - Will you include due diligence or vendor discussions? |
+
 
 How can you integrate the lean canvas tool to your advantage, you ask? Well, you can use them to:  
 
