@@ -492,7 +492,7 @@ Essentially, each step builds towards creating and reinforcing the habit. This i
 
 One example of successful institutional or societal change was the smartphone. The mobile phone initially was cumbersome. It wasn’t very efficient, and it was still primarily meant for making and receiving phone calls. It wasn’t until the smartphone revolutionized telecommunications and illustrated a new lifestyle that society developed the habit of relying on them for communication and so much more. Now it’s difficult to imagine life without them\! 
 
-Reflect on the ways the companies we have reviewed in this module made their changes or projects “stick.” What strategies can you adapt in your own work to make change “stickier”?
+Reflect on the ways the companies we have reviewed in this module made their changes or projects “stick.” What strategies can you adapt in your own work to make change “stickier”? 
 
 ## Application
 
