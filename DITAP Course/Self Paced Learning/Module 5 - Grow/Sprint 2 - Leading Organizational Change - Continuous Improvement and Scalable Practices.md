@@ -494,6 +494,18 @@ One example of successful institutional or societal change was the smartphone. T
 
 Reflect on the ways the companies we have reviewed in this module made their changes or projects “stick.” What strategies can you adapt in your own work to make change “stickier”?
 
+## Application
+
+In this online training, you studied the Kotter eight-step model for leading change. You saw examples of companies, organizations, and even some unlikely heroes who have put each (if not all) of these steps into action. Finally, you took time to think about and discuss what makes these steps work, how you have seen others use them, and how you can implement them yourselves.
+
+Take some time to reflect on a few other items that you’ve learned about in this program that can help you on your change journey:
+
+* How will your personal preference impact your implementation of any of the eight-step model?  
+* How will you mitigate any areas where you might have challenges communicating or working with certain people?  
+* How will you play up the areas where you have particular strengths?
+
+Feel free to share your answers with your fellow participants and/or your supervisor/manager. They can help you fill in gaps, point you to new resources, or share ideas on how to use your strengths.
+
 
 
 
