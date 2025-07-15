@@ -460,6 +460,43 @@ Do your best as the convener of the volunteer army to keep your team building mo
 Have you ever had a manager who was able to get you what you needed when you needed it? If you have, think about what made it work well. If not, think about how you can prepare yourself to anticipate the needs of your team.
 
 ---
+### Step 6: Generate Short-Term Wins
+
+Small successes should be “collected, categorized, and communicated – early and often – to track progress and energize your army to drive change.” Wins should be widely agreed upon as successes that, when celebrated, act to “pull” or intrigue the “skeptics.” They also help carry the army through the long-term rollercoaster of a new project or process. It also makes people feel better in the face of inevitable setbacks.
+
+Here are some things to keep in mind when considering how to celebrate short-term wins:
+
+* **Do it in the moment** – Catch people doing incredible work as they are doing it. Be specific and descriptive.  
+* **Make sure you provide context** – A win doesn’t mean much if we don’t understand how it drives toward the ultimate goal, project completion, etc.  
+* **Be authentic** – You have to mean it\!
+
+As a digital acquisition ambassador and leader, you’ll have to think through exactly what the small wins will be and the appropriate level of recognition that makes the right people pay attention, makes the team/army feel like they accomplished something, and helps give the army another celebration to look forward to.
+
+---
+
+### Step 7: Sustain Acceleration
+
+Up to this point, we have rallied our army around a vision, empowered them to implement the vision, removed any barriers, and are celebrating those wins along the way. Change requires constant adaptation and course correction in order to maintain progress and keep moving forward.
+
+Sustained acceleration is necessary because it ensures the process comes to a close. Taking your foot off the gas before the project is complete means wasted time, wasted effort, and wasted resources. The key to making the change stick sometimes is seeing it through to the end, which can be the hardest part. Maintaining acceleration helps to reinforce efforts in the previous steps and builds towards the next step.
+
+As a leader what can you do to help your army to maintain their momentum? 
+
+---
+
+### Step 8: Institute Change
+
+This step is where we make the change stick. The new behaviors required to make your project successful will need to be replicated and reinforced in a way that makes clear connections to how this contributes to the success of the organization.
+
+Essentially, each step builds towards creating and reinforcing the habit. This is also where you use the information you gathered about potential roadblocks to habit creation and work through those so that new people entering into this process have few obstacles.
+
+One example of successful institutional or societal change was the smartphone. The mobile phone initially was cumbersome. It wasn’t very efficient, and it was still primarily meant for making and receiving phone calls. It wasn’t until the smartphone revolutionized telecommunications and illustrated a new lifestyle that society developed the habit of relying on them for communication and so much more. Now it’s difficult to imagine life without them\! 
+
+Reflect on the ways the companies we have reviewed in this module made their changes or projects “stick.” What strategies can you adapt in your own work to make change “stickier”?
+
+
+
+
 
 
 
