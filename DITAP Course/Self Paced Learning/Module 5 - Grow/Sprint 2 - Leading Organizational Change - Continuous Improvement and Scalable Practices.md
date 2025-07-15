@@ -613,6 +613,20 @@ This doesn’t need to be a full strategic plan—just a focused way to anchor y
 
 >**Tip:** Want to take it further? Share your plan with a teammate, mentor, or supervisor to help stay accountable—and inspire others to do the same.
 
+---
+## Wrap-Up & Call to Action
+
+**Stay curious. Stay current. Stay engaged.**
+
+As you wrap up this module—and the course—you’ve explored how continuous learning, personal strengths, and proactive curiosity are essential tools for thriving in a rapidly evolving federal acquisition landscape.
+
+>**Remember:** leading change doesn’t require a title—it requires initiative.  
+Small actions, consistent habits, and a willingness to try something new can have a meaningful impact on your agency, your team, and the citizens you serve.
+
+You don’t have to do everything on your change contribution plan at once. Just pick one place to start—and keep moving forward.
+
+**You are part of the change.**
+
 
 
 
