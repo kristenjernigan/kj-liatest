@@ -362,4 +362,4 @@ To do this, think back to the following:
 
 You can use all these techniques to execute Step 1 and build the “business case” for change. Consider how you might use these strategies to describe an opportunity that motivates your various stakeholders to action. How might you effectively tell the story and get them on board?
 
-![car](https://github.com/kristenjernigan/kj-liatest/blob/0e17572d7dd7b896c01501fe7e87a3725028b9e8/DITAP%20Course/Media2/21170913_1246205965507029_1940729654_o.JPEG)
+
