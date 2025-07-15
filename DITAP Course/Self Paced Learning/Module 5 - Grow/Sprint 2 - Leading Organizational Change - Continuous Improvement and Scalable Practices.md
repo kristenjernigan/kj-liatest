@@ -506,6 +506,85 @@ Take some time to reflect on a few other items that you’ve learned about in th
 
 Feel free to share your answers with your fellow participants and/or your supervisor/manager. They can help you fill in gaps, point you to new resources, or share ideas on how to use your strengths.
 
+## Self-Assessment: What’s Your Change Style?
+
+**Instructions:** Answer the following questions based on how you typically approach work, collaboration, and improvement. Keep track of your answers (A, B, C, or D) and count which letter you selected most often.
+
+Note: This self-assessment is a simplified framework inspired by common change leadership and team behavior patterns. It is not based on a formal psychological assessment, but draws conceptually from Agile roles, team dynamics (e.g., Belbin Team Roles), and organizational change theory, such as Kotter’s methodology for leading change.
+
+---
+
+1\. When your team faces a challenge, your first instinct is to:
+
+ A. Reach out and bring people together to talk it through  
+ B. Roll up your sleeves and start solving the practical issues  
+ C. Step back and assess the overall system or strategy  
+ D. Ask tough questions and challenge assumptions
+
+---
+
+2\. You feel most energized when:
+
+ A. Facilitating conversations and connecting colleagues  
+ B. Getting tasks across the finish line  
+ C. Identifying long-term improvements and patterns  
+ D. Shaking things up or pushing for change that matters
+
+---
+
+3\. In meetings, you’re most likely to:
+
+ A. Help make sure everyone is heard  
+ B. Volunteer to take ownership of next steps  
+ C. Ask about how today’s work aligns with broader goals  
+ D. Question why the group is doing things a certain way
+
+---
+
+4\. Your teammates would likely describe you as:
+
+ A. Approachable and well-connected  
+ B. Reliable and action-oriented  
+ C. Strategic and thoughtful  
+ D. Bold and unafraid to challenge the norm
+
+---
+
+5\. When it comes to improving your team or agency, you:
+
+ A. Build networks or communities to share knowledge  
+ B. Make small, consistent process changes  
+ C. Analyze what’s working and propose big-picture solutions  
+ D. Call out what's not working—even if it's uncomfortable
+
+---
+
+## Results: What’s Your Primary Change Style?
+
+**Mostly A – Connector**  
+ You're a relationship builder. You create momentum by fostering collaboration, trust, and shared purpose.  
+ \-*You might lead a community of practice, organize informal learning sessions, or connect stakeholders across silos.*
+
+**Mostly B – Implementer**  
+ You turn ideas into action. You're dependable and focused on getting results.  
+ \-*You might pilot a new checklist, lead small process changes, or help teams apply what they’ve learned.*
+
+**Mostly C – Strategist**  
+ You’re a systems thinker. You analyze and refine the bigger picture.  
+\- *You might lead procurement retrospectives, develop internal guidance, or advise on process alignment.*
+
+**Mostly D – Challenger**  
+ You question the status quo. You’re not afraid to advocate for change, even when it’s difficult.  
+ \-*You might champion new approaches, propose bold shifts in how work is done, or highlight risks others overlook.*
+
+---
+
+## Reflect & Apply:
+
+1\. What style did you get? Do you agree with it? Why or why not?  
+2\. What’s one way you can use your strengths to promote change in your next procurement or team collaboration?  
+3\. Are there other styles you’d like to develop more intentionally? How might you start?
+
 
 
 
