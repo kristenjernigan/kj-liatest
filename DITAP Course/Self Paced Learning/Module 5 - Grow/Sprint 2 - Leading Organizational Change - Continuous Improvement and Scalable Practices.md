@@ -435,4 +435,32 @@ As these examples illustrate, some companies tend to focus on how their work imp
 
 Think about the companies listed above. How are their visions similar? How are they different? What is it about their visions that really empowers them to bring about change in our world? How might you use their techniques to craft your vision in a way that’s impactful to your stakeholders?
 
+---
+
+### Step 4: Communicate the Vision and Enlist Your Volunteer Army
+
+As the convener, it’s up to you to help others clearly see where you’re leading them and why. In order to act, people have to see that the image you created is not only a better or different way, but also that there is room for that person in this new reality you’re seeking to create. Then, each person understands exactly how their contributions lead to a collective desired future state where the vision becomes a reality.
+
+Whether a teenage dystopian novel or the Civil Rights movement, a leader or a symbol was necessary to communicate a new possibility and then rally around it. Katniss from *The Hunger Games* and Dr. Martin Luther King, Jr. are very different figures, but they’re similar in that they galvanized people into action whether they wanted to or not. Now that we have our army and key people, it’s time to get to work.
+
+Think about leaders you’ve encountered that are able to effectively communicate their message. What do they have in common?
+
+---
+
+### Step 5: Enable Action by Removing Barriers
+
+Now that you’ve communicated your vision and tasked your volunteer army with actions, your job is to help them flow like water.
+
+If there are roadblocks, help to navigate those with your formal and informal authority. Equip your army with the tools they need to navigate the change by directing people to specific resources, people, or locations to help them accomplish the tasks at hand. If there’s a system that people need help with, find the right people to get them what they need. Remember to get them what they need and get out of the way. Use the resources you’ve reviewed throughout this program and the change ambassador toolkit as a starting point. In addition, use the network you’ve built with your cohort and others you’ve interacted as your resources moving forward.
+
+The team will build momentum towards change from one small success to the next small success. With extra obstacles out of the way, there’s less opportunity for your team to think that it’s a hard change. (You’ll learn more about this technique in the Online Learning: Resilience where we discuss Disney Pixar and how following Disney’s rough patch and then the acquisition of Pixar, the team worked together to remove obstacles to creativity that then allowed Disney Animation to thrive.)
+
+Do your best as the convener of the volunteer army to keep your team building momentum. This does not mean micromanage, however. Creating access to tools, skills, or systems does not mean taking the task and doing it for them. Trust your army to get the job done.
+
+Have you ever had a manager who was able to get you what you needed when you needed it? If you have, think about what made it work well. If not, think about how you can prepare yourself to anticipate the needs of your team.
+
+---
+
+
+
 
