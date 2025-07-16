@@ -45,13 +45,14 @@ Before the contractor team even kicks off, consider establishing a project chart
 
 Remember: this stage is about delivery, but it’s also about learning, improving, and staying connected to the people and goals you’re serving. Agile contracts have shown up to three times higher success rates than traditional waterfall efforts—because of this continuous involvement, shared accountability, and focus on delivering real, working results.
 
-See the attached Sample Project Charter for a template to kick off this process  
+See the attached Sample Project Charter for a template to kick off this process:  
 [Project Charter](https://github.com/kristenjernigan/kj-liatest/blob/00b8215fd4a12737c71e676ceb10f7f949fa79cb/Media/Module%204/Digital%20Service%20Delivery%20Project%20Charter%20.docx)
 
 ### Agile Rituals and Procurement Alignment
 
 To better understand how agile delivery unfolds in a federal environment, the following example illustrates a typical one-month Scrum schedule. It highlights key touchpoints for the Product Owner (PO), Contracting Officer’s Representative (COR), and Contracting Officer (CO), showing how agile rituals align with government oversight responsibilities. While each contract may require adjustments based on its complexity, mission, or team dynamics, this structure offers a foundational model. By starting with a simple, well-understood rhythm, teams can more confidently adapt when exceptions or project-specific needs arise.
 
+---
 #### One-Month Agile Ritual Scenario (with Pre-Sprint Activities)
 
 **Structure:** 2-week sprints over 4 weeks, including product demo and CO/COR/PO check-in  
