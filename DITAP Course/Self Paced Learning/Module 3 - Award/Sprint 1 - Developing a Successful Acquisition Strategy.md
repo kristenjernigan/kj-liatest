@@ -321,7 +321,7 @@ Your OGC may not have in-depth knowledge of your program or acquisition, making 
 
 In a digital age, Intellectual Property (IP) isn’t as easy to safeguard as it has been in the past. In the days past, an artist such as Van Gogh would paint something, and it would be a one-of-a-kind piece that would be sold by the artist only once. Now that you can re-print a canvas, you can buy multiple copies of The Starry Night. However, the painting—the original image—is still the artist's intellectual property and resides in a museum. So, how does he (his estate) get compensated for reprints? How can this artist monitor or account for people who find the image online and upload it to a local printer or website to create their own canvas re-print? Of course, these sorts of questions extend to all digital media. If it is on the internet, can it be kept safe? Can we prevent people from obtaining a movie illegally or sharing music?
 
-![The Starry Night by Vincent van Gogh](https://github.com/kristenjernigan/kj-liatest/blob/03179a35315f8ecd02c79dc75d24b6fd360d0104/Media/Module%203/The%20Starry%20Night%20-%20Vincent%20van%20Gogh.jpg) 
+![The Starry Night by Vincent van Gogh](https://github.com/kristenjernigan/kj-liatest/blob/756e6befb702c053263822fb4d9296fcccf12b21/Media/Module%203/The%20Starry%20Night%20-%20Vincent%20van%20Gogh.jpg) 
 
 When buying digital services, you can apply many of these concepts to the government. IP is protected in law through patents, copyright, and trademarks, which enable people to earn recognition or financial benefit from what they invent or create. 
 
@@ -359,7 +359,7 @@ A **trademark** is a sign capable of distinguishing the goods or services of one
 
 ### Industrial Design
 
-![Industrial design icon – a stylized 3D object with artistic curves](https://github.com/kristenjernigan/kj-liatest/blob/f6b3a8c6266cbe72eca1c0ab63db9c4c957b08de/Media/Module%203/industrial%20design.jpg)
+![Industrial design icon – a stylized 3D object with artistic curves](https://github.com/kristenjernigan/kj-liatest/blob/dc60f9d5272a18544e5eebd401e778cfed2ac260/Media/Module%203/industrial%20design.jpg)
 
 An **industrial design** constitutes the ornamental or aesthetic aspect of an article. A design may consist of three-dimensional features, such as the article's shape or surface, or two-dimensional features, such as patterns, lines, or color.
 
@@ -367,7 +367,7 @@ An **industrial design** constitutes the ornamental or aesthetic aspect of an ar
 
 ### Geographical Indications and Appellations of Origin
 
-![Geographical indication icon – a map pin and vineyard](https://github.com/kristenjernigan/kj-liatest/blob/f6b3a8c6266cbe72eca1c0ab63db9c4c957b08de/Media/Module%203/Geographical.jpg)
+![Geographical indication icon – a map pin and vineyard](https://github.com/kristenjernigan/kj-liatest/blob/89c6dc29d24d3e6f5bc07484d3f4d63aa79e60a1/Media/Module%203/Geographical.jpg)
 
 **Geographical indications and appellations of origin** are signs used on goods with a specific geographical origin and possessing qualities, a reputation, or characteristics that are essentially attributable to that place of origin. Most commonly, a geographical indication includes the name of the place of origin of the goods. For example, Napa Valley is an appellation in California known for its unique growing conditions for producing wine.
 
