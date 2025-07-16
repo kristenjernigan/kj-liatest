@@ -451,7 +451,7 @@ Once negotiation objectives are established, the team should review and reach a 
 
 It is important to address logistical considerations prior to conducting negotiation sessions.
 
-|  |  |
+|  | Logistical Considerations |
 |--|--|
 |   ![ ](https://github.com/kristenjernigan/kj-liatest/blob/f09c9e5d26ada1e17c911bf401125dc40609fc6b/Media/Module%203/clock.gif)   | **Schedule a Time** <br> Negotiations should be conducted as soon as possible after the Government completes its evaluation of proposals and develops its negotiation objectives.  When planning a time, consider the availability of all required Government personnel and offeror personnel. Allow enough lead time for both parties to assemble their teams. Consider the depth and breadth of the issues that will be covered, and allow reasonable time for discussion. This could be a couple hours for smaller acquisitions to a week or more for significant programs. |
 | ![ ](https://github.com/kristenjernigan/kj-liatest/blob/f09c9e5d26ada1e17c911bf401125dc40609fc6b/Media/Module%203/arrange%20location.gif) | **Arrange for a Location**  <br> If the negotiation session will be face to face, arrange for a location. Generally, the Government will want to hold the session at its own site. However, there may be reasons to use a neutral site. (Conducting negotiations at the offeror’s location is generally considered the least desirable alternative.) Consider and prepare for related requirements, such as room size, seating capacity, and internet access.  In addition to conducting the negotiation session face to face, it may also be held via phone, video conference, or web meeting. |
