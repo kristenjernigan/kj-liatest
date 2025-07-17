@@ -329,7 +329,7 @@ A well-informed team that communicates openly and documents early decisions will
 * Equips the team to adapt if the work shifts or performance issues arise  
 * Supports realistic exit strategies before you're in crisis
 
-## Bottom Line: 
+## Bottom Line
 
 Constraint discovery is not just a planning step; it’s a practice of risk management and collaborative alignment that supports more confident, mission-focused decision-making from start to finish.
 
