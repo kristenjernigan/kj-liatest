@@ -94,6 +94,7 @@ Example Adjectival Evaluation Scale:
 
 Comparative evaluation is well-suited for agile and innovative procurements that require flexibility and iterative engagement. Best-value trade-offs are best used in structured, high-value acquisitions where traceability and documentation are critical. Hybrid models may be used to apply comparative methods during early phases (e.g., white papers or demos) and best-value during final evaluations.
 
+---
 ### II. Evaluation Criteria: Purpose and Best Practices
 
 **Purpose of Evaluation Criteria**
@@ -128,6 +129,7 @@ Evaluation criteria are the cornerstone of any well-structured source selection 
 
 In short, evaluation criteria are not a formality—they are a strategic tool for ensuring that the selected solution and vendor are best positioned to deliver on the government’s objectives under real-world conditions.
 
+---
 ### III. Selecting Appropriate Evaluation Criteria
 
 Selecting the right evaluation criteria is both a technical and strategic task. It requires balancing regulatory compliance, mission needs, and market realities while supporting a fair and defensible acquisition outcome. The following best practices can guide that process:
