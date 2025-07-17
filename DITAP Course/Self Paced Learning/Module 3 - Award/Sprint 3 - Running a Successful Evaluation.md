@@ -184,44 +184,44 @@ In agile environments, where collaboration, adaptability, and working software a
 ---
 ## APPENDIX A: Comparative Evaluation Model for RFPs
 
-### I. Introduction: A model for comparative evaluation of vendor proposals.
+I. Introduction: A model for comparative evaluation of vendor proposals.
 
-### II. Evaluation Methodology: Use comparative assessments across multiple stages to determine best fit.
+II. Evaluation Methodology: Use comparative assessments across multiple stages to determine best fit.
 
-### III. Evaluation Characteristics
+III. Evaluation Characteristics
 
 * No scoring required  
 * Focuses on relative merit  
 * Narrative-based justifications
 
-### IV. Evaluation Stages & Criteria
+IV. Evaluation Stages & Criteria
 
-#### 1\. White Paper Evaluation
+1\. White Paper Evaluation
 
 * Past Experience  
 * Technical Understanding  
 * Team Qualifications
 
-#### 2\. Oral Presentation / Technical Challenge
+2\. Oral Presentation / Technical Challenge
 
 * Demonstrated Solutions  
 * Problem Solving  
 * Team Dynamics
 
-#### 3\. Draft PWS and Pricing
+3\. Draft PWS and Pricing
 
 * Alignment with Goals  
 * Risk Mitigation  
 * QA Processes  
 * Cost-Effectiveness
 
-### V. Evaluation Flow
+V. Evaluation Flow
 
 * Use white paper to screen vendors  
 * Compare solutions during oral presentations  
 * Select final vendor based on relative merit and alignment with goals
 
-### VI. Additional Considerations
+VI. Additional Considerations
 
 * Require verifiable data  
 * Allow narrative rationale for selections  
