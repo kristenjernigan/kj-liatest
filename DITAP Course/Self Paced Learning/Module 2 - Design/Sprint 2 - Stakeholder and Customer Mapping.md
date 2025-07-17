@@ -93,7 +93,7 @@ By completing this activity, you will:
 2. Practice influence conversations, and  
 3. Build your digital services network.
 
-**Instructions – Part 1: Prepare:**
+#### **Instructions – Part 1: Prepare:**
 
 For Part 1 of this activity, you’ll identify 2-4 people within your agency that you don’t usually have a chance to interact with but who you see as a significant influencer or gatekeeper (e.g., CIO, HCA, CAO, SPE, CFO, Policy Office leader). You may want to create a map (in Visio, PowerPoint, or another mind mapping software) like the sample Stakeholder Landscape graphic, but refine it to mirror the specific stakeholders you need to engage.  This will help you see the potential pool of stakeholders and aid you in narrowing your selection.
 
@@ -122,7 +122,7 @@ Practice your conversation with a cohort member and enlist their feedback. Use t
  
 ---
 
-**Instructions \- Part 2: Engage**
+#### **Instructions \- Part 2: Engage**
 
 These interviews will test your hypotheses about the sphere of influence for your stakeholder selections and give you experience conducting influencing conversations.
 
@@ -137,7 +137,7 @@ Document your interviews and reflect on the conversation and your strategy for f
 
 Please include the date of your interview and an overview of what you discussed. You should also share your insights from the interview with your classmates.   
 
-**Definition of Done & Deadline for Completion:** 
+#### **Definition of Done & Deadline for Completion:** 
 
 To consider this activity completed, you’ll need to adequately prepare for and complete interviews with 2-4 influencer/gatekeepers at your agency and share insights through a written assignment submitted to the Team.
 
