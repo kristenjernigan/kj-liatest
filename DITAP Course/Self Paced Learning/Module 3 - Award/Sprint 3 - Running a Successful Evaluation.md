@@ -521,7 +521,7 @@ Once negotiations have concluded, several follow-up actions may occur:
   * After the Government receives the final proposal revisions, the evaluation team reconvenes and revises previous evaluation findings.   
   * Finally, a source is selected for contract award.
 
-**Conclusion**
+### Conclusion
 
 Negotiations can be daunting, but with planning and preparation, you can navigate the process with ease. Remember, at its core, negotiation is the process of coming to mutual agreement on the terms and conditions of a proposed contract with regard to price, schedule, technical requirements, type of contract, or other contract terms. A successful negotiation results in a meeting of the minds, and a mutually agreeable solution. 
 
@@ -768,7 +768,7 @@ Preparing for an evaluation conversation is good to do even if you are only givi
 
 The Summary slides should provide meaningful information that facilitates the contractor’s ability to enhance their future competitiveness. For example, one Summary slide or a set of slides might contrast the debriefed contractor’s ratings and cost with that of the successful offeror.
 
-![tbd ](https://github.com/kristenjernigan/kj-liatest/blob/4086a8c8656030276efbcb0cd59d281ed877a289/Media/Module%203/Evaluation%20Summary%20Slide.png)
+![Evaluation Summary Slide - Example - displaying a comparative evaluation of three offerors (A, B, C) across four factors: Past Performance, Technical, Management, and Cost/Price.](https://github.com/kristenjernigan/kj-liatest/blob/4086a8c8656030276efbcb0cd59d281ed877a289/Media/Module%203/Evaluation%20Summary%20Slide.png)
 
 For pre-award debriefings, revealing ratings and cost/price information for other offerors is not permitted. As a result, this information would be blanked out. 
 
@@ -776,7 +776,7 @@ Pre-award post-evaluation discussions include only the agency’s evaluation of 
 
 As part of the Summary slides, the team might also include their consensus ratings. This slide depicts the team consensus ratings of the offeror being debriefed for the Management Approach evaluation factor. It cites the specific strengths and weaknesses of the offeror’s management approach. 
 
-![tbd ](https://github.com/kristenjernigan/kj-liatest/blob/4086a8c8656030276efbcb0cd59d281ed877a289/Media/Module%203/Example%20Caucus%20Rating%20Format.png)
+![A document titled 'Example Caucus Rating Format' for 'Source Selection For OCIO IT Services.' It details an evaluation for 'Offeror: A' on 'Factor: Management Approach (Factor ranking: 3rd most important).' The ratings are 'Outstanding' for Merit and 'Low' for Risk. The document lists bullet points under 'Strengths' describing the offeror's excellent proposed team, outstanding recruiting, existing processes, employee retention, and documented communication processes, each with a page number reference. It also lists 'Weaknesses' focusing on ad-hoc skills refresher/improvement training. Finally, 'Merit and Risk Ratings Support' provides a summary explaining why the offeror warrants the outstanding merit rating with low risk. ](https://github.com/kristenjernigan/kj-liatest/blob/4086a8c8656030276efbcb0cd59d281ed877a289/Media/Module%203/Example%20Caucus%20Rating%20Format.png)
 
 **Final Slide(s):**
 
@@ -802,7 +802,7 @@ During the debriefing, DON’T:
 * Argue or negotiate  
 * Compare vendors directly
 
-**Conclusion**
+## Conclusion
 
 Debriefings can really help shape the way vendors bid on future procurements, as well as give you the opportunity to explain why they didn’t win or what they could do better next time.  Here are several readings to help further your understanding of this process, as well as add new tools to your toolbox:
 
