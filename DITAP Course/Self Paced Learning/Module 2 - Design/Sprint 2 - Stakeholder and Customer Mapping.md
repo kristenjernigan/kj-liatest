@@ -18,7 +18,7 @@ Consider the following two situations:
   
 * **Situation 2:** You’ve spent months putting together an acquisition plan and getting various stakeholders to review and provide feedback along the way. All of a sudden, a new stakeholder—one you hadn’t thought to include to date—provides feedback that requires you to significantly adjust your approach. Frustrated, you think, “If only I had thought to get them on board and involved earlier on, we could’ve had a better product and saved time and money.” We can probably all relate to a time (or times\!) when this has happened and the resulting frustration we felt.
 
-So how do you plan for involving your customers and engaging all stakeholders at the right time in the right way? That’s where this activity comes in\!
+So how do you plan for involving your customers and engaging all stakeholders at the right time in the right way? That’s where this activity comes in!
 
 ### Why Is Stakeholder Engagement So Critical on Digital Services Efforts?
 
