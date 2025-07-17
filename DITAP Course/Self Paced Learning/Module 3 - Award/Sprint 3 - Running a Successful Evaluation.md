@@ -525,11 +525,14 @@ Once negotiations have concluded, several follow-up actions may occur:
 
 Negotiations can be daunting, but with planning and preparation, you can navigate the process with ease. Remember, at its core, negotiation is the process of coming to mutual agreement on the terms and conditions of a proposed contract with regard to price, schedule, technical requirements, type of contract, or other contract terms. A successful negotiation results in a meeting of the minds, and a mutually agreeable solution. 
 
+
 Here are several readings to help further your understanding of this process, as well as add new tools to your toolbox:
+
 * [Pre-Negotiation Memo Template](https://github.com/kristenjernigan/kj-liatest/blob/c08c614c72b5a394b3c946bc154ec9d5817c13a4/Media/Module%203/VAO_Template_Pre-Negotiation_Memo.doc)
 * [Checklist of Negotiation Steps](https://github.com/kristenjernigan/kj-liatest/blob/c08c614c72b5a394b3c946bc154ec9d5817c13a4/Media/Module%203/VAO_Checklist_Negotiation_Steps.doc)
-* [Negotiations and Source Selection Q\&A](https://github.com/kristenjernigan/kj-liatest/blob/c08c614c72b5a394b3c946bc154ec9d5817c13a4/Media/Module%203/Q_A_B2B_Overview_of_Negotiations_and_source_Selection.pdf)
+* [Negotiations and Source Selection Q&A](https://github.com/kristenjernigan/kj-liatest/blob/c08c614c72b5a394b3c946bc154ec9d5817c13a4/Media/Module%203/Q_A_B2B_Overview_of_Negotiations_and_source_Selection.pdf)
 * [Price Negotiation Template](https://github.com/kristenjernigan/kj-liatest/blob/c08c614c72b5a394b3c946bc154ec9d5817c13a4/Media/Module%203/Template_Price_NEG_Memo.doc)
+
 
 ---
 ## Knowledge Check: Negotiating with Vendors
