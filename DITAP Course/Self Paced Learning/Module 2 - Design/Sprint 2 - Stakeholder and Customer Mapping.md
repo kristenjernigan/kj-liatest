@@ -93,7 +93,7 @@ By completing this activity, you will:
 2. Practice influence conversations, and  
 3. Build your digital services network.
 
-#### **Instructions – Part 1: Prepare:**
+#### **Instructions – Part 1: Prepare**
 
 For Part 1 of this activity, you’ll identify 2-4 people within your agency that you don’t usually have a chance to interact with but who you see as a significant influencer or gatekeeper (e.g., CIO, HCA, CAO, SPE, CFO, Policy Office leader). You may want to create a map (in Visio, PowerPoint, or another mind mapping software) like the sample Stakeholder Landscape graphic, but refine it to mirror the specific stakeholders you need to engage.  This will help you see the potential pool of stakeholders and aid you in narrowing your selection.
 
