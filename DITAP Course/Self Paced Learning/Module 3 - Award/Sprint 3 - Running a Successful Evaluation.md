@@ -667,7 +667,7 @@ Done well, a post-evaluation feedback can:
 
 ## Debriefing vs other forms of post-evaluation feedback
 
-### Key Rules for Formal Debriefings (FAR Part 15\)
+### Key Rules for Formal Debriefings (FAR Part 15)
 
 Debriefings Are Required when using FAR Part 15 (Negotiated Procurement):
 
