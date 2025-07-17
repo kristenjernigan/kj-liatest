@@ -107,7 +107,7 @@ and prompts to construct the document since no single recipe exists on how best 
 
 Efforts are underway to examine the use of AI in developing and writing an acquisition strategy (and other key acquisition documents). We are still learning and, given the potential benefits, a coordinated effort could offer significant value. Harnessing the resources and expertise from a diverse group across defense acquisition can advance the use of this technology. If we accept the premise that the quality of the acquisition strategy is directly linked with subsequent acquisition outcomes, continued investment in AI and its optimal use can bring big returns on that investment. 
 
-Given the objective of capturing lessons learned and best practices, please share your thoughts and feedback so we can continue this conversation. In the meantime, I’m looking forward to seeing how IPTs use this powerful tool to deliver Warfighter capabilities at higher speed and greater value\!
+Given the objective of capturing lessons learned and best practices, please share your thoughts and feedback so we can continue this conversation. In the meantime, I’m looking forward to seeing how IPTs use this powerful tool to deliver Warfighter capabilities at higher speed and greater value!
 
 ---
 ## Discussion Prompt (Optional): How Should AI Influence Acquisition Strategy Development?
