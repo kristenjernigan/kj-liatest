@@ -256,6 +256,18 @@ By identifying constraints during the discovery phase, you can prepare to make f
 | Team capacity & roles | Is there a designated Product Owner or COR who will oversee day-to-day work? Do they have enough time and authority to manage this? Will the contractor be expected to lead outcomes, or follow detailed government direction? |
 | Technology environment | Will the solution integrate with legacy systems or require cloud migration? Are there existing development platforms or data environments it must align with? |
 
+| Topic                      | Questions to Ask |
+|---------------------------|------------------|
+| Budget & funding          | What is our total available budget? What fiscal year does it apply to? What is the color of money (e.g., O&M, R&D, capital)? Are there timing or obligation restrictions we need to account for? |
+| Security & risk           | What are the cybersecurity requirements for this effort? Does it require an Authority to Operate (ATO)? How long do ATOs typically take? What are the known feasibility or system risks? Is there an analysis of alternatives available? |
+| Internal vs. contracted expertise | Who from our agency will be directly involved in product development? Are they experienced in agile delivery or digital product management? If internal expertise is limited, do we need coaching, technical assistance, or product support services built into the contract? |
+| Onboarding & infrastructure | How long does it typically take to onboard contractors? Are there known firewall, VPN, or credentialing issues that impact when work can begin? Is remote access supported or restricted? |
+| Business Process Reengineering (BPR) | Is this effort meant to replicate existing processes in a digital tool (lift-and-shift), or are we rethinking the process? What level of BPR is acceptable to leadership and stakeholders? Is the business process flexible or locked in by law/policy? |
+| Contractual constraints   | Are there mandatory set-aside rules or preferred vehicles (e.g., GSA, GWACs)? Are certifications required (e.g., 508, FedRAMP, Section 889)? Can we phase work modularly, or must it be awarded as a single solution? |
+| Team capacity & roles     | Is there a designated Product Owner or COR who will oversee day-to-day work? Do they have enough time and authority to manage this? Will the contractor be expected to lead outcomes, or follow detailed government direction? |
+| Technology environment    | Will the solution integrate with legacy systems or require cloud migration? Are there existing development platforms or data environments it must align with? |
+
+
 ## Why defining constraints early pays off
 
 Once constraints are identified and documented during the discovery phase, they stop being unknown risks and become powerful decision-making tools. They give you the full context needed to shape a realistic, achievable procurement aligned with your agency’s mission, not just a paper strategy that collapses under real-world pressure.
