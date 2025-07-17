@@ -144,6 +144,7 @@ The multi-disciplinary teams that design and develop digital services could incl
 
 
 ![Digital Services hierarchy diagram illustrating the structure of a digital service team. The top section shows two groups: "Developers – In-House" and " Developers – Professional Service Vendors," both connecting to an "Organization (Government or Private Sector)." The organization then connects to "The end user," depicted as a smartphone displaying a digital service interface. Below the developers, a vertical list details team roles which are explained in the next section.](https://github.com/kristenjernigan/kj-liatest/blob/67d12c0757ca87a3ee720ea433584bce7c142fdc/Media/Module%201/digital%20services%20team.jpg)
+
 - __Product Owner__: his individual represents the organization and is responsible for working with the digital services development team (in-house or vendor). Some roles include prioritizing feature and functionality development, defining acceptance criteria for features, and providing demonstrations and reviews to the organization’s stakeholders. The Product Owner is ultimately accountable for the success of the digital service.
 
 - __Delivery Manager__: This individual orchestrates the digital services team and enables the team to deliver a quality service on time and within budget.
