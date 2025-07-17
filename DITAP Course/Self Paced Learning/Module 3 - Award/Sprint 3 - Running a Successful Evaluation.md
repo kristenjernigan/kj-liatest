@@ -12,6 +12,8 @@ Agile acquisition prioritizes objective-level requirements, focusing on the “w
 
 * **Past Performance** evaluates a vendor’s ability to meet contract requirements—based on size, scope, and duration.  
 * **Past Experience** focuses on *what* was delivered and *how*, reflecting technical capabilities and innovation in execution.
+
+---
     
 **2\. Down-Select Process**
 
@@ -20,6 +22,8 @@ Agile acquisitions commonly use a multi-phased evaluation approach, or down-sele
 * Offerors submit minimal, early-phase deliverables (e.g., white papers).  
 * Government teams assess basic qualifications and alignment.  
 * Uncompetitive vendors are released early—minimizing industry bid and proposal costs while reducing the likelihood of protest.
+
+---
    
 **3\. Interactive Evaluation**  
   Subsequent phases involve interactive exchanges with shortlisted vendors. These may include:  
@@ -29,6 +33,7 @@ Agile acquisitions commonly use a multi-phased evaluation approach, or down-sele
 
 This interaction gives evaluators real-time insight into the offeror’s solution maturity, team culture, and collaboration capability—departing from the static, written-only approaches of traditional source selection.
 
+---
 **4\. Collaborative Negotiation**
 
 Once a preferred vendor is identified, the government may conduct alpha contracting or collaborative negotiations. Together, the government and vendor co-develop:
@@ -36,12 +41,13 @@ Once a preferred vendor is identified, the government may conduct alpha contract
 * Performance Work Statement (PWS)  
 * Implementation plan  
 * Quality assurance metrics
-  
+
+--- 
 **5\. Type of Evaluation: Comparative Evaluation vs. Best-Value Trade-Off**
 
 Selecting the appropriate evaluation approach is critical to ensuring alignment with the acquisition’s goals, the complexity of the solution space, and the nature of risk being managed. Two common approaches in federal procurement are comparative evaluation and best-value trade-off.
 
-* **Comparative Evaluation Approach**
+**Comparative Evaluation Approach**
 
 Comparative evaluation focuses on assessing the relative merits of each proposal. It enables flexibility and adaptability, making it especially suitable for streamlined acquisitions under FAR Parts 8.4, 12, and 13.5.
 
@@ -57,7 +63,7 @@ Comparative evaluation focuses on assessing the relative merits of each proposal
   * Commercial solutions under schedules or simplified acquisition  
   * Rapid prototyping with evolving technical requirements  
       
-* **Best-Value Trade-Off**
+**Best-Value Trade-Off**
 
 The best-value trade-off method is used to balance price and non-price evaluation factors, particularly in complex acquisitions under FAR Parts 15 and 16\.
 
@@ -66,8 +72,13 @@ The best-value trade-off method is used to balance price and non-price evaluatio
   * Facilitates well-documented decision-making  
   * Justifies award to higher-rated but higher-priced proposals  
   * Suitable for high-risk or mission-critical programs
+ 
+* Use Cases:
+  
+  * Complex product/service acquisitions  
+  * Situations where value-added differentiation justifies cost
 
-* Example Adjectival Evaluation Scale:
+Example Adjectival Evaluation Scale:
 
 | Rating | Definition |
 | ----- | ----- |
@@ -77,9 +88,7 @@ The best-value trade-off method is used to balance price and non-price evaluatio
 | **Marginal** | **Proposal has deficiencies; high risk if award is made** |
 | **Unacceptable** | **Proposal fails to meet minimum requirements; ineligible for award** |
 
-* **Use Cases:**  
-  * Complex product/service acquisitions  
-  * Situations where value-added differentiation justifies cost
+
 
 **Selecting the Right Approach**
 
