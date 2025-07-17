@@ -417,7 +417,7 @@ It’s important to note that in federal acquisition, the contractor is responsi
 When data is first produced under the performance of the contract, the government historically prefers complete contractor ownership of the data to encourage commercial development; however, the government often retains complete license to the data without fees or cost in perpetuity. While this practice was mainly for hardware, equipment, and supplies developed and delivered under contract at government expense, the principle applies to software, even software solutions developed using open source code. The potential for applying the solution, in whole or in part, to commercial markets is a powerful incentive for commercial contractors to engage in government contracts and a source of potential government leverage in negotiations.
 
 ---
-## Contribution, Attribution, Retribution…Oh My\!
+## Contribution, Attribution, Retribution…Oh My!
 
 Open source means public domain, right? Short answer is…wrong. Even open-source software has licensing agreements and copyright protections. These affect how open source software is developed, used, maintained, upgraded, and when used to develop custom software, the IP rights of the developer. The Business Software Alliance's “Open Source and Commercial Software \- An In-Depth Analysis” paper is an excellent primer for this issue and many others related to IP in open source software. The paper describes open source and IP as follows:
 
