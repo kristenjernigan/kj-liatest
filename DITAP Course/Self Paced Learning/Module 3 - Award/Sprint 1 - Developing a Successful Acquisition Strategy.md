@@ -125,7 +125,7 @@ Before you sit down to develop the solicitation package, you should consider som
 
 
 ### **Discussion question (optional):**
-Based on what you’ve learned, what are some mistakes you would avoid for your next procurement? Share the wealth with your peers here\! 
+Based on what you’ve learned, what are some mistakes you would avoid for your next procurement? Share the wealth with your peers here! 
 
 ---
 ## Contract Exit Strategies
