@@ -81,7 +81,7 @@ Think about a recent or upcoming digital services acquisition you’re working o
 ---
 ## Activity: Stakeholder Selection & Interview Assignment 
 
-### Introduction:
+### Introduction
 
 In this two-part activity, you’ll identify the individuals within your agency who are major influencers or gatekeepers in digital services acquisition and develop your strategy for engaging with them. You’ll use your experiences with this program as a springboard for the conversation.
 
