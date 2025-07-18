@@ -66,21 +66,23 @@ To better understand how agile delivery unfolds in a federal environment, the fo
 ---
 ##### **Pre-Sprint Activities (Before Week 1 and Before Week 3)**
 
-**Participants:** Vendor team, Product Owner (PO), COR (observer), technical stakeholders  
+**Participants:** Vendor team, Product Owner (PO), COR (observer), technical stakeholders
+
 **Activities:**
 
 * **User Story Sizing:**  
    The vendor team reviews upcoming stories with the PO and provides rough estimates of effort (e.g., story points or time-based sizing).
   
  ![Infographic titled 'Epic/story pointing and relativity'. It illustrates functionality/issues as different-sized boxes, each paired with a silhouette of a person. These correspond to 'Relative difference' (Smallest to Biggest) and 'Story pointing' values (1, 2, 3, 5, 8, 13). Below, a graph shows 'Uncertainty' increasing proportionally as 'Story Points' increase, with text stating 'Uncertainty of completion increases in proportion to story point increases'.](https://github.com/kristenjernigan/kj-liatest/blob/724b890d63e87770de78ae7ab3b4c10f3ec4adf4/Media/Module%204/epic%20-%20story%20pointing%20and%20relativity.png) 
-  *Image Credit: Blackboard PISG Agile and Scrum Training 2018*
+ 
+*Image Credit: Blackboard PISG Agile and Scrum Training 2018*
   
 
 * **Backlog Refinement:**  
   Based on the sizing and team velocity, the PO re-prioritizes the backlog and adjusts scope.
   
  ![Diagram titled 'Discovering and defining the backlog'. On the left, 'Product Backlog' shows a 'Theme' containing multiple 'Epics'. A Product Manager (PM, Visionary) is shown above, and a Product Owner (PO, Execution) below. Black arrows show the PM and PO influencing the creation of a 'Prioritized Product Backlog' on the right, which breaks down Epics into 'Stories' for Sprint 1, 2, and 3, with some Epics remaining for refinement or later sprints. A timeline at the bottom shows versions 1.2.2.0 and 1.2.3.0.](https://github.com/kristenjernigan/kj-liatest/blob/724b890d63e87770de78ae7ab3b4c10f3ec4adf4/Media/Module%204/discovering%20and%20defining%20the%20backlog.png)
-  *Image Credit: Blackboard PISG Agile and Scrum Training 2018*
+*Image Credit: Blackboard PISG Agile and Scrum Training 2018*
 
 * **Definition of Done (DoD) Review:**  
   Stories are updated or clarified to ensure shared understanding of what “done” looks like for each task.
@@ -147,7 +149,7 @@ To better understand how agile delivery unfolds in a federal environment, the fo
 
 ---
 
-##### **Pre-Sprint Activities*** **(Before Week 3)** 
+##### **Pre-Sprint Activities (Before Week 3)** 
 
 **Participants:** Vendor team, PO, COR  
 **Activities**:
