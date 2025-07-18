@@ -55,7 +55,8 @@ To better understand how agile delivery unfolds in a federal environment, the fo
 ---
 #### One-Month Agile Ritual Scenario (with Pre-Sprint Activities)
 
-**Structure:** 2-week sprints over 4 weeks, including product demo and CO/COR/PO check-in  
+**Structure:** 2-week sprints over 4 weeks, including product demo and CO/COR/PO check-in
+
 **Purpose:** Demonstrate how agile ceremonies align with federal procurement oversight roles and responsibilities
 
 ![Infographic titled 'Basic Scrum Cadence' showing a weekly schedule for three sprints (Sprint 1, Sprint 2, Sprint 3). Each week (Monday to Friday) includes 'Daily Scrum'. On Tuesday, 'Backlog refinement' is added. On Wednesday, 'Sprint review', 'Retrospective', and 'Sprint Planning' are added. Arrows indicate flow between days, showing the continuous nature of Daily Scrums.](https://github.com/kristenjernigan/kj-liatest/blob/724b890d63e87770de78ae7ab3b4c10f3ec4adf4/Media/Module%204/basic%20scrum%20cadence.png)
@@ -63,7 +64,7 @@ To better understand how agile delivery unfolds in a federal environment, the fo
 *Image Credit: Blackboard PISG Agile and Scrum Training 2018*
 
 ---
-##### **Pre-Sprint Activities (Before Week 1 and Before Week 3\)**
+##### **Pre-Sprint Activities (Before Week 1 and Before Week 3)**
 
 **Participants:** Vendor team, Product Owner (PO), COR (observer), technical stakeholders  
 **Activities:**
@@ -146,7 +147,7 @@ To better understand how agile delivery unfolds in a federal environment, the fo
 
 ---
 
-##### ***Pre-Sprint Activities*** **(Before Week 3\)** 
+##### **Pre-Sprint Activities*** **(Before Week 3)** 
 
 **Participants:** Vendor team, PO, COR  
 **Activities**:
