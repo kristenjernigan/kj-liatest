@@ -219,7 +219,7 @@ In a world where priorities shift quickly, and government work often spans legac
 
 From playbooks and field guides to toolkits and checklists, these documents help public servants act with clarity and confidence. When done well, they create space for consistency and flexibility, helping teams avoid reinventing the wheel without boxing them in. Practical guides are useful not because they prescribe every step, but because they distill collective experience into something others can learn from, use, and adapt.
 
-### Understanding the Playbook: 
+### Understanding the Playbook 
 
 The concept of a playbook, with its roots in ancient military strategies and sports tactics, has transcended its original domains, organically spreading into a wide array of fields. This includes politics, where they inform campaign strategies; the military, with standard operating procedures; healthcare, through treatment protocols; education, via curriculum guides; marketing, in the form of communication strategies; and law enforcement, with procedural guidelines. In each of these contexts, a playbook functions as a metaphor for an organized, strategic approach to navigating complex tasks or situations. It represents a curated collection of tried-and-tested methods, often compiled from accumulated experience and best practices, all aimed at achieving specific outcomes.
 
@@ -502,7 +502,7 @@ This step is where we make the change stick. The new behaviors required to make 
 
 Essentially, each step builds towards creating and reinforcing the habit. This is also where you use the information you gathered about potential roadblocks to habit creation and work through those so that new people entering into this process have few obstacles.
 
-One example of successful institutional or societal change was the smartphone. The mobile phone initially was cumbersome. It wasn’t very efficient, and it was still primarily meant for making and receiving phone calls. It wasn’t until the smartphone revolutionized telecommunications and illustrated a new lifestyle that society developed the habit of relying on them for communication and so much more. Now it’s difficult to imagine life without them\! 
+One example of successful institutional or societal change was the smartphone. The mobile phone initially was cumbersome. It wasn’t very efficient, and it was still primarily meant for making and receiving phone calls. It wasn’t until the smartphone revolutionized telecommunications and illustrated a new lifestyle that society developed the habit of relying on them for communication and so much more. Now it’s difficult to imagine life without them! 
 
 Reflect on the ways the companies we have reviewed in this module made their changes or projects “stick.” What strategies can you adapt in your own work to make change “stickier”? 
 
@@ -591,7 +591,7 @@ Note: This self-assessment is a simplified framework inspired by common change l
 
 ---
 
-## Reflect & Apply:
+## Reflect & Apply
 
 1\. What style did you get? Do you agree with it? Why or why not?  
 2\. What’s one way you can use your strengths to promote change in your next procurement or team collaboration?  
@@ -607,7 +607,7 @@ Continuous learning and improvement don’t happen by accident—they happen thr
 
 Take a few minutes to reflect and jot down your responses to the prompts below. You’re encouraged to tie your personal strengths, whether you’re a Connector, Implementer, Strategist, or Challenger, to specific, concrete actions.
 
-### Your Change Contribution Plan
+**Your Change Contribution Plan**
 
 **1\. How will I stay informed about emerging tech and trends?**  
  *(Example: I’ll subscribe to the FAI (Federal Acquisition Institute) Acquisition Today newsletter and follow two gov tech leads on LinkedIn.)*  
