@@ -51,21 +51,21 @@ Your analysis should show that you understand how contemporary DevOps, CI/CD, an
 
 ### Question 1: 
 
-Modernization Strategy Given GAO's finding that 463 IT acquisition recommendations remain unimplemented across the federal government, what specific modern DevOps and CI/CD practices would you implement to address the three significant federal IT challenges identified, strengthening IT portfolio oversight, implementing mature acquisition practices, and building federal IT capacity?
+**Modernization Strategy** -  Given GAO's finding that 463 IT acquisition recommendations remain unimplemented across the federal government, what specific modern DevOps and CI/CD practices would you implement to address the three significant federal IT challenges identified, strengthening IT portfolio oversight, implementing mature acquisition practices, and building federal IT capacity?
 
-*Learning Note: In developing your response, consider how AI-powered automation could improve project management and oversight, what role DevSecOps practices would play in reducing security vulnerabilities, how progressive delivery methods could minimize deployment risks, and what modern workforce development approaches are needed to build sustainable technical capacity within government.*
+>Learning Note: In developing your response, consider how AI-powered automation could improve project management and oversight, what role DevSecOps practices would play in reducing security vulnerabilities, how progressive delivery methods could minimize deployment risks, and what modern workforce development approaches are needed to build sustainable technical capacity within government.*
 
 ### Question 2: 
 
-Strategic Leadership Approach With federal agencies spending over $100 billion annually on IT, mostly on legacy system maintenance rather than innovation, how would you design a comprehensive digital transformation strategy that incorporates current best practices while addressing the unique procurement and organizational challenges identified in the case study?
+**Strategic Leadership Approach** - With federal agencies spending over $100 billion annually on IT, mostly on legacy system maintenance rather than innovation, how would you design a comprehensive digital transformation strategy that incorporates current best practices while addressing the unique procurement and organizational challenges identified in the case study?
 
-*Learning Note: Your response should address the integration of modern CI/CD pipelines with federal acquisition processes, strategies for balancing innovation with security and compliance requirements, approaches for building internal technical capacity versus continuing to depend on contractors, and change management strategies for large-scale government transformation initiatives.*
+>Learning Note: Your response should address the integration of modern CI/CD pipelines with federal acquisition processes, strategies for balancing innovation with security and compliance requirements, approaches for building internal technical capacity versus continuing to depend on contractors, and change management strategies for large-scale government transformation initiatives.*
 
 ### Question 3: 
 
-Contemporary Policy Analysis The 2024 State of CI/CD Report identified "a concerning trend where a significant portion of organizations are lagging in performance despite widespread adoption of DevOps practices." How does this finding apply to federal IT transformation efforts? What are the implications for government agencies attempting to modernize their technology capabilities?
+**Contemporary Policy Analysis** - The 2024 State of CI/CD Report identified "a concerning trend where a significant portion of organizations are lagging in performance despite widespread adoption of DevOps practices." How does this finding apply to federal IT transformation efforts? What are the implications for government agencies attempting to modernize their technology capabilities?
 
-*Learning Note: Consider why technical adoption alone doesn't guarantee success, the role of organizational culture and change management in digital transformation, how federal constraints such as regulatory requirements, budget cycles, and political pressures impact implementation, and lessons that can be drawn from both successful and failed government digital initiatives.*
+>Learning Note: Consider why technical adoption alone doesn't guarantee success, the role of organizational culture and change management in digital transformation, how federal constraints such as regulatory requirements, budget cycles, and political pressures impact implementation, and lessons that can be drawn from both successful and failed government digital initiatives.*
 
 ## Definition of Done:
 
