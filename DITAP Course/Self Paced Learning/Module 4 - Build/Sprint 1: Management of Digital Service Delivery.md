@@ -106,6 +106,7 @@ To better understand how agile delivery unfolds in a federal environment, the fo
 ##### **Week 1: Sprint 1 Begins**
 
 **Participants:** Vendor team, PO, COR (observer)  
+
 **Activities:**
 
 * Sprint Planning: Finalizes sprint commitment from the refined backlog
@@ -125,6 +126,7 @@ To better understand how agile delivery unfolds in a federal environment, the fo
 ##### **Week 2: Sprint 1 Wrap-Up**
 
 **Participants:** Vendor team, PO, COR  
+
 **Activities:**
 
 * Sprint Review: Vendor demos completed work
@@ -152,6 +154,7 @@ To better understand how agile delivery unfolds in a federal environment, the fo
 ##### **Pre-Sprint Activities (Before Week 3)** 
 
 **Participants:** Vendor team, PO, COR  
+
 **Activities**:
 
 * Repeat of user story sizing and backlog refinement
@@ -169,6 +172,7 @@ To better understand how agile delivery unfolds in a federal environment, the fo
 ##### **Week 3: Sprint 2 Begins**
 
 **Participants**: Vendor team, PO, COR  
+
 **Activities:**
 
 * Sprint Planning and kickoff
@@ -184,6 +188,7 @@ To better understand how agile delivery unfolds in a federal environment, the fo
 #####  **Week 4: Sprint 2 Wrap-Up \+ Monthly Demo**
 
 **Participants:** Vendor team, PO, COR, stakeholders  
+
 **Activities:**
 
 * Sprint Review: Demo of all delivered work (including key features from Sprint 1 and 2\)
@@ -211,6 +216,7 @@ To better understand how agile delivery unfolds in a federal environment, the fo
 ##### **End-of-Month CO/COR/PO Check-In**
 
 **Participants:** CO, COR, PO  
+
 **Activities:**
 
 * Review of sprint summaries and documented observations
