@@ -14,7 +14,7 @@ You’ll move through two focused sprints:
 
 Through both sprints, you’ll apply techniques to **create a culture of innovation within your sphere of influence**—one that empowers you and those around you to lead change and guide customers toward the best solutions.
 
-### Learning Objectives
+Learning Objectives
 
 By the end of this module, you will be able to:
 
@@ -33,9 +33,9 @@ By the end of this module, you will be able to:
 * Apply techniques to foster a culture of innovation that enables effective leadership and customer engagement
 
 ---
-## **Preparing for and Having an Influence Conversation** 
+## Preparing for and Having an Influence Conversation 
 
-### Introduction 
+Introduction 
 
 You recently practiced influence conversations as a way to engage a variety of stakeholders.
 
@@ -184,7 +184,7 @@ As you think about this topic, consider the following:
 * How did the Representative conclude that consistent, rigid oversight is universally beneficial?  
 * Has the belief that "innovation in procurement equals risk" become entrenched?
 
- 
+---
 
 Once you have considered the above, consider some strategies to overcome these challenges:
 
@@ -228,7 +228,7 @@ At the conclusion of this module, you will be able to:
 
 \-**Winston Churchill** 
 
-As you saw in the classroom sessions, implementing change is not easy; it requires courage and a willingness to both lead and listen, just as Churchill so astutely acknowledges. It requires humility and recognition that we don’t always know the answers—that’s why we must talk to our users ([Digital Services Playbook Play \#1](https://playbook.usds.gov/#play1)\!) first and foremost and why we value validated learning over untested assumptions. These tenets all apply when we approach conversations that we expect to be challenging—or perhaps even downright difficult. How do you make these conversations most productive? 
+As you saw in the classroom sessions, implementing change is not easy; it requires courage and a willingness to both lead and listen, just as Churchill so astutely acknowledges. It requires humility and recognition that we don’t always know the answers—that’s why we must talk to our users ([Digital Services Playbook Play \#1](https://playbook.usds.gov/#play1)!) first and foremost and why we value validated learning over untested assumptions. These tenets all apply when we approach conversations that we expect to be challenging—or perhaps even downright difficult. How do you make these conversations most productive? 
 
 ## Preparing for a Difficult Conversation
 
@@ -269,7 +269,7 @@ In most cases, the conversation will be difficult because the parties involved a
 
 * You can’t know what the other person’s intentions are. They also don’t know what your intentions are.   
 * Don’t assume the other person has bad intentions.   
-* Don’t assume that because you have good intentions the other person sees it that way. 
+* Don’t assume that because you have good intentions, the other person sees it that way. 
 
 ### Blame
 
@@ -431,16 +431,19 @@ The team lead is someone you’ve worked with before, and you have a good workin
 Select the best response. 
 
 - [ ] “Can you talk me through your past experiences with the 2-3 day sessions and how they’ve been used to gather customer feedback? What has worked well? What hasn’t?” (correct)  
-- [ ] “I have a great case study from another agency about how they implemented this approach and mitigated risk. It really can work in government\!”  
+- [ ] “I have a great case study from another agency about how they implemented this approach and mitigated risk. It really can work in government!”  
 - [ ] “I understand where you’re coming from. It doesn’t sound like this is the time to try something different, but please keep it in mind for future efforts.”
 
 ---
-## Introduction \-  Building Your Resilience
+## Introduction -  Building Your Resilience
 
-* *As an inventor, Edison made 1,000 unsuccessful attempts at inventing the light bulb. When a reporter asked, "How did it feel to fail 1,000 times?" Edison replied, "I didn't fail 1,000 times. The light bulb was an invention with 1,000 steps."*  
-* *During the American Revolution, John Adams said that “we were about one-third Tories, and \[one\] third timid, and one-third true blue.” In other words, a minority of the colonists (only one-third) supported independence from Britain. The other two-thirds either supported Britain or were waiting to see which side won.*  
-* *As memorialized in the movie “Lincoln” and many books and movies that preceded it, Abraham Lincoln received pushback when attempting to push forward the Emancipation Proclamation. As Adam Grant describes in his book The Originals, Lincoln spent six months agonizing about this decision before he made it. He was told it would lead to chaos and destroy the nation. Luckily, he didn’t listen.*  
-* *Carmen Medina, the former CIA analyst, was repeatedly told “no” by her superiors and peers for more than a decade as she attempted to push for real-time information sharing across intelligence agencies. However, she kept trying—for more than a decade. As a result, she helped create the intelligence community’s version of Wikipedia.*
+>As an inventor, Edison made 1,000 unsuccessful attempts at inventing the light bulb. When a reporter asked, "How did it feel to fail 1,000 times?" Edison replied, "I didn't fail 1,000 times. The light bulb was an invention with 1,000 steps."
+
+>During the American Revolution, John Adams said that “we were about one-third Tories, and \[one\] third timid, and one-third true blue.” In other words, a minority of the colonists (only one-third) supported independence from Britain. The other two-thirds either supported Britain or were waiting to see which side won.
+
+>As memorialized in the movie “Lincoln” and many books and movies that preceded it, Abraham Lincoln received pushback when attempting to push forward the Emancipation Proclamation. As Adam Grant describes in his book The Originals, Lincoln spent six months agonizing about this decision before he made it. He was told it would lead to chaos and destroy the nation. Luckily, he didn’t listen.
+
+>Carmen Medina, the former CIA analyst, was repeatedly told “no” by her superiors and peers for more than a decade as she attempted to push for real-time information sharing across intelligence agencies. However, she kept trying—for more than a decade. As a result, she helped create the intelligence community’s version of Wikipedia.
 
 As these examples illustrate, innovation by definition requires risk taking and change. Change is not easy, and people will resist it—even when they suffer most from it (see political psychologist John Jost’s [theory of system justification](https://en.wikipedia.org/wiki/System_justification) for an interesting application of this). As a result, you’re going to be told no—frequently—as you advance change. Most important initiatives will have more people saying no than saying yes—at first. How do you prime yourself—and your team and agency—to respond productively in these situations and build momentum in support of the change?
 
@@ -551,7 +554,7 @@ So what’s next? Analyze the “no” a bit more. Besides not presenting the ch
 
 Select 2 responses that apply
 
-- [ ] The technical team recognizes there is a problem with the status quo, but ironically is resistant to change it—system justification theory at work\! **(correct)**  
+- [ ] The technical team recognizes there is a problem with the status quo, but ironically is resistant to change it—system justification theory at work! **(correct)**  
 - [ ] The technical team is so afraid of another failure that they’re afraid to do anything that might “rock the boat” (like the Disney Animation studio before they acquired Pixar). **(correct)**  
 - [ ] The technical team likely didn’t trust you because they didn’t know your credentials. You should’ve started your presentation by listing your credentials and the successful contracts you’ve administered in the past.
 
@@ -577,7 +580,7 @@ Remember our discussion of wellness rituals and performance areas from our earli
 
 ### Sharing What You’ve Learned to Help Others Succeed
 
-#### Why Your Story Matters
+**Why Your Story Matters**
 
 Digital service procurement is constantly evolving. What worked last year might not work today—and what you figure out today might help someone else tomorrow. That’s why telling the story of your procurement work—what went right, what went sideways, and what you’d do differently—is such a powerful contribution to the community.
 
@@ -735,7 +738,7 @@ This template is designed to help contracting officers document and share their 
 
 ---
 
-### Title:
+Title:
 
 Give your case study a clear and specific title that reflects the nature of the procurement.
 
@@ -743,13 +746,13 @@ Example: *“Procuring an AI-Powered Document Summarization Tool for FOIA Reques
 
 ---
 
-### Executive Summary:
+Executive Summary:
 
 Brief overview of what this procurement aimed to accomplish, the kind of AI tool involved, and the overall outcome.
 
 ---
 
-### Agency Context:
+Agency Context:
 
 * Name of agency and office
 
@@ -757,76 +760,86 @@ Brief overview of what this procurement aimed to accomplish, the kind of AI tool
 
 * Key stakeholders involved
 
-### Initial Use Case:
+---
+
+Initial Use Case:
 
 * What problem were you trying to solve?
 
 * Who was the end user or beneficiary of the AI tool?
 
 * What did you hope the tool would accomplish?
+---
 
-### Desired AI Capabilities:
+Desired AI Capabilities:
 
 * What specific type of AI or machine learning capability were you seeking? (e.g., summarization, classification, chat interface, generative models, etc.)
 
 * What requirements did you define upfront?
+---
 
-### Market Research Conducted:
+Market Research Conducted:
 
 * What tools or techniques did you use for market research? (e.g., RFIs, industry days, market surveys)
 
 * What surprised you about the vendor landscape?
 
 * How did market research affect your solicitation approach or requirements?
+---
 
-### Final Tool Selected:
+Final Tool Selected:
 
 * Description of the tool or platform selected
 
 * How did it compare to what you initially envisioned?
 
 * Was it off-the-shelf, custom-built, or a hybrid?
+---
 
-### Security and Privacy Navigation:
+Security and Privacy Navigation:
 
 * What were the major concerns or constraints related to security, privacy, or data governance?
 
 * How did you work with the CISO, legal, or privacy office?
 
 * What requirements or clauses did you include to mitigate risk?
+---
 
-### Procurement Strategy:
+Procurement Strategy:
 
 * What type of contract or vehicle did you use?
 
 * Any special techniques or authorities leveraged (e.g., CSOs, OTAs, BPA call, etc.)?
 
 * How did you evaluate vendors?
+---
 
-### Implementation Lessons:
+Implementation Lessons:
 
 * What went well during implementation?
 
 * What challenges came up (technical, cultural, contractual)?
 
 * How were those resolved or worked around?
+---
 
-### Results / Outcomes:
+Results / Outcomes:
 
 * What impact has the tool had (so far)?
 
 * Include both quantitative (time savings, accuracy, etc.) and qualitative (user feedback, improved workflow) measures if available.
 
-
-### Retrospective & Recommendations:
+---
+Retrospective & Recommendations:
 
 * What would you do differently next time?
 
 * What lessons are most worth sharing?
 
 * Would you recommend the tool or approach to other agencies?
+---
 
-### Supporting Materials:
+Supporting Materials:
 
 Attach or link to any of the following if available:
 
