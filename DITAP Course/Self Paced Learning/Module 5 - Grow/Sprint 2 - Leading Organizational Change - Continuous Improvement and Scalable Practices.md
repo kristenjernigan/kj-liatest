@@ -238,20 +238,34 @@ High-performance product teams in the tech industry leverage playbooks to:
 
 Not all guidance needs to come in the form of a playbook. In fact, the most effective digital service teams often draw from a variety of practical formats depending on their goals, audience, and moment in the project lifecycle. From high-level frameworks that map strategic decisions to tip sheets you can reference mid-meeting, these tools serve different but complementary purposes. Below is a breakdown of common types of practical guides—what they’re best for, how they differ, and real examples you can borrow or build upon.
 
-* **Playbooks**: Strategy-focused and flexible. They outline general approaches and common scenarios, often broken down into "plays."  
-  * [Tech Challenge Playbook](https://techfarhub.usds.gov/resources/learning-center/field-guides/tech-challenge-playbook/)  
-  * [Digital Services Playbook](https://playbook.usds.gov/)  
-* **Field Guides**: Tactical and on-the-ground. Often tailored to a specific audience, use case, or project phase.  
-  * [TechFAR Hub Field Guides](https://techfarhub.usds.gov/resources/learning-center/field-guides/)  
-  * [Digital.gov](http://Digital.gov) [Human-Centered Design Guide](https://digital.gov/guides/hcd/)  
-* **Toolkits**: Resource-rich. Usually include templates, worksheets, and how-tos.  
-  * [Federal Evaluation Toolkit](https://www.evaluation.gov/evaluation-toolkit/)  
-  * [Gov.UK](http://Gov.UK)’s [Open Policy Making Toolkit](https://www.gov.uk/guidance/open-policy-making-toolkit)  
-* **Cheat Sheets & Tip Sheets**: Lightweight and fast. Designed to be referenced in real time.  
-  * CDC’s [Tip Sheet for Clear Writing](https://www.cdc.gov/nceh/clearwriting/docs/clear-writing-guide-508.pdf)  
-* **Workbooks**: Interactive and reflection-driven. Useful for trainings and onboarding.  
-  * Microsoft’s [Citizen Experience Self-Assessment Workbook](https://info.microsoft.com/rs/157-GQE-382/images/IDCMicrosoftCitizenExperienceWorkbook2022222202224158.pdf?utm_source=chatgpt.com)  
-* **Blueprints or Frameworks**: High-level guidance with pathways and decision points.  
+* **Playbooks**: Strategy-focused and flexible. They outline general approaches and common scenarios, often broken down into "plays."
+  
+  * [Tech Challenge Playbook](https://techfarhub.usds.gov/resources/learning-center/field-guides/tech-challenge-playbook/)
+    
+  * [Digital Services Playbook](https://playbook.usds.gov/)
+    
+* **Field Guides**: Tactical and on-the-ground. Often tailored to a specific audience, use case, or project phase.
+  
+  * [TechFAR Hub Field Guides](https://techfarhub.usds.gov/resources/learning-center/field-guides/)
+    
+  * [Digital.gov](http://Digital.gov) [Human-Centered Design Guide](https://digital.gov/guides/hcd/)
+    
+* **Toolkits**: Resource-rich. Usually include templates, worksheets, and how-tos.
+  
+  * [Federal Evaluation Toolkit](https://www.evaluation.gov/evaluation-toolkit/)
+    
+  * [Gov.UK](http://Gov.UK)’s [Open Policy Making Toolkit](https://www.gov.uk/guidance/open-policy-making-toolkit)
+    
+* **Cheat Sheets & Tip Sheets**: Lightweight and fast. Designed to be referenced in real time.
+  
+  * CDC’s [Tip Sheet for Clear Writing](https://www.cdc.gov/nceh/clearwriting/docs/clear-writing-guide-508.pdf)
+    
+* **Workbooks**: Interactive and reflection-driven. Useful for trainings and onboarding.
+  
+  * Microsoft’s [Citizen Experience Self-Assessment Workbook](https://info.microsoft.com/rs/157-GQE-382/images/IDCMicrosoftCitizenExperienceWorkbook2022222202224158.pdf?utm_source=chatgpt.com)
+    
+* **Blueprints or Frameworks**: High-level guidance with pathways and decision points.
+  
   * Australia Government’s [Digital Service Standard Framework](https://www.digital.gov.au/policy/digital-experience/digital-service-standard)
 
 All of these can be living documents that evolve over time—and they should.
