@@ -607,6 +607,8 @@ Continuous learning and improvement don’t happen by accident—they happen thr
 
 Take a few minutes to reflect and jot down your responses to the prompts below. You’re encouraged to tie your personal strengths, whether you’re a Connector, Implementer, Strategist, or Challenger, to specific, concrete actions.
 
+---
+
 **Your Change Contribution Plan**
 
 **1\. How will I stay informed about emerging tech and trends?**  
