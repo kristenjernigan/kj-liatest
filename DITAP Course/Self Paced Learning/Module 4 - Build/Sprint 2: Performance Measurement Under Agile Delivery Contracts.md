@@ -22,7 +22,7 @@ The answer goes beyond traditional compliance monitoring. In agile procurement, 
 Value stream metrics focus on measuring how efficiently work moves from concept to deployment, aligning with the business outcomes that matter to your agency. These metrics have evolved from traditional project tracking to focus on actual value delivery:
 
 
-#### DevOps Research and Assessment (DORA) Metrics:
+#### DevOps Research and Assessment (DORA) Metrics
 
 The [DORA framework](https://dora.dev/), established by Google Cloud's DevOps Research team, has become the industry standard for measuring software delivery performance. These metrics measure both velocity and stability:
 
@@ -33,7 +33,7 @@ The [DORA framework](https://dora.dev/), established by Google Cloud's DevOps Re
 
 DORA metrics provide a balanced view of both speed and quality, helping procurement officers assess whether contractors are delivering at an appropriate pace while maintaining necessary quality standards.
 
-#### Value Stream Mapping Metrics:
+#### Value Stream Mapping Metrics
 
 These metrics examine the entire flow of value from idea to production:
 
