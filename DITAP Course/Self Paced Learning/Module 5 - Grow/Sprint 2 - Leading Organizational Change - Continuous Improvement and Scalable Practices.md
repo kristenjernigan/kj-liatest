@@ -425,17 +425,17 @@ Observe how a clear vision might work in different parts of your organization. T
 
 We’ve identified three examples of popular tech companies and their visions. Analyze their vision statements and think about how these visions have helped them become leaders in their fields.
 
-### Vision Statements from Leading Tech Companies
+#### Vision Statements from Leading Tech Companies
 
-#### Google
+**Google**
 
 > *"To organize the world’s information and make it universally accessible and useful."*
 
-#### Amazon
+**Amazon**
 
 > *"To be Earth’s most customer-centric company; to build a place where people can come to find and discover anything they might want to buy online."*
 
-#### Apple
+**Apple**
 
 > *"We believe that we are on the face of the earth to make great products and that’s not changing. We are constantly focusing on innovating. We believe in the simple not the complex. We believe that we need to own and control the primary technologies behind the products that we make, and participate only in markets where we can make a significant contribution. We believe in saying no to thousands of projects, so that we can really focus on the few that are truly important and meaningful to us. We believe in deep collaboration and cross-pollination of our groups, which allow us to innovate in a way that others cannot. And frankly, we don’t settle for anything less than excellence in every group in the company, and we have the self-honesty to admit when we’re wrong and the courage to change. And I think regardless of who is in what job those values are so embedded in this company that Apple will do extremely well."*  
 > — **Apple CEO Tim Cook**
