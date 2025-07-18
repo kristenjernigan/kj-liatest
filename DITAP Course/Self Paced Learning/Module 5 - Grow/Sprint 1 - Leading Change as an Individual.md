@@ -707,7 +707,7 @@ By documenting your process in this way, you help others avoid having to reinven
 
 We have included a sample case study template for Procurements of AI Tools, which is a relevant and immediate topic. The more agencies can share what and how they are procuring AI solutions, the better everyone will get. 
 
-### **Navigating Disclosure: What and How to Share**
+### Navigating Disclosure: What and How to Share
 
 While transparency is a core principle, acquisition professionals must understand the boundaries of what information can be shared. This involves careful consideration of sensitive information, proprietary data, and ongoing legal or contractual obligations. The focus should remain on sharing lessons learned, process improvements, and measurable public benefits. Government guidelines on transparency, even in areas like supply chains, often detail requirements for disclosing organizational structure, supply chain overview, long-term partnerships, and how information was gathered. 
 
@@ -738,7 +738,7 @@ This template is designed to help contracting officers document and share their 
 
 ---
 
-Title:
+**Title:**
 
 Give your case study a clear and specific title that reflects the nature of the procurement.
 
@@ -746,13 +746,13 @@ Example: *“Procuring an AI-Powered Document Summarization Tool for FOIA Reques
 
 ---
 
-Executive Summary:
+**Executive Summary:**
 
 Brief overview of what this procurement aimed to accomplish, the kind of AI tool involved, and the overall outcome.
 
 ---
 
-Agency Context:
+**Agency Context:**
 
 * Name of agency and office
 
@@ -762,84 +762,93 @@ Agency Context:
 
 ---
 
-Initial Use Case:
+**Initial Use Case:**
 
 * What problem were you trying to solve?
 
 * Who was the end user or beneficiary of the AI tool?
 
 * What did you hope the tool would accomplish?
+  
 ---
 
-Desired AI Capabilities:
+**Desired AI Capabilities:**
 
 * What specific type of AI or machine learning capability were you seeking? (e.g., summarization, classification, chat interface, generative models, etc.)
 
 * What requirements did you define upfront?
+  
 ---
 
-Market Research Conducted:
+**Market Research Conducted:**
 
 * What tools or techniques did you use for market research? (e.g., RFIs, industry days, market surveys)
 
 * What surprised you about the vendor landscape?
 
 * How did market research affect your solicitation approach or requirements?
+  
 ---
 
-Final Tool Selected:
+**Final Tool Selected:**
 
 * Description of the tool or platform selected
 
 * How did it compare to what you initially envisioned?
 
 * Was it off-the-shelf, custom-built, or a hybrid?
+  
 ---
 
-Security and Privacy Navigation:
+**Security and Privacy Navigation:**
 
 * What were the major concerns or constraints related to security, privacy, or data governance?
 
 * How did you work with the CISO, legal, or privacy office?
 
 * What requirements or clauses did you include to mitigate risk?
+  
 ---
 
-Procurement Strategy:
+**Procurement Strategy:**
 
 * What type of contract or vehicle did you use?
 
 * Any special techniques or authorities leveraged (e.g., CSOs, OTAs, BPA call, etc.)?
 
 * How did you evaluate vendors?
+  
 ---
 
-Implementation Lessons:
+**Implementation Lessons:**
 
 * What went well during implementation?
 
 * What challenges came up (technical, cultural, contractual)?
 
 * How were those resolved or worked around?
+  
 ---
 
-Results / Outcomes:
+**Results / Outcomes:**
 
 * What impact has the tool had (so far)?
 
 * Include both quantitative (time savings, accuracy, etc.) and qualitative (user feedback, improved workflow) measures if available.
 
 ---
-Retrospective & Recommendations:
+
+**Retrospective & Recommendations:**
 
 * What would you do differently next time?
 
 * What lessons are most worth sharing?
 
 * Would you recommend the tool or approach to other agencies?
+  
 ---
 
-Supporting Materials:
+**Supporting Materials:**
 
 Attach or link to any of the following if available:
 
@@ -852,6 +861,8 @@ Attach or link to any of the following if available:
 * Security/privacy checklists
 
 * Post-award performance reviews
+
+---
 
 *Use this template to document your AI tool procurement experience and share with your peers, acquisition community, or as a formal case study contribution to internal or external knowledge hubs.*
 
