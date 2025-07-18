@@ -325,7 +325,7 @@ Start small. Keep it real. And make it shareable.
 ---
 ## Exploring your role as an ambassador of change
 
-### Introduction
+Introduction
 
 Earlier, you learned how to prepare for and have influencing conversations. Now, let’s explore how to think strategically about those influence conversations and how to use them—in combination with other tactics and techniques—to drive change. This online learning will build upon that study and focus on how to lead the change itself.
 
@@ -401,7 +401,7 @@ Our final example takes us into the worlds of fashion and social media that bega
 
 In your role, you might not be building world-changing coalitions or building fashionista coalitions, but the same principles used in those contexts apply to you. Say you’re looking to shift your digital services solicitations to be more outcome focused (instead of requirements focused). Think through the questions presented at the beginning of this section:
 
-### Building Your Guiding Coalition: Key Questions
+#### Building Your Guiding Coalition: Key Questions
 
 | **Question** | **Considerations** |
 |--------------|--------------------|
