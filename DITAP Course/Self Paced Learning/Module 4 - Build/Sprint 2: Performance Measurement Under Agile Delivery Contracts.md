@@ -299,7 +299,7 @@ This team becomes the **multi-vendor governance hub**, accountable for:
 
 * Fosters a shared identity between agency and vendor teams
 
-**(Case Study:) Salesforce’s Community of Excellence**
+**Case Study: Salesforce’s Community of Excellence**
 
 Salesforce developed its [*Community of Excellence*](https://www.salesforce.com/blog/build-effective-center-of-excellence/?utm_source=chatgpt.com) to bring cohesion and shared accountability across a complex, multi-vendor delivery environment. Rather than rely solely on top-down oversight, Salesforce created structured forums where delivery partners could meet regularly, exchange insights, surface systemic challenges, and propose improvements to the overall delivery process. These sessions were not just updates—they were designed to foster trust, transparency, and continuous improvement. By encouraging vendors to collaborate—even while competing—Salesforce built a culture where partners felt invested in the success of the entire platform, not just their slice of work. The result was faster issue resolution, better cross-team alignment, and a stronger sense of shared purpose across the delivery ecosystem
 
