@@ -408,7 +408,7 @@ Bringing AI into government systems requires careful consideration of several ch
 
 * **Vendor Oversight**: If an AI-enabled solution is being procured, COs should ask how models are trained, tested, and updated.
 
-### Standard AI terms you may encounter
+### Common AI terms you may encounter
 
 **Model training**: The process of feeding an AI system significant amounts of data to learn how to perform a task.
 
