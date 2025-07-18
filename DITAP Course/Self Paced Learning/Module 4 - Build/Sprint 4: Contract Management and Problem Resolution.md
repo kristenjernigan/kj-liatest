@@ -67,7 +67,7 @@ Your analysis should show that you understand how contemporary DevOps, CI/CD, an
 
 >Learning Note: Consider why technical adoption alone doesn't guarantee success, the role of organizational culture and change management in digital transformation, how federal constraints such as regulatory requirements, budget cycles, and political pressures impact implementation, and lessons that can be drawn from both successful and failed government digital initiatives.*
 
-## Definition of Done:
+## Definition of Done
 
 To complete this activity, post your responses to the questions above in the discussion board. Be sure to state which failed project you selected as part of your response.
 
