@@ -491,7 +491,7 @@ As you wrap up Sprint 2, we’re shifting focus to warranties—an important but
 
 ### Federal Acquisition Regulation Framework
 
-#### Article: [FAR Subpart 46.7 \- Warranties](https://www.acquisition.gov/far/subpart-46.7)
+**Article:** [FAR Subpart 46.7 \- Warranties](https://www.acquisition.gov/far/subpart-46.7)
 
 **Summary:** This official resource outlines the fundamental warranty provisions in federal acquisition. The FAR establishes that warranties are discretionary tools available to Contracting Officers. The regulation defines various warranty types, including warranties of conformance to specifications and warranties of merchantability. It also addresses considerations for commercial items, remedies for breach of warranty, and warranty administration responsibilities.
 
@@ -501,9 +501,11 @@ As you wrap up Sprint 2, we’re shifting focus to warranties—an important but
 * When should a Contracting Officer consider using a warranty?   
 * What are the primary limitations of traditional warranty approaches when applied to software development?
 
+---
+
 The following readings discuss using warranties in Agile development projects. When reading, think about how these techniques can be adopted by your agency:  
 
-#### Article: [The Beauty and Terror of Agile Software Development](https://www.mintz.com/insights-center/viewpoints/2866/2021-03-24-beauty-and-terror-agile-software-development) 
+**Article:** [The Beauty and Terror of Agile Software Development](https://www.mintz.com/insights-center/viewpoints/2866/2021-03-24-beauty-and-terror-agile-software-development) 
 
 This article discusses contracting challenges in agile development and recommends including warranties that specify "each iteration will work with all other iterations" and "the final product will conform to expectations set out in each SOW" It addresses the unique challenges of warranties in iterative development.
 
@@ -513,7 +515,8 @@ This article discusses contracting challenges in agile development and recommend
 * What language can be used to ensure each sprint's deliverables integrate with previous work?   
 * How should warranty periods be structured when system components are delivered through different contracts with varying timelines?
 
-#### **Article:** [Warranties and Liabilities](https://github.com/kristenjernigan/kj-liatest/blob/6eed5df9334353e6fb50c3a350e21dfcdc6bcdaf/Media/Module%204/Chapter_7_-_Warranties_and_Liabilities.pdf) (excerpt from Contracts in Agile Software Development)
+---
+**Article:** [Warranties and Liabilities](https://github.com/kristenjernigan/kj-liatest/blob/6eed5df9334353e6fb50c3a350e21dfcdc6bcdaf/Media/Module%204/Chapter_7_-_Warranties_and_Liabilities.pdf) (excerpt from Contracts in Agile Software Development)
 
 In this reading, warranties and liability are compared in traditional contracting to agile contracting. Think about the differences and considerations for each type. 
 
