@@ -676,8 +676,8 @@ C. Offer that provides the greatest advantage based on price and technical merit
 D. Exchanges to determine competitive range (no proposal changes)
 
 
-**Your Answers:** 
- 
+**Your Answers:**
+
 1. ---
 
 2. ---
@@ -705,7 +705,7 @@ Correct Answers:
 - What happened as a result?  
 - How might early communication or negotiation have helped?
 
-📝 *Your Response:*  
+*Your Response:* ---
 
 
 ---
@@ -730,8 +730,8 @@ Correct Answers:
 Your team is preparing for negotiations. Based on what you’ve learned, name *two things* the team should do before the session.
 
 📝 *Your Response:*  
-1. ______________________________________  
-2. ______________________________________
+1. ---
+2. ---
 
 ---
 
