@@ -485,6 +485,59 @@ Managing multi-vendor digital service contracts isn’t just about awarding and 
 **Example of acceptable answer:** “Host a joint root cause analysis to understand what happened and agree on system-level improvements.”
 
 ---
+
+## Knowledge Check: Managing a Multi-Vendor Environment
+
+### 1. Multiple Choice
+
+**Which of the following best describes the role of a government team in a multi-vendor digital services environment?**  
+*(Select one)*
+
+- [ ] Enforcing strict competition between vendors  
+- [ ] Monitoring each vendor individually with no coordination  
+- [x] Acting as a Delivery Marketplace Architect to support shared outcomes  
+- [ ] Leaving vendors to figure things out on their own
+
+> ✅ Correct! The government’s role in a multi-vendor environment is to act as a Delivery Marketplace Architect—supporting coordination, reducing duplication, and guiding teams toward shared outcomes.
+
+---
+
+### 2. Select All That Apply
+
+**What is the purpose of joint retrospectives and quarterly program reviews (QPRs)?**  
+*(Select all that apply)*
+
+- [ ] Track individual vendor contract compliance  
+- [x] Surface system-wide blockers and risks  
+- [x] Co-design improvements across teams  
+- [x] Celebrate delivery wins and analyze what went wrong
+
+> ✅ Correct! QPRs and retrospectives help identify systemic risks, improve coordination, and reflect on both successes and failures—driving continuous improvement.
+
+---
+
+### 3. Multiple Choice
+
+**Which of the following is a good example of *vendor self-organization*?**  
+*(Select one)*
+
+- [ ] Waiting for the CO to assign tasks  
+- [x] Forming a working group to align on shared DevOps tools  
+- [ ] Competing with other vendors to block their progress  
+- [ ] Ignoring dependencies between contracts
+
+> ✅ Correct! Self-organization happens when vendors proactively coordinate, like forming a working group to align on DevOps tools and practices.
+
+---
+
+### 4. Short Answer
+
+**Imagine you are reviewing a recurring delivery issue that impacted three vendors. What’s the best next step?**
+
+📝 *Your Response:*  
+
+
+---
 ## Warranties in Agile Development Readings 
 
 As you wrap up Sprint 2, we’re shifting focus to warranties—an important but often overlooked tool in managing performance under agile contracts. The readings below will help you understand how warranties work in federal acquisitions and how they can be used in agile software projects. You’ll learn about the rules in the FAR and explore ways to make sure each part of an iterative product works together. 
