@@ -498,7 +498,7 @@ Managing multi-vendor digital service contracts isn’t just about awarding and 
 - [x] Acting as a Delivery Marketplace Architect to support shared outcomes  
 - [ ] Leaving vendors to figure things out on their own
 
-> ✅ Correct! The government’s role in a multi-vendor environment is to act as a Delivery Marketplace Architect—supporting coordination, reducing duplication, and guiding teams toward shared outcomes.
+> Correct! The government’s role in a multi-vendor environment is to act as a Delivery Marketplace Architect—supporting coordination, reducing duplication, and guiding teams toward shared outcomes.
 
 ---
 
@@ -512,7 +512,7 @@ Managing multi-vendor digital service contracts isn’t just about awarding and 
 - [x] Co-design improvements across teams  
 - [x] Celebrate delivery wins and analyze what went wrong
 
-> ✅ Correct! QPRs and retrospectives help identify systemic risks, improve coordination, and reflect on both successes and failures—driving continuous improvement.
+> Correct! QPRs and retrospectives help identify systemic risks, improve coordination, and reflect on both successes and failures—driving continuous improvement.
 
 ---
 
@@ -526,7 +526,7 @@ Managing multi-vendor digital service contracts isn’t just about awarding and 
 - [ ] Competing with other vendors to block their progress  
 - [ ] Ignoring dependencies between contracts
 
-> ✅ Correct! Self-organization happens when vendors proactively coordinate, like forming a working group to align on DevOps tools and practices.
+> Correct! Self-organization happens when vendors proactively coordinate, like forming a working group to align on DevOps tools and practices.
 
 ---
 
@@ -535,6 +535,9 @@ Managing multi-vendor digital service contracts isn’t just about awarding and 
 **Imagine you are reviewing a recurring delivery issue that impacted three vendors. What’s the best next step?**
 
 📝 *Your Response:*  
+
+> Tip: Look for systemic issues rather than blaming individual vendors. Consider facilitating a retrospective or coordination session to resolve blockers collaboratively.
+
 
 
 ---
