@@ -658,28 +658,38 @@ During a code challenge, a top vendor assumed and proposed the use of a commerci
 Match each term to its correct definition.
 
 **Terms:**  
-1. Clarifications  
-2. Communications  
-3. Negotiations  
+1. Clarifications
+   
+2. Communications
+ 
+3. Negotiations
+    
 4. Best Value
 
 **Definitions:**  
-A. Discussions that allow vendors to revise proposals  
-B. Limited exchanges to fix minor errors (no proposal changes)  
-C. Offer that provides the greatest advantage based on price and technical merit  
+A. Discussions that allow vendors to revise proposals
+
+B. Limited exchanges to fix minor errors (no proposal changes)
+
+C. Offer that provides the greatest advantage based on price and technical merit
+
 D. Exchanges to determine competitive range (no proposal changes)
+
 
 **Your Answers:**  
 1. 📝  
+
 2. 📝  
+
 3. 📝  
+
 4. 📝
 
 > **Correct Answers:**  
-1 = B  
-2 = D  
-3 = A  
-4 = C
+>1 = B  
+>2 = D  
+>3 = A  
+>4 = C
 
 ---
 
