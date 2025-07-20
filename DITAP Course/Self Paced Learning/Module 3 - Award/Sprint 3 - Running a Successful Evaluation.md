@@ -659,14 +659,16 @@ Match each term to its correct definition.
 
 **Terms:**  
 1. Clarifications
-   
-2. Communications
  
+2. Communications
+
 3. Negotiations
     
 4. Best Value
 
-**Definitions:**  
+
+**Definitions:**
+
 A. Discussions that allow vendors to revise proposals
 
 B. Limited exchanges to fix minor errors (no proposal changes)
@@ -676,7 +678,8 @@ C. Offer that provides the greatest advantage based on price and technical merit
 D. Exchanges to determine competitive range (no proposal changes)
 
 
-**Your Answers:**  
+**Your Answers:** 
+ 
 1. 📝  
 
 2. 📝  
@@ -686,9 +689,9 @@ D. Exchanges to determine competitive range (no proposal changes)
 4. 📝
 
 > **Correct Answers:**  
->1 = B  
->2 = D  
->3 = A  
+>1 = B,   
+>2 = D,   
+>3 = A, 
 >4 = C
 
 ---
