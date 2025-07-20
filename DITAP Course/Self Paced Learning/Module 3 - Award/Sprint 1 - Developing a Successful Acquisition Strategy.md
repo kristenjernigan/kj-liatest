@@ -533,25 +533,25 @@ Understand that the offeror has to sell you on his choice of open source softwar
 ---
 ## Knowledge Check
 
-**Multiple Choice**
+1. What term refers to distinguishing the goods or services of one enterprise from those of other enterprises?
 
-What term refers to distinguishing the goods or services of one enterprise from those of other enterprises?
+- [ ] A. Patent  
+- [ ] B. Copyright  
+- [x] C. Trademark  
+- [ ] D. Official seal
 
-A. Patent  
-B. Copyright  
-C. Trademark  
-D. Official seal
+> Correct! A trademark is a sign capable of distinguishing the goods or services of one enterprise from another.
 
-**Correct answer: C**
+---
 
-**True or False**
-
+2. True or False:  
 You can patent open-source software as your own and resell it commercially.
 
-True  
-False
+- [ ] True  
+- [x] False
 
-**Correct answer: False**
+> Correct! Open-source software is publicly licensed—patenting it as your own would violate licensing terms.
+
 
 ---
 ## Multi-Vendor Contracts
