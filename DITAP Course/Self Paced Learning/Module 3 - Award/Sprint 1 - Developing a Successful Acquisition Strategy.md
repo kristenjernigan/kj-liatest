@@ -264,26 +264,29 @@ As you recall from your training on how to survey the marketplace and how to eng
 As you explore the marketplace, know that new or nontraditional providers can provide serious challenges in contract management simply by not being familiar with how the government does things. It’s a good idea to help them understand CDRLs, contractor certifications, SAM, CPARS/PPIRS, requirements resulting from mandatory clauses and provisions, and other items unique to how the government conducts business. However, to the maximum extent practicable, the government should use procedures, terms, and conditions that are as close to commercial practice as possible. The more familiar and comfortable the contract is, the more likely it is that such vendors will start, and continue, to do business with the government. 
 
 ---
-## Knowledge check
+## Knowledge Check
 
-1\. As you prepare to buy your product or service, which of the following milestones should be completed?  
+1. As you prepare to buy your product or service, which of the following milestones should be completed?
 
-A.  Stakeholder engagement, including their level of capability and cooperation  
-B. Contract considerations, i.e., availability and applicability of existing contract vehicles or necessity for a new contract vehicle  
-C. Funding  
-D. Period or performance (base vs. option years)  
-E. All of the above
+- [ ] A. Stakeholder engagement, including their level of capability and cooperation  
+- [ ] B. Contract considerations, i.e., availability and applicability of existing contract vehicles or necessity for a new contract vehicle  
+- [ ] C. Funding  
+- [ ] D. Period of performance (base vs. option years)  
+- [x] E. All of the above
 
-Correct answer: E. All of the above
+> Correct! A well-prepared acquisition effort considers all of the above—stakeholders, contract pathways, funding availability, and performance periods.
 
-2\. When developing an acquisition strategy for procuring a digital service, which of the following is the best option for documenting your strategy?
+---
 
-A. Lean canvas tool  
-B. Acquisition plan  
-C. On sticky notes in your office  
-D. In a series of emails in a folder
+2. When developing an acquisition strategy for procuring a digital service, which of the following is the best option for documenting your strategy?
 
-Correct answer: A. Lean canvas tool
+- [x] A. Lean canvas tool  
+- [ ] B. Acquisition plan  
+- [ ] C. On sticky notes in your office  
+- [ ] D. In a series of emails in a folder
+
+> The Lean Canvas tool helps visualize and iterate on acquisition strategy in a clear, structured way—especially useful in digital service procurements.
+
 
 
 ## Compliance & Other Legal Issues
