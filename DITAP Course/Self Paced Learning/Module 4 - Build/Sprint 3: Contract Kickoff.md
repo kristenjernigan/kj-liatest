@@ -303,76 +303,13 @@ Here is a [Sample Table Top Exercise Facilitation Guide](https://github.com/kris
 [^1]:  https://agilealliance.org/wp-content/uploads/2016/01/ScrumMetricsAgile2012.pdf
 
 ---
+
 ## Knowledge Check
 
 **Instructions:** For each question, select all answer(s) that apply. Some questions may have more than one correct answer.
 
-### 1\. What is the primary purpose of Sprint 0 in an agile federal contract?
 
-A. To get hands on keyboards and begin sprinting immediately
-
-**B. To complete onboarding, tool access, and roadmap planning** (correct)
-
-C. To allow vendors to bill for unproductive time
-
-D. To start user delivery and finalize code acceptance criteria
-
-### 2\. What is a primary reason for slowdowns during the early sprints of a project?
-
-A. Sprint 0 completion without a formal code review
-
-B. Delays caused by waiting on final contract signatures
-
-**C. Calibration of team velocity and estimation practices**(correct)
-
-D. Lack of experience with agile software development methods
-
-### 3\. What should be covered during the contract kickoff meeting? *(Select all that apply)*
-
-A. In-depth backlog grooming
-
-**B. Quality Assurance Surveillance Plan (QASP) expectations**(correct)
-
-**C. Contract success metrics and staffing plans**(correct)
-
-D. Product roadmap refinement and agile rituals
-
-**E. Escalation procedures and performance management structures**(correct)
-
-**F. Clarification of assumptions not addressed in the solicitation**(correct)
-
-**G. Invoicing and funding checkpoints**(correct)
-
-H. Sprint velocity calibration and DoD alignment
-
-### 4\. Which responsibility falls under COR/CO oversight in cloud provisioning contracts?
-
-A. Managing all vendor scrum ceremonies
-
-**B. Monitoring FedRAMP status and breach escalation SOPs**(correct)
-
-C. Conducting backlog refinement with the Product Owner
-
-D. Approving every cloud resource provisioned in real time
-
-### 5\. What should be included in a breach escalation SOP for a cloud contract?
-
-**A. A timeline for contractor notification (e.g., 24 hours)**(correct)
-
-B. Defined procedures for media response and public disclosure
-
-C. A requirement for agency staff to review all contractor code line by line
-
-D. A pre-established cap on contractor breach liability
-
----
-## Knowledge Check
-
-**Instructions:** For each question, select all answer(s) that apply. Some questions may have more than one correct answer.
-
----
-
-1. Multiple Choice
+1\. Multiple Choice
 
 **What is the primary purpose of Sprint 0 in an agile federal contract?**
 
@@ -385,7 +322,7 @@ D. A pre-established cap on contractor breach liability
 
 ---
 
-2. Multiple Choice
+2\. Multiple Choice
 
 **What is a primary reason for slowdowns during the early sprints of a project?**
 
@@ -398,7 +335,7 @@ D. A pre-established cap on contractor breach liability
 
 ---
 
-3. Select All That Apply
+3\. Select All That Apply
 
 **What should be covered during the contract kickoff meeting?**
 
@@ -415,7 +352,7 @@ D. A pre-established cap on contractor breach liability
 
 ---
 
-4. Multiple Choice
+4\. Multiple Choice
 
 **Which responsibility falls under COR/CO oversight in cloud provisioning contracts?**
 
@@ -428,7 +365,7 @@ D. A pre-established cap on contractor breach liability
 
 ---
 
-5. Multiple Choice
+5\. Multiple Choice
 
 **What should be included in a breach escalation SOP for a cloud contract?**
 
