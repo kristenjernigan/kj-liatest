@@ -537,7 +537,7 @@ Here are several readings to help further your understanding of this process, as
 ---
 ## Knowledge Check: Negotiating with Vendors
 
-1. True or False
+1\. True or False
 
 **Statement:**  
 In digital service acquisitions, it’s usually a waste of time to open negotiations with vendors early in the process.
@@ -549,7 +549,7 @@ In digital service acquisitions, it’s usually a waste of time to open negotiat
 
 ---
 
-2. Scenario-Based Multiple Choice
+2\. Scenario-Based Multiple Choice
 
 **Question:**  
 During a code challenge, a top vendor assumed and proposed the use of a commercial cloud service that doesn’t meet FedRAMP requirements. What should the agency do next?
@@ -608,7 +608,7 @@ Correct Answers:
 
 ---
 
-4. Reflection Prompt
+4\. Reflection Prompt
 
 **Think of a time when expectations weren’t clear during a collaboration:**
 
@@ -620,7 +620,7 @@ Correct Answers:
 
 ---
 
-5. Select All That Apply
+5\. Select All That Apply
 
 **What are the benefits of negotiating early in digital services procurements?**
 
@@ -634,7 +634,7 @@ Correct Answers:
 
 ---
 
-6. Short Answer – Reflection
+6\. Short Answer – Reflection
 
 **Prompt:**  
 Your team is preparing for negotiations. Based on what you’ve learned, name *two things* the team should do before the session.
