@@ -558,7 +558,7 @@ You can patent open-source software as your own and resell it commercially.
 
 Engaging multiple vendors under an IDIQ or BPA is increasingly common in complex government digital service environments. These multi-vendor ecosystems promise flexibility, competitive pricing, and access to a diverse pool of expertise. But with that opportunity comes a new set of management challenges, requiring agencies to shift their mindset from simply managing contracts to managing a marketplace. This lesson explores effectively structuring, administering, and leading in a multi-vendor environment.
 
-### Learning objectives
+**Learning objectives**
 
 By the end of this lesson, participants will be able to:
 
