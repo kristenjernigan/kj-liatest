@@ -440,55 +440,8 @@ Managing multi-vendor digital service contracts isn’t just about awarding and 
 ---
 ## Knowledge Check: Managing a Multi-Vendor Environment
 
-### 1\. Which of the following best describes the role of a government team in a multi-vendor digital services environment?
 
- *(Select one)*  
- A. Enforcing strict competition between vendors  
- B. Monitoring each vendor individually with no coordination  
- C. Acting as a Delivery Marketplace Architect to support shared outcomes  
- D. Leaving vendors to figure things out on their own
-
-**Correct Answer: C**
-
----
-
-### 2\. What is the purpose of joint retrospectives and quarterly program reviews (QPRs)?
-
- *(Select all that apply)*  
- ☐ Track individual vendor contract compliance  
- ☐ Surface system-wide blockers and risks  
- ☐ Co-design improvements across teams  
- ☐ Celebrate delivery wins and analyze what went wrong
-
-**Correct Answers: B, C, D**
-
----
-
-### 3\. Which of the following is a good example of *vendor self-organization*?
-
- *(Select one)*  
- A. Waiting for the CO to assign tasks  
- B. Forming a working group to align on shared DevOps tools  
- C. Competing with other vendors to block their progress  
- D. Ignoring dependencies between contracts
-
-**Correct Answer: B**
-
----
-
-### 4\. Imagine you are reviewing a recurring delivery issue that impacted three vendors. What’s the best next step?
-
- *(Short answer)*
-
-*\[Your response here\]*
-
-**Example of acceptable answer:** “Host a joint root cause analysis to understand what happened and agree on system-level improvements.”
-
----
-
-## Knowledge Check: Managing a Multi-Vendor Environment
-
-### 1. Multiple Choice
+1\. Multiple Choice
 
 **Which of the following best describes the role of a government team in a multi-vendor digital services environment?**  
 *(Select one)*
@@ -502,7 +455,7 @@ Managing multi-vendor digital service contracts isn’t just about awarding and 
 
 ---
 
-### 2. Select All That Apply
+2\. Select All That Apply
 
 **What is the purpose of joint retrospectives and quarterly program reviews (QPRs)?**  
 *(Select all that apply)*
@@ -516,7 +469,7 @@ Managing multi-vendor digital service contracts isn’t just about awarding and 
 
 ---
 
-### 3. Multiple Choice
+3\. Multiple Choice
 
 **Which of the following is a good example of *vendor self-organization*?**  
 *(Select one)*
@@ -530,12 +483,13 @@ Managing multi-vendor digital service contracts isn’t just about awarding and 
 
 ---
 
-### 4. Short Answer
+4\. Short Answer
 
 **Imagine you are reviewing a recurring delivery issue that impacted three vendors. What’s the best next step?**
 
-📝 *Your Response:*  
+*Your Response:*  
 
+> **Example of acceptable answer:** “Host a joint root cause analysis to understand what happened and agree on system-level improvements.”
 > Tip: Look for systemic issues rather than blaming individual vendors. Consider facilitating a retrospective or coordination session to resolve blockers collaboratively.
 
 
