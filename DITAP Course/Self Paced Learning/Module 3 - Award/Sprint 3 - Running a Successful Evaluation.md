@@ -537,97 +537,7 @@ Here are several readings to help further your understanding of this process, as
 ---
 ## Knowledge Check: Negotiating with Vendors
 
-1\. True or False
-
-Statement:  
-In digital service acquisitions, it’s usually a waste of time to open negotiations with vendors early in the process.
-
-☐ True  
-☒ False *(Correct)*
-
-2\. Multiple Choice – Scenario-Based
-
-Question:  
-During a code challenge, a top vendor assumed and proposed the use of a commercial cloud service that doesn’t meet FedRAMP requirements. What should the agency do next?
-
-☐ Eliminate the vendor immediately  
- ☐ Ask for a new full proposal  
- ☒ Open discussions to clarify assumptions and allow revision *(Correct)*  
- ☐ Ignore it and continue
-
-### 
-
-3\. Match the Terms 
-
-Match each term to its correct definition by writing the matching letter next to the number.
-
-Terms:
-
-1. Clarifications  
-2. Communications  
-3. Negotiations  
-4. Best Value
-
-Definitions:  
- A. Discussions that allow vendors to revise proposals  
- B. Limited exchanges to fix minor errors (no proposal changes)  
- C. Offer that provides the greatest advantage based on price and technical merit  
- D. Exchanges to determine competitive range (no proposal changes)
-
-Your Answers:
-
-1. ---
-
-2. ---
-
-3. ---
-
-4. ---
-
-Correct Answers:
-
-1. B
-
-2. D
-
-3. A
-
-4. C
-
-4\. Reflection Prompt
-
-Think of a time when expectations weren’t clear during a collaboration:
-
-* What happened as a result?
-
-* How might early communication or negotiation have helped?
-
-Your Response:  
- *\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
-
-5\. Select All That Apply
-
-What are the benefits of negotiating early in digital services procurements?  
- ☒ Prevents misunderstandings  
- ☐ Automatically reduces price  
- ☒ Builds vendor trust  
- ☒ Helps clarify technical assumptions  
- ☐ Avoids needing any evaluation
-
-
-6\. Short Answer – Reflection
-
-**Prompt:**  
-Your team is preparing for negotiations. Based on what you’ve learned, name *two things* the team should do before the session.
-
-Your Response:  
-1\.  *\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*  
-2\.  *\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
-
----
-## Knowledge Check
-
-### 1. True or False
+1. True or False
 
 **Statement:**  
 In digital service acquisitions, it’s usually a waste of time to open negotiations with vendors early in the process.
@@ -639,7 +549,7 @@ In digital service acquisitions, it’s usually a waste of time to open negotiat
 
 ---
 
-### 2. Scenario-Based Multiple Choice
+2. Scenario-Based Multiple Choice
 
 **Question:**  
 During a code challenge, a top vendor assumed and proposed the use of a commercial cloud service that doesn’t meet FedRAMP requirements. What should the agency do next?
@@ -698,7 +608,7 @@ Correct Answers:
 
 ---
 
-### 4. Reflection Prompt
+4. Reflection Prompt
 
 **Think of a time when expectations weren’t clear during a collaboration:**
 
@@ -724,12 +634,13 @@ Correct Answers:
 
 ---
 
-### 6. Short Answer – Reflection
+6. Short Answer – Reflection
 
 **Prompt:**  
 Your team is preparing for negotiations. Based on what you’ve learned, name *two things* the team should do before the session.
 
-Your Response:  
+Your Response:
+
 1\.  *\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
 
 2\.  *\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
