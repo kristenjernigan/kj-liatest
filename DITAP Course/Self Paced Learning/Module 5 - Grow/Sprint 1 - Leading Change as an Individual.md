@@ -558,25 +558,35 @@ Review the following factors were at play in this situation:
 
 ### Part 1: Analyze the no
 
-#### Knowledge Check
+Knowledge Check
 
-So what’s next? Analyze the “no” a bit more. Besides not presenting the change in a way that made it sound less “scary” and using Expert Power inappropriately with a team that you haven’t worked with extensively, what else was driving the “no” response?
+So what’s next?
 
-Select 2 responses that apply
+Analyze the “no” a bit more. Besides not presenting the change in a way that made it sound less “scary” and using Expert Power inappropriately with a team that you haven’t worked with extensively, what else was driving the “no” response?
 
-- [ ] The technical team recognizes there is a problem with the status quo, but ironically is resistant to change it—system justification theory at work! **(correct)**  
-- [ ] The technical team is so afraid of another failure that they’re afraid to do anything that might “rock the boat” (like the Disney Animation studio before they acquired Pixar). **(correct)**  
-- [ ] The technical team likely didn’t trust you because they didn’t know your credentials. You should’ve started your presentation by listing your credentials and the successful contracts you’ve administered in the past.
+**Select 2 responses that apply:**
+
+- [x] The technical team recognizes there is a problem with the status quo, but ironically is resistant to change it—system justification theory at work!  
+- [x] The technical team is so afraid of another failure that they’re afraid to do anything that might “rock the boat” (like the Disney Animation studio before they acquired Pixar).  
+- [ ] The technical team likely didn’t trust you because they didn’t know your credentials. You should’ve started your presentation by listing your credentials and the successful contracts you’ve administered in the past.  
+
+> Correct! Both resistance due to system justification and fear of failure are common, human responses to change. Credentials alone won’t necessarily build trust or shift deeply rooted team dynamics.
+
 
 ### Part 2: How Might I Adjust My Approach to Make it More Winnable?
 
-#### Knowledge Check
+Knowledge Check
 
 You’ve determined that this is an important enough topic that you should pursue it, but that you need to change up your approach. So, size up the situation, obstacles, and opportunities. Think of small incremental changes you can make. Given the environment and what has recently happened, what should you do?
 
+**Select the best response:**
+
 - [ ] Send the technical team links and examples that you’ve read, which discuss how to make this approach work in government. Once they see the use cases from other agencies, they’ll be more likely to try it out in your agency.  
 - [ ] Let some time pass so that the memory of the recent IT failure starts to fade, then reengage and present your idea again.  
-- [ ] Brainstorm just one small task or part of the solicitation where you can test this approach. Present the idea as just that—an idea that you want to test. Discuss the benefits that could result. Work with someone the technical team trusts and have them present the idea with you. **(correct)**
+- [x] Brainstorm just one small task or part of the solicitation where you can test this approach. Present the idea as just that—an idea that you want to test. Discuss the benefits that could result. Work with someone the technical team trusts and have them present the idea with you.  
+
+> Correct! Introducing a small, testable change and aligning with trusted voices increases your chance of buy-in and minimizes perceived risk.
+
 
 ---
 ## Adjust Approach & Identify Lessons Learned
