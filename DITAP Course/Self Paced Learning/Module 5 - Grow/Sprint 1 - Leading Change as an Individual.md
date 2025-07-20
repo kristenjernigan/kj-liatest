@@ -415,31 +415,6 @@ Resource: [Considerations for Using Agile in DoD Acquisitions](https://insights.
 ---
 ## Knowledge Check
 
-### Question 1:
-
-When preparing for a difficult conversation, it is best to clarify the problem in your own mind first and do a little research to understand the opposing mindset. 
-
-- [ ] True (correct)  
-- [ ] False  
-    
-### Question 2:
-
-You're working with a team in your agency that is planning for government/end user reviews of a software product. You know that the team has traditionally conducted these product reviews during 2-3 day sessions after about six months of development. They have found that collecting feedback all at once like this allows them to most efficiently collect all user feedback and make improvements. You approach the team lead to talk through whether this is the best approach, given that it's difficult to gather end-users and the government together for such a large chunk of time and the need to more iteratively hold reviews rather than waiting until six months into the project. 
-
-The team lead is someone you’ve worked with before, and you have a good working relationship. She says the following to you when you open the conversation: "I really appreciate all you’re doing to transform how we do business around here, but we don’t have time or money to break up our reviews and hold them more iteratively. We only have a year period of performance, and our budget is tight\! I know what the Agile Manifesto says about the importance of customer collaboration—and we’re doing it\! But we’re also adapting it to the realities of the government and our agency.” How should you respond? 
-
-Select the best response. 
-
-- [ ] “Can you talk me through your past experiences with the 2-3 day sessions and how they’ve been used to gather customer feedback? What has worked well? What hasn’t?” (correct)  
-- [ ] “I have a great case study from another agency about how they implemented this approach and mitigated risk. It really can work in government!”  
-- [ ] “I understand where you’re coming from. It doesn’t sound like this is the time to try something different, but please keep it in mind for future efforts.”
-
----
-
-## Knowledge Check
-
----
-
 1\. True or False
 
 **When preparing for a difficult conversation, it is best to clarify the problem in your own mind first and do a little research to understand the opposing mindset.**
