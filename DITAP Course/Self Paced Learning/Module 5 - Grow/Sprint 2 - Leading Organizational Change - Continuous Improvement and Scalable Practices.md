@@ -526,7 +526,7 @@ Note: This self-assessment is a simplified framework inspired by common change l
 
 ---
 
-1\. When your team faces a challenge, your first instinct is to:
+**1\. When your team faces a challenge, your first instinct is to:**
 
  A. Reach out and bring people together to talk it through  
 
@@ -539,7 +539,7 @@ Note: This self-assessment is a simplified framework inspired by common change l
 
 ---
 
-2\. You feel most energized when:
+**2\. You feel most energized when:**
 
  A. Facilitating conversations and connecting colleagues  
 
@@ -552,7 +552,7 @@ Note: This self-assessment is a simplified framework inspired by common change l
 
 ---
 
-3\. In meetings, you’re most likely to:
+**3\. In meetings, you’re most likely to:**
 
  A. Help make sure everyone is heard  
 
@@ -565,7 +565,7 @@ Note: This self-assessment is a simplified framework inspired by common change l
 
 ---
 
-4\. Your teammates would likely describe you as:
+**4\. Your teammates would likely describe you as:**
 
  A. Approachable and well-connected  
 
@@ -578,7 +578,7 @@ Note: This self-assessment is a simplified framework inspired by common change l
 
 ---
 
-5\. When it comes to improving your team or agency, you:
+**5\. When it comes to improving your team or agency, you:**
 
  A. Build networks or communities to share knowledge  
 
