@@ -653,17 +653,15 @@ During a code challenge, a top vendor assumed and proposed the use of a commerci
 
 ---
 
-### 3. Match the Terms
+3\. Match the Terms 
 
-Match each term to its correct definition.
+Match each term to its correct definition by writing the matching letter next to the number.
 
-**Terms:**  
-1. Clarifications
- 
-2. Communications
+**Terms:**
 
-3. Negotiations
-    
+1. Clarifications  
+2. Communications  
+3. Negotiations  
 4. Best Value
 
 
@@ -680,19 +678,23 @@ D. Exchanges to determine competitive range (no proposal changes)
 
 **Your Answers:** 
  
-1. 📝  
+1. ---
 
-2. 📝  
+2. ---
 
-3. 📝  
+3. ---
 
-4. 📝
+4. ---
 
-> **Correct Answers:**  
->1 = B,   
->2 = D,   
->3 = A, 
->4 = C
+Correct Answers:
+
+1. B
+
+2. D
+
+3. A
+
+4. C
 
 ---
 
