@@ -490,6 +490,7 @@ Managing multi-vendor digital service contracts isn’t just about awarding and 
 *Your Response:*  
 
 > **Example of acceptable answer:** “Host a joint root cause analysis to understand what happened and agree on system-level improvements.”
+
 > Tip: Look for systemic issues rather than blaming individual vendors. Consider facilitating a retrospective or coordination session to resolve blockers collaboratively.
 
 
