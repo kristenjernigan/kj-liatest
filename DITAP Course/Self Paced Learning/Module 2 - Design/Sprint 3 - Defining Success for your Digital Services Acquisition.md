@@ -336,74 +336,7 @@ Constraint discovery is not just a planning step; it’s a practice of risk mana
 ---
 ## Knowledge Check 
 
-1\. Which of the following best describes the purpose of identifying constraints before developing an acquisition strategy?
-
-A. To eliminate any need for market research  
-B. To make the process longer but more detailed  
-C. To understand boundaries that inform realistic, aligned strategies  
-D. To determine vendor preferences before writing the solicitation
-
-**Correct Answer: C**
-
----
-
-2\. True or False: Constraints should only be identified for high-risk or large-scale procurements.
-
-**Answer: False.** Constraints should be identified regardless of size—they shape good decisions for all types of acquisitions.
-
----
-
-3\. Which of the following are constraints that could impact your strategy? **(Select all that apply.)**
-
-- [ ] Vendor past performance ratings  
-- [ ] Length of contractor onboarding **(correct)**  
-- [ ] Type and timing of available funding **(correct)**  
-- [ ] Required security authorizations (e.g., ATO) **(correct)**  
-- [ ] Number of vendors on the GSA Schedule
-
----
-
-4\. Why is treating constraint discovery like a checklist instead of a conversation risky?
-
-A. It wastes too much time  
-B. It makes it harder to meet compliance rules  
-C. It misses the trust- and alignment-building benefits of team discussion  
-D. It only works if legal is in the room
-
-**Correct Answer: C**
-
----
-
-5\. Scenario: You’re planning a new digital services procurement. During early discovery, you learn that:
-
-* Your COR has limited availability,  
-* Contractor onboarding takes 60–90 days,  
-* There’s a possibility of reengineering outdated business processes.
-
-What should you do? (Choose the BEST option)
-
-A. Ignore these constraints—they’ll sort themselves out during evaluation  
-B. Choose a firm-fixed-price contract now and adjust if needed  
-C. Build in a phased approach, include delivery support services, and engage leadership on process flexibility  
-D. Push back the solicitation until these constraints are no longer relevant
-
-**Correct Answer: C**
-
----
-
-6\. Which of the following benefits come from defining constraints early? (Select all that apply.)
-
-- [ ] Ability to shape a realistic, achievable strategy **(correct)**  
-- [ ] Avoid mid-process surprises or delays **(correct)**
-- [ ] Ensure you award to the lowest bidder   
-- [ ] Support more defensible, mission-aligned decisions **(correct)**  
-- [ ] Strengthen relationships with policy, legal, and IT teams **(correct)**
-
----
-
-## Knowledge Check: Understanding Constraints
-
-### 1. Which of the following best describes the purpose of identifying constraints before developing an acquisition strategy?
+1. Which of the following best describes the purpose of identifying constraints before developing an acquisition strategy?
 
 - [ ] A. To eliminate any need for market research  
 - [ ] B. To make the process longer but more detailed  
@@ -414,7 +347,7 @@ D. Push back the solicitation until these constraints are no longer relevant
 
 ---
 
-### 2. True or False: Constraints should only be identified for high-risk or large-scale procurements.
+2. True or False: Constraints should only be identified for high-risk or large-scale procurements.
 
 - [x] False
 - [ ] True
@@ -423,7 +356,7 @@ D. Push back the solicitation until these constraints are no longer relevant
 
 ---
 
-### 3. Which of the following are constraints that could impact your strategy? *(Select all that apply.)*
+3. Which of the following are constraints that could impact your strategy? *(Select all that apply.)*
 
 - [ ] Vendor past performance ratings  
 - [x] Length of contractor onboarding  
@@ -435,7 +368,7 @@ D. Push back the solicitation until these constraints are no longer relevant
 
 ---
 
-### 4. Why is treating constraint discovery like a checklist instead of a conversation risky?
+4. Why is treating constraint discovery like a checklist instead of a conversation risky?
 
 - [ ] A. It wastes too much time  
 - [ ] B. It makes it harder to meet compliance rules  
@@ -446,7 +379,7 @@ D. Push back the solicitation until these constraints are no longer relevant
 
 ---
 
-### 5. Scenario
+5. Scenario
 
 You’re planning a new digital services procurement. During early discovery, you learn that:
 - Your COR has limited availability  
@@ -464,7 +397,7 @@ You’re planning a new digital services procurement. During early discovery, yo
 
 ---
 
-### 6. Which of the following benefits come from defining constraints early? *(Select all that apply.)*
+6. Which of the following benefits come from defining constraints early? *(Select all that apply.)*
 
 - [x] Ability to shape a realistic, achievable strategy  
 - [x] Avoid mid-process surprises or delays  
