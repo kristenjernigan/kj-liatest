@@ -620,7 +620,7 @@ Correct Answers:
 
 ---
 
-### 5. Select All That Apply
+5. Select All That Apply
 
 **What are the benefits of negotiating early in digital services procurements?**
 
@@ -653,7 +653,7 @@ Generally, offerors spend a considerable amount of time and money to bid on a co
 
 Quality feedback — whether through a formal debrief or informal explanation — helps companies learn, improve future bids, and strengthens trust between government and industry, especially in digital service acquisitions.
 
-### Learning Objectives
+**Learning Objectives**
 
 By the end of this section, you will be able to:
 
