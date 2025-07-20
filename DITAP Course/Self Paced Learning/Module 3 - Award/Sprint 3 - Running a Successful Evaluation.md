@@ -705,7 +705,7 @@ Correct Answers:
 - What happened as a result?  
 - How might early communication or negotiation have helped?
 
-*Your Response:* ---
+*Your response:*  *\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
 
 
 ---
@@ -729,9 +729,10 @@ Correct Answers:
 **Prompt:**  
 Your team is preparing for negotiations. Based on what you’ve learned, name *two things* the team should do before the session.
 
-📝 *Your Response:*  
-1. ---
-2. ---
+Your Response:  
+1\.  *\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
+
+2\.  *\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
 
 ---
 
