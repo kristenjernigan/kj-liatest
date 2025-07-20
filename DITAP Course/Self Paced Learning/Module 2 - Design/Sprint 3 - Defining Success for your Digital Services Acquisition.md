@@ -400,6 +400,82 @@ D. Push back the solicitation until these constraints are no longer relevant
 - [ ] Strengthen relationships with policy, legal, and IT teams **(correct)**
 
 ---
+
+## Knowledge Check: Understanding Constraints
+
+### 1. Which of the following best describes the purpose of identifying constraints before developing an acquisition strategy?
+
+- [ ] A. To eliminate any need for market research  
+- [ ] B. To make the process longer but more detailed  
+- [x] C. To understand boundaries that inform realistic, aligned strategies  
+- [ ] D. To determine vendor preferences before writing the solicitation
+
+> Identifying constraints helps teams stay aligned with practical boundaries and craft realistic strategies.
+
+---
+
+### 2. True or False: Constraints should only be identified for high-risk or large-scale procurements.
+
+- [x] False
+- [ ] True
+
+> Constraints should be identified for all acquisition efforts, regardless of size, because they guide sound strategy development.
+
+---
+
+### 3. Which of the following are constraints that could impact your strategy? *(Select all that apply.)*
+
+- [ ] Vendor past performance ratings  
+- [x] Length of contractor onboarding  
+- [x] Type and timing of available funding  
+- [x] Required security authorizations (e.g., ATO)  
+- [ ] Number of vendors on the GSA Schedule
+
+> Constraints often involve time, funding, approvals, and readiness factors—not just vendor history.
+
+---
+
+### 4. Why is treating constraint discovery like a checklist instead of a conversation risky?
+
+- [ ] A. It wastes too much time  
+- [ ] B. It makes it harder to meet compliance rules  
+- [x] C. It misses the trust- and alignment-building benefits of team discussion  
+- [ ] D. It only works if legal is in the room
+
+> Collaborative conversations surface practical insights and build alignment across stakeholders.
+
+---
+
+### 5. Scenario
+
+You’re planning a new digital services procurement. During early discovery, you learn that:
+- Your COR has limited availability  
+- Contractor onboarding takes 60–90 days  
+- There’s a possibility of reengineering outdated business processes
+
+**What should you do? (Choose the BEST option)**
+
+- [ ] A. Ignore these constraints—they’ll sort themselves out during evaluation  
+- [ ] B. Choose a firm-fixed-price contract now and adjust if needed  
+- [x] C. Build in a phased approach, include delivery support services, and engage leadership on process flexibility  
+- [ ] D. Push back the solicitation until these constraints are no longer relevant
+
+> A phased, proactive approach reduces risk and supports agility as constraints are addressed over time.
+
+---
+
+### 6. Which of the following benefits come from defining constraints early? *(Select all that apply.)*
+
+- [x] Ability to shape a realistic, achievable strategy  
+- [x] Avoid mid-process surprises or delays  
+- [ ] Ensure you award to the lowest bidder  
+- [x] Support more defensible, mission-aligned decisions  
+- [x] Strengthen relationships with policy, legal, and IT teams
+
+> Early constraint discovery builds stronger strategies and relationships—critical for digital service acquisitions.
+
+---
+
 ## Recommended Reading
 
 Every Project Needs an Inspiring Product Vision
