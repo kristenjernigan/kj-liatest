@@ -456,8 +456,9 @@ Select the best response.
 **Scenario:**  
 You're working with a team in your agency that is planning for government/end user reviews of a software product. The team has traditionally held 2–3 day sessions after six months of development to collect feedback all at once. You want to explore whether a more iterative approach would be better, given the difficulty of gathering users for long reviews and the benefits of earlier feedback.
 
-You have a good working relationship with the team lead. She responds to your suggestion by saying:  
-> “I really appreciate all you’re doing to transform how we do business around here, but we don’t have time or money to break up our reviews and hold them more iteratively. We only have a year period of performance, and our budget is tight! I know what the Agile Manifesto says about the importance of customer collaboration—and we’re doing it! But we’re also adapting it to the realities of the government and our agency.”
+You have a good working relationship with the team lead. She responds to your suggestion by saying:
+
+*“I really appreciate all you’re doing to transform how we do business around here, but we don’t have time or money to break up our reviews and hold them more iteratively. We only have a year period of performance, and our budget is tight! I know what the Agile Manifesto says about the importance of customer collaboration—and we’re doing it! But we’re also adapting it to the realities of the government and our agency.”*
 
 **How should you respond?**
 
