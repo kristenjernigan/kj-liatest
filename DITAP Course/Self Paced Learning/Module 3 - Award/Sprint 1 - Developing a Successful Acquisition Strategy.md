@@ -280,7 +280,7 @@ As you explore the marketplace, know that new or nontraditional providers can pr
 
 2. When developing an acquisition strategy for procuring a digital service, which of the following is the best option for documenting your strategy?
 
-- [x] A. Lean canvas tool  
+- [x] A. Lean Canvas tool  
 - [ ] B. Acquisition plan  
 - [ ] C. On sticky notes in your office  
 - [ ] D. In a series of emails in a folder
