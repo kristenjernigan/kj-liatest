@@ -625,6 +625,101 @@ Your Response:
 2\.  *\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
 
 ---
+## Knowledge Check
+
+### 1. True or False
+
+**Statement:**  
+In digital service acquisitions, it’s usually a waste of time to open negotiations with vendors early in the process.
+
+- [ ] True  
+- [x] False
+
+> Correct! Early negotiations help clarify assumptions, build trust, and shape stronger outcomes.
+
+---
+
+### 2. Scenario-Based Multiple Choice
+
+**Question:**  
+During a code challenge, a top vendor assumed and proposed the use of a commercial cloud service that doesn’t meet FedRAMP requirements. What should the agency do next?
+
+- [ ] Eliminate the vendor immediately  
+- [ ] Ask for a new full proposal  
+- [x] Open discussions to clarify assumptions and allow revision  
+- [ ] Ignore it and continue
+
+> Correct! Clarifying assumptions and offering revision opportunities supports a fair and informed evaluation process.
+
+---
+
+### 3. Match the Terms
+
+Match each term to its correct definition.
+
+**Terms:**  
+1. Clarifications  
+2. Communications  
+3. Negotiations  
+4. Best Value
+
+**Definitions:**  
+A. Discussions that allow vendors to revise proposals  
+B. Limited exchanges to fix minor errors (no proposal changes)  
+C. Offer that provides the greatest advantage based on price and technical merit  
+D. Exchanges to determine competitive range (no proposal changes)
+
+**Your Answers:**  
+1. 📝  
+2. 📝  
+3. 📝  
+4. 📝
+
+> **Correct Answers:**  
+1 = B  
+2 = D  
+3 = A  
+4 = C
+
+---
+
+### 4. Reflection Prompt
+
+**Think of a time when expectations weren’t clear during a collaboration:**
+
+- What happened as a result?  
+- How might early communication or negotiation have helped?
+
+📝 *Your Response:*  
+
+
+---
+
+### 5. Select All That Apply
+
+**What are the benefits of negotiating early in digital services procurements?**
+
+- [x] Prevents misunderstandings  
+- [ ] Automatically reduces price  
+- [x] Builds vendor trust  
+- [x] Helps clarify technical assumptions  
+- [ ] Avoids needing any evaluation
+
+> Correct! Early negotiation builds shared understanding and helps align expectations.
+
+---
+
+### 6. Short Answer – Reflection
+
+**Prompt:**  
+Your team is preparing for negotiations. Based on what you’ve learned, name *two things* the team should do before the session.
+
+📝 *Your Response:*  
+1. ______________________________________  
+2. ______________________________________
+
+---
+
 ## The Art of the Post-Evaluation Feedback in Digital Services Procurements
 
 Generally, offerors spend a considerable amount of time and money to bid on a contract. When they are unsuccessful, they deserve to know why. Post-evaluation feedback is a critical part of this process.
