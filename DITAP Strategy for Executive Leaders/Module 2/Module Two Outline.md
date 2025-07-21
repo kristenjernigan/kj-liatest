@@ -1,4 +1,6 @@
 # Module 2 Outline: Understanding Problems and People 
+The Understanding Problems and People module emphasizes the strategic importance of human-centered design in achieving mission outcomes and improving citizen experiences. The module introduces evidence-based tools for assessing organizational readiness for digital transformation and explores effective market research strategies for identifying capable digital service providers. Participants will examine key leadership decisions that enable meaningful discovery and robust requirements development, and they will develop practical strategies for measuring and communicating the impact of digital initiatives to build trust and sustain momentum.
+
 ## Module Objectives:
 - Define the strategic value of human-centered design in driving mission outcomes and citizen satisfaction.
 - Apply product vision frameworks to align stakeholder expectations and guide investment decisions.
