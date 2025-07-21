@@ -1,4 +1,6 @@
 # Module 4 Outline: Evaluating and Collaborating with Vendors 
+The Evaluating and Collaborating with Vendors module equips participants with the skills to assess digital service vendors effectively and build collaborative, outcome-focused partnerships. Participants will learn to identify red flags during product demonstrations and evaluation scenarios, thereby avoiding costly missteps. The module emphasizes the value of early and open vendor engagement, outlining best practices to foster trust and alignment from the outset. It examines the crucial role of empowered, in-house Product Managers and Product Owners in driving vendor success and applies the High-Level Evaluation Process Guidance to ensure transparent, fair, and effective vendor selection.
+
 ## Module Objectives:
 - Evaluate digital service vendors effectively and promote collaborative, outcome-oriented partnerships.
 - Identify red flags in product demonstrations and evaluation scenarios.
