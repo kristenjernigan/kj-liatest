@@ -1,4 +1,6 @@
 # Module 1 Outline: Digital Services and Executive Leadership in Government 
+The Digital Services and Executive Leadership in Government module equips leaders with the insight and tools needed to champion digital transformation that delivers real mission impact, improves citizen satisfaction, and boosts operational efficiency. Through strategic frameworks, participants will assess organizational readiness, identify key success factors of high-performing digital teams, and contrast them with traditional IT approaches. The module also focuses on strategies to empower agile decision-making, reduce bureaucratic friction, and establish meaningful KPIs to track progress and measure the success of digital services.
+
 ## Module Objectives:
 - Understand the business case for digital transformation and how modern digital services drive mission outcomes, citizen satisfaction, and operational efficiency.
 - Define the strategic role of executive leadership in enabling successful digital transformation and overcoming institutional barriers.
