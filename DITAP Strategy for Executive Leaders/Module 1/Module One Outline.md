@@ -14,7 +14,7 @@
 - [Strategic Contracting for Digital Transformation](https://docs.google.com/document/d/1sNYsy59bsvo9K6wl-HGHzlEBu7snpahZIV1fRlxfT8o/edit?tab=t.qt3wyifbrhim)
 
 ### Case Study: (must update link when moved to DITAP github)
-- [Project Rainbo](https://docs.google.com/document/d/1nwzeQdVGMOxQxJTkSutb517Cn1jE1-KCe36U20w4eXc/edit?usp=sharing)
+- [Project RAINBO](https://docs.google.com/document/d/1nwzeQdVGMOxQxJTkSutb517Cn1jE1-KCe36U20w4eXc/edit?usp=sharing)
 <br>
 
 _Optional_ </br>
