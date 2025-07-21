@@ -24,7 +24,7 @@ Implementing human-centered design requires specific organizational capabilities
 
 Leaders must also prepare for the cultural changes that human-centered design requires. Staff may resist approaches that bypass traditional expertise or challenge existing processes. Stakeholders may question investments in research and testing that don't produce immediate deliverables. Citizens may provide feedback that challenges policy assumptions or organizational preferences.
 
-Additional resources:
+### Additional resources:
 - [U.S. Web Design System (USWDS)](https://designsystem.digital.gov/)
 - [The 21st Century Integrated Digital Experience Act](https://digital.gov/resources/delivering-digital-first-public-experience)
 - [Laws of UX](https://lawsofux.com/)
