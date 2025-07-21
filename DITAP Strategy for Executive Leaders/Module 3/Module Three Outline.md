@@ -1,4 +1,6 @@
 # Module 3 Outline: From Needs to Acquisition 
+The From Needs to Acquisition Strategy module guides participants in developing acquisition strategies that are agile, mission-driven, and legally sound—while also supporting a broader cultural shift in how procurement is approached. Participants will learn how to translate user and mission needs into clear, actionable acquisition language that resonates with stakeholders across disciplines. The module explores the difference between ensuring legal sufficiency and falling into patterns of excessive risk aversion, enabling teams to make more confident and informed decisions. Participants will also gain hands-on experience with acquisition strategy tools designed to support flexible, iterative approaches that better align with the pace of digital delivery.
+
 ## Module Objectives:
 - Develop and support acquisition strategies that are agile, mission-aligned, and legally sufficient while promoting a culture shift in procurement.
 - Describe how to translate user and mission needs into acquisition language.
