@@ -56,18 +56,27 @@ We will discuss each of these in more detail as we proceed, but it’s essential
 
 ![](https://github.com/kristenjernigan/kj-liatest/blob/0d2f0879d93d9deb2ed4363ca05edcfb5bb273ae/Media/Module%203/checklist.png)
 
-As you know, planning is an essential part in the acquisition process, and   
-this is particularly true in digital services acquisitions. The Federal Acquisition Regulation (FAR) requires that some acquisition planning be accomplished and documented for every acquisition, consistent with the size and complexity of the procurement. And let’s admit it, we have all seen the acquisition plan—and some of the other required items in the contract file—as “check the box” items. You complete them because you have to, but might not put a lot of effort into them. When buying digital services, however, your acquisition plan takes on a new level of importance. Do not take it lightly.. This is where the lean canvas tool can help.
+As you know, planning is an essential part of the acquisition process, and this is particularly true in digital services acquisitions. The Federal Acquisition Regulation (FAR) requires that some acquisition planning be accomplished and documented for every acquisition, consistent with the size and complexity of the procurement. And let’s admit it, we have all seen the acquisition plan—and some of the other required items in the contract file—as “check the box” items. You complete them because you have to, but you might not put a lot of effort into them. When purchasing digital services, however, your acquisition plan assumes a new level of importance. Do not take it lightly. This is where the lean canvas tool can help.
+
 
 ### Using the Lean Canvas Approach
 
-You were introduced to this tool in Module 2\.  In this module, you will put this tool into action.  The lean acquisition canvas is a way to capture the main points in the acquisition strategy or plan in a quick reference format that provides a high-level vision for the acquisition. The idea of using lean approaches comes from [Lean Startup methodology](http://theleanstartup.com/principles).This approach was originally designed as a way to create and manage startups to quickly get products into customers’ hands using an efficient “build-measure-learn” cycle. The methodology is called “lean” for a reason—it favors testing and experimenting over elaborate upfront planning. These “lean” approaches are quickly being adopted by both large and small businesses across various industries For instance, you may have read about applications of lean methodologies to user experience (UX) design as part of the readings in Module 1\. These lean approaches were used to develop the “lean canvas” approach for writing “lighter,” more effective business plans. (You can read more about the [lean startup concept](https://hbr.org/2013/05/why-the-lean-start-up-changes-everything) and [lean canvas](https://www.lap-alliance.org/why-lap/the-lean-procurement-canvas). There are even [tools](https://canvanizer.com/new/lean-canvas) to help you build virtual lean canvases\!)
+You were introduced to this tool in **Module 2**. In this module, you will put this tool into action. The Lean Acquisition Canvas is a concise way to capture the key points of an acquisition strategy or plan, providing a high-level overview of the acquisition. The concept of using lean approaches originates from the Lean Startup methodology. This approach was initially designed to create and manage startups, enabling them to quickly bring products to customers’ hands through an efficient “build-measure-learn” cycle. The methodology is called “lean” for a reason—it favors testing and experimenting over elaborate upfront planning.
 
- These concepts can be applied to acquisitions as well. Typically, the acquisition strategy and acquisition plan are seen as paperwork exercises— lengthy documents that take time.
+Both large and small businesses across various industries are quickly adopting these “lean” approaches. For instance, you may have read about applications of lean methodologies to User Experience (UX) design as part of the readings in Module 1. These lean approaches were used to develop the “lean canvas” approach for writing “lighter,” more effective business plans.
 
-The name of our game is Agile\! We want to be efficient and not spend all of our time planning instead of doing.  The lean canvas will bring the acquisition strategy and plan to the forefront of the team’s vision and get everyone on the same page, literally and figuratively. By presenting a high-level overview of the major components of the acquisition strategy and plan, it allows teams to more easily talk through decisions and tradeoffs as they shape the Product Vision.
+> You can read more about the [lean startup concept](https://hbr.org/2013/05/why-the-lean-start-up-changes-everything) and [lean canvas](https://www.lap-alliance.org/why-lap/the-lean-procurement-canvas). There are even [tools](https://canvanizer.com/new/lean-canvas) to help you build virtual lean canvases!
 
-Let’s look at two examples of how you might re-imagine the various parts of an acquisition plan using the lean canvas tool:
+These concepts can also be applied to acquisitions. Typically, the acquisition strategy and acquisition plan are viewed as bureaucratic exercises—lengthy documents that require time.
+
+> The name of our game is **Agile!** We want to be efficient and not spend all of our time planning instead of doing.
+
+The Lean Canvas will bring the acquisition strategy and plan to the forefront of the team’s vision, getting everyone on the same page—both literally and figuratively. By presenting a high-level overview of the significant components of the acquisition strategy and plan, teams can more easily discuss decisions and trade-offs as they shape the Product Vision.
+
+---
+
+### Let’s look at two examples of how you might re-imagine the various parts of an acquisition plan using the Lean Canvas tool:
+
 
 #### Example 1: Lean Acquisition Planning Canvas: Acquisition Background and Objectives
 
