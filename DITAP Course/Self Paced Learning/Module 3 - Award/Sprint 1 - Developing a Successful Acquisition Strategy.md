@@ -253,7 +253,7 @@ As acquisition and contracting professionals, we are very familiar with the typi
 
 **Flexibility:** What flexibility is there in your customer’s requirements? Is an interim or partial solution possible while delivering the total product vision? Which methods could be used to achieve that?
 
-**Contract type:** A vital c consideration in any acquisition is contract type. The two most commonly used for digital services are Firm Fixed Price (FFP) and Time and Materials (T&M) or Labor Hours (similar to T&M but without materials). These are often viewed as being on opposite ends of the risk spectrum. FFP shifts performance risk to the contractor, who must deliver the agreed-upon work at a set price. T&M, on the other hand, places more risk on the government, as the contractor is paid by the hour, regardless of outcomes.
+**Contract type:** A vital consideration in any acquisition is contract type. The two most commonly used for digital services are Firm Fixed Price (FFP) and Time and Materials (T&M) or Labor Hours (similar to T&M but without materials). These are often viewed as being on opposite ends of the risk spectrum. FFP shifts performance risk to the contractor, who must deliver the agreed-upon work at a set price. T&M, on the other hand, places more risk on the government, as the contractor is paid by the hour, regardless of outcomes.
 
 Each type has its place in digital services. Traditionally, a fixed-price contract is appropriate when requirements can be defined in sufficient detail to identify and manage performance uncertainties. However, digital services are often characterized by rapidly changing user needs, evolving policies, and emergent technical challenges, making it difficult to define everything up front.
 
