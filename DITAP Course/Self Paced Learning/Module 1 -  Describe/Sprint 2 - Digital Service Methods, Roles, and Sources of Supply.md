@@ -448,15 +448,17 @@ Question 1
 
 **Your agency needs to replace an outdated legacy system, causing usability issues for staff and the public. The scope isn’t fully defined yet, and stakeholder needs are still being explored. What’s the best approach?**
 
-```quiz
+
 - [ ] Use a waterfall process to define every requirement upfront
+
 - [x] Use agile to deliver value in stages while gathering feedback
+
 - [ ] Purchase a commercial off-the-shelf solution without further research
 
-??? correct
-Correct! Agile supports evolving needs through iteration and user feedback.
 
-??? wrong
+>Correct! Agile supports evolving needs through iteration and user feedback.
+
+
 Not quite. Since the project scope is evolving, agile is best for delivering in stages while gathering input.
 
 
