@@ -2,9 +2,9 @@
 
 ## Strategic Planning and Execution in Digital Acquisitions
 
-In today’s rapidly evolving federal procurement environment, agencies must adopt more agile, outcome-driven approaches to meet complex mission needs. Traditional acquisition methods—anchored in prescriptive requirements, fixed personnel, and lengthy timelines—often fail to deliver timely and adaptable solutions, especially in digital service contexts.
+In today’s rapidly evolving federal procurement environment, agencies must adopt more agile, outcome-driven approaches to meet the complex needs of their missions. Traditional acquisition methods—anchored in prescriptive requirements, fixed personnel, and lengthy timelines—often fail to deliver timely and adaptable solutions, especially in digital service contexts.
 
-This unit prepares learners to navigate and lead digital acquisitions by focusing on strategic planning, flexible documentation, collaborative execution, and modern decision-support tools. The learning journey begins with a case-based exploration of tradeoffs and mission alignment, then moves into crafting outcome-oriented Statements of Objectives (SOOs) and rethinking staffing through the lens of Agile. Learners will also explore how **artificial intelligence (AI)** is reshaping the acquisition landscape—supporting faster analysis, enhancing decision-making, and aligning procurement with agency maturity models. The unit concludes by equipping participants with practical strategies for negotiating with vendors in a way that fosters trust, clarity, and best-value outcomes.
+This unit prepares learners to navigate and lead digital acquisitions by focusing on strategic planning, flexible documentation, collaborative execution, and modern decision-support tools. The learning journey begins with a case-based exploration of tradeoffs and mission alignment, then moves into crafting outcome-oriented Statements of Objectives (SOOs) and rethinking staffing through the lens of Agile. Learners will also explore how **artificial intelligence (AI)** is reshaping the acquisition landscape—supporting faster analysis, enhancing decision-making, and aligning procurement with agency maturity models. The unit concludes by equipping participants with practical strategies for negotiating with vendors in a manner that fosters trust, clarity, and optimal value outcomes.
 
 By weaving together foundational practices with forward-leaning technologies, this unit empowers acquisition professionals to lead with both strategy and innovation.
 
@@ -40,7 +40,7 @@ While FAR 37.6 does not explicitly prescribe Agile methodologies, it provides a 
 It’s important to note that compliance with FAR 37.6 and the specific procurement regulations of government agencies is necessary when implementing Agile software development within a government context. Consulting with legal and procurement experts familiar with government regulations is recommended to ensure adherence to all applicable guidelines.
 
 ---
-## Artificial Intelligence and the Acquisition Strategy
+## Artificial Intelligence (AI) and the Acquisition Strategy
 
 The use of AI in both the private and public sectors is a game changer. AI can help teams rapidly analyze vast amounts of data, enabling insights that can save significant time and resources. Businesses use AI to optimize enterprise resource systems, automate routine tasks, forecast consumer demand and behavior, and even innovate new products and services. 
 
@@ -122,7 +122,7 @@ Choose one of the following prompts and post a discussion response. Share exampl
 
 2. What risks or limitations should Integrated Product Teams (IPTs) watch for when using AI in this space?
 
-3. Have you or your team used AI tools (e.g., ChatGPT, Co-Pilot, other platforms) in acquisition tasks? If so, what worked well—and what didn’t?
+3. Have you or your team used AI tools (e.g., ChatGPT, Co-Pilot, other platforms) in acquisition tasks? If so, what worked well, and what didn’t?
 
 4. Do you believe AI will enhance or challenge the role of human judgment and innovation in acquisition planning? Why?
 
@@ -133,7 +133,8 @@ As federal agencies harness the transformative potential of Artificial Intellige
 
 **1\. Understand Regulatory Requirements** The first step in assessing the legal implications of acquiring AI is to understand the relevant policy and regulatory requirements. This includes data privacy laws, cybersecurity standards, and AI-specific policies and regulations. Key policies and regulations to consider include:
 
-* [Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/)  
+* [Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/)
+* [Driving Efficient Acquisition of Artificial Intelligence in Government - OMB Memorandum M-25-22](https://www.whitehouse.gov/wp-content/uploads/2025/02/M-25-22-Driving-Efficient-Acquisition-of-Artificial-Intelligence-in-Government.pdf)
 * [DHS Policy Statement 139-06 Acquisition and Use of Artificial Intelligence and Machine Learning by DHS Components.](https://www.dhs.gov/sites/default/files/2023-09/23_0913_mgmt_139-06-acquistion-use-ai-technologies-dhs-components.pdf)  
 * [2021 Final Report of the National Security Commission on Artificial Intelligence.](https://www.nscai.gov/2021-final-report/)  
 * [National Artificial Intelligence Initiative (NAII) Act of 2020 (Division E of the National Defense Authorization Act for Fiscal Year 2021).](https://www.govinfo.gov/content/pkg/PLAW-116publ283/html/PLAW-116publ283.htm)  
