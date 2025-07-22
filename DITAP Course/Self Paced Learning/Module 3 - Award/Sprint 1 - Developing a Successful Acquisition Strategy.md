@@ -2,24 +2,24 @@
 
 ## Introduction: Developing an Acquisition Strategy
 
-Effective acquisition planning is essential for ensuring that government agencies deliver the right solutions to their users—on time, within budget, and aligned with mission needs. Whether adjusting an existing contract or developing a new procurement from the ground up, a well-documented acquisition strategy reduces risk, promotes transparency, and supports informed decision-making throughout the pre-award process.
+Effective acquisition planning is essential for ensuring that government agencies deliver the right solutions to their users—on time, within budget, and aligned with mission needs. Whether adjusting an existing contract or developing a new procurement from scratch, a well-documented acquisition strategy reduces risk, promotes transparency, and supports informed decision-making throughout the pre-award process.
 
-This module introduces the foundational elements of acquisition strategy planning. Learners will explore how acquisition strategies are shaped by real-world circumstances, why documentation and rationale matter, and how the lean canvas approach can serve as a dynamic tool for refining strategy based on stakeholder input, market insights, and evolving user needs.
+This module introduces the foundational elements of acquisition strategy planning. Learners will explore how real-world circumstances shape acquisitions strategies, the importance of documentation and rationale, and how the Lean Canvas approach can serve as a dynamic tool for refining strategies based on stakeholder input, market insights, and evolving user needs.
 
 ### Learning Objectives
 
 By the end of this module, you will be able to:
 
-* Explain the purpose and value of acquisition strategy planning in the federal procurement lifecycle  
-* Identify how acquisition strategies vary depending on inherited contracts versus new procurements  
-* Apply key pre-award activities—such as stakeholder engagement and market research—to inform strategic decisions  
-* Describe the lean canvas approach and its role as a living document in agile acquisition environments  
-* Recognize when and how to update the acquisition strategy based on new inputs and evolving conditions
+* Explain the purpose and value of acquisition strategy planning in the federal procurement lifecycle.  
+* Identify how acquisition strategies vary depending on whether contracts are inherited or new procurements.
+* Apply key pre-award activities, such as stakeholder engagement and market research, to inform strategic decisions. 
+* Describe the lean canvas approach and its role as a living document in agile acquisition environments.
+* Recognize when and how to update the acquisition strategy in response to new inputs and evolving conditions.
 
 ---
 ## Why Do We Plan?
 
-Just as in our personal lives, in the government, we plan so that we reduce the risk of buying the wrong solution. We want to ensure we are buying the solution our users need at a price we can afford.  As you may know from your on-the-job experience, acquisition planning and the strategy will differ somewhat depending on a few factors:
+Just as in our personal lives, in the government, we plan to reduce the risk of buying the wrong solution. We want to ensure we are buying the solution our users need at a price we can afford.  As you may know from your on-the-job experience, acquisition planning and the strategy will differ somewhat depending on a few factors:
 
 * You may inherit an existing contract that requires adjustment, so you will need to build a strategy for making those adjustments.  
 * You may be involved in developing a new strategy for a new procurement.
