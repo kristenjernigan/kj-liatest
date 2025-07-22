@@ -111,15 +111,18 @@ How can you integrate the lean canvas tool to your advantage, you ask? Well, you
 * **Record the “why” of your solution.** You may still need a formal acquisition plan, so base it on your lean canvas tool.  The plan provides the historical record and justification for the acquisition solution in the contract file.
 
 ---
-## Common Pitfalls and Risks
+## Common Risks
 
-Before you sit down to develop the solicitation package, you should consider some common pitfalls and risks that may arise as the acquisition solution is developed. Review the following items before you put the solicitation “on the street”:
+Before you sit down to develop the solicitation package, you should consider some common risks that may arise as the acquisition solution is developed. Review the following items before you put the solicitation “on the street”:
 
-* **Is the acquisition focused on the end user and their ability to successfully use the product?** The final product’s end users are key to contract success and delivering a high-quality product. For the purpose of procurement, the acquisition’s end users are the “customer/program owner.” By viewing the acquisition itself as the creation of a “product,” you help align strategic methods throughout the entire process.  
-* **Is the Product Vision clear?** While the details don’t have to be defined, the vision does. All acquisition considerations should be consistent with realizing that vision.  
-* **Is there an exit strategy?** Government typically solves non-performance by increasing funding or lengthening schedules because it’s perceived to be too hard to get out of a contract. Is there a strategy to effectively resolve issues of performance on a contract?  
-* **Are there incentives that can be applied to increase end user satisfaction?** Leverage commercial incentive strategies where and when you can. Speak with trade experts and industry during  your market research,  to gain a better understanding of how the various digital service sectors operate in the private sector.  
-* **Is the acquisition structured around commercial item acquisition methods as referenced in the Federal Acquisition Regulation FAR) Part 12 and 13.5?** Unless we ask the developers to invent a new coding language specifically for the government, we are utilizing commercial item services and products.
+* **Is the acquisition focused on the end user and their ability to successfully use the product?** The end users of the final product are key to contract success and delivering a high-quality outcome. For the purpose of procurement, the “customer/program owner” is considered the primary end user of the acquisition process. However, the program owner is responsible for meeting the needs of the actual users who will interact with the system once delivered. By viewing the acquisition itself as the creation of a “product,” you help align strategic methods throughout the entire process, ensuring both the program’s goals and user needs are addressed.
+
+* **Is the Product Vision clear?** While the details don’t have to be defined, the vision does. All acquisition considerations should be consistent with the realization of that vision.
+
+* **Is there an exit strategy?** The government typically solves non-performance by increasing funding or lengthening schedules, as it’s perceived to be too difficult to get out of a contract. Is there a strategy to effectively resolve issues of performance on a contract?
+
+* **Are there incentives that can be applied to increase end-user satisfaction?** Leverage commercial incentive strategies where and when you can. Speak with trade experts and industry during  your market research,  to gain a better understanding of how the various digital service sectors operate in the private sector.  
+* **Is the acquisition structured around commercial item acquisition methods as referenced in the Federal Acquisition Regulation FAR) Parts 12 and 13.5?** Unless we ask the developers to invent a new coding language specifically for the government, we are utilizing commercial items, services, and products.
 
 | Risk | Mitigation | Links |
 | --- | --- | --- |
@@ -128,7 +131,7 @@ Before you sit down to develop the solicitation package, you should consider som
 | **Vendor lock-in**<br>- Higher costs<br>- Loss of data rights<br>- Lack of flexibility<br>- Inability to respond to changes in technical landscape | - Open standards<br>- Application Programming Interfaces (APIs)<br>- Data portability<br>- Open source<br>- Exit clauses<br>- Clear transition plans | [“Rule number one: Avoid vendor lock-in” by Sean Boots](https://sboots.ca/2021/05/12/rule-number-one-avoid-vendor-lock-in/?utm_source=chatgpt.com) |
 | **Lack of regulatory alignment**<br>- Higher costs through rework<br>- Slower time to market<br>- Not serving the taxpayer | - Involve security and privacy early<br>- Include compliance early<br>- Timeline for certification<br>- Automate accessibility | |
 | **Inflexible contracts**<br>- Difficulty respond to change<br>- Higher costs through change orders | - Agile Blanket Purchase Agreements (BPAs)<br>- Performance-based contracting<br>- Do not design the whole system early<br>- Include optional Contract Line Item Numbers (CLINs)<br>- Capacity buying<br>- Multiple award Minimum Viable Products (MVPs)<br>- Outcomes over requirements | |
-| **Lack of user centricity**<br>- Prevents user adoption<br>- Lack of alignment to objectives | - Require Human-Centered Design (HCD) practices and user testing<br>- Fund early prototyping and pilots<br>- Involve end users throughout<br>- Ensure a government product owner is identified | |
+| **Lack of user centricity**<br>- Prevents user adoption<br>- Lack of alignment to objectives | - Require Human-Centered Design (HCD) practices and user testing<br>- Fund early prototyping and pilots<br>- Involve end users throughout<br>- Ensure a government product owner is identified and empowered to establish goals and objectives | |
 | **Integration/interoperability**<br>- Higher integration costs<br>- Lack of data portability<br>- Higher enterprise costs<br>- Effects user experience and adoption | - Adherence to government data/API standards<br>- Mandate documentation and automate where possible<br>- Test integration points<br>- Technical discovery and architecture reviews | |
 | **Cultural resistance**<br>- Slower time to market<br>- Reduces benefits of Agile<br>- Misaligned expectations | - Engage leadership early<br>- Include change management as a CLIN<br>- Identify internal champions<br>- Demand cross-functional team involvement | |
 | **Security**<br>- Data loss<br>- Personally Identifiable Information (PII) breaches | - DevSecOps practices<br>- Continuous monitoring<br>- Federal Risk and Authorization Management Program (FedRAMP) tools and infrastructure | |
@@ -136,38 +139,36 @@ Before you sit down to develop the solicitation package, you should consider som
 
 
 ### **Discussion question (optional):**
-Based on what you’ve learned, what are some mistakes you would avoid for your next procurement? Share the wealth with your peers here! 
+Based on what you’ve learned, what are some mistakes you would avoid for your next procurement? Share your knowledge with your peers here! 
 
 ---
 ## Contract Exit Strategies
 
-As part of the acquisition strategy cycle, you need to plan for what happens if things go wrong and you need to plan a contract exit. From a lack of delivery to a change in needs, there are many reasons why you might need to exit a contract early. In industry, this can happen quickly, but in Government, it is not always as easy. From building flexibility into your contracts to planning communication around insufficient results, it’s important to have solid exit strategies planned out as part of your acquisition strategy.
+As part of the acquisition strategy cycle, you need to plan for what happens if things go wrong and consdier a contract exit. From a lack of delivery to a change in needs, there are many reasons why you might need to exit a contract early. In industry, this can happen quickly, but in Government, it is not always as easy. From building flexibility into your contracts to planning communication around insufficient results, it’s crucial to have solid exit strategies planned out as part of your acquisition strategy.
 
 The following challenges and recommended approaches are offered to help guide you through this process. Follow them closely or choose your own adventure\!
 
 **Challenge: Have a clear vision of what you are buying and why.**
 
-* *Before thinking about exiting, consider why you are entering.* Identify if your contract, the way you envision it, is the best option to meet your needs. Explore more options like prototyping, pilots, or [challenges.](https://techfarhub.usds.gov/resources/learning-center/field-guides/tech-challenge-playbook/)  
+* *Before considering an exit, consider why you are entering.* Determine if your contract, as you envision it, is the best option to meet your needs. Explore additional options, such as prototyping, pilots, or [challenges.](https://techfarhub.usds.gov/resources/learning-center/field-guides/tech-challenge-playbook/)  
 * *Know what your objective is*. Can you define what success looks like? What does it not look like? What are the high-level contract objectives?  
-* *Focus on delivery.* Create a trusted environment where individuals can innovate but allows both contractor and government the ability to exit when necessary.
+* *Focus on delivery.* Create a trusted environment where individuals can innovate, allowing both contractors and government the ability to exit when necessary.
 
-**Challenge: Scope your contract in a safe way.** 
+**Challenge: Scope your contract safely.** 
 
-* *Use modular contracting and limit contract scope.* Leveraging the Federal Acquisition Regulation (FAR) Part 39.103 \- Modular Contracting can help you avoid long periods of performance. When possible, limit award periods of performance to six months or a year. Shorter periods of performance avoid the need for termination. Product delivery should happen within a year. Smaller contracts are easier to manage, identify potential points of failure, and re-compete.  
+* *Utilize modular contracting and limit the scope of the contract.* Leveraging the Federal Acquisition Regulation (FAR) Part 39.103 \- Modular Contracting can help you avoid long periods of performance. When possible, limit award periods of performance to six months or a year. Shorter periods of performance avoid the need for termination. Product delivery is expected to occur within one year. Smaller contracts are easier to manage, identify potential points of failure, and re-compete.  
 * *Separate product purchases from service purchases.* When purchasing a solution that includes licenses for a commercial off-the-shelf (COTS) product and custom development work, consider creating a separate licensing contract from the development contract. This allows the government maximum ownership over the solution and makes the transition easier if a development contractor change is needed.  
 
 **Challenge:** **Motivate and manage your contractors.** 
 
-* *Build in award term option incentives*. Since the contractor controls the award of the follow-on contract, it is important to incentivize the team as much as the contractor. Align option periods to sprints and use award term incentives to motivate contractors.   
-* *Monitor progress using Agile software development tools and techniques.* Monitor progress toward objectives and measure the value provided to users using tools like Jira. Keep up to date with decisions made during backlog grooming sessions. Track development team velocity. 
+* *Build in an award term option incentives*. Since the contractor controls the award of the follow-on contract, it is essential to incentivize the team as much as the contractor. Align option periods to sprints and use award term incentives to motivate contractors.   
+* *Monitor progress using Agile software development tools and techniques.* Monitor progress toward objectives and measure the value provided to users using tools like Jira. Stay up to date with decisions made during backlog grooming sessions—track the development team'svelocity. 
 
-**Challenge: Avoid lengthy on-boarding and security clearance timelines.**    
-* *Leverage multiple award Blanket Purchase Agreements (BPAs) to keep the vendor pool small, but already cleared*. Some agencies will allow for cleared staff to be on-boarded under a BPA number. This helps when transition needs to occur quickly and time is not available for ramping up new staff.  
-   
+  
 **Challenge:** **Motivate and manage your contractors**
 
-* *Include any documentation requirements as part of agile iterations, not in a separate task.* Required documentation should be specified in the definition of done. Be sure that documentation is completed and delivered throughout the life of the contract or task, not just at the end. Take into consideration that requesting more documentation may take time away from the completion of technical tasks.  
-* *Remember the importance of transition planning*. Awarded contracts must include some type of transition plan. This plan should account for both the incoming and outgoing transition of code, knowledge, and documentation.
+* *Include any documentation requirements as part of agile iterations, not in a separate task.* Required documentation should be specified in the definition of done. Ensure that documentation is completed and delivered throughout the contract or task's life cycle, not just at the end. Keep in mind that requesting additional documentation may divert time away from completing technical tasks.  
+* *Remember the importance of transition planning*. Awarded contracts must include a transition plan of some type. This plan should account for both the incoming and outgoing transition of code, knowledge, and documentation.
 
 **Challenge: Get the most out of your contract.** 
 
@@ -182,16 +183,16 @@ The following challenges and recommended approaches are offered to help guide yo
 ---
 ## Stakeholder Engagement: Capability and Cooperation
 
-Many of the techniques you are learning in this program will be new territory for your stakeholders. Customers, as well as stakeholders in the acquisition review process, may be put off by all these unfamiliar concepts. They may be resistant to moving the acquisition forward in accordance with your vision or your team’s vision. This has to figure into your acquisition approach. Sometimes, small steps are better than rapid wholesale change. Keep as much as you can in familiar territory for these people, and move them in the direction they need to go incrementally. Think of it as another aspect of “buy small, miss small.”
+Many of the techniques you are learning in this program will be new territory for your stakeholders. Customers, as well as stakeholders in the acquisition review process, may be put off by all these unfamiliar concepts. They may be resistant to moving the acquisition forward under your vision or your team’s vision. This must be factored into your acquisition approach. Sometimes, small steps are better than rapid wholesale change. Keep as much as possible in familiar territory for these people, and move them incrementally in the direction they need to go. Think of it as another aspect of “buy small, miss small.”
 
-If an organization is just starting to adopt agile processes, it may make more sense to establish a plan to slowly ramp up the organization under the performance of the contract versus jumping right into a two-week development sprint.
+Suppose an organization is just starting to adopt agile processes. In that case, it may make more sense to establish a plan to gradually ramp up the organization under the terms of the contract, rather than jumping right into a two-week development sprint.
 
 We will explore how you can influence your stakeholders and gain their buy-in in the online training later in this iteration.
 
 ---
 ## Existing Contracts
 
-What if an existing contract can provide what your agency needs? Not every need will, or should, result in a new contract, complete with all the planning, source selection (or J\&A), and review baggage that comes with a new acquisition. There might be an agency or interagency digital services contract already in place, and with allowed modifications, it will simplify getting to the proper acquisition solution. Or, it may not. Even if a contract can be modified to obtain the product vision, a closer look at the details will help you determine. 
+What if an existing contract can provide what your agency needs? Not every need will, or should, result in a new contract, complete with all the planning, source selection (or J\&A), and review baggage that comes with a new acquisition. There may already be an agency or interagency digital services contract in place, with allowed modifications, which will simplify finding the proper acquisition solution. Or, it may not. Even if a contract can be modified to obtain the product vision, a closer look at the details will help you determine. 
 
 Consider what other agencies are doing:
 
@@ -206,11 +207,11 @@ Consider what other agencies are doing:
 If you are attempting to transition an existing contract to more agile-based development, you’ll have additional considerations that could enable you to streamline your procurement process. Consider the following:
 
 * Resources and skills of both contractor and government personnel in the agile arena.   
-* Even if you could modify an existing contract, would the current contractor be up for it? Can the contractor be trained or adjust its processes to accommodate successful agile development?  
+* Even if you could modify an existing contract, would the current contractor be willing to do so? Can the contractor be trained or adjust its processes to accommodate successful agile development?  
 * Are sufficient government personnel trained and available to be part of the agile team?  
 * Do you need to change the entire contract, or could just a small portion be adjusted to reduce risk, provide experience, and prove the concept for stakeholder buy-in?  
 * Can you piggyback on another agency’s contract or one of your agency’s enterprise contracts?  
-* Does the contract type allow for orders, and would the order be within scope?  
+* Does the contract type permit orders, and would the order fall within scope?  
 * What flexibilities do you have within the existing contract or scope as it currently stands? Do the CLIN descriptions and requirements document provide the needed flexibility? Would modifications be out of scope?  
 * How cooperative is the contractor? How much leverage do you have (e.g., options, task orders for continued work, incentive contract)?  
 * How difficult will it be to re-baseline performance metrics to accommodate agile processes and then get both the contractor and the government to buy in?
@@ -223,12 +224,12 @@ A new procurement is likely if you’ve determined that using an existing contra
 |                                                             	                 | Description |
 | :---- | :---- |
 | **Make or buy**   | Determine where it makes sense for government personnel to develop or adapt a solution from existing commercial off-the-shelf software or acquire and develop a modern technology, non-proprietary solution from contractors. |
-| **Open source**          | Open-source software should be considered in market research. It’s a commercial item and should not be treated as noncommercial software. Acquisitions need to consider this and specific data rights to the solutions created on open-source solutions. The default Government position is that the government should have the maximum data rights allowable. Utilize FAR Clause 52.227-17 in contracts for new development. |
+| **Open source**          | Open-source software should be considered in market research. It’s a commercial item and should not be treated as noncommercial software. Acquisitions need to consider this and the specific data rights associated with solutions created using open-source software. The default Government position is that the government should have the maximum data rights allowable. Utilize FAR Clause 52.227-17 in contracts for new development. |
 | **Beware of data centers** | Consider leveraging SaaS or PaaS solutions before investing in new or existing data centers. It costs much more to host and provision data than it does to utilize XaaS solutions. |
-| **Establish CLINS**       | Think “a-la-carte,” high-level, and maximum flexibility. You want to ensure that the CLINs identify and support the product vision, but provide flexibility for achieving it and accountability for the contractor. |
+| **Establish CLINS**       | Think “à la carte,” high-level, and maximum flexibility. You want to ensure that the CLINs identify and support the product vision, while providing flexibility for achieving it and accountability to the contractor. |
 | **Minimize magnitude**    | “Can you, or should you, minimize the magnitude of the acquisition to reduce both layers of bureaucratic review and approval and time to award?” Consider the regulatory requirements associated with dollar value thresholds, including, but not limited to: small business requirements, simplified acquisition procedures, and multiple award requirements. |
 | **Regulatory requirements** | Consider the regulatory requirements associated with dollar value thresholds, including, but not limited to, small business requirements, simplified acquisition procedures, and multiple award requirements. |
-| **Price** | Can you maximize price competition without bogging down source selection? Do you have sufficient government expertise to help develop or analyze various pricing strategies? |
+| **Price** | Can you maximize price competition without bogging down source selection? Do you have sufficient government expertise to assist in developing or analyzing various pricing strategies? |
 | **Commercial procurements** | Cost reimbursable contracts aren’t allowed for commercial procurements, including orders from GSA’s Federal Supply Schedule. How does this fit into your risk picture? |
 | **Modular contracting**  | What contract types will support Modular Contracting and “buy small, miss small” (FAR Part 39)? Think about IDIQs, BPAs, BOAs, Base period with options versus multiple-year, multiple-award ordering vehicles, etc. |
 | **Define an exit strategy** | Ensure that getting out of a non-performing results-based contract is as easy as getting into it. Utilize Award Term incentives, modular contracting methods, streamlined acquisitions, data rights clauses, multiple award strategies, and back-up acquisition strategies so that you can quickly end one contract and start a new one. |
@@ -244,21 +245,29 @@ Ask yourself:
 --- 
 ## Funding and Programmatic Considerations
 
-As acquisition and contracting professionals, we are very familiar with the typical “color of money” and continuing resolution issues that impact what, and how much, can be acquired. These are just a few of many issues where you bring your knowledge and creativity to bear and encourage your customer to do the same. To help you think creatively, consider the following:
+As acquisition and contracting professionals, we are very familiar with the typical “color of money” and continuing resolution issues that impact what can be acquired and how much can be spent. These are just a few of the many issues where you bring your knowledge and creativity to bear, encouraging your customer to do the same. To help you think creatively, consider the following:
 
 **Question assumptions:** Question high estimates, long timelines for implementation, overly specific technical requirements (or requirement gathering processes), and legacy sustainment. Do you need to replace an existing product or service wholesale, or can it be transitioned incrementally? Does it only need augmentation? What are the costs, risks, benefits, and opportunities associated with any particular approach to legacy systems or a new procurement? What about technology data/IP rights, operations and maintenance, upgrades, future completion, future functionality requirements, etc? 
 
-**Funding:** Consider funding and budget implications of all previous decisions. What lessons learned can be taken from previous contracts? Were deliverables based on delivering an actual system or documents and plans? If the budget doesn’t allow for procurement of the complete product vision right now, explore cheaper interim solutions and incremental solutions that build upon the initial product or service, and structure the contract vehicles to support that strategy. This may include vehicles that allow orders to qualified and capable contractors as funding and need arise. This is also consistent with the FAR Part 39 emphasis on modular contracting. You’ll want to structure your budget and contract to support timely delivery.
+**Funding:** Consider funding and budget implications of all previous decisions. What lessons learned can be taken from previous contracts? Were deliverables based on delivering an actual system or documents and plans? If the budget doesn’t allow for the procurement of the complete product vision at this time, explore cheaper interim solutions and incremental solutions that build upon the initial product or service, and structure the contract vehicles to support that strategy. This may include vehicles that allow orders to be placed with qualified and capable contractors as funding and need arise. This is also consistent with the FAR Part 39 emphasis on modular contracting. You’ll want to structure your budget and contract to support timely delivery.
 
 **Flexibility:** What flexibility is there in your customer’s requirements? Is an interim or partial solution possible while delivering the total product vision? Which methods could be used to achieve that?
 
-**Contract type:** An important consideration is contract type. The two most commonly used for digital services are Firm Fixed Price (FFP) and Time and Materials (T\&M) or Labor Hours (similar to T\&M but without the materials). These are almost at opposite ends of the contract spectrum as far as assumption of risk by the contractor and government. FFP shifts the performance risk to the contractor, who must perform the work at the agreed-upon fixed price. On the other hand, T\&M has the government assuming much of the performance risk because the contractor is paid hourly, essentially without a firm guarantee of results delivered. 
+**Contract type:** A vital c consideration in any acquisition is contract type. The two most commonly used for digital services are Firm Fixed Price (FFP) and Time and Materials (T&M) or Labor Hours (similar to T&M but without materials). These are often viewed as being on opposite ends of the risk spectrum. FFP shifts performance risk to the contractor, who must deliver the agreed-upon work at a set price. T&M, on the other hand, places more risk on the government, as the contractor is paid by the hour, regardless of outcomes.
 
-Each type has its place when contracting for digital services. A fixed-price contract is suitable when the work can be defined in sufficient detail so that performance uncertainties are identified and manageable. However, the issue with digital services is that it’s often extremely difficult and overly complicated to formulate detailed statements of requirements suitable for fixed-price contracts. 
+Each type has its place in digital services. Traditionally, a fixed-price contract is appropriate when requirements can be defined in sufficient detail to identify and manage performance uncertainties. However, digital services are often characterized by rapidly changing user needs, evolving policies, and emergent technical challenges, making it difficult to define everything up front.
 
-Time and materials benefit the contractor performing work, and neither party is constrained by a detailed statement of work or specification that may require constant changes or become quickly obsolete. T\&M may provide the flexibility necessary for rapid developmental efforts, where the programming and testing follow right behind the customer’s articulation of needs. 
+That’s where FFP per iteration or FFP per sprint/increment becomes valuable. Rather than pricing the entire project with fixed deliverables, the government and contractor agree to a fixed price for each time-boxed iteration (e.g., two-week sprint), based on a shared understanding of the team's velocity and expected outcomes. This approach:
 
-Modular contracting is a technique that may reduce program risks in dealing with rapidly changing requirements and technology while incentivizing contractor performance. It consists of dividing up a system into smaller increments, which are then easier to manage. It’s easier to address complex issues incrementally, provide for delivery and testing in discrete increments, and allow future increments. Concerning contract type, each module/increment could be performed on a fixed price basis since the contractor assumes much less overall risk because of the fewer unknowns.
+* Maintains cost control by fixing the price per iteration;
+* Reduces risk compared to open-ended T&M contracts;
+* Preserves flexibility in the scope of features or deliverables within each sprint;
+* Allows the government to adapt priorities and respond to user feedback between iterations.
+
+This model aligns well with modular contracting, a technique that divides work into smaller, more manageable increments. By structuring each module or iteration as a fixed-price effort, the government reduces overall risk while maintaining the agility needed to deliver user-centered, evolving digital services.
+
+In contrast, while T&M contracts can offer flexibility during uncertain discovery phases or rapid prototyping, they require more active oversight and offer less cost predictability.
+
 
 ---
 ## State of the Market
