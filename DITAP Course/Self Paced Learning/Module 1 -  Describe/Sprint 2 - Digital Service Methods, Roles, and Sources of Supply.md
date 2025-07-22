@@ -382,7 +382,6 @@ Agile delivery is more than a set of practices. It's a mindset of continuous imp
 
 Think back to a digital service or IT project you were involved in—whether as a contracting officer, program manager, or stakeholder. Based on what you now know about agile, what might you have done differently to encourage more adaptability, feedback, or user involvement?
 
----
 
 ---
 ## Knowledge Check
