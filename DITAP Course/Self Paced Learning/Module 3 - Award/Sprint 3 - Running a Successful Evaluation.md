@@ -10,7 +10,7 @@ Agile acquisitions, like traditional federal procurement approaches, begin with 
 
 Agile acquisition prioritizes objective-level requirements, focusing on the “what” over the “how.” It values working products over exhaustive documentation, aligning with agile delivery principles and user-centered outcomes. Selection methodologies emphasize a “show, don’t tell” model. Consequently, solicitations often include past experience as a technical evaluation factor distinct from past performance:
 
-* **Past Performance** evaluates a vendor’s ability to meet contract requirements—based on size, scope, and duration.  
+* **Past Performance** evaluates a vendor’s ability to meet contract requirements, based on size, scope, and duration.  
 * **Past Experience** focuses on *what* was delivered and *how*, reflecting technical capabilities and innovation in execution.
 
 ---
@@ -21,7 +21,7 @@ Agile acquisitions commonly use a multi-phased evaluation approach, or down-sele
 
 * Offerors submit minimal, early-phase deliverables (e.g., white papers).  
 * Government teams assess basic qualifications and alignment.  
-* Uncompetitive vendors are released early—minimizing industry bid and proposal costs while reducing the likelihood of protest.
+* Uncompetitive vendors are released early, minimizing industry bid and proposal costs while reducing the likelihood of protest.
 
 ---
    
@@ -31,7 +31,7 @@ Agile acquisitions commonly use a multi-phased evaluation approach, or down-sele
 * Solution walkthroughs  
 * Team presentations or problem-solving sessions
 
-This interaction gives evaluators real-time insight into the offeror’s solution maturity, team culture, and collaboration capability—departing from the static, written-only approaches of traditional source selection.
+This interaction provides evaluators with real-time insight into the offeror’s solution maturity, team culture, and collaboration capabilities, departing from the static, written-only approaches of traditional source selection.
 
 ---
 **4\. Collaborative Negotiation**
@@ -45,7 +45,7 @@ Once a preferred vendor is identified, the government may conduct alpha contract
 --- 
 **5\. Type of Evaluation: Comparative Evaluation vs. Best-Value Trade-Off**
 
-Selecting the appropriate evaluation approach is critical to ensuring alignment with the acquisition’s goals, the complexity of the solution space, and the nature of risk being managed. Two common approaches in federal procurement are comparative evaluation and best-value trade-off.
+Selecting the appropriate evaluation approach is crucial for ensuring alignment with the acquisition’s goals, the complexity of the solution space, and the nature of the risk being managed. Two common approaches in federal procurement are comparative evaluation and best-value trade-off.
 
 **Comparative Evaluation Approach**
 
@@ -92,14 +92,14 @@ Example Adjectival Evaluation Scale:
 
 **Selecting the Right Approach**
 
-Comparative evaluation is well-suited for agile and innovative procurements that require flexibility and iterative engagement. Best-value trade-offs are best used in structured, high-value acquisitions where traceability and documentation are critical. Hybrid models may be used to apply comparative methods during early phases (e.g., white papers or demos) and best-value during final evaluations.
+Comparative evaluation is well-suited for agile and innovative procurements that require flexibility and iterative engagement. Best-value trade-offs are most effective in structured, high-value acquisitions where traceability and documentation are crucial. Hybrid models may be used to apply comparative methods during early phases (e.g., white papers or demos) and best-value during final evaluations.
 
 ---
 ### II. Evaluation Criteria: Purpose and Best Practices
 
 **Purpose of Evaluation Criteria**
 
-Evaluation criteria are the cornerstone of any well-structured source selection process. They define what the government values most in a solution and shape how proposals are assessed in a fair, transparent, and mission-aligned manner. For agile acquisitions in particular—where adaptability, team dynamics, and iterative delivery matter—criteria must go beyond traditional compliance checks and instead reflect real-world performance and user outcomes.
+Evaluation criteria are the cornerstone of any well-structured source selection process. They define what the government values most in a solution and shape how proposals are assessed in a fair, transparent, and mission-aligned manner, particularly in agile acquisitions, where adaptability, team dynamics, and iterative delivery are crucial. In such cases criteria must go beyond traditional compliance checks and instead reflect real-world performance and user outcomes.
 
 **Well-designed criteria serve multiple purposes:**
 
@@ -138,10 +138,10 @@ Selecting the right evaluation criteria is both a technical and strategic task. 
    Begin with a clear, user-centered understanding of the problem space. What outcomes are desired? Who will use the solution? What does success look like? Translate these into criteria that evaluate whether a proposed solution can achieve the desired outcomes.
 
 2. **Align with Procurement Objectives**  
-   Ensure that the criteria reflect the procurement’s most important dimensions whether that’s speed to deploy, innovation, total cost of ownership, or future maintainability. Not every criterion needs equal weight.
+   Ensure that the criteria reflect the procurement’s most important dimensions, whether that’s speed to deploy, innovation, total cost of ownership, or future maintainability. Not every criterion needs equal weight.
 
 3. **Engage Cross-Functional Stakeholders Early**  
-   Collaborate with technical experts, end users, legal advisors, security professionals, and finance leads to define criteria that are practical, complete, and defensible from all angles. This engagement builds consensus and reduces surprises during evaluation.
+   Collaborate with technical experts, end-users, legal advisors, security professionals, and finance leads to define criteria that are practical, comprehensive,  and defensible from all angles. This engagement builds consensus and reduces surprises during evaluation.
 
 4. **Categorize and Prioritize Criteria**  
    Group evaluation factors into logical categories, such as Technical, Management, Past Performance, and Cost. Within these, distinguish between:
@@ -177,9 +177,9 @@ Selecting the right evaluation criteria is both a technical and strategic task. 
      Test your criteria against sample proposals to ensure they work as intended. Look for scoring ambiguity, overlaps, or unintended incentives.
 
 11. **Refine Criteria Based on Feedback**  
-     After the award, gather feedback from both vendors and evaluators to improve criteria for future use. Ask: Did the criteria surface meaningful distinctions? Were the scoring rubrics usable and fair?
+     After the award, gather feedback from both vendors and evaluators to improve the criteria for future use. Ask: Did the criteria surface meaningful distinctions? Were the scoring rubrics usable and fair?
 
-In agile environments, where collaboration, adaptability, and working software are paramount, evaluation criteria should reward vendors who demonstrate team maturity, technical fluency, and alignment with end-user needs preferably in real time through oral presentations or working prototypes.
+In agile environments, where collaboration, adaptability, and working software are paramount, evaluation criteria should reward vendors who demonstrate team maturity, technical fluency, and alignment with end-user needs, preferably in real time through oral presentations or working prototypes.
 
 ---
 ## APPENDIX A: Comparative Evaluation Model for RFPs
@@ -219,7 +219,7 @@ V. Evaluation Flow
 
 * Use white paper to screen vendors  
 * Compare solutions during oral presentations  
-* Select final vendor based on relative merit and alignment with goals
+* Select the final vendor based on relative merit and alignment with goals
 
 VI. Additional Considerations
 
