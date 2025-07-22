@@ -442,6 +442,23 @@ Yes\! The Product Owner owns the backlog and ensures the team focuses on what ma
 Not quite, while Scrum Masters support team flow, the Product Owner sets priorities and gathers requirements.
 
 ---
+## Knowledge Check
+
+Question 1
+
+**Your agency needs to replace an outdated legacy system, causing usability issues for staff and the public. The scope isn’t fully defined yet, and stakeholder needs are still being explored. What’s the best approach?**
+
+```quiz
+- [ ] Use a waterfall process to define every requirement upfront
+- [x] Use agile to deliver value in stages while gathering feedback
+- [ ] Purchase a commercial off-the-shelf solution without further research
+
+??? correct
+Correct! Agile supports evolving needs through iteration and user feedback.
+
+??? wrong
+Not quite. Since the project scope is evolving, agile is best for delivering in stages while gathering input.
+
 
 ## Digital Service Delivery Methods: HCD and DevSecOps
 
