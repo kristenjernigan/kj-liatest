@@ -378,68 +378,11 @@ Transparency builds trust between contractors and federal stakeholders and impro
 Agile delivery is more than a set of practices. It's a mindset of continuous improvement, open communication, and user-centered design. By adopting these methods, federal acquisition professionals can better support digital transformation initiatives and make informed, agile-friendly procurement decisions.
 
 ---
-### Discussion (Optional)
+## Discussion (Optional)
 
 Think back to a digital service or IT project you were involved in—whether as a contracting officer, program manager, or stakeholder. Based on what you now know about agile, what might you have done differently to encourage more adaptability, feedback, or user involvement?
 
 ---
-### Knowledge check: 
-
-Question 1
-
-**Your agency needs to replace an outdated legacy system causing usability issues for staff and the public. The scope isn’t fully defined yet, and stakeholder needs are still being explored. What’s the best approach?**
-
-- [ ] Use a waterfall process to define every requirement upfront  
-- [ ] Use agile to deliver value in stages while gathering feedback (correct)  
-- [ ] Purchase a commercial off-the-shelf solution without further research
-
-**Feedback (Correct):**  
- Correct\! Agile supports evolving needs through iteration and user feedback.
-
-**Feedback (Incorrect):**  
- Not quite. Since the project scope is evolving, agile is best for delivering in stages while gathering input.
-
-Question 2
-
-**You’re managing a software development contract with multiple vendor teams. Which agile practice will help ensure visibility into progress and performance?**
-
-- [ ] Require weekly email updates  
-- [ ] Schedule a sprint review every 2 weeks (correct)  
-- [ ] Wait for the final product demo
-
-**Feedback (Correct):**  
- Correct\! Sprint reviews create regular opportunities to share progress with stakeholders.
-
-**Feedback (Incorrect):**  
- Close, but email updates and final demos don’t offer the same transparency and collaboration as sprint reviews.
-
-Question 3
-
-**Which of the following best describes a Minimum Viable Product (MVP)?**
-
-- [ ] The final, fully-featured product  
-- [ ] A product prototype used only for internal demos  
-- [ ] A basic version with essential features to test value quickly (correct)
-
-**Feedback (Correct):**  
- That’s right\! MVPs focus on delivering core value quickly, then improving based on feedback.
-
-**Feedback (Incorrect):** 
-Not quite. MVPs aren’t prototypes or final products—they’re a smart way to test value early.
-
-Question 4
-
-**Which role primarily manages the product backlog and prioritizes user needs?**
-
-- [ ] Scrum Master  
-- [ ] Product Owner (correct)  
-- [ ] Developer
-
-**Feedback (Correct):**  
-Yes\! The Product Owner owns the backlog and ensures the team focuses on what matters most.
-
-**Feedback (Incorrect):**  
-Not quite, while Scrum Masters support team flow, the Product Owner sets priorities and gathers requirements.
 
 ---
 ## Knowledge Check
@@ -461,6 +404,8 @@ Question 1
 
 >Not quite. Since the project scope is evolving, Agile is best for delivering in stages while gathering input.
 
+---
+
 Question 2
 
 **You’re managing a software development contract with multiple vendor teams. Which agile practice will help ensure visibility into progress and performance?**
@@ -478,6 +423,8 @@ Question 2
 
 > Close, but email updates and final demos don’t offer the same transparency and collaboration as sprint reviews.
 
+---
+
 Question 3
 
 **Which of the following best describes a Minimum Viable Product (MVP)?**
@@ -494,6 +441,7 @@ Question 3
 
 >Not quite. MVPs aren’t prototypes or final products—they’re a smart way to test value early.
 
+---
 Question 4
 
 **Which role primarily manages the product backlog and prioritizes user needs?**
