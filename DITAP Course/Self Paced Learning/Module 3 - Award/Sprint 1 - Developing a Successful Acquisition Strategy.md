@@ -21,32 +21,34 @@ By the end of this module, you will be able to:
 
 Just as in our personal lives, in the government, we plan to reduce the risk of buying the wrong solution. We want to ensure we are buying the solution our users need at a price we can afford.  As you may know from your on-the-job experience, acquisition planning and the strategy will differ somewhat depending on a few factors:
 
-* You may inherit an existing contract that requires adjustment, so you will need to build a strategy for making those adjustments.  
+* You may inherit an existing contract that requires adjustments, so you will need to develop a strategy for implementing those adjustments.
+  
 * You may be involved in developing a new strategy for a new procurement.
 
-In either case, it is important to document all of the decisions made throughout the pre-award process and include what led you to those decisions. This support rationale will come from all of the pre-award activities you have conducted, from product visions to market research, and all communications with stakeholders.
+In either case, it is essential to document all decisions made throughout the pre-award process and include the rationale behind those decisions. This support rationale will be informed by all the pre-award activities you have conducted, including product visions, market research, and all communications with stakeholders.
 
-Each time you update or complete an activity, you will want to revise your acquisition strategy and document it using the lean canvas approach that you learned about in the Module 2. This lean canvas is a living document and will evolve as you refine your strategy and gain input from stakeholders and the vendor community. You will learn more about the lean canvas later in this module.
+Each time you update or complete an activity, you will want to revise your acquisition strategy and document it using the lean canvas approach that you learned about in the Release 2 classroom session. This lean canvas is a living document and will evolve as you refine your strategy and gain input from stakeholders and the vendor community. You will learn more about the lean canvas later in this module.
+
 
 ---
 ## What Feeds the Acquisition Strategy?
 
-Planning your acquisition strategy helps you lay out the scheduling, integration, and coordination of all acquisition-related efforts and is an essential and required component of all acquisitions. It should begin as soon as you identify the need for the acquisition.
+Planning your acquisition strategy helps you outline the scheduling, integration, and coordination of all acquisition-related efforts, and is an essential and required component of all acquisitions. It should begin as soon as you identify the need for the acquisition.
 
-Several key considerations inform the development of an acquisition strategy. It begins with the Product Vision, the principal driver of the overall acquisition solution (refer to the [Requirements Development and Acquisition Planning](https://techfarhub.cio.gov/handbook/requirements/) section of the TechFAR for more discussion of the Product Vision and the Module 2 content). The Product Vision also influences how other conditions and considerations in both the market and your acquisition environment will be handled in the acquisition solution. Conditions and considerations as they exist in the market and at your agency may have either positive or negative impacts on the acquisition strategy and solution. You want to plan for these impacts to seize opportunities and mitigate potential problems.
+Several key considerations inform the development of an acquisition strategy. It begins with the Product Vision, the principal driver of the overall acquisition solution. The Product Vision also influences how other conditions and considerations, both in the market and your acquisition environment, will be addressed in the acquisition solution. Conditions and considerations as they exist in the market and at your agency may have either positive or negative impacts on the acquisition strategy and solution. You want to plan for these impacts to seize opportunities and mitigate potential problems.
 
 These other conditions and considerations include, but are not limited to:
+* Stakeholder engagement, including their level of capability and cooperation
+* Availability and applicability of existing contract vehicles
+* New contract vehicle considerations
+* Contract type and pricing structure
+* Funding and programmatic considerations
+* Legacy systems and services, i.e., technical requirements, security concerns, risk, etc.
+* State of the market
+* How do you evaluate vendor quotes/proposals
+  
+We will discuss each of these in more detail as we proceed, but it’s essential to recognize that none exist in isolation. Each has the potential to impact the other considerations, which can substantially affect the ultimate acquisition strategy and solution. Understanding these conditions and considerations as they apply to your acquisition and Product Vision is key to effective planning.
 
-* Stakeholder engagement, including their level of capability and cooperation  
-* Availability and applicability of existing contract vehicles  
-* New contract vehicle considerations  
-* Contract type and pricing structure  
-* Funding and programmatic considerations  
-* Legacy systems and services, i.e., technical requirements, security concerns, risk, etc.  
-* State of the market  
-* How you will evaluate vendor quotes/proposals
-
-We will disucss each of these in more detail as we proceed, but it's essential to recognize that none exist in isolation. Each has the potential to impact the other considerations, which can substantially affect the ultimate acquisition strategy and solution. Understanding these conditions and considerations as they apply to your acquisition and Product Vision is key to effective planning.
 
 ---
 
