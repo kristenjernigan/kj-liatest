@@ -298,23 +298,23 @@ In traditional federal acquisitions, there’s a perception that opening negotia
 
 For digital services procurements, these assumptions are myths.
 
-Digital service acquisitions are different — they rely on **communication, transparency, and collaboration** with vendors to deliver the best outcomes.
+Digital service acquisitions differ — they rely on effective **communication, transparency, and collaboration** with vendors to deliver the best outcomes.
 
 In digital procurements:
 
-* **Negotiations** at the right time prevent misunderstandings and save time later.
+* **Negotiations** at the right time prevent misunderstandings and save time in the long run.
 
-* **Strategic discussions** build trust — crucial for high-risk, agile projects.
+* **Strategic discussions** build trust, which is crucial for high-risk, agile projects.
 
 * **Early negotiations** can clear up incomplete information in proposals.
 
 * You don’t have to negotiate with everyone — focus on top-ranked vendors to sharpen competition and speed up award.
 
-Key benefits of early negotiations:
+**Key benefits of early negotiations:**
 
 * Reduce protest risk by clarifying proposal gaps
 
-* Correct misunderstandings before award
+* Correct misunderstandings before the award
 
 * Test vendor flexibility and responsiveness
 
@@ -333,13 +333,13 @@ Negotiations differ from:
 * **Clarifications** – Minor corrections or explanations; proposals are not revised  
 * **Communications** – Used to establish a competitive range; proposals still not revised
 
-Negotiations can be conducted in both sole source and competitive acquisitions. 
+Negotiations can be conducted in both sole-source and competitive acquisitions. 
 
-In **sole source** acquisitions, the FAR uses “negotiations.” In **competitive** ones, it uses “discussions.”
+In **sole-source** acquisitions, the FAR uses “negotiations.” In **competitive** ones, it uses “discussions.”
 
 In this lesson, we will use the term “negotiations” to apply to both situations.
 
-The primary purpose of the source selection process is to allow the Government to choose the offer that represents best value — to select the offer that best meets the Government’s needs at a fair and reasonable price. Contract negotiations are a way to maximize the ability to obtain best value. 
+The primary purpose of the source selection process is to allow the Government to choose the offer that represents the best value — to select the offer that best meets the Government’s needs at a fair and reasonable price. Contract negotiations are a way to maximize the ability to obtain the best value. 
 
 ### Best Practices for Digital Service Procurements 
 
@@ -357,19 +357,19 @@ The primary purpose of the source selection process is to allow the Government t
 
 In today's digital services procurements, solicitations increasingly involve **multi-phase evaluations,** such as:
 
-* And initial phase to review case studies, past performance, videos or other pass/fail methods.  
+* Ad initial phase to review case studies, past performance, videos, or other pass/fail methods.  
 * Code challenges, live technical demonstrations, or interview-style oral presentations.  
 * Moving forward with only the highest-rated vendors to the full documentation/ technical proposal stage. 
 
-At advisory or other down-select points, negotiations can be included at multiple phases, and might make sense at the point of making selection determinations, especially if there are companies that are close to making it but missing a few points that eliminate them:
+At advisory or other down-select points, negotiations can be included at multiple phases. They might make sense at the point of making selection determinations, especially if there are companies that are close to making it but missing a few points that eliminate them:
 
 * Open discussions with vendors before eliminating them. 
 
-* Give vendors feedback that allows them to understand why they are not advancing.
+* Provide vendors with feedback that helps them understand why they are not advancing.
 
 * Offer borderline vendors a chance to strengthen their proposals if they are invited to continue.
 
-This mirrors how agile development itself works — iterative improvement based on feedback. It also builds vendor-government trust before award, aligning expectations and reducing post-award friction.
+This mirrors how agile development itself works — an iterative process of improvement based on feedback. It also builds vendor-government trust before award, aligning expectations and reducing post-award friction.
 
 #### Example: Negotiation Opportunity During Code Challenge Phase
 
@@ -387,11 +387,23 @@ As a result, one vendor substantially improves their design and security posture
 
 ### Negotiations and Best Value 
 
-It is important to note that negotiations are not necessarily about obtaining the lowest possible price. The goal of negotiations is to achieve best value — the most advantageous offer consistent with the acquisition’s needs and evaluation factors. Areas under negotiation might vary considerably based on the specifics of the acquisition; in addition to price, the Government might negotiate technical requirements, schedule, contract type, or terms of a proposed contract. 
+It is important to note that negotiations are not necessarily about obtaining the lowest possible price. The goal of negotiations is to achieve best value — the most advantageous offer consistent with the acquisition’s needs and evaluation factors. Areas under negotiation may vary considerably based on the specifics of the acquisition; in addition to price, the government may negotiate technical requirements, schedule, contract type, or terms of a proposed contract. 
 
 **For example:** 
 
-An agency has a requirement for a sensor that uses new, cutting-edge technology. The agency anticipates a high level of performance risk, so while price is an important factor, the focus of negotiations would be on technical factors and expertise. The negotiations may involve tradeoffs among price and reducing performance risk or achieving a higher level of performance. 
+An agency requires a sensor that uses new, cutting-edge technology. The agency anticipates a high level of performance risk; therefore, while price is an important factor, the focus of negotiations will be on technical factors and expertise. The negotiations may involve tradeoffs among price, reducing performance risk, or achieving a higher level of performance. 
+
+**A Note About Using Price Effectively in Proposal Evaluations**
+
+In digital service acquisitions, price should be evaluated as part of a broader assessment, not in isolation. The lowest price does not always represent the best value, especially when high-quality talent and iterative problem-solving are essential. Instead, price should serve as a check on the vendor's understanding of the work and their ability to deliver effectively.
+
+Best value does not mean choosing the cheapest option. It means selecting the proposal that offers the most advantageous balance of technical quality, delivery risk, and cost. Evaluators should determine whether the proposed price is realistic, considering the scope and complexity of the project. A price that appears unusually low may signal that the vendor lacks a clear understanding of the work or plans to staff it with underqualified personnel, which can increase risk and lead to costly rework.
+
+Rather than letting price drive the decision, it should be used to assess whether the vendor’s approach is credible and efficient. In a best-value tradeoff, the **technical rating carries more weight**, especially in digital services where outcomes are directly tied to the skill and collaboration of the delivery team. **Proposals that offer significantly better technical approaches may justify a higher cost, particularly if they reduce long-term risk or improve mission outcomes.**
+
+To support this, the government can use a price range in the Independent Government Cost Estimate (IGCE) that reflects market rates for experienced digital teams. This helps identify proposals that are either unrealistically low or disproportionately high in relation to the expected value.
+
+
 
 ### Applicable Requirements and Guidance 
 
