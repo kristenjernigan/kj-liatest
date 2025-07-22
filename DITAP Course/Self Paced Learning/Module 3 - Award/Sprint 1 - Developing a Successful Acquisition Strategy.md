@@ -33,7 +33,7 @@ Each time you update or complete an activity, you will want to revise your acqui
 
 Planning your acquisition strategy helps you lay out the scheduling, integration, and coordination of all acquisition-related efforts and is an essential and required component of all acquisitions. It should begin as soon as you identify the need for the acquisition.
 
-There are many considerations that feed the development of an acquisition strategy. It begins with the Product Vision, the principal driver of the overall acquisition solution (refer to the [Requirements Development and Acquisition Planning](https://techfarhub.cio.gov/handbook/requirements/) section of the TechFAR for more discussion of the Product Vision and the Module 2 content). The Product Vision also influences how other conditions and considerations in both the market and your acquisition environment will be handled in the acquisition solution. Conditions and considerations as they exist in the market and at your agency may have either positive or negative impacts on the acquisition strategy and solution. You want to plan for these impacts to seize opportunities and mitigate potential problems.
+Several key considerations inform the development of an acquisition strategy. It begins with the Product Vision, the principal driver of the overall acquisition solution (refer to the [Requirements Development and Acquisition Planning](https://techfarhub.cio.gov/handbook/requirements/) section of the TechFAR for more discussion of the Product Vision and the Module 2 content). The Product Vision also influences how other conditions and considerations in both the market and your acquisition environment will be handled in the acquisition solution. Conditions and considerations as they exist in the market and at your agency may have either positive or negative impacts on the acquisition strategy and solution. You want to plan for these impacts to seize opportunities and mitigate potential problems.
 
 These other conditions and considerations include, but are not limited to:
 
@@ -46,7 +46,7 @@ These other conditions and considerations include, but are not limited to:
 * State of the market  
 * How you will evaluate vendor quotes/proposals
 
-We will discuss each of these in more detail as we go, but recognize that none exist in a vacuum. Each has the potential to impact the other considerations, which can substantially affect the ultimate acquisition strategy and solution. Understanding these conditions and considerations as they apply to your acquisition and Product Vision is key to effective planning.
+We will disucss each of these in more detail as we proceed, but it's essential to recognize that none exist in isolation. Each has the potential to impact the other considerations, which can substantially affect the ultimate acquisition strategy and solution. Understanding these conditions and considerations as they apply to your acquisition and Product Vision is key to effective planning.
 
 ---
 
