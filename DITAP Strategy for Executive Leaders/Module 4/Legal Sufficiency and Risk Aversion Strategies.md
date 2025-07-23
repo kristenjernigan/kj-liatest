@@ -32,7 +32,7 @@ Red flags:
 
 **How to differentiate**
 
-[Insert image here]
+<img width="767" height="414" alt="Table showing different legal sufficiencies and excessive risk aversions by area" src="https://github.com/user-attachments/assets/0613aa3b-3858-4c5b-8435-cb8224c78e67" />
 
 ## Best Practices
 
