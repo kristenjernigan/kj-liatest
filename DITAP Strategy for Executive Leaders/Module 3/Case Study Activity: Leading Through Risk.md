@@ -331,187 +331,240 @@ Long-term systemic change (Next year):
 - Months 10-12: Create innovation-friendly procurement processes and vendor engagement
 - Ongoing: Regular review and adaptation based on experience and the changing technology landscape
 
-Executive influence integration:
+**Executive influence integration**:
+
 Resource allocation:
-●       Budget: Fund working group activities, training development, and pilot project support
-●       Personnel: Assign dedicated staff to framework development and implementation
-●       Time: Protect time for stakeholder engagement and policy development
-●       Authority: Provide decision-making authority for framework adoption
+- Budget: Fund working group activities, training development, and pilot project support
+- Personnel: Assign dedicated staff to framework development and implementation
+- Time: Protect time for stakeholder engagement and policy development
+- Authority: Provide decision-making authority for framework adoption
+
 Policy and process modification:
-●       Policy updates: Modify existing policies to incorporate a risk-based approach
-●       Process changes: Adapt approval processes to accommodate the new framework
-●       Training programs: Develop and deliver training on new approaches
-●       Communication strategy: Articulate vision and benefits to stakeholders
+- Policy updates: Modify existing policies to incorporate a risk-based approach
+- Process changes: Adapt approval processes to accommodate the new framework
+- Training programs: Develop and deliver training on new approaches
+- Communication strategy: Articulate vision and benefits to stakeholders
+
 Cultural change support:
-●       Leadership modeling: Demonstrate comfort with appropriate risk-taking
-●       Success recognition: Celebrate successful applications of the new framework
-●       Failure tolerance: Treat intelligent failures as learning opportunities
-●       Continuous improvement: Adapt the approach based on experience and feedback
-Success measurement framework:
+- Leadership modeling: Demonstrate comfort with appropriate risk-taking
+- Success recognition: Celebrate successful applications of the new framework
+- Failure tolerance: Treat intelligent failures as learning opportunities
+- Continuous improvement: Adapt the approach based on experience and feedback
+
+**Success measurement framework**:
+
 Leading indicators:
-●       Policy adoption: Number of projects using the new framework
-●       Training completion: Percentage of relevant staff trained
-●       Stakeholder engagement: Participation in working groups and feedback sessions
-●       Process efficiency: Time reduction in technology approval processes
+- Policy adoption: Number of projects using the new framework
+- Training completion: Percentage of relevant staff trained
+- Stakeholder engagement: Participation in working groups and feedback sessions
+- Process efficiency: Time reduction in technology approval processes
+
 Lagging indicators:
-●       Innovation outcomes: Number of emerging technologies successfully adopted
-●       Mission impact: Improvements in mission effectiveness and competitive advantage
-●       Risk management: Balance of innovation success with appropriate risk management
-●       Organizational learning: Capability development and knowledge retention
-Facilitator guidance for MVP development:
+- Innovation outcomes: Number of emerging technologies successfully adopted
+- Mission impact: Improvements in mission effectiveness and competitive advantage
+- Risk management: Balance of innovation success with appropriate risk management
+- Organizational learning: Capability development and knowledge retention
+
+### Facilitator guidance for MVP development:
 Team selection process:
-●       Voting method: Teams vote on user stories based on impact and feasibility
-●       Consensus building: Brief discussion to reach agreement on selection
-●       Backup planning: Identify a secondary choice in case the primary proves too complex
-●       Reality check: Ensure the selected story is achievable within resource constraints
+- Voting method: Teams vote on user stories based on impact and feasibility
+- Consensus building: Brief discussion to reach agreement on selection
+- Backup planning: Identify a secondary choice in case the primary proves too complex
+- Reality check: Ensure the selected story is achievable within resource constraints
+
 Development process:
-●       Structured planning: Use the provided template for immediate, short-term, and long-term actions
-●       Resource consideration: Consider available personnel, budget, and time constraints
-●       Stakeholder mapping: Identify who needs to be involved in each phase
-●       Risk assessment: Consider implementation risks and mitigation strategies
+- Structured planning: Use the provided template for immediate, short-term, and long-term actions
+- Resource consideration: Consider available personnel, budget, and time constraints
+- Stakeholder mapping: Identify who needs to be involved in each phase
+- Risk assessment: Consider implementation risks and mitigation strategies
+
 Common MVP problems:
-●       Scope creep: Solutions that grow beyond the minimum viable scope
-●       Resource unrealism: Plans that exceed available resources
-●       Stakeholder neglect: Plans that ignore key stakeholder needs
-●       Measurement gaps: Solutions without clear success criteria
+- Scope creep: Solutions that grow beyond the minimum viable scope
+- Resource unrealism: Plans that exceed available resources
+- Stakeholder neglect: Plans that ignore key stakeholder needs
+- Measurement gaps: Solutions without clear success criteria
+
 Facilitation interventions:
-●       Scope management: "What's the smallest version that would provide value?"
-●       Resource reality: "What resources do you have available?"
-●       Stakeholder check: "Who needs to be involved for this to succeed?"
-●       Success criteria: "How will you know this is working?"
+- Scope management: "What's the smallest version that would provide value?"
+- Resource reality: "What resources do you have available?"
+- Stakeholder check: "Who needs to be involved for this to succeed?"
+- Success criteria: "How will you know this is working?"
+
 Quality indicators:
-●       Good MVP: Realistic scope, adequate resources, stakeholder engagement, clear success criteria
-●       Poor MVP: Unrealistic scope, insufficient resources, stakeholder neglect, vague success criteria
+- Good MVP: Realistic scope, adequate resources, stakeholder engagement, clear success criteria
+- Poor MVP: Unrealistic scope, insufficient resources, stakeholder neglect, vague success criteria
  
-Lean Procurement Canvas Exercise
-Canvas section development:
+## Lean Procurement Canvas Exercise
+
+**Canvas section development**:
+
 Problem segments - Expected answers:
-●       Healthcare data integration: Fragmented systems prevent comprehensive patient care
-●       Research limitations: Researchers cannot access integrated datasets for medical breakthroughs
-●       Compliance challenges: Administrators struggle with data consistency and regulatory requirements
-●       Decision delays: Clinicians waste time accessing data instead of treating patients
+- Healthcare data integration: Fragmented systems prevent comprehensive patient care
+- Research limitations: Researchers cannot access integrated datasets for medical breakthroughs
+- Compliance challenges: Administrators struggle with data consistency and regulatory requirements
+- Decision delays: Clinicians waste time accessing data instead of treating patients
+
 Value propositions - Expected answers:
-●       Unified data access: Single point of access for comprehensive patient information
-●       AI-powered insights: Machine learning capabilities that accelerate diagnosis and treatment
-●       Regulatory compliance: Automated compliance monitoring and reporting
-●       Research acceleration: Integrated datasets enable faster medical research and discovery
+- Unified data access: Single point of access for comprehensive patient information
+- AI-powered insights: Machine learning capabilities that accelerate diagnosis and treatment
+- Regulatory compliance: Automated compliance monitoring and reporting
+- Research acceleration: Integrated datasets enable faster medical research and discovery
+
 Solution approach - Expected answers:
-●       Minimum viable solution: Single-hospital data integration with basic AI capabilities
-●       Validation strategy: User interviews, prototype testing, pilot deployment with feedback loops
-●       Learning priorities: User workflow integration, data quality requirements, AI effectiveness
-●       Scaling plan: Expand to multiple hospitals, add advanced AI features, and integrate with external systems
+- Minimum viable solution: Single-hospital data integration with basic AI capabilities
+- Validation strategy: User interviews, prototype testing, pilot deployment with feedback loops
+- Learning priorities: User workflow integration, data quality requirements, AI effectiveness
+- Scaling plan: Expand to multiple hospitals, add advanced AI features, and integrate with external systems
+
 Key metrics - Expected answers:
-●       User success: Time to access patient data, clinical decision-making speed, and user satisfaction
-●       Technical performance: System uptime, data accuracy, integration success rates
-●       Business impact: Cost reduction, efficiency improvements, patient outcome improvements
-●       Innovation indicators: New insights discovered, research acceleration, breakthrough treatments
+- User success: Time to access patient data, clinical decision-making speed, and user satisfaction
+- Technical performance: System uptime, data accuracy, integration success rates
+- Business impact: Cost reduction, efficiency improvements, patient outcome improvements
+- Innovation indicators: New insights discovered, research acceleration, breakthrough treatments
+
 Channels - Expected answers:
-●       Primary access: Web-based clinical dashboard optimized for healthcare workflows
-●       Mobile access: Tablet and smartphone applications for point-of-care use
-●       Integration points: APIs connecting to existing hospital information systems
-●       Support channels: Training programs, help desk, technical documentation
+- Primary access: Web-based clinical dashboard optimized for healthcare workflows
+- Mobile access: Tablet and smartphone applications for point-of-care use
+- Integration points: APIs connecting to existing hospital information systems
+- Support channels: Training programs, help desk, technical documentation
+
 Cost structure - Expected answers:
-●       Development costs: Software development, AI model training, system integration
-●       Infrastructure costs: Cloud hosting, data storage, security systems
-●       Operational costs: Ongoing maintenance, support, training, updates
-●       Integration costs: API development, data migration, system testing
+- Development costs: Software development, AI model training, system integration
+- Infrastructure costs: Cloud hosting, data storage, security systems
+- Operational costs: Ongoing maintenance, support, training, updates
+- Integration costs: API development, data migration, system testing
+
 Revenue streams - Expected answers:
-●       Organizational value: Improved patient outcomes, operational efficiency, competitive advantage
-●       Cost savings: Reduced administrative burden, faster decision-making, reduced errors
-●       Revenue generation: Better patient care leading to improved reputation and volume
-●       Innovation value: Research breakthroughs, new treatment capabilities, knowledge advancement
-Facilitator guidance for the canvas exercise:
+- Organizational value: Improved patient outcomes, operational efficiency, competitive advantage
+- Cost savings: Reduced administrative burden, faster decision-making, reduced errors
+- Revenue generation: Better patient care leading to improved reputation and volume
+- Innovation value: Research breakthroughs, new treatment capabilities, knowledge advancement
+
+### Facilitator guidance for the canvas exercise:
 Canvas completion process:
-●       Time management: Allow 4-5 minutes per section, enforce time limits
-●       Collaboration: Encourage all team members to contribute to each section
-●       Specificity: Push for concrete examples rather than abstract concepts
-●       Integration: Ensure sections connect logically and support each other
+- Time management: Allow 4-5 minutes per section, enforce time limits
+- Collaboration: Encourage all team members to contribute to each section
+- Specificity: Push for concrete examples rather than abstract concepts
+- Integration: Ensure sections connect logically and support each other
+
 Common canvas problems:
-●       Generic solutions: Vague descriptions that could apply to any system
-●       Technology focus: Emphasis on features rather than user value
-●       Unrealistic metrics: Unmeasurable or irrelevant success indicators
-●       Cost ignorance: Underestimating development and operational costs
+- Generic solutions: Vague descriptions that could apply to any system
+- Technology focus: Emphasis on features rather than user value
+- Unrealistic metrics: Unmeasurable or irrelevant success indicators
+- Cost ignorance: Underestimating development and operational costs
+
 Facilitation questions:
-●       Problem focus: "Who specifically experiences this problem and how?"
-●       Value clarity: "What specific value does this provide to users?"
-●       Solution realism: "What's the simplest version that would work?"
-●       Metric relevance: "How does this metric connect to mission success?"
+- Problem focus: "Who specifically experiences this problem and how?"
+- Value clarity: "What specific value does this provide to users?"
+- Solution realism: "What's the simplest version that would work?"
+- Metric relevance: "How does this metric connect to mission success?"
+
 Quality indicators:
-●       Good canvas: Specific problem focus, clear value proposition, realistic solution approach, measurable metrics
-●       Poor canvas: Generic problems, vague value, unrealistic solutions, unmeasurable metrics
+- Good canvas: Specific problem focus, clear value proposition, realistic solution approach, measurable metrics
+- Poor canvas: Generic problems, vague value, unrealistic solutions, unmeasurable metrics
 
+## Discussion Questions Answer Key 
+_Question 1: How do you translate user needs into language that drives acquisition?_
+- Complete answer: Translating user needs into acquisition language requires a systematic approach that maintains focus on user outcomes while providing vendors with precise, actionable requirements that can be evaluated and delivered within government procurement frameworks.
 
+Key learning points:
+- Start with user research and validation:
+    - Before writing any requirements, conduct direct user research to understand actual needs, pain points, and success criteria. This prevents the common problem of translating assumed needs rather than validated user requirements. Use ethnographic research, user interviews, and task analysis to understand how users work, not how processes assume they work.
+- Focus on outcomes, not outputs:
+    - Traditional acquisition language often specifies what to build (outputs) rather than what to achieve (outcomes). User-centered acquisition language describes the problems to be solved and the success criteria to be met, giving vendors the flexibility to propose optimal solutions. For example, instead of "build a dashboard with 15 specific data fields," write "enable clinicians to access patient history within 30 seconds to support treatment decisions."
+- Use Performance Work Statements (PWS):
+    - Structure requirements around desired outcomes and performance standards rather than detailed technical specifications. PWS documents should focus on what the system must accomplish for users, how success will be measured, and what constraints exist. This approach enables vendor innovation while ensuring accountability for results.
+- Include user acceptance criteria:
+    - Clearly define how success will be measured from the user perspective, including usability standards, performance benchmarks, and satisfaction metrics. Acceptance criteria should be specific, measurable, and tied to actual user workflows. For example, "95% of users can complete the primary task without training or support."
+- Maintain traceability:
+    - Ensure every requirement can be traced back to a specific user need or mission objective. This prevents scope creep and ensures relevance throughout the project lifecycle. Create a requirements traceability matrix that connects user research findings to functional requirements to acceptance criteria.
+- Use plain language:
+    - Write requirements in language that users can understand and validate. Avoid technical jargon and focus on user goals and outcomes. This enables user participation in requirement validation, ensuring that vendors understand user needs.
 
-Discussion Questions Answer Key
- 
-Question 1: How do you translate user needs into language that drives acquisition?
-Complete answer: Translating user needs into acquisition language requires a systematic approach that maintains focus on user outcomes while providing vendors with precise, actionable requirements that can be evaluated and delivered within government procurement frameworks.
+**Facilitator notes**:
+- Emphasize that this is a skill that requires practice and iteration
+- Encourage participants to share examples from their own experience
+- Highlight the importance of user involvement throughout the process
+- Address common concerns about losing technical precision
+
+_Question 2: What's the difference between legal sufficiency and excessive risk aversion?_
+- Complete answer: Legal sufficiency focuses on meeting actual regulatory requirements and protecting against genuine legal risks. In contrast, excessive risk aversion goes beyond legal requirements to avoid any possibility of criticism or challenge, often at the expense of mission effectiveness and innovation.
+
 Key learning points:
-Start with user research and validation: Before writing any requirements, conduct direct user research to understand actual needs, pain points, and success criteria. This prevents the common problem of translating assumed needs rather than validated user requirements. Use ethnographic research, user interviews, and task analysis to understand how users work, not how processes assume they work.
-Focus on outcomes, not outputs: Traditional acquisition language often specifies what to build (outputs) rather than what to achieve (outcomes). User-centered acquisition language describes the problems to be solved and the success criteria to be met, giving vendors the flexibility to propose optimal solutions. For example, instead of "build a dashboard with 15 specific data fields," write "enable clinicians to access patient history within 30 seconds to support treatment decisions."
-Use Performance Work Statements (PWS): Structure requirements around desired outcomes and performance standards rather than detailed technical specifications. PWS documents should focus on what the system must accomplish for users, how success will be measured, and what constraints exist. This approach enables vendor innovation while ensuring accountability for results.
-Include user acceptance criteria: Clearly define how success will be measured from the user perspective, including usability standards, performance benchmarks, and satisfaction metrics. Acceptance criteria should be specific, measurable, and tied to actual user workflows. For example, "95% of users can complete the primary task without training or support."
-Maintain traceability: Ensure every requirement can be traced back to a specific user need or mission objective. This prevents scope creep and ensures relevance throughout the project lifecycle. Create a requirements traceability matrix that connects user research findings to functional requirements to acceptance criteria.
-Use plain language: Write requirements in language that users can understand and validate. Avoid technical jargon and focus on user goals and outcomes. This enables user participation in requirement validation, ensuring that vendors understand user needs.
-Facilitator notes:
-●       Emphasize that this is a skill that requires practice and iteration
-●       Encourage participants to share examples from their own experience
-●       Highlight the importance of user involvement throughout the process
-●       Address common concerns about losing technical precision
-Question 2: What's the difference between legal sufficiency and excessive risk aversion?
-Complete answer: Legal sufficiency focuses on meeting actual regulatory requirements and protecting against genuine legal risks. In contrast, excessive risk aversion goes beyond legal requirements to avoid any possibility of criticism or challenge, often at the expense of mission effectiveness and innovation.
+- Legal sufficiency characteristics:
+    - Legal sufficiency entails understanding and complying with actual legal requirements, consulting with legal counsel as necessary, and accurately documenting decisions. It focuses on enabling mission success while protecting against real legal risks. This includes following the Federal Acquisition Regulation (FAR), agency-specific regulations, and applicable statutes, but interpreting them in ways that enable rather than obstruct mission accomplishment.
+- Excessive risk aversion indicators:
+    - Excessive risk aversion often manifests as inflexible adherence to past practices, unwillingness to use available authorities, treating guidance as requirements, and prioritizing process perfection over mission outcomes. Common indicators include: requiring approvals not mandated by regulation, applying conservative interpretations without legal basis, avoiding new approaches regardless of potential benefits, and creating process requirements that exceed legal mandates.
+- The executive's role in distinguishing:
+    - Executives must challenge their teams to differentiate between real legal requirements and organizational habits. This approach requires asking tough questions about the source of requirements, the consequences of different methods, and the impact of conservative interpretations on the mission. Leaders should work with legal counsel to understand what is required versus what is traditionally done.
+- Cultural impact:
+    - Excessive risk aversion fosters a culture where innovation is discouraged, and teams tend to default to the most conservative approach, regardless of mission needs. This approach ultimately increases the risk of mission failure while creating the illusion of safety. It also drives away talented people who want to work on meaningful challenges with modern approaches.
+- Practical application:
+    - Teams should regularly review their risk assumptions, consult with legal counsel about actual requirements, and benchmark against other successful organizations to calibrate their risk tolerance appropriately. The goal is intelligent risk management that enables mission success, not risk avoidance that prevents mission accomplishment.
+
+**Facilitator notes**:
+- Encourage participants to share examples of both legal sufficiency and excessive risk aversion
+- Emphasize the importance of consulting with legal counsel for actual requirements
+- Highlight the mission impact of excessive risk aversion
+- Address concerns about career safety and organizational protection
+
+_Question 3: How do modern contract types support digital services?_
+- Complete answer: Modern contract types enable the iterative, user-feedback-driven development that digital services require, shifting away from traditional fixed-scope approaches toward flexible arrangements that support continuous delivery and improvement.
+
 Key learning points:
-Legal sufficiency characteristics: Legal sufficiency entails understanding and complying with actual legal requirements, consulting with legal counsel as necessary, and accurately documenting decisions. It focuses on enabling mission success while protecting against real legal risks. This includes following the Federal Acquisition Regulation (FAR), agency-specific regulations, and applicable statutes, but interpreting them in ways that enable rather than obstruct mission accomplishment.
-Excessive risk aversion indicators: Excessive risk aversion often manifests as inflexible adherence to past practices, unwillingness to use available authorities, treating guidance as requirements, and prioritizing process perfection over mission outcomes. Common indicators include: requiring approvals not mandated by regulation, applying conservative interpretations without legal basis, avoiding new approaches regardless of potential benefits, and creating process requirements that exceed legal mandates.
-The executive's role in distinguishing: Executives must challenge their teams to differentiate between real legal requirements and organizational habits. This approach requires asking tough questions about the source of requirements, the consequences of different methods, and the impact of conservative interpretations on the mission. Leaders should work with legal counsel to understand what is required versus what is traditionally done.
-Cultural impact: Excessive risk aversion fosters a culture where innovation is discouraged, and teams tend to default to the most conservative approach, regardless of mission needs. This approach ultimately increases the risk of mission failure while creating the illusion of safety. It also drives away talented people who want to work on meaningful challenges with modern approaches.
-Practical application: Teams should regularly review their risk assumptions, consult with legal counsel about actual requirements, and benchmark against other successful organizations to calibrate their risk tolerance appropriately. The goal is intelligent risk management that enables mission success, not risk avoidance that prevents mission accomplishment.
-Facilitator notes:
-●       Encourage participants to share examples of both legal sufficiency and excessive risk aversion
-●       Emphasize the importance of consulting with legal counsel for actual requirements
-●       Highlight the mission impact of excessive risk aversion
-●       Address concerns about career safety and organizational protection
-Question 3: How do modern contract types support digital services?
-Complete answer: Modern contract types enable the iterative, user-feedback-driven development that digital services require, shifting away from traditional fixed-scope approaches toward flexible arrangements that support continuous delivery and improvement.
+- Agile-compatible contract types:
+    - Time and Materials (T&M) contracts offer flexibility for iterative development, allowing the scope to evolve based on user feedback. Labor Hour contracts support user research and discovery phases where specific deliverables cannot be predetermined. Indefinite Delivery/Indefinite Quantity (IDIQ) contracts enable ongoing iteration and continuous delivery of capabilities.
+- Performance-based contracting:
+    - Structure payments around working software demonstrations and user acceptance rather than traditional milestones. This approach aligns vendor incentives with user outcomes, encouraging continuous delivery. Payment should be tied to value delivered to users, not just effort expended or features completed.
+- Modular contract approaches:
+    - Utilize multiple smaller contracts rather than a single large, monolithic contract. This approach reduces vendor lock-in, enables competition for different components, and allows for course corrections without requiring renegotiation of entire agreements. Modular approaches also enable parallel development and faster overall delivery.
+- Key contract features:
+    - Include provisions for user feedback integration, iterative delivery requirements, and collaborative working arrangements. Contracts should support the government's need for continuous oversight and course correction while enabling vendor innovation and efficiency.
+
+**Facilitator notes**:
+- Emphasize the importance of aligning contract structure with desired outcomes
+- Encourage discussion of participants' experiences with different contract types
+- Highlight the role of legal counsel in structuring innovative contracts
+- Address concerns about compliance and risk management
+
+_Question 4: How do you structure acquisition strategies for agile development?_
+- Complete answer: Agile acquisition strategies must accommodate uncertainty, iteration, and continuous user feedback while maintaining appropriate oversight and accountability for public funds.
+
 Key learning points:
-Agile-compatible contract types: Time and Materials (T&M) contracts offer flexibility for iterative development, allowing the scope to evolve based on user feedback. Labor Hour contracts support user research and discovery phases where specific deliverables cannot be predetermined. Indefinite Delivery/Indefinite Quantity (IDIQ) contracts enable ongoing iteration and continuous delivery of capabilities.
-Performance-based contracting: Structure payments around working software demonstrations and user acceptance rather than traditional milestones. This approach aligns vendor incentives with user outcomes, encouraging continuous delivery. Payment should be tied to value delivered to users, not just effort expended or features completed.
-Modular contract approaches: Utilize multiple smaller contracts rather than a single large, monolithic contract. This approach reduces vendor lock-in, enables competition for different components, and allows for course corrections without requiring renegotiation of entire agreements. Modular approaches also enable parallel development and faster overall delivery.
-Innovative authorities, such as the Other Transaction Authority (OTA) and similar authorities, provide maximum flexibility for research and development activities, enabling rapid prototyping and experimentation. These authorities can be particularly valuable for emerging technologies where requirements are uncertain.
-Key contract features: Include provisions for user feedback integration, iterative delivery requirements, and collaborative working arrangements. Contracts should support the government's need for continuous oversight and course correction while enabling vendor innovation and efficiency.
-Facilitator notes:
-●       Emphasize the importance of aligning contract structure with desired outcomes
-●       Encourage discussion of participants' experiences with different contract types
-●       Highlight the role of legal counsel in structuring innovative contracts
-●       Address concerns about compliance and risk management
-Question 4: How do you structure acquisition strategies for agile development?
-Complete answer: Agile acquisition strategies must accommodate uncertainty, iteration, and continuous user feedback while maintaining appropriate oversight and accountability for public funds.
-Key learning points:
-Embrace uncertainty: Traditional acquisition assumes complete requirements definition upfront. Agile acquisition acknowledges that requirements will evolve based on user feedback and learning, and structures contracts to accommodate this reality. This approach requires comfort with ambiguity and trust in the iterative process to produce better outcomes.
-Iterative delivery framework: Structure acquisitions around regular delivery of working software rather than traditional milestone-based approaches. This approach enables continuous value delivery and reduces the risk of building the wrong solution. Deliveries should be frequent (typically every 2-4 weeks) and demonstrate working functionality.
-User-centered oversight: Replace traditional project management oversight with product management approaches that focus on user outcomes and value delivery rather than process compliance. This approach requires government product managers who can make day-to-day decisions about priorities and requirements.
-Vendor collaboration model: Structure vendor relationships as partnerships rather than traditional buyer-supplier arrangements. This approach includes transparent communication, shared risk, and collaborative problem-solving. Vendors should be involved in planning and problem-solving activities, not just execution.
-Flexible funding approaches: Use funding mechanisms that support iterative development, including incremental funding, modular budgeting, and performance-based payments tied to user value delivery. Avoid funding approaches that require complete scope definition upfront.
-Facilitator notes:
-●       Emphasize the cultural change required for agile acquisition
-●       Encourage discussion of organizational barriers and enablers
-●       Highlight the importance of government product management capabilities
-●       Address concerns about oversight and accountability
-Additional facilitator guidance:
+- Embrace uncertainty:
+    - Traditional acquisition assumes complete requirements definition upfront. Agile acquisition acknowledges that requirements will evolve based on user feedback and learning, and structures contracts to accommodate this reality. This approach requires comfort with ambiguity and trust in the iterative process to produce better outcomes.
+- Iterative delivery framework:
+    - Structure acquisitions around regular delivery of working software rather than traditional milestone-based approaches. This approach enables continuous value delivery and reduces the risk of building the wrong solution. Deliveries should be frequent (typically every 2-4 weeks) and demonstrate working functionality.
+- User-centered oversight:
+    - Replace traditional project management oversight with product management approaches that focus on user outcomes and value delivery rather than process compliance. This approach requires government product managers who can make day-to-day decisions about priorities and requirements.
+- Vendor collaboration model:
+    - Structure vendor relationships as partnerships rather than traditional buyer-supplier arrangements. This approach includes transparent communication, shared risk, and collaborative problem-solving. Vendors should be involved in planning and problem-solving activities, not just execution.
+- Flexible funding approaches:
+    - Use funding mechanisms that support iterative development, including incremental funding, modular budgeting, and performance-based payments tied to user value delivery. Avoid funding approaches that require complete scope definition upfront.
+
+**Facilitator notes**:
+- Emphasize the cultural change required for agile acquisition
+- Encourage discussion of organizational barriers and enablers
+- Highlight the importance of government product management capabilities
+- Address concerns about oversight and accountability
+
+### Additional facilitator guidance:
 Module integration:
-●       Connect risk management concepts to CVF from Module 1
-●       Prepare for vendor evaluation concepts in Module 4
-●       Emphasize the role of user needs from Module 2
-●       Set up change management concepts for Module 5
+- Connect risk management concepts to CVF from Module 1
+- Prepare for vendor evaluation concepts in Module 4
+- Emphasize the role of user needs from Module 2
+- Set up change management concepts for Module 5
+
 Common participant concerns:
-●       Fear of career impact from risk-taking
-●       Uncertainty about legal requirements
-●       Lack of experience with modern approaches
-●       Organizational resistance to change
+- Fear of career impact from risk-taking
+- Uncertainty about legal requirements
+- Lack of experience with modern approaches
+- Organizational resistance to change
+
 Success indicators:
-●       Participants can distinguish legal requirements from organizational habits
-●       Teams develop realistic implementation plans
-●       Discussion focuses on mission outcomes rather than process compliance
-●       Participants demonstrate understanding of user-centered approaches
+- Participants can distinguish legal requirements from organizational habits
+- Teams develop realistic implementation plans
+- Discussion focuses on mission outcomes rather than process compliance
+- Participants demonstrate understanding of user-centered approaches
  
 
