@@ -732,7 +732,7 @@ In this module, we’ve shown that pre-solicitation communication with vendors i
 
 OMB has outlined [specific steps for obtaining and utilizing](https://obamawhitehouse.archives.gov/sites/default/files/omb/procurement/memo/acquisition-360-improving-acquisition-process-timely-feedback-external-internal-stakeholders.pdf) employee and industry feedback regarding the acquisition process to continually motivate and encourage agencies to assess and improve vendor engagement practices. As you read, ask yourself what you can do as an individual acquisition professional to improve the pre-solicitation communication in your agency.
 
-Finally, join the discussion below by responding to the following question:
+Finally, join the discussion below by responding to the following question (optional):
 
 How do you see pre-solicitation communication as essential to acquiring digital services? Provide an example of a situation in which communicating with vendors before solicitation significantly impacted the outcome.  
 
