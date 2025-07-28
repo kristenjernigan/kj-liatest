@@ -40,91 +40,145 @@ While FAR 37.6 does not explicitly prescribe Agile methodologies, it provides a 
 It’s important to note that compliance with FAR 37.6 and the specific procurement regulations of government agencies is necessary when implementing Agile software development within a government context. Consulting with legal and procurement experts familiar with government regulations is recommended to ensure adherence to all applicable guidelines.
 
 ---
-## Artificial Intelligence (AI) and the Acquisition Strategy
+## Artificial Intelligence (AI) in Procurement
 
-The use of AI in both the private and public sectors is a game changer. AI can help teams rapidly analyze vast amounts of data, enabling insights that can save significant time and resources. Businesses use AI to optimize enterprise resource systems, automate routine tasks, forecast consumer demand and behavior, and even innovate new products and services. 
+The use of AI in both the private and public sectors is a game-changer. AI can help teams rapidly analyze vast amounts of data, enabling them to gain valuable insights that can save significant time and resources. Businesses use AI to optimize enterprise resource systems, automate routine tasks, forecast consumer demand and behavior, and even innovate new products and services. 
 
-Likewise, government agencies use AI to strengthen cybersecurity, ac­celerate data analysis, and even help commanders accelerate operational execution. While various uses of AI in acquisition are still being explored, there is little debate on the benefits. 
+Likewise, government agencies utilize AI to enhance cybersecurity, expedite data analysis, and even aid commanders in accelerating operational execution. While various uses of AI in acquisition are still being explored, there is little debate on the benefits. 
 
-Before getting into AI and acqui­sition strategy development, let’s briefly review the two types of AI (predictive and generative) and how we might apply them.
+### What Does “AI in Procurement” Really Mean?
 
-### Predictive AI
+AI in procurement goes beyond simply buying AI tools; it's about fundamentally transforming how we manage contracts, analyze data, make decisions, and create value. In government acquisition, this includes:
 
-Also known as predictive analytics, predictive AI employs machine learning to incorporate vast amounts of data and has been used for applications like insurance underwriting for centuries, even by Lloyd’s of London in the late 1600s.
+* **Procuring AI**: Buying AI tools and services responsibly, ensuring clear data use and risk frameworks.
 
-In today’s environment, machine learning software develops a predictive model that finds patterns in the data and uses these patterns to make predictions. The model can also identify data anomalies that can be useful for applications like cybersecurity and risk mitigations. The typical business case involves using the AI-generated predictions to support business decisions  
-that drive results such as increased sales and profits, additional customers, new products, and other business goals.
+* **Using AI**: Applying AI to automate workflows, enhance contract management, forecast demand, and generate insights.
 
-Using predictive AI in acquisition can take many forms. The following is a summary of ChatGPT’s and Microsoft Co-Pilot’s response to the question, “In what ways could predictive analytics be used in defense acquisition?”
+* **Powering Procurement with AI**: Transforming procurement from a support function into a strategic, data-driven decision engine.
 
->*Predictive analytics can significantly enhance defense acquisition in several ways. It can improve demand forecasting and budgeting by predicting costs and anticipating future needs, thus helping to set accurate budgets and allocate funds efficiently. In supply chain risk management, predictive models can assess supplier reliability and anticipate disruptions, allowing for better contingency planning. For cost estimation and lifecycle management, analytics can provide accurate cost predictions and forecast maintenance needs, leading to proactive planning and cost savings. Performance optimization is achieved by predicting contractor performance and optimizing operations to reduce downtime. It also supports talent and workforce planning by forecasting skill requirements and contractor staffing needs. Strategic decision support is enhanced through scenario planning and investment prioritization, while technology development and innovation forecasting help to identify emerging technologies.*
+### How AI Supports Acquisition Strategy
 
-One of the key themes from this answer is forecasting future DoD needs in a proactive manner, using data to make informed decisions and optimize performance. This indicates two important benefits to acquisition strategy development. The acquisition strategy must consider future events well beyond the initial contracting action since it establishes a framework for the full system life cycle over many years, and even decades. Predicting trends and future scenarios can add great value as Integrated Product Teams (IPTs) consider what elements should be tailored to the strategy to position the program for future success.
+AI can enhance nearly every phase of acquisition strategy from planning and market research to contract writing and risk management. Here’s how:
 
-The second benefit is derived from data-driven strategy decisions. Leveraging AI to rapidly analyze vast amounts of data enables IPTs to gain insights and patterns that may not be readily apparent without using the tool. AI can also save time and resources previously used on manual work or analytical methods.
+| Function | AI's Strategic Contribution | AI Type |
+| ----- | ----- | ----- |
+| Market Research | Identifies trends, vendors, and technologies | Predictive |
+| Lifecycle Costing | Forecasts sustainment costs and obsolescence | Predictive |
+| Contract Drafting | Drafts RFPs, PWSs, and justifications | Generative |
+| Risk Identification | Flags supplier risks, anomalies, and disruption scenarios | Predictive |
+| Demand Forecasting | Anticipates needs based on usage, mission, and external conditions | Predictive |
+| Performance Management | Predicts vendor delays and supports corrective planning | Predictive |
 
-Using AI in support of an acquisition strategy can result in data informed decisions, accelerated acquisition cycle time, saved resources, and help deliver greater value to the Warfighter. For example, an IPT is assessing long-term sustainment as part of the acquisition strategy for a new weapon system. The machine learning models expand the dimension of market research from the current state to what is coming, enabling informed decisions on current and future requirements. By using predictive AI to predict trends in obsolescence, material availability, supply chains, and reliability, IPTs can make informed decisions on strategy affecting the maintenance concept, data rights, and even the system’s technical architecture.
+Some tools may use a blend of predictive and generative AI, this depends on the function and the data available.
 
-Predictive AI can also help to identify framing assumptions that are key suppositions central to shaping cost, schedule, and performance expectations. These critical assumptions, usually just a few, are documented in the acquisition strategy. Root cause analyses show that erroneous framing assumptions have resulted in significant acquisition baseline breaches that include cases where programs greatly exceeded their schedules and budgets. Since AI can predict trends with new technology advancements and other future outcomes, IPTs can use the tool to derive more accurate assumptions, enabling credible expectations at the program outset.
+#### Predictive AI
 
-### Generative AI
+Predictive AI, also known as predictive analytics, uses machine learning to analyze vast amounts of data, identifying patterns to make predictions and spot anomalies. It can help acquisition professionals move from reactive to proactive planning.
 
-A different and exciting dimension opens with generative AI, in which advanced computer programs analyze and *use* data to generate new content. Generative AI also relies on access to huge amounts of data. Thus, the quality of the new content can be related to the amount of data that the software can pull from. This can be a limiting factor for acquisition because of restricted access to sensitive data.
+In acquisition strategy, Predictive AI can:
 
-Here is what AI says about using generative AI in acquisition in response to the same prompt used about predictive AI: “In what ways could generative AI be used in defense acquisition?”
+* Forecast future needs to shape long-term acquisition strategies.  
+* Improve framing assumptions for cost, schedule, and performance baselines.  
+* Reduce manual research by identifying trends, risks, or anomalies in real time.
 
->*Generative AI has the potential to revolutionize defense acquisition processes by enhancing efficiency, decision-making, and innovation. It can automate requirement drafting by analyzing historical data and mission needs, identify gaps in current capabilities, and simulate operational scenarios to ensure mission-critical requirements are met. In concept development and prototyping, AI can generate multiple designs, create digital prototypes for rapid testing, and optimize performance. For procurement and contracting, AI can analyze supplier performance, draft procurement documents, and assess risks. In testing and evaluation, AI can simulate operational environments, optimize test plans, and analyze large volumes of test data. Life-cycle management benefits from predictive maintenance models, sustainment planning, and digital twins for real-time monitoring. AI can also generate realistic training scenarios, synthesize documents, and analyze historical data for knowledge management.*
+By rapidly analyzing historical and current data, predictive AI enables better-informed decisions, reduces manual analysis, and strengthens long-term acquisition planning.
 
-In addition to applications highlighted here, generative AI can propose alternative solutions and even create initial drafts of the acquisition strategy. AI can “score” a draft strategy by grading the document, suggesting improvements, and identifying possible gaps. If used effectively, AI can save a lot of time in drafting the document and improving the strategy. However, we must distinguish between developing and writing the strategy.
+#### Generative AI
 
-### Developing the Acquisition Strategy
+Generative AI analyzes and uses data to create new content. Its quality can be linked to the amount of data it accesses, which may be a limiting factor in acquisition due to restricted access to sensitive information. In acquisition, tools like ChatGPT or CoPilot can streamline documentation tasks.documentation.
 
-Strategy is one of the IPT’s most important tasks. Regardless of which pathway (or pathways) is selected, the acquisition strategy must integrate all of the program functional areas, risks, opportunities, and constraints into a comprehensive plan of action. Once the strategy is approved, it is difficult and costly to change since so many efforts are set in motion, including the Request for Proposal, Source Selection Plan, and the various functional plans that align with the strategy (e.g., Systems Engineering Plan, Product Support Plan). Thus, it is critical to develop a sound strategy at the program’s inception.
+In acquisition, Generative AI can:
 
-Developing an effective strategy requires critical thinking in analyzing information, developing assumptions, and forming judgments. This includes evaluating different alternatives before selecting an approach. That evaluation involves context, priorities, stakeholder interests, professional judgment, and many other factors that likely will not reside in any AI-produced plan. One could argue that AI makes critical thinking even more important as the access to content accelerates both in scale and in time.
+* Draft strategy documents, market research summaries, or justifications  
+* Suggest alternative approaches or identify missing elements  
+* Save time and increase consistency in document development
 
-AI has made significant progress in a short period of time, but its ability to think critically is still under debate. While AI can perform the predictive and generative tasks, it cannot determine all the surrounding background information associated with each program’s unique circumstances. This is where human judgment is needed to properly guide the thinking and machine learning outputs.
+While AI expands our capabilities, it doesn’t replace the need for sound judgment. Strategic planning still demands creativity, ethical awareness, and contextual understanding, none of which AI can fully replicate.
 
-Innovation or creative thinking is another aspect of strategy development because we should use the human ability to think of new possi­bilities. While AI can generate new ideas and solutions based on existing data, “real” innovation involves the perception and human experience that AI currently lacks. As psycholo­gist and philosopher B. F. Skinner said, “The real problem is not whether ma­chines think but whether men do.” 
+### Policy & Guidance: What’s New
 
-AI can play an important role in supporting innovation by providing frameworks that help inspire creativ­ity. One approach for using AI is to simply consolidate several concepts and generate a new and improved idea.
+U.S. Federal policy has rapidly evolved to support the responsible use of AI in procurement and acquisition. 
 
-When we conduct the Acquisition Strategy Development Workshop ([WSM 014 in the DAU *iCatalog*](https://www.dau.edu/courses/wsm-014)) with intact teams, we always start with a discus­sion of critical thinking. This includes various thinking tools that can be used as the IPT develops the strat­egy concept. We then discuss topics that build on one another, starting with foundational matters such as critical success factors, program pri­orities, market research, framing as­sumptions, risks, opportunities, and technical drivers. Both predictive and generative AI can help the IPT build initial strategy concepts by predicting and generating content with the team in each area. The IPT must determine which content to consider and adopt based on all the background context we discussed previously.
+#### Executive Orders
 
-### Writing the Acquisition Strategy
+* **EO 14179 (Jan 2025\)**: *Removing Barriers to American Leadership in AI* revokes EO 14110 and orders the federal government to modernize its AI acquisition and governance practices. It directs agencies to streamline AI procurement and issue a national AI action plan. \<https://www.whitehouse.gov/briefing-room/statements-releases/2025/01/23/executive-order-on-removing-barriers-to-american-leadership-in-ai/\>
 
-After deciding on the strategy, putting “pen to paper” is another important IPT task. The strategy should be fully documented so reviewers, approvers, and stakeholders understand the approach and why it was selected. 
+* **AI Action Plan (July 2025\)**: *Winning the Race: America’s AI Action Plan* outlines how federal agencies will support infrastructure, workforce development, procurement reform, and cross-agency collaboration to accelerate AI use across government. \<https://www.whitehouse.gov/articles/2025/07/white-house-unveils-americas-ai-action-plan/\>
 
-AI likes using templates and assembling content within a prescribed format. AI can draft the document after using prompts to ensure that the software has the necessary information to tell the story. Users can experiment with different methods  
-and prompts to construct the document since no single recipe exists on how best to do it. The following suggested practices can help elicit a useful AI response:
+#### OMB Guidance
 
-* Ensure that AI has significant background and context. Include recent events in “feeding” AI so it is up to date.  
-* Emphasize points that you want included. Identify statutory, regulatory, and policy considerations that should be included.  
-* Iterate multiple times to refine the document. Document the proven practices and share with others who can benefit.  
-* Ensure that sensitive information and cybersecurity are protected within the AI environment.
+* **M-25-21 & M-25-22 (April 2025\)**: Replaces earlier guidance with updated requirements on identifying “high-impact” AI use cases, enforcing human oversight, and prioritizing open, fair, and responsible AI contracting practices. \<https://www.whitehouse.gov/omb/management/memoranda/\>
+
+#### Federal AI Use Case Inventory
+
+A comprehensive inventory of AI use across the federal government gives insight into how agencies are applying AI now (as of January 23, 2025):
+
+* 2,133 total AI use cases across 41 agencies.
+
+* 351 classified as rights- and/or safety-impacting.
+
+* Procurement-specific uses include spend analysis, supplier risk modeling, automated evaluation, and fraud detection.
+
+### Key Considerations for Procurement Leaders
+
+To effectively use AI in acquisition strategy:
+
+1. **Use AI for strategy support, not strategy substitution**  
+   Human leadership is still essential for ethics, context, and creativity.
+
+2. **Strengthen data governance**  
+   AI tools are only as good as the data they're trained on—data quality matters.
+
+3. **Write better contracts**  
+   Be explicit about IP ownership, model use, data privacy, exit rights, and bias detection.
+
+4. **Invest in team skills**  
+   Strategic thinking, analytics, and data literacy are now must-haves for procurement professionals.
+
+5. **Shift focus from transactions to value**  
+   Use AI to free up time for higher-level analysis, supplier engagement, and innovation.
 
 ### The Way Forward
 
-Efforts are underway to examine the use of AI in developing and writing an acquisition strategy (and other key acquisition documents). We are still learning and, given the potential benefits, a coordinated effort could offer significant value. Harnessing the resources and expertise from a diverse group across defense acquisition can advance the use of this technology. If we accept the premise that the quality of the acquisition strategy is directly linked with subsequent acquisition outcomes, continued investment in AI and its optimal use can bring big returns on that investment. 
+Efforts are underway to examine the use of AI in developing and writing an acquisition strategy (and other key acquisition documents). We are still learning and, given the potential benefits, a coordinated effort could offer significant value. If we accept the premise that the quality of the acquisition strategy is directly linked to subsequent acquisition outcomes, continued investment in AI and its optimal use can yield significant returns on that investment. 
 
-Given the objective of capturing lessons learned and best practices, please share your thoughts and feedback so we can continue this conversation. In the meantime, I’m looking forward to seeing how IPTs use this powerful tool to deliver Warfighter capabilities at higher speed and greater value!
+### Sources
+
+* **CIPS & Posterity Global** (2024). *AI in Procurement and Supply: How Automation Will Change Your Career and the Function*  
+   ([https://www.cips.org](https://www.cips.org/))
+
+* **OMB GitHub**. *2024 Federal Agency AI Use Case Inventory*  
+   ([https://github.com/ombegov/2024-Federal-AI-Use-Case-Inventory](https://github.com/ombegov/2024-Federal-AI-Use-Case-Inventory))
+
+* **White House**. *Executive Order 14179: Removing Barriers to American Leadership in AI* (Jan 2025\)  
+   ([https://www.whitehouse.gov/briefing-room/statements-releases/2025/01/23/executive-order-on-removing-barriers-to-american-leadership-in-ai/](https://www.whitehouse.gov/briefing-room/statements-releases/2025/01/23/executive-order-on-removing-barriers-to-american-leadership-in-ai/))
+
+* **White House**. *America’s AI Action Plan* (Jul 2025\)  
+   ([https://www.whitehouse.gov/wp-content/uploads/2025/07/Americas-AI-Action-Plan.pdf](https://www.whitehouse.gov/wp-content/uploads/2025/07/Americas-AI-Action-Plan.pdf))  
+   ([https://www.whitehouse.gov/articles/2025/07/white-house-unveils-americas-ai-action-plan/](https://www.whitehouse.gov/articles/2025/07/white-house-unveils-americas-ai-action-plan/))
+
+* **OMB**. *Memoranda M-25-21 & M-25-22*  
+   ([https://www.whitehouse.gov/omb/management/memoranda/](https://www.whitehouse.gov/omb/management/memoranda/))
+
+
 
 ---
 ## Discussion Prompt (Optional): How Should AI Influence Acquisition Strategy Development?
 
-Artificial Intelligence is rapidly changing the landscape of both private industry and public sector operations. From predictive analytics that forecast long-term sustainment and supply chain trends, to generative tools that draft acquisition documents or simulate operational environments, AI has clear potential to improve how we design and deliver acquisition strategies.
+AI is rapidly changing the landscape of both private industry and public sector operations. From predictive analytics that forecast long-term sustainment and supply chain trends, to generative tools that draft acquisition documents or simulate operational environments, AI has clear potential to improve how we design and deliver acquisition strategies.
 
 However, while AI can analyze massive data sets, generate content, and help identify risks and opportunities, it cannot replace the critical thinking, innovation, and contextual judgment that real-world acquisition decisions demand.
 
-Choose one of the following prompts and post a discussion response. Share examples, offer perspectives, or raise new questions. Your feedback may help shape how we use AI across defense acquisition moving forward.
+**Discussion Prompts**
 
-1. What roles do you think predictive and generative AI should play in acquisition strategy development within your agency or program?
+Choose one of the following prompts and share a short reflection. Your insight may help inform how others approach the integration of AI into acquisition practices.
 
-2. What risks or limitations should Integrated Product Teams (IPTs) watch for when using AI in this space?
+* What roles do you think predictive and generative AI should play in acquisition strategy development within your agency or program? (e.g., Should AI be used only for market research? Could it help frame assumptions?)  
+* What risks or limitations should procurement professionals watch for when using AI in this space? (e.g., How do we handle bias, data access, or over-reliance on AI-generated content?)  
+* Have you or your team used AI tools (e.g., ChatGPT, Co-Pilot, other platforms) in acquisition tasks? If so, what worked well, and what didn’t?  
+* Do you believe AI will enhance or challenge the role of human judgment and innovation in acquisition planning? Why? (e.g., Will AI free us to focus on strategic thinking—or risk diminishing it?)
 
-3. Have you or your team used AI tools (e.g., ChatGPT, Co-Pilot, other platforms) in acquisition tasks? If so, what worked well, and what didn’t?
 
-4. Do you believe AI will enhance or challenge the role of human judgment and innovation in acquisition planning? Why?
 
 ---
 ## 7 Strategies for Evaluating the Ethical and Legal Impact of Implementing AI in Federal Agencies
