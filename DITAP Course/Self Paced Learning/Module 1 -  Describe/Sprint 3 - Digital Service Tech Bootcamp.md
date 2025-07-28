@@ -520,8 +520,6 @@ Accessibility ensures that digital services are usable by everyone, including in
 
 ---
 
-### Key Concepts
-
 After completing this module, you will be able to:
 
 * Recognize the essential concepts of accessibility in digital services procurement.  
@@ -607,8 +605,6 @@ Accessibility isn’t just a compliance requirement; it’s a core part of deliv
 This module introduces procurement officers to the principles, risks, and opportunities of open source software in digital government. It covers legal foundations, evaluation practices, and OSS's role in long-term service delivery and transparency.
 
 ---
-
-### Key Concepts
 
 By the end of this module, you will be able to:
 
