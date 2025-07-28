@@ -444,6 +444,18 @@ Bringing AI into government systems requires careful consideration of several ch
 
 * **Post-award monitoring and model drift**: Even if the AI works at the time of contract award, there is a chance that the AI model doesn’t match changing behaviors. Ensuring that AIs are updated to keep up with changing needs is essential.
 
+
+> **Explore Real Federal AI Use Cases**
+>
+> The [2024 Federal AI Use Case Inventory](https://github.com/ombegov/2024-Federal-AI-Use-Case-Inventory) provides a government-wide snapshot of how federal agencies are currently using AI. Procurement professionals can use this resource to:
+>
+> - **Understand emerging AI applications** in areas like customer service, fraud detection, and data analysis.  
+> - **Identify patterns** in how agencies are acquiring and implementing AI technologies.  
+> - **Spot opportunities and risks**—such as where ethical, transparency, or cybersecurity considerations may require early attention in the acquisition process.  
+>
+> Use this inventory to inform market research, draft smarter requirements, and ask better questions during pre-solicitation planning.
+
+
 ---
 ## Digital Service Tech Topic: Cybersecurity
 
