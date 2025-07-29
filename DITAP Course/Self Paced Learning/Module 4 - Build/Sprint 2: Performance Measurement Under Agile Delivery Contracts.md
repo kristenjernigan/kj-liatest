@@ -2,179 +2,192 @@
 
 ## Using Value-Based Metrics and Modern Incentives in Federal Agile Procurement
 
-As federal procurement professionals, one of your critical responsibilities in agile software development contracts is establishing effective performance monitoring and value-driven project management practices. This module explores modern approaches to metrics and incentives that align with the latest industry practices and federal guidance.
+### Why Modern Metrics Matter More Than Ever
 
-In today's digital service environment, data collection and monitoring are foundational to success. They provide visibility into both team performance and product value delivery, allowing you to make informed decisions about contract management. As noted in the [Digital Services Playbook Play 12](https://playbook.cio.gov/#play12), using data to drive decisions is essential in modern federal procurement.
+Federal agencies now deliver digital services at unprecedented scale and speed. Citizens expect government services to work as well as commercial apps they use daily. Traditional procurement metrics, focused on requirements compliance and schedule adherence, don't capture whether we're delivering value to users.
 
-Why is measuring value delivery critical in an agile environment?
+Modern metrics help you answer the questions that matter:
 
-The answer goes beyond traditional compliance monitoring. In agile procurement, effective metrics help you:
+* Are citizens able to accomplish their goals more easily?  
+* Is the system reliable and secure?  
+* Are we delivering value continuously, not just at the end?  
+* Can we respond quickly when users' needs change?
 
-1. Validate that government resources are delivering maximum value to end users  
-2. Support evidence-based decision making about contract extensions or modifications  
-3. Identify and address potential issues before they impact project success  
-4. Ensure alignment between contractor performance and agency mission objectives
+You need metrics that work in today's environment, which includes remote teams, cloud-native development, continuous deployment, and user-centered design. This module demonstrates how to measure what matters and create incentives that drive tangible outcomes.
 
-### Modern Metrics for Agile Federal Procurement
+### DevOps Research and Assessment (DORA) Metrics 
 
-#### Value Stream Metrics
+The DevOps Research and Assessment framework remains the gold standard, but federal applications require additional context:
 
-Value stream metrics focus on measuring how efficiently work moves from concept to deployment, aligning with the business outcomes that matter to your agency. These metrics have evolved from traditional project tracking to focus on actual value delivery:
+1. **Deployment Frequency**  
+   * **What it measures:** How often your team releases new features or fixes  
+   * **Why it matters:** Frequent deployments mean faster value delivery and reduced risk  
+   * **Federal context:** Factor in approval processes and security requirements  
+   * **Target:** Elite performers deploy multiple times per day; start with weekly goals  
+       
+       
+2. **Lead Time for Changes**  
+   * **What it measures:** Time from code commit to production deployment  
+   * **Why it matters:** Shorter lead times mean faster response to user needs  
+   * **Federal context:** Include security scanning and compliance checks  
+   * **Target:** Less than one week for most changes  
+3. **Change Failure Rate**  
+   * **What it measures:** Percentage of deployments that cause production issues  
+   * **Why it matters:** Quality matters as much as speed  
+   * **Federal context:** Define "failure" clearly \- service outages, security issues, user impact  
+   * **Target:** Less than 15% failure rate  
+4. **Failed Deployment Recovery Time**  
+   * **What it measures:** Time to restore service after a failed deployment  
+   * **Why it matters:** Resilience is critical for government services  
+   * **Federal context:** Include incident response and communication requirements  
+   * **Target:** Less than one hour for most issues
 
+### User-Centered Metrics
 
-#### DevOps Research and Assessment (DORA) Metrics
+These metrics focus on actual user experience and mission impact:
 
-The [DORA framework](https://dora.dev/), established by Google Cloud's DevOps Research team, has become the industry standard for measuring software delivery performance. These metrics measure both velocity and stability:
+1. **Digital Service Standard Compliance**  
+   * Accessibility (Section 508\) compliance rate  
+   * Mobile responsiveness across devices  
+   * Page load times under 3 seconds  
+   * Plain language readability scores  
+2. **User Success Metrics**  
+   * Task completion rates for key user journeys  
+   * Time to complete common tasks  
+   * User satisfaction scores (surveys, feedback)  
+   * Support ticket volume and resolution time  
+3. **Operational Excellence**  
+   * System uptime and availability  
+   * Security incident response time  
+   * Data accuracy and completeness  
+   * Backup and disaster recovery testing
 
-1. **Deployment Frequency** - How often code is deployed to production  
-2. **Lead Time for Changes**- How long it takes from code commit to deployment  
-3. **Change Failure Rate** - Percentage of deployments causing failures in production  
-4. **Failed Deployment Recovery Time** - How long it takes to restore service after a failed deployment
+**Team Performance Metrics**
 
-DORA metrics provide a balanced view of both speed and quality, helping procurement officers assess whether contractors are delivering at an appropriate pace while maintaining necessary quality standards.
+These help you assess contractor team health and collaboration:
 
-#### Value Stream Mapping Metrics
+1. **Sprint Predictability**  
+   * Percentage of sprint commitments completed  
+   * Velocity consistency over time  
+   * Scope creep within sprints  
+2. **Collaboration Quality**  
+   * Stakeholder meeting attendance and participation  
+   * Code review completion rates  
+   * Documentation quality and completeness  
+   * Knowledge sharing between team members
 
-These metrics examine the entire flow of value from idea to production:
+### Tools for Modern Federal Procurement Oversight
 
-1. **Flow Time** - Total time from request to delivery  
-2. **Flow Efficiency** - Percentage of Flow Time where work is actively being done  
-3. **Flow Load** - Amount of work in progress simultaneously  
-4. **Flow Velocity** - Number of items completed per time period  
-   
+**Government-Approved DevOps Platforms**
 
-Including these metrics in your performance monitoring helps identify bottlenecks, reduce waste, and optimize the delivery process.
+Choose tools that meet federal security requirements:
 
-#### Product Value Metrics
+**Cloud-Native Options:**
 
-Modern procurement also focuses on measuring the actual value delivered to users, not just the delivery process:
+* **AWS GovCloud** with native CI/CD pipelines  
+* **Azure Government** with DevOps integration  
+* **Google Cloud for Government** with source control
 
-1. **User Adoption Rate**- Percentage of target users actively using the system  
-2. **User Satisfaction**- Often measured through usability surveys or Net Promoter Score  
-3. **Business Value Delivered** - Quantifiable improvements in mission capability or efficiency  
-4. **Defect Density** - Number of defects relative to size of functionality  
-   
+**FedRAMP-Authorized Tools:**
 
-These metrics help ensure that contractor performance is evaluated based on meaningful outcomes rather than just outputs.
+* **GitHub Government** (widely used, good metrics dashboards)  
+* **GitLab Dedicated** (comprehensive DevOps platform)  
+* **ServiceNow** (for broader IT service management)
 
-#### Team Health and Collaboration Metrics
+**Project Management and Collaboration**
 
-Successful agile contracts require effective collaboration between agency personnel and contractors:
+**Recommended for Federal Use:**
 
-1. **Sprint Completion Rate** - Percentage of committed user stories completed during iterations  
-2. **Team Velocity Consistency**- Stability of team output over time  
-3. **Cross-Team Dependencies** - Number and impact of dependencies between teams  
-4. **Issue Resolution Time** - Speed of addressing and resolving blockers  
-   
+* **Jira Government Cloud** (most common for agile tracking)  
+* **Microsoft 365 Government** (integrated project management)  
+* **Slack for Government** (team communication)  
+* **Zoom for Government** (meetings and demos)
 
-### Tools for Tracking Modern Metrics
+**User Research and Analytics**
 
-Today's federal procurement officers have access to a wide range of tools that can provide visibility into both contractor performance and value delivery. Consider which of these might be appropriate for your specific acquisition:
+**Privacy-Compliant Options:**
 
-#### DevOps and Value Stream Management Platforms
+* **Digital Analytics Program** (government-wide web analytics)  
+* **Touchpoints** (OMB-approved user feedback collection)  
+* **UserTesting Government** (usability research)  
+* **Qualtrics Government** (surveys and feedback)
 
-Modern DevOps platforms provide integrated metrics dashboards that can track DORA metrics and value stream performance:
+**Selection Criteria:**
 
-* GitHub Actions/GitHub Enterprise  
-* GitLab CI/CD  
-* Azure DevOps  
-* CircleCI  
-* Jenkins
-
-Many of these tools have federal-ready versions that comply with security requirements and can be included as GFE (Government Furnished Equipment) in contracts.
-
-#### Agile Project Management Tools
-
-These platforms help track team performance and collaboration metrics:
-
-* Jira Government Cloud  
-* Azure Boards  
-* Monday.com Government  
-* ServiceNow  
-* Rally Software
-
-
-#### User Research and Analytics Tools
-
-These tools help measure actual usage and user value:
-
-* Google Analytics for Government  
-* Mixpanel  
-* Qualtrics  
-* UserZoom
-
-
-When selecting tools, prioritize those that:
-
-1. Support approved federal security standards (FedRAMP, etc.)  
-2. Provide API access for custom reporting needs  
-3. Enable appropriate access controls for different stakeholders  
-4. Support GSA's open data initiatives when appropriate
+* FedRAMP authorization or equivalent  
+* Support for government security requirements  
+* API access for custom reporting  
+* Integration with existing agency tools  
+* Cost-effectiveness for government use
 
 ### Modern Incentive Structures for Agile Contracts
 
-Traditional incentives often focus solely on cost control or schedule adherence. Modern agile contracts require incentives that drive value delivery while maintaining appropriate contractor accountability.
+**Designing Effective Incentives for Agile Contracts**
 
-Another option you can use to gauge the success of your project, as well as motivate the contractor, is incentives. As an acquisition professional, you are familiar with incentives like Award Fee or Incentive Fee. These and others can be applied to digital service acquisitions, but they must be applied correctly to be effective. If they are added in a haphazard way to quickly add a performance plan to an acquisition, they could cause more harm than good. So, as we consider incentives as a gauge for success, let’s first look at if they are needed or not.
+**Before Adding Incentives, Ask:**
 
-*  [Award Term:  The Newest Incentive](http://www.wifcon.com/anal/analaterm.htm): This first article describes what an award term incentive is and the advantages and disadvantages associated with it.  
-*  [The Award Term Incentive:  A Status Report](http://www.wifcon.com/anal/analaterm2.htm): This article is a reexamination of award term incentives a few years later. Here, Mr. Edwards looks more closely at what content is written in an award term.  
-    
+* What specific behavior or outcome do you want to encourage?  
+* Will the incentive motivate the people doing the work?  
+* Are you rewarding above-and-beyond performance, not basic expectations?  
+* How will you measure success fairly and objectively?
 
-There are two types of incentives: Monetary and Non-Monetary. Monetary incentives include some form of financial increase for the contractor, and non-monetary incentives come in the form of recognition, building a partnership, and so forth.
+**Modern Monetary Incentives**
 
-As you consider whether an incentive is a good option for you, consider the following:
+**1\. Value Delivery Incentives:** Structure payments around user outcomes, not just deliverables:
 
-* What do you actually want to incentivize?  
-* Are you assigning incentives for things that are above the expected quality and on-time delivery?  
-* Who is actually getting the award? Is it the company, or the people doing the work? What about sub-contractors? Some companies look negatively on the employees if they do not achieve the incentive and do not pass down the award. If the people you are working with do not get a promised award, it can hinder your efforts to gain the contractor's trust.  
-    
+* **User Adoption Bonuses:** Extra payment when usage exceeds targets  
+* **Performance Improvement Awards:** Bonuses for measurable improvements in key metrics  
+* **Quality Excellence Fees:** Awards for consistently low defect rates
 
-#### Value-Based Monetary Incentives
+**Example:** "Contractor receives $25,000 bonus for each quarter where user task completion rate exceeds 85% and user satisfaction scores exceed 4.0/5.0."
 
-Consider these contemporary approaches to monetary incentives in agile contracts:
+**2\. Continuous Delivery Incentives** Reward sustainable development practices:
 
-1. **Value-Stream Performance Incentives** Structure award fees or incentives around improvements in value stream metrics such as deployment frequency and lead time for changes. For example:  
-   * Base award fee ranges on achievement of specific DORA metric benchmarks  
-   * Provide graduated incentives for moving from "medium" to "high" or "elite" performer status  
-   * Tie award term extensions to sustained performance improvements  
-2. **User Adoption and Satisfaction Incentives Link** incentives to measurable user outcomes:  
-   * Bonus payments for exceeding user adoption targets  
-   * Award fee pools tied to user satisfaction scores  
-   * Incentives for reducing user-reported defects over time  
-3. **Sprint-Based Performance Incentives** Rather than traditional milestone-based incentives, consider:  
-   * Award term contracts "where the contractor earns an extension after the Government determines that the contractor's performance is excellent"  
-   * Incentives "for completing all (or a certain percentage of) sprint cycles with 100% client acceptance"  
-   * Performance-based payments tied to consistent velocity over multiple sprints  
-4. **Team Stability Incentives** Consider "incentivizing what we most want: consistency and repeatability of the development process" since stable teams produce better outcomes. Incentivize contractors to:  
-   * Maintain core team stability throughout the contract  
-   * Minimize turnover of key personnel  
-   * Invest in ongoing skills development of team members
+* **Sprint Consistency Awards:** Bonuses for meeting sprint commitments over time  
+* **Deployment Frequency Bonuses:** Rewards for maintaining a regular release cadence  
+* **Recovery Time Excellence:** Awards for the quick resolution of production issues
 
-#### Effective Non-Monetary Incentives
+**Example:** "Contractor receives award fee of 5% of quarterly payments for maintaining deployment frequency of at least weekly with less than 10% failure rate."
 
-Non-monetary incentives can be just as powerful as financial ones in motivating contractor performance:
+**3\. Team Stability Incentives** Encourage keeping good people on the project:
 
-1. **Increased Autonomy** High-performing teams can earn:  
-   * Greater flexibility in technical implementation decisions  
-   * Streamlined approvals for certain types of changes  
-   * Reduced oversight requirements  
-2. **Recognition and Visibility** Consider:  
-   * Opportunities to showcase work at agency or government-wide events  
-   * Recognition in agency communications  
-   * Case studies highlighting successful practices  
-3. **Future Opportunities**  
-   * Consideration for expanded scope in related work  
-   * Eligibility for specialized contract vehicles  
-   * Partnership on innovation initiatives  
-4. **Knowledge Sharing**  
-   * Access to specialized training or resources  
-   * Participation in communities of practice  
-   * Opportunities to contribute to agency standards or playbooks
+* **Retention Bonuses:** Payments for keeping key team members throughout the contract  
+* **Knowledge Transfer Awards:** Bonuses for effective onboarding and documentation  
+* **Skill Development Incentives:** Support for team training and certification
 
-## Implementation Guidance for Procurement Professionals
+**Example:** “Contractor receives a $10,000 bonus if 85% or more of the originally proposed team members in labor categories X, Y, and Z remain continuously assigned to the project throughout the base period, with no more than two unplanned substitutions.”
 
-### Selecting the Right Metrics
+**Effective Non-Monetary Incentives**
+
+**1\. Increased Autonomy** \- High-performing teams earn more flexibility:
+
+* Streamlined approval processes for routine changes  
+* Greater technical decision-making authority  
+* Reduced reporting requirements
+
+**2\. Recognition and Growth**
+
+* Opportunities to present at government conferences  
+* Case studies highlighting successful practices  
+* Participation in government-wide communities of practice
+
+**3\. Future Partnership Opportunities**
+
+* Consideration for follow-on work or expansions  
+* Eligibility for innovative contract vehicles  
+* Partnership on pilot programs or new initiatives
+
+**4\. Professional Development**
+
+* Access to government training and resources  
+* Opportunities to contribute to agency standards  
+* Participation in cross-agency working groups
+
+### Implementation Guidance 
+
+Designing incentives is a team effort. The program office, product manager, and COR bring delivery insight to define what matters and how to measure it. The CO helps translate that into contract language. Together, they create realistic incentives that support mission success.
+
+**Selecting the Right Metrics**
 
 When selecting metrics for your agile contract:
 
@@ -185,18 +198,18 @@ When selecting metrics for your agile contract:
 5. Plan for regular review and refinement of metrics as the project evolves  
    
 
-### Structuring Effective Incentives
+**Structuring Effective Incentives**
 
 When designing incentives:
 
 1. Align incentives with genuine value delivery, not just compliance activities  
-2. Make sure incentives are "tied to the process and to the release of functional code"  
+2. Make sure incentives are "tied to the process and ~~to~~ the release of functional code."  
 3. Consider using shorter performance periods with more frequent evaluation  
 4. Structure incentives to encourage collaboration rather than competition  
 5. Ensure incentives reach the actual team members performing the work  
    
 
-### Contract Administration Considerations
+**Contract Administration Considerations**
 
 1. Establish clear processes for metrics collection and verification  
 2. Define the cadence for metrics review (typically aligned with sprint or release cycles)  
@@ -204,30 +217,108 @@ When designing incentives:
 4. Train CORs specifically on agile metrics evaluation  
 5. Create feedback mechanisms to share performance insights with contractors
 
-## Discussion Prompt (optional)
+### Implementing Modern Metrics and Incentives
+
+**Setting Up Your Metrics Program**
+
+**Week 1: Establish Baseline**
+
+* Meet with the contractor to review available data  
+* Select 5-7 key metrics that align with mission goals  
+* Set up data collection and reporting processes  
+* Establish realistic initial targets
+
+**Month 1: Refine and Adjust**
+
+* Review initial data collection  
+* Adjust metrics based on what's valuable  
+* Train COR on metrics interpretation  
+* Establish a regular review schedule
+
+**Quarterly: Strategic Review**
+
+* Assess overall trends and patterns  
+* Adjust targets based on team maturity  
+* Consider adding or removing metrics  
+* Plan incentive payments or adjustments
+
+**Common Implementation Mistakes to Avoid**
+
+1. **Too Many Metrics:** Focus on what matters most, not everything you can measure  
+2. **Conflicting Incentives:** Ensure metrics don't work against each other  
+3. **Unrealistic Targets:** Set achievable goals that motivate improvement  
+4. **Ignoring Context:** Consider team maturity, technical debt, and external factors  
+5. **Set-and-Forget:** Regularly review and adjust metrics as the project evolves
+
+**Sample Contract Language**
+
+**For Metrics:** "Contractor shall provide monthly reports including: (1) DORA metrics dashboard showing deployment frequency, lead time, change failure rate, and recovery time; (2) User satisfaction scores from monthly surveys; (3) Sprint completion rates and velocity trends; (4) System uptime and performance metrics."
+
+**For Incentives:** "Contractor may earn award fees up to 10% of quarterly payments based on: (1) User task completion rates exceeding 80% (3% award fee); (2) Deployment frequency of at least weekly with \<15% failure rate (3% award fee); (3) User satisfaction scores exceeding 4.0/5.0 (2% award fee); (4) Sprint commitment achievement rate exceeding 85% (2% award fee)."
+
+### Discussion Prompt (optional)
 
 For your DITAP discussion assignment, consider a digital service acquisition that you have worked on or heard about and analyze how modern metrics and incentives could be applied:
 
-1. Briefly describe the digital service acquisition you've selected.  
-2. Select 3-5 metrics from this module that would be most valuable for that acquisition and explain why you chose them.  
-3. Design an incentive structure (monetary, non-monetary, or both) that would effectively motivate contractor performance in your selected acquisition.  
-4. Explain how you would implement these metrics and incentives in the contract structure and administration.  
+Choose a digital service your agency currently uses or is developing. This service could be:
+
+* A citizen-facing website or application  
+* An internal system or tool  
+* A data collection or reporting system  
+* A mobile app or service
+
+**Your Task:**
+
+1. **Identify the Service** (2-3 sentences)  
+   * What does it do, and who uses it?  
+   * What mission outcome does it support?  
+2. **Select Metrics** (3-5 metrics)  
+   * Choose from the metrics covered in this module  
+   * Explain why each metric would be valuable for this specific service  
+   * Consider both technical and user-centered metrics  
+3. **Design Incentive Structure**  
+   * Create one monetary and one non-monetary incentive  
+   * Explain how each incentive would motivate better performance  
+   * Consider how to measure success fairly  
+4. **Implementation Plan**  
+   * How would you collect and verify the metrics?  
+   * What tools would you use?  
+   * How often would you review performance?  
+   * What would you do if performance doesn't meet targets?
+
    
+
+**Due Date:** Your discussion post is due by the end of the current module, **\[DATE\].**
 
 **Definition of Done:** Your post should address all four elements above in sufficient detail to demonstrate your understanding of modern metrics and incentives in agile procurement. Additionally, respond to at least two classmates' posts with substantive feedback or additional insights.
 
-## Additional Resources
+### Additional Resources
 
 **Official Guidance**
 
 * [TechFAR Hub Contract Types for Agile Development](https://techfarhub.usds.gov/solicitation/contract-design/)  
 * [Digital Services Playbook](https://playbook.cio.gov/)  
-* [GAO Agile Assessment Guide](https://www.gao.gov/assets/gao-20-590g.pdf)
+* [GAO Agile Assessment Guide](https://www.gao.gov/assets/gao-20-590g.pdf)  
+* [Section 508 Compliance Guide](https://www.section508.gov/)   
+* [FedRAMP Marketplace](https://marketplace.fedramp.gov/) 
 
+**Metrics and Measurement**
+
+* [DORA State of DevOps Report](https://dora.dev/research/)   
+* [Digital.gov Analytics](https://digital.gov/guides/dap/)   
+* [Federal User Experience Program](https://digital.gov/communities/user-experience/) 
+
+
+  
 **Tools and Templates**
 
 * [DORA Metrics Quick Assessment Tool](https://dora.dev/quickcheck/)  
-* [Sample Agile Contract Language](https://techfarhub.usds.gov/resources/learning-center/sample-language-for-government-contracts/)
+* [Sample Agile Contract Language](https://techfarhub.usds.gov/resources/learning-center/sample-language-for-government-contracts/)  
+* [U.S. Web Design System](https://designsystem.digital.gov/)   
+* [Cloud.gov](https://cloud.gov/)  
+* [Code.gov](https://code.gov/) 
+
+
 
 ---
 ## Post-Award Multi-Vendor Management
