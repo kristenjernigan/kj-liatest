@@ -692,6 +692,8 @@ You must now decide how to proceed. Your recommendation could shape the future o
 **What strategy should you recommend to leadership?**  
 Select one of the following:
 
+---
+
 #### Option A: Terminate CloudTech for Default
 
 **You prioritize accountability.** You recommend terminating CloudTech’s contract and launching an emergency procurement to find a replacement.
