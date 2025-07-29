@@ -674,6 +674,110 @@ Consider Sarah's situation from multiple perspectives: Modular Strategy (benefit
 * How can future modular contracts better address integration performance requirements?  
 * How should this experience inform the agency's future use of modular contracting for complex digital services?
 
+---
+## Choose Your Own Path: The FedConnect Exit Strategy
+
+### Scenario Introduction
+
+You are **Sarah Martinez**, a seasoned Contracting Officer at the Federal Bureau of Digital Services (FBDS). Eighteen months ago, your agency launched *FedConnect*, a modular digital identity platform meant to revolutionize citizen access to federal services.
+
+You adopted modular contracting to encourage flexibility and reduce vendor lock-in. But one vendor—**CloudTech Innovations**, responsible for the authentication module—has become a bottleneck. Their service fails under real-world load, creating cascading integration issues and locking users out during pilot testing.
+
+You must now decide how to proceed. Your recommendation could shape the future of this $25 million digital initiative—and the agency’s confidence in modular contracting.
+
+---
+
+### Decision Point
+
+**What strategy should you recommend to leadership?**  
+Select one of the following:
+
+#### Option A: Terminate CloudTech for Default
+
+**You prioritize accountability.** You recommend terminating CloudTech’s contract and launching an emergency procurement to find a replacement.
+
+**Consequences:**
+
+* System-wide integration slows down for 6–9 months.  
+* You incur \~$2M in replacement and re-integration costs.  
+* Other vendors remain intact, but morale is shaken.  
+* Your team must manage parallel systems during the transition.
+
+**Reflection Prompt:** *What risks did you accept by choosing termination? How will you manage the fallout with stakeholders and Congress?*
+
+**Quick Check:**
+
+**Which of these are required for a successful vendor transition?**  
+ ☐ Updated interface specs  
+ ☐ Contract novation  
+ ☐ Parallel testing plans  
+ ☐ GAO approval
+
+✅ **Correct Answers:** Updated interface specs, Parallel testing plans
+
+#### Option B: Accept CloudTech’s Remediation Proposal
+
+**You decide to preserve continuity.** You recommend giving CloudTech a second chance—under new, stricter performance and integration terms.
+
+**Consequences:**
+
+* Technical issues persist but gradually improve.  
+* Stakeholders question the wisdom of further investment in a weak vendor.  
+* The modular structure remains intact, but trust in CloudTech erodes.
+
+**Reflection Prompt:** *Are you rewarding poor performance—or protecting a fragile system? What performance guardrails should you now require?*
+
+**Quick Check:**
+
+**Which of the following should be added to CloudTech’s modified contract?**  
+ ☐ Clear timeout/error-handling protocols  
+ ☐ Joint integration test milestones  
+ ☐ Public apology  
+ ☐ Co-located teams with other vendors
+
+✅ **Correct Answers:** Clear timeout/error-handling protocols, Joint integration test milestones
+
+#### Option C: Restructure to a Single Prime Contractor
+
+**You choose to abandon modular contracting.** You recommend collapsing the project into a single-award, unified contract and recompeting the entire system.
+
+**Consequences:**
+
+* Integration is streamlined but at a high cost.  
+* All five existing contracts are terminated.  
+* The agency’s commitment to modular procurement is undermined.  
+* Stakeholder support for innovation diminishes.
+
+**Reflection Prompt:** *What does this decision say about your agency’s risk appetite? How might it shape future digital acquisition strategies?*
+
+**Quick Check:**
+
+**What are key drawbacks to abandoning modularity mid-project?**  
+ ☐ Higher vendor competition  
+ ☐ Loss of lessons learned  
+ ☐ Reduced flexibility  
+ ☐ More oversight from OMB
+
+✅ **Correct Answers:** Loss of lessons learned, Reduced flexibility
+
+---
+
+### Final Reflection
+
+You’ve made your recommendation. As you prepare to brief agency leadership and stakeholders:
+
+* What three lessons would you carry forward into your next digital acquisition?  
+* How might you design future modular contracts to better account for integration risks?
+
+*Optional: Write your reflections in a journal or worksheet, or share your thoughts with a peer for discussion.*
+
+---
+
+### Optional: Replay & Explore Another Path
+
+Want to explore a different decision path? Go back and choose another option to see how outcomes differ—and how tradeoffs shift depending on your strategy.
+
+
 
 
 
