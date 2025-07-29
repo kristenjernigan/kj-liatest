@@ -818,9 +818,217 @@ When you see these signs, step back and assess whether your coordination structu
 ---
 ## Warranties in Agile Development Readings 
 
-As you wrap up Sprint 2, we’re shifting focus to warranties—an important but often overlooked tool in managing performance under agile contracts. The readings below will help you understand how warranties work in federal acquisitions and how they can be used in agile software projects. You’ll learn about the rules in the FAR and explore ways to make sure each part of an iterative product works together. 
+As you wrap up Sprint 2, we’re shifting focus to warranties, an important but often overlooked tool in managing performance under agile contracts. The sections below will help you understand how warranties work in federal acquisitions and how they can be used in agile software projects. You’ll learn about the rules in the FAR and explore ways to make sure each part of an iterative product works together. After completing, share your thoughts in the discussion board and reply to at least two of your classmates by the end of this sprint.
+
+Warranties serve as critical risk management tools in federal digital service acquisitions, but traditional warranty approaches often clash with agile development practices. This section teaches you how to structure warranties that protect the government while enabling iterative delivery and continuous improvement.
 
 ### Federal Acquisition Regulation Framework
+
+**FAR Subpart 46.7: Foundation Principles**
+
+Contracting Officers have discretionary authority to include warranties when they provide value to the government. Key considerations include:
+
+Modern Applications:
+
+* Nature of digital services: Cloud-native applications require different warranty approaches than traditional software  
+* Cyber resilience: Warranties must address ongoing security threats and compliance requirements  
+* Continuous delivery: Traditional acceptance models don't align with daily deployments  
+* User experience: Warranties should cover accessibility, performance, and user satisfaction metrics
+
+**Integration with FAR Part 40**
+
+The 2024 establishment of FAR Part 40 (Information Security and Supply Chain Security) creates new warranty considerations:
+
+* Supply chain risk management warranty provisions  
+* Software composition analysis and vulnerability management  
+* Continuous monitoring and incident response capabilities  
+* Third-party component security assurances
+
+---
+
+### Agile-Specific Warranty Strategies
+
+#### Sprint-Level Warranties
+
+Recommended Language: "The contractor warrants that each sprint deliverable will:
+
+* Function as demonstrated during the sprint review  
+* Integrate seamlessly with all previously accepted sprint deliverables  
+* Meet all specified accessibility and security requirements  
+* Maintain system performance within agreed parameters."
+
+**Warranty Period:** 30 days from sprint acceptance, with cumulative coverage extending to final system acceptance.
+
+#### System Integration Warranties
+
+Challenge: How do you ensure components developed across multiple sprints work together?
+
+**Modern Approach:**
+
+* Implement continuous integration warranties that cover the entire system  
+* Require automated testing suites that demonstrate integration  
+* Include regression testing warranties for each new release  
+* Structure warranties around user journey completion rather than individual features
+
+#### DevSecOps Warranty Provisions
+
+**Security Warranty Framework:**
+
+* Continuous vulnerability scanning and remediation  
+* Secure coding practices verification  
+* Infrastructure-as-Code security compliance  
+* Container and dependency security assurances
+
+**Operational Warranty Elements:**
+
+* System availability and recovery time objectives  
+* Performance monitoring and alerting capabilities  
+* Automated backup and disaster recovery functionality  
+* Scalability and load management provisions
+
+---
+
+### Cloud Service Warranty Considerations
+
+#### Software-as-a-Service (SaaS) Warranties
+
+Traditional warranty models don't apply to SaaS offerings. Modern approaches include:
+
+**Service Level Agreements (SLAs) as Warranties:**
+
+* Uptime guarantees with financial penalties  
+* Data portability and export capabilities  
+* Security incident notification timelines  
+* Performance benchmarks with remediation requirements
+
+**Data Protection Warranties:**
+
+* Encryption in transit and at rest  
+* Data residency compliance  
+* Backup and recovery capabilities  
+* Right to deletion and data portability
+
+#### Platform and Infrastructure Warranties
+
+**Cloud Platform Warranties:**
+
+* Auto-scaling functionality  
+* Multi-region availability  
+* Compliance framework adherence (FedRAMP, FISMA)  
+* Vendor lock-in prevention measures
+
+---
+
+### Documentation in Agile Environments
+
+"Working Software Over Comprehensive Documentation"
+
+While agile emphasizes working software, warranties require sufficient documentation:
+
+**Minimal Viable Documentation:**
+
+* Automated test results demonstrating functionality  
+* User story acceptance criteria and test evidence  
+* Security scan results and remediation plans  
+* Performance monitoring dashboards and alerts  
+* API documentation and integration guides
+
+**Living Documentation Approach:**
+
+* Documentation generated from code (API docs, test results)  
+* User guides created collaboratively during sprints  
+* Video demonstrations of user workflows  
+* Automated compliance reporting
+
+**Warranty Timing Models**
+
+**Hybrid Approach for Agile Contracts**
+
+Option 1: Rolling Warranties
+
+* Each sprint has a 30-day warranty period  
+* System-wide warranty begins after the minimum viable product (MVP) acceptance  
+* The final warranty period covers the integrated system for 12 months
+
+Option 2: Milestone-Based Warranties
+
+* Warranties activate at major release points  
+* Continuous coverage for critical security and availability issues  
+* Extended warranty for final system delivery
+
+Option 3: Continuous Warranty Model
+
+* Ongoing warranty coverage for production systems  
+* Regular warranty reviews and updates  
+* Performance-based warranty adjustments
+
+---
+
+
+### Defining "Good Enough" Software
+
+**Acceptance Criteria in Agile Contexts**
+
+Move beyond traditional specification compliance to outcome-based acceptance:
+
+User Outcome Metrics:
+
+* Task completion rates and user satisfaction scores  
+* System performance under realistic load conditions  
+* Accessibility compliance verification  
+* Security posture assessment results
+
+Technical Quality Gates:
+
+* Automated test coverage thresholds  
+* Code quality metrics (maintainability, security)  
+* Performance benchmarks  
+* Security vulnerability remediation timelines
+
+**Modern Warranty Language Examples**
+
+**Integration Warranty Clause**
+
+"The contractor warrants that all software deliverables will integrate with existing government systems as demonstrated through automated integration tests. Any integration failures will be resolved within 48 hours of identification without additional cost to the government."
+
+**Cybersecurity Warranty Provision**
+
+"The contractor warrants that all software will be free from high and critical severity vulnerabilities as defined by the National Vulnerability Database. The contractor will remediate any newly discovered vulnerabilities within the timeframes specified in the Cybersecurity Performance Requirements."
+
+**User Experience Warranty**
+
+"The contractor warrants that all user interfaces will meet WCAG 2.1 AA accessibility standards and achieve user task completion rates of 90% or higher as measured through quarterly usability testing."
+
+### Risk Management Through Warranties
+
+**Balancing Protection and Innovation**
+
+Government Protection:
+
+* Clear remediation timelines and escalation procedures  
+* Financial remedies for warranty breaches  
+* Right to source code and documentation upon breach  
+* Performance monitoring and reporting requirements
+
+Vendor Innovation Space:
+
+* Flexibility in implementation approaches  
+* Collaborative problem-solving before formal breach proceedings  
+* Recognition of technology evolution and changing requirements  
+* Shared metrics and continuous improvement processes
+
+**Warranty Enforcement in Agile Environments**
+
+Collaborative Enforcement Model:
+
+* Regular warranty review sessions  
+* Shared monitoring dashboards  
+* Joint problem-solving approaches  
+* Escalation procedures that preserve vendor relationships
+
+---
+
+### Warranty Readings
 
 **Article:** [FAR Subpart 46.7 \- Warranties](https://www.acquisition.gov/far/subpart-46.7)
 
@@ -832,9 +1040,7 @@ As you wrap up Sprint 2, we’re shifting focus to warranties—an important but
 * When should a Contracting Officer consider using a warranty?   
 * What are the primary limitations of traditional warranty approaches when applied to software development?
 
----
-
-The following readings discuss using warranties in Agile development projects. When reading, think about how these techniques can be adopted by your agency:  
+The following readings discuss using warranties in Agile development projects. When reading, think about how your agency can adopt these techniques:  
 
 **Article:** [The Beauty and Terror of Agile Software Development](https://www.mintz.com/insights-center/viewpoints/2866/2021-03-24-beauty-and-terror-agile-software-development) 
 
@@ -846,8 +1052,7 @@ This article discusses contracting challenges in agile development and recommend
 * What language can be used to ensure each sprint's deliverables integrate with previous work?   
 * How should warranty periods be structured when system components are delivered through different contracts with varying timelines?
 
----
-**Article:** [Warranties and Liabilities](https://github.com/kristenjernigan/kj-liatest/blob/6eed5df9334353e6fb50c3a350e21dfcdc6bcdaf/Media/Module%204/Chapter_7_-_Warranties_and_Liabilities.pdf) (excerpt from Contracts in Agile Software Development)
+**Article:** [Warranties and Liabilities](https://drive.google.com/file/d/1pQOLsXcKAQfmRI5tcMwyitfc_JncM1Zi/view?usp=drive_link) (excerpt from Contracts in Agile Software Development)
 
 In this reading, warranties and liability are compared in traditional contracting to agile contracting. Think about the differences and considerations for each type. 
 
@@ -858,12 +1063,16 @@ In this reading, warranties and liability are compared in traditional contractin
 * How do you define "good enough" software that can be accepted and moved to warranty coverage?  
 * What minimal documentation is needed despite the agile principle of "working software over comprehensive documentation"?
 
-## Discussion (Optional)
+---
+
+### Discussion (Optional)
 
 **Based on the warranty readings, post your response to the following questions:**
 
 * In agile development, when features are created iteratively, what type of language can you use in the warranty to ensure that the vendor is responsible for the outcome of the entire project?  
 * Warranties for agile development can be difficult to establish due to the iterative nature. What can you do in both the acquisition strategy phase and the contract administration phase to ensure that you are fully protected by warranty?
+
+
 
 
 
