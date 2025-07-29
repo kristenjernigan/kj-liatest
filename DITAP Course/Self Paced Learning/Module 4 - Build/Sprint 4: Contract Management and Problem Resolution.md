@@ -715,6 +715,8 @@ Select one of the following:
 
 ✅ **Correct Answers:** Updated interface specs, Parallel testing plans
 
+---
+
 #### Option B: Accept CloudTech’s Remediation Proposal
 
 **You decide to preserve continuity.** You recommend giving CloudTech a second chance—under new, stricter performance and integration terms.
@@ -736,6 +738,8 @@ Select one of the following:
  ☐ Co-located teams with other vendors
 
 ✅ **Correct Answers:** Clear timeout/error-handling protocols, Joint integration test milestones
+
+---
 
 #### Option C: Restructure to a Single Prime Contractor
 
