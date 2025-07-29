@@ -137,7 +137,7 @@ As a contracting officer, you are both a data user and a data steward. You shoul
 
 Software refers to the instructions, data, or programs that enable computers and digital systems to perform specific tasks. Informally, software tells computer hardware how to do something useful with data. It includes human-readable instructions, known as source code, and machine-readable instructions compiled for the computer to execute.
 
-*CO note: It may be necessary to clarify whether the government can access the source code or compiled software.*
+*CO note: It may be necessary to clarify whether the government can access the source code or compiled software. Access to source code may be required under FAR clauses like 52.227-14 (Rights in Data), or via specific IP clauses negotiated in contracts—especially for custom software. Agencies can specify unlimited, government purpose, or restricted rights in deliverables, depending on mission needs.*
 
 ### How is software developed?
 
@@ -145,7 +145,7 @@ Understanding how software is developed helps procurement professionals recogniz
 
 The Software Development Lifecycle (SDLC) is the process organizations use to plan, design, develop, maintain, and eventually retire software systems. Approaches to SDLC range from traditional "waterfall" methods, where each phase is completed sequentially, to more modern, iterative approaches like Agile. Agile methodology focuses on building and delivering functional software in small, manageable increments. Different Agile approaches include Scrum, where teams work in short, time-boxed sprints, and Kanban, which emphasizes continuous delivery with strict limits on work in progress to maintain flow.
 
-A central principle of modern software development is the importance of iteration, prototyping, and feedback loops—testing ideas early, learning from users, and continuously improving. For example, the U.S. Digital Service and VA used Agile and iterative development to improve the VA.gov website, releasing updates in small increments based on honest user feedback. They also leveraged open-source libraries and maintained a Software Bill of Materials (SBOM) to track components and ensure security compliance. 
+A central principle of modern software development is the importance of iteration, prototyping, and feedback loops—testing ideas early, learning from users, and continuously improving. For example, the U.S. Digital Service and VA used Agile and iterative development to improve the VA.gov website, releasing updates in small increments based on honest user feedback. They also leveraged open-source libraries and maintained a Software Bill of Materials (SBOM) to track components and ensure security compliance. OMB Memo M-22-18 and NIST’s Secure Software Development Framework (SSDF) now require SBOMs and secure development attestations from software vendors—making SBOMs a federal policy expectation in many software contracts.
 
 Instead of building everything from scratch, developers commonly use packages and libraries—prewritten code modules created by others—to speed up development and improve reliability. However, this practice introduces potential security, licensing, and maintenance risks. As a result, tools like SBOMs are becoming essential, helping organizations manage their software supply chain more effectively.
 
@@ -161,69 +161,70 @@ Finally, software can be delivered as an app and downloaded via app stores to us
 
 ### How is software updated?
 
-Modern software isn’t built once and left alone—it’s constantly updated to fix bugs, add new features, and improve security. To manage this, software teams use practices that help them make changes quickly and safely.
+Modern software isn’t built once and left alone—it’s regularly updated to fix bugs, add new features, and improve security. To manage this, software teams use practices that help them make changes quickly and safely.
 
-One common practice is **Continuous Integration** **and Continuous Delivery (CI/CD)**. This means developers regularly add their code to a shared system, where automated tools check the code and prepare it for release. These tools also run tests to ensure the changes don’t break anything. As a result, working software can be updated more frequently and with greater reliability.
+One common practice is **Continuous Integration and Continuous Delivery (CI/CD).** This means developers regularly add their code to a shared system, where automated tools check the code and prepare it for release. These tools also run tests to ensure the changes don’t break anything. As a result, working software can be updated more frequently and with greater reliability.
 
-To keep track of changes, developers use a **version control system,** the most common one being Git. It helps teams see who made what change, roll back to earlier versions if needed, and collaborate on the same code without overwriting each other’s work. Platforms like GitHub and GitLab build on Git to make this process easier.
+Developers use a **version control system**, the most common one being Git, to keep track of changes. It helps teams see who made what change, roll back to earlier versions if needed, and collaborate on the same code without overwriting each other’s work. Platforms like GitHub and GitLab build on Git to make this process easier.
 
 Testing is critical to updating software. **Automated testing tools** check for problems every time a change is made. These tests can include basic functionality, how different parts of the system interact, how the software handles heavy use, and whether it meets security standards. Even though many tests are automated, some types of testing—like checking for accessibility or ease of use—still need a human touch.
 
-Before updates reach the end users, the software usually moves through several **environments**. These might include a development environment (where the code is written), a testing environment (where changes are checked), a staging environment (which mimics the live system), and finally, the production environment (used by real users). This process helps catch any issues before the update goes live.
+Before updates reach the end users, the software usually moves through several **environments.** These might include a development environment (where the code is written), a testing environment (where changes are checked), a staging environment (which mimics the live system), and finally, the production environment (used by real users). This process helps catch any issues before the update goes live.
 
 Teams also use techniques like **canary testing** and **feature flags** to manage risk. Canary testing means rolling out a new software version to a small group of users first. If it works well, the update is released more broadly. Feature flags allow developers to turn specific features on or off without changing the code. This helps teams test features gradually or run A/B tests to compare performance.
 
-#### Why Updates Matter—and How They Stay Safe
+#### Why updates matter—and how they stay safe
 
 Frequent updates help agencies respond quickly to user needs and changing requirements. But they also come with tradeoffs. Updates can introduce new problems or confuse users if not communicated well. That’s why finding the right balance between moving fast and keeping systems stable is essential.
 
-Security is another key reason software needs regular updates. Updates often include patches for known vulnerabilities and help systems comply with federal security policies, like **FedRAMP** or **NIST** standards. Agencies should plan for ongoing updates as part of the delivery process, not as an afterthought.
+Security is another key reason software needs regular updates. Updates often include patches for known vulnerabilities and help systems comply with federal security policies, like FedRAMP or NIST standards. Agencies should plan for ongoing updates as part of the delivery process, not as an afterthought.
 
-#### How Teams Monitor and Respond to Problems
+#### How teams monitor and respond to problems
 
-After software is deployed, teams don’t just walk away—they monitor its performance in real time. They use **monitoring tools** to track uptime, response time, and error rates. Standard tools include Datadog, Prometheus, and AWS CloudWatch. These insights help teams decide when to update or improve the system.
+After software is deployed, teams don’t just walk away—they monitor its performance in real time. They use monitoring tools to track uptime, response time, and error rates. Standard tools include Datadog, Prometheus, and AWS CloudWatch. These insights help teams decide when to update or improve the system.
 
-If something goes wrong, teams rely on **incident response plans**. These plans include steps for rolling back bad updates, recovering data, and communicating with stakeholders. Having clear procedures in place helps minimize downtime and protects user trust.
+If something goes wrong, teams rely on incident response plans. These plans include steps for rolling back bad updates, recovering data, and communicating with stakeholders. Having clear procedures in place helps minimize downtime and protects user trust.
 
-### Considerations around Supply Chain and Licensing
+### Considerations around supply chain and licensing
 
-When buying or managing software, it's important to understand what’s behind the hood. Most modern software isn’t built from scratch—it’s assembled from many parts, including third-party libraries, open-source tools, proprietary code, and deployment tools. This collection of components is often referred to as the **software supply chain**.
+When buying or managing software, it's essential to understand what’s behind the hood. Most modern software isn’t built from scratch—it’s assembled from many parts, including third-party libraries, open-source tools, proprietary code, and deployment tools. This collection of components is often referred to as the **software supply chain.**
 
 If agencies or vendors don’t track these components correctly, it can lead to hidden vulnerabilities, licensing conflicts, or even security breaches. For example, the **SolarWinds cyberattack**—a significant event that affected several federal agencies—exploited weaknesses in the software build process. This incident showed how risky it can be when dependencies and tools aren't properly managed or monitored.
 
-One way to manage this risk is through a **Software Bill of Materials (SBOM)**. An SBOM is like a parts list for software—it shows all the libraries, packages, and tools that make up a system. Many federal agencies now require vendor SBOMs because they help track vulnerabilities and support a faster response when issues arise.
+One way to manage this risk is through a **Software Bill of Materials (SBOM)**. An SBOM is like a parts list for software—it shows all the libraries, packages, and tools that make up a system. Many federal agencies now require vendor SBOMs because they help track vulnerabilities and support a faster response when issues arise. This requirement is reinforced by OMB M-22-18 and NIST SSDF guidance.
 
-Contracting officers and acquisition professionals should also ask vendors about **risk management practices**. Are they scanning for vulnerabilities? Do they patch or replace risky components? Do they follow secure development practices? These questions are essential to ensure that the software delivered is safe and dependable.
+Contracting officers and acquisition professionals should also ask vendors about **risk management practices.** Are they scanning for vulnerabilities? Do they patch or replace risky components? Do they follow secure development practices? These questions are essential to ensure that the software delivered is safe and dependable.
 
-Licensing is another key consideration. Software licenses set the rules for how software can be used, shared, or changed. There are two main types: **proprietary licenses** and **open-source licenses**.
+Licensing is another key consideration. Software licenses set the rules for how software can be used, shared, or changed. There are two main types: **proprietary licenses** and **open-source licenses.**
 
 **Proprietary licenses** usually come with restrictions and fees. Agencies don’t get access to the source code and must rely on the vendor for support and updates. Common examples include Microsoft Office or Salesforce. In contrast, **open-source licenses** generally allow for more flexibility. They let agencies use, change, and distribute software freely, though some licenses require that changes be shared publicly. For instance, the Apache 2.0 license is relatively permissive, while the GNU General Public License (GPL) has stricter conditions.
 
-These licensing choices affect more than legal compliance—they impact cost, flexibility, and long-term strategy. While open-source tools may reduce licensing costs, they still require investment in support and integration. Open-source software can be customized, while proprietary tools may be harder to adapt. Failure to follow the terms of a license, especially with open-source software, can lead to contract issues or legal trouble.
+These licensing choices affect more than legal compliance—they impact cost, flexibility, and long-term strategy. While open-source tools may reduce licensing costs, they still require investment in support and integration. Open-source software can be customized, while proprietary tools may be more complex to adapt. Failure to follow the terms of a license, especially with open-source software, can lead to contract issues or legal trouble.
 
-Finally, agencies should consider the risk of **vendor lock-in**, when switching providers becomes difficult or expensive. This can happen if the vendor uses proprietary formats, doesn’t allow access to data, or doesn’t follow open standards. When reviewing a procurement, it’s worth asking: Does the software use open standards? Will we be able to access and export our data? Could another vendor take over if needed?
+Finally, agencies should consider the risk of **vendor lock-in,** when switching providers becomes difficult or expensive. This can happen if the vendor uses proprietary formats, doesn’t allow access to data, or doesn’t follow open standards. When reviewing a procurement, it’s worth asking: Does the software use open standards? Will we be able to access and export our data? Could another vendor take over if needed? APIs and modularity can help avoid lock-in, and they support DevSecOps, interoperability, and zero-trust architecture. APIs should follow open standards (e.g., OpenAPI) and be well-documented, often as required deliverables in contracts.
 
 By considering these factors, 1102s can make better-informed decisions that reduce risk, support flexibility, and help agencies maintain control over their software assets.
 
-### Service Design and Delivery Standards (21st Century IDEA & USDS Playbook)
+### Service design and delivery standards (21st Century IDEA & USDS Playbook)
 
 Modern software isn’t just about code—it’s about delivering effective services that meet user needs, comply with the law, and adapt over time. The 21st Century Integrated Digital Experience Act (IDEA) and the U.S. Digital Services Playbook set specific expectations for how software supporting government services should be designed and delivered.
 
-Contracting officers should understand these frameworks to write solicitations that support human-centered, standards-compliant digital service delivery.
+Contracting officers should understand these frameworks to write solicitations that support human-centered, standards-compliant digital service delivery. Section 280 of the FY2023 NDAA also promotes modular contracting and HCD in acquisition planning—making it easier for agencies to build flexible, responsive digital tools.
 
-When federal agencies build or buy digital services, focusing on the people who will use them is critical. This approach is called **Human-Centered Design (HCD)**. It means engaging with users throughout the development process—not just at the beginning or the end—to ensure the product meets their needs. Human-centered design focuses on the needs, behaviors, and feedback of end users of a product or service.
+When federal agencies build or buy digital services, focusing on the people who will use them is critical. This approach is called **Human-Centered Design (HCD).** It means engaging with users throughout the development process—not just at the beginning or the end—to ensure the product meets their needs. Human-centered design focuses on the needs, behaviors, and feedback of end users of a product or service. Consider making user research a contract deliverable, including usability testing, accessibility audits, and multiple feedback loops to validate success.
 
-HCD places special emphasis on **accessibility, usability, and continuous feedback**. Digital tools should be easy for everyone, including people with disabilities. That’s where **Section 508 compliance** comes in, requiring things like screen reader compatibility, keyboard navigation, and appropriate color contrast. But accessibility alone isn’t enough—systems should be usable and continually improved based on real-world feedback. Agencies can achieve this by building in regular user testing, collecting performance data, and listening to feedback.
+HCD places special emphasis on **accessibility, usability, and continuous feedback.** Digital tools should be easy for everyone, including people with disabilities. That’s where **Section 508 compliance** comes in, requiring things like screen reader compatibility, keyboard navigation, and appropriate color contrast. But accessibility alone isn’t enough—systems should be usable and continually improved based on real-world feedback. Agencies can achieve this by building in regular user testing, collecting performance data, and listening to feedback.
 
-Contracting officers can help by shaping procurements to support these practices. Instead of static, one-time requirements, solicitations should encourage **iterative research and design**. This might mean asking vendors to include user researchers and designers on their teams or to plan for multiple testing and feedback cycles as part of their delivery.
+Contracting officers can help by shaping procurements to support these practices. Instead of static, one-time requirements, solicitations should encourage **iterative research and design.** This might mean asking vendors to include user researchers and designers on their teams or to plan for multiple testing and feedback cycles as part of their delivery.
 
-**Modular development** and **API-driven architecture** are other key strategies for building flexible, user-friendly systems. Modular development breaks large systems into smaller, usable parts that can be delivered and improved over time, rather than waiting years for a final product. Meanwhile, **APIs** (Application Programming Interfaces) allow different systems to talk to each other. This makes integrating commercial tools, in-house software, and legacy systems easier, while avoiding vendor lock-in.
+**Modular development** and **API-driven architecture** are other key strategies for building flexible, user-friendly systems. Modular development breaks large systems into smaller, usable parts that can be delivered and improved over time, rather than waiting years for a final product. Meanwhile, **APIs** (Application Programming Interfaces) allow different systems to talk to each other. This makes integrating commercial tools, in-house software, and legacy systems easier, while avoiding vendor lock-in. These strategies align with modern cloud and DevSecOps practices, and support faster, more secure delivery.
 
 Strong **performance and usability standards** are also essential. Systems should respond quickly, handle expected workloads, and navigate easily. Agencies may track things like the number of transactions a system handles each day or how long it takes for a page to load (e.g., 95% of responses under 500 milliseconds).
 
-Finally, **continuous improvement** should be part of any technology investment. This means monitoring systems for performance and problems, collecting data on how users interact with the service, and using that data to guide future updates. Combining **quantitative analytics** (like page views or error rates) with **qualitative research** (like interviews and surveys) gives a fuller picture of how well a system works and how to improve it.
+Finally, **continuous improvement** should be part of any technology investment. This means monitoring systems for performance and problems, collecting data on how users interact with the service, and using that data to guide future updates. Combining **quantitative** **analytics** (like page views or error rates) with **qualitative research** (like interviews and surveys) gives a fuller picture of how well a system works and how to improve it.
 
-By prioritizing user needs, accessibility, and flexibility, agencies can deliver digital tools that are effective and inclusive. Acquisition professionals play a key role in making that happen.
+By prioritizing user needs, accessibility, and flexibility, agencies can deliver effective and inclusive digital tools. Acquisition professionals play a key role in this process.
+
 
 ---
 
