@@ -76,6 +76,8 @@ These help you assess contractor team health and collaboration:
    * Documentation quality and completeness  
    * Knowledge sharing between team members
 
+---
+
 ### Tools for Modern Federal Procurement Oversight
 
 **Government-Approved DevOps Platforms**
@@ -119,6 +121,8 @@ Choose tools that meet federal security requirements:
 * API access for custom reporting  
 * Integration with existing agency tools  
 * Cost-effectiveness for government use
+
+---
 
 ### Modern Incentive Structures for Agile Contracts
 
@@ -183,6 +187,8 @@ Choose tools that meet federal security requirements:
 * Opportunities to contribute to agency standards  
 * Participation in cross-agency working groups
 
+---
+
 ### Implementation Guidance 
 
 Designing incentives is a team effort. The program office, product manager, and COR bring delivery insight to define what matters and how to measure it. The CO helps translate that into contract language. Together, they create realistic incentives that support mission success.
@@ -216,6 +222,8 @@ When designing incentives:
 3. Document how metrics will inform contract decisions  
 4. Train CORs specifically on agile metrics evaluation  
 5. Create feedback mechanisms to share performance insights with contractors
+
+---
 
 ### Implementing Modern Metrics and Incentives
 
@@ -256,6 +264,8 @@ When designing incentives:
 
 **For Incentives:** "Contractor may earn award fees up to 10% of quarterly payments based on: (1) User task completion rates exceeding 80% (3% award fee); (2) Deployment frequency of at least weekly with \<15% failure rate (3% award fee); (3) User satisfaction scores exceeding 4.0/5.0 (2% award fee); (4) Sprint commitment achievement rate exceeding 85% (2% award fee)."
 
+---
+
 ### Discussion Prompt (optional)
 
 For your DITAP discussion assignment, consider a digital service acquisition that you have worked on or heard about and analyze how modern metrics and incentives could be applied:
@@ -291,6 +301,8 @@ Choose a digital service your agency currently uses or is developing. This servi
 **Due Date:** Your discussion post is due by the end of the current module, **\[DATE\].**
 
 **Definition of Done:** Your post should address all four elements above in sufficient detail to demonstrate your understanding of modern metrics and incentives in agile procurement. Additionally, respond to at least two classmates' posts with substantive feedback or additional insights.
+
+---
 
 ### Additional Resources
 
@@ -358,6 +370,8 @@ Quarterly reviews and joint retrospectives are part of this architecture. These 
 
 You’re building more than just contracts, you’re engineering a delivery ecosystem that is resilient, adaptable, and continually optimizing over time. 
 
+---
+
 ### Understanding Multi-Vendor Scenarios in the Federal Government
 
 **Common Multi-Vendor Arrangements:**
@@ -387,6 +401,8 @@ You’re building more than just contracts, you’re engineering a delivery ecos
 * The government maintains oversight through the prime contractor
 
 **Your coordination approach varies by arrangement type, but core principles remain consistent.**
+
+---
 
 ### Building the Post-Award Multi-Vendor Strategy
 
@@ -520,6 +536,8 @@ A critical measure of multi-vendor maturity is the ability to issue and award ta
 
   * Use incentive fees for specific behaviors (e.g., mentoring smaller firms, contributing shared tools, and resolving cross-vendor issues ).
 
+---
+
 ### Additional Options to Improve Management
 
 Here's a list of additional elements that would strengthen your multi-vendor management architecture:
@@ -539,10 +557,6 @@ Here's a list of additional elements that would strengthen your multi-vendor man
 * **Integrated Risk Registers:** Maintain a centralized view of delivery risks that’s updated collaboratively across vendors and agency leadership.
 
 * **Standardized Task Order Evaluation Criteria:** Reduce variance and the perception of favoritism by using consistent scoring templates and rubrics across awards.
-
-### 
-
-### 
 
 #### Delivery Alignment
 
@@ -568,9 +582,7 @@ Here's a list of additional elements that would strengthen your multi-vendor man
 
 * **Performance-Based Incentives:** Use award terms, incentive fees, or task order preference for vendors who consistently collaborate well or exceed delivery goals.
 
-### 
-
-### 
+---
 
 ### Contract Administration for Multi-Vendor Success
 
@@ -619,6 +631,8 @@ Consistent Standards Apply the same quality, security, and performance standards
 * Measure integration success as well as individual performance  
 * Address vendor conflicts quickly and fairly  
 * Reward vendors who contribute to overall program success
+
+---
 
 ### Managing Common Multi-Vendor Challenges
 
@@ -682,7 +696,7 @@ Consistent Standards Apply the same quality, security, and performance standards
 * Balance transparency with legitimate competitive concerns  
 * Focus on technical coordination, not business strategy
 
-## 
+---
 
 ### Your Implementation Roadmap
 
