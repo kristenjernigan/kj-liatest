@@ -101,13 +101,13 @@ U.S. Federal policy has rapidly evolved to support the responsible use of AI in 
 
 #### Executive Orders
 
-* **EO 14179 (Jan 2025\)**: *Removing Barriers to American Leadership in AI* revokes EO 14110 and orders the federal government to modernize its AI acquisition and governance practices. It directs agencies to streamline AI procurement and issue a national AI action plan. \<https://www.whitehouse.gov/briefing-room/statements-releases/2025/01/23/executive-order-on-removing-barriers-to-american-leadership-in-ai/\>
+* [EO 14179 (Jan 2025\)**: *Removing Barriers to American Leadership in AI](https://www.whitehouse.gov/presidential-actions/2025/01/removing-barriers-to-american-leadership-in-artificial-intelligence/) revokes EO 14110 and orders the federal government to modernize its AI acquisition and governance practices. It directs agencies to streamline AI procurement and issue a national AI action plan. 
 
-* **AI Action Plan (July 2025\)**: *Winning the Race: America’s AI Action Plan* outlines how federal agencies will support infrastructure, workforce development, procurement reform, and cross-agency collaboration to accelerate AI use across government. \<https://www.whitehouse.gov/articles/2025/07/white-house-unveils-americas-ai-action-plan/\>
+* [AI Action Plan (July 2025\)**: *Winning the Race: America’s AI Action Plan](https://www.whitehouse.gov/articles/2025/07/white-house-unveils-americas-ai-action-plan/) outlines how federal agencies will support infrastructure, workforce development, procurement reform, and cross-agency collaboration to accelerate AI use across government. 
 
 #### OMB Guidance
 
-* **M-25-21 & M-25-22 (April 2025\)**: Replaces earlier guidance with updated requirements on identifying “high-impact” AI use cases, enforcing human oversight, and prioritizing open, fair, and responsible AI contracting practices. \<https://www.whitehouse.gov/omb/management/memoranda/\>
+* [M-25-21](https://www.whitehouse.gov/wp-content/uploads/2025/02/M-25-21-Accelerating-Federal-Use-of-AI-through-Innovation-Governance-and-Public-Trust.pdf) & [M-25-22](https://www.whitehouse.gov/wp-content/uploads/2025/02/M-25-22-Driving-Efficient-Acquisition-of-Artificial-Intelligence-in-Government.pdf) (April 2025\): Replaces earlier guidance with updated requirements on identifying “high-impact” AI use cases, enforcing human oversight, and prioritizing open, fair, and responsible AI contracting practices. 
 
 #### Federal AI Use Case Inventory
 
@@ -144,21 +144,19 @@ Efforts are underway to examine the use of AI in developing and writing an acqui
 
 ### Sources
 
-* **CIPS & Posterity Global** (2024). *AI in Procurement and Supply: How Automation Will Change Your Career and the Function*  
-   ([https://www.cips.org](https://www.cips.org/))
+* **CIPS & Posterity Global** (2024). *[AI in Procurement and Supply: How Automation Will Change Your Career and the Function](https://cips-download.cips.org/expert-reports/cips-ai-in-procurement-and-supply-2024)*  
 
-* **OMB GitHub**. *2024 Federal Agency AI Use Case Inventory*  
-   ([https://github.com/ombegov/2024-Federal-AI-Use-Case-Inventory](https://github.com/ombegov/2024-Federal-AI-Use-Case-Inventory))
 
-* **White House**. *Executive Order 14179: Removing Barriers to American Leadership in AI* (Jan 2025\)  
-   ([https://www.whitehouse.gov/briefing-room/statements-releases/2025/01/23/executive-order-on-removing-barriers-to-american-leadership-in-ai/](https://www.whitehouse.gov/briefing-room/statements-releases/2025/01/23/executive-order-on-removing-barriers-to-american-leadership-in-ai/))
+* **OMB GitHub**. *[2024 Federal Agency AI Use Case Inventory](https://github.com/ombegov/2024-Federal-AI-Use-Case-Inventory)*  
+ 
 
-* **White House**. *America’s AI Action Plan* (Jul 2025\)  
-   ([https://www.whitehouse.gov/wp-content/uploads/2025/07/Americas-AI-Action-Plan.pdf](https://www.whitehouse.gov/wp-content/uploads/2025/07/Americas-AI-Action-Plan.pdf))  
-   ([https://www.whitehouse.gov/articles/2025/07/white-house-unveils-americas-ai-action-plan/](https://www.whitehouse.gov/articles/2025/07/white-house-unveils-americas-ai-action-plan/))
+* **White House**. *[Executive Order 14179: Removing Barriers to American Leadership in AI* (Jan 2025\)](https://www.whitehouse.gov/presidential-actions/2025/01/removing-barriers-to-american-leadership-in-artificial-intelligence/)* 
+  
 
-* **OMB**. *Memoranda M-25-21 & M-25-22*  
-   ([https://www.whitehouse.gov/omb/management/memoranda/](https://www.whitehouse.gov/omb/management/memoranda/))
+* **White House**. *[America’s AI Action Plan* (Jul 2025\)](https://www.whitehouse.gov/articles/2025/07/white-house-unveils-americas-ai-action-plan/)* 
+   
+
+* **OMB**. *[M-25-21](https://www.whitehouse.gov/wp-content/uploads/2025/02/M-25-21-Accelerating-Federal-Use-of-AI-through-Innovation-Governance-and-Public-Trust.pdf) & [M-25-22](https://www.whitehouse.gov/wp-content/uploads/2025/02/M-25-22-Driving-Efficient-Acquisition-of-Artificial-Intelligence-in-Government.pdf)*
 
 
 
