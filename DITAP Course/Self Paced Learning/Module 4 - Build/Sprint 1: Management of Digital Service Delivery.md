@@ -2,9 +2,9 @@
 
 ## Managing Digital Service Delivery
 
-The contract has been awarded. Now what?
+We awarded the contract. Now what?
 
-In many traditional acquisitions, the role of the Contracting Officer (CO) winds down significantly after award. But when it comes to digital service procurements—especially those that use agile delivery methods—award is just the beginning. Your engagement in the post-award phase can directly influence the success of the product being built.
+In many traditional acquisitions, the role of the Contracting Officer (CO) winds down significantly after award. But when it comes to digital service procurements, especially those that use agile delivery methods, award is just the beginning. Your engagement in the post-award phase can significantly impact the success of product development.
 
 In this module, we’ll explore how Contracting Officers can play an active, valuable role during the delivery phase of a digital service contract. You’ll learn how to work effectively with the Contracting Officer’s Representative (COR) and the Product Owner (PO), understand what product management means in this context, and recognize how agile delivery teams operate once the work begins.
 
@@ -12,18 +12,32 @@ Your continued involvement matters. Agile product delivery thrives when all part
 
 This sprint will help you recognize:
 
-* What product ownership looks like in federal digital service delivery  
-* How CORs and POs interact and support agile delivery  
-* Why communication rhythms, shared understanding, and rituals matter  
+* What product ownership looks like in federal digital service delivery
+
+* How CORs and POs interact and support agile delivery
+
+* Why communication rhythms, shared understanding, and rituals matter
+
 * How to help your team celebrate progress and spot success
+
+
+### Digital Service Delivery in Today's Federal Environment
+
+Federal agencies are increasingly adopting digital-first approaches to improve public services. This shift is supported by evolving agency priorities and cross-government efforts to modernize public-facing services. This transformation emphasizes modern service delivery practices that prioritize user needs, support rapid iteration, and focus on measurable user outcomes rather than rigid technical requirements.
+
+You operate in an environment where there is growing demand for faster delivery, better user experiences, and increased transparency. However, traditional procurement methods often create barriers to achieving these outcomes. Agile digital service contracts help remove these obstacles by emphasizing collaboration, adaptability, and continuous improvement throughout the development process.
 
 ### Building products, not just deliverables
 
-Unlike traditional acquisitions where the contract often focuses on fixed requirements and final deliverables, digital service contracts are built around product delivery. That means continuous development of something usable—a tool, system, or experience—that supports an end-user need or mission goal.
+**Understanding Product-Centered Procurement**
 
-This is not a “set it and forget it” process. Agile work requires iteration: building, testing, learning, adjusting. It’s dynamic and human-centered. The Product Owner works closely with the development team to prioritize what gets built and why. The COR helps ensure government oversight, risk management, and performance tracking. And you—the CO—play a crucial role in keeping everything on the rails from a contractual perspective.
+Digital service contracts focus on outcomes, not outputs. Instead of buying a predetermined solution, you're investing in a team's ability to solve user problems and meet mission needs.
 
-This collaborative structure depends on communication. Unlike other contracts, it’s not uncommon for team members—including junior developers, designers, and technical leads—to engage with the program regularly. These touchpoints foster transparency, help resolve issues quickly, and drive stronger outcomes.
+**Traditional approach**: "Build us a system with these 47 requirements by this date." **Product approach:** "Help our users accomplish \[specific goal\] more effectively."
+
+Product teams utilize research, testing, and data to inform their decisions. They build features incrementally, test them with real users, and adjust based on feedback. This approach reduces risk because you see working software frequently and can make course corrections quickly.
+
+Your role supports this by ensuring contracts provide flexibility for discovery and iteration while maintaining appropriate oversight and accountability.
 
 ### Laying the Groundwork for Success
 
@@ -38,209 +52,198 @@ Start by getting clear on roles and expectations:
 Before the contractor team even kicks off, consider establishing a project charter or communication plan that outlines how you’ll work together. These can be lightweight but powerful tools that define:
 
 * What success looks like  
-* How progress will be tracked  
+* How progress gets tracked  
 * Who owns decisions at different stages  
 * How and when to escalate concerns  
 * How you’ll celebrate wins—and how you’ll course-correct if needed
 
 Remember: this stage is about delivery, but it’s also about learning, improving, and staying connected to the people and goals you’re serving. Agile contracts have shown up to three times higher success rates than traditional waterfall efforts—because of this continuous involvement, shared accountability, and focus on delivering real, working results.
 
-See the attached Sample Project Charter for a template to kick off this process:  
-[Project Charter](https://github.com/kristenjernigan/kj-liatest/blob/00b8215fd4a12737c71e676ceb10f7f949fa79cb/Media/Module%204/Digital%20Service%20Delivery%20Project%20Charter%20.docx)
+See the attached Sample Project Charter for a template to kick off this process  
+[Project Charter](https://docs.google.com/document/d/1-WivcgWCy4w9PmlicwHuFpyWcsibx4CsYCJrMMhoplM/edit?tab=t.0)
 
-### Agile Rituals and Procurement Alignment
 
-To better understand how agile delivery unfolds in a federal environment, the following example illustrates a typical one-month Scrum schedule. It highlights key touchpoints for the Product Owner (PO), Contracting Officer’s Representative (COR), and Contracting Officer (CO), showing how agile rituals align with government oversight responsibilities. While each contract may require adjustments based on its complexity, mission, or team dynamics, this structure offers a foundational model. By starting with a simple, well-understood rhythm, teams can more confidently adapt when exceptions or project-specific needs arise.
+### Agile Framework in Federal Procurement 
 
----
-#### One-Month Agile Ritual Scenario (with Pre-Sprint Activities)
+**How Agile Events Align with Oversight Roles and Responsibilities**
 
-**Structure:** 2-week sprints over 4 weeks, including product demo and CO/COR/PO check-in
+Federal agile delivery often follows a consistent two-week sprint cadence. While teams may vary in complexity, size, or contract structure, this foundational rhythm offers clarity for performance oversight, vendor accountability, and stakeholder communication.
 
-**Purpose:** Demonstrate how agile ceremonies align with federal procurement oversight roles and responsibilities
+This guide outlines how standard agile ceremonies align with the responsibilities of the **Product Owner (PO)**, **Contracting Officer's Representative (COR)**, and **Contracting Officer (CO)**
 
-![Infographic titled 'Basic Scrum Cadence' showing a weekly schedule for three sprints (Sprint 1, Sprint 2, Sprint 3). Each week (Monday to Friday) includes 'Daily Scrum'. On Tuesday, 'Backlog refinement' is added. On Wednesday, 'Sprint review', 'Retrospective', and 'Sprint Planning' are added. Arrows indicate flow between days, showing the continuous nature of Daily Scrums.](https://github.com/kristenjernigan/kj-liatest/blob/724b890d63e87770de78ae7ab3b4c10f3ec4adf4/Media/Module%204/basic%20scrum%20cadence.png)
+#### Agile Ceremony Overview \+ Procurement Touchpoints
 
-*Image Credit: Blackboard PISG Agile and Scrum Training 2018*
+##### Daily Standup (Daily, 15 minutes)
 
----
-##### **Pre-Sprint Activities (Before Week 1 and Before Week 3)**
+* **What Happens**: Vendor team shares status updates, blockers, and next steps.  
+* **PO Role**: Ensures focus remains on outcomes and product priorities.  
+* **COR Role** *(Optional)*: May attend to observe team health or identify early risk signals.  
+* **Procurement Alignment**:  
+  * COR notes major blockers or risks that may impact delivery.  
+  * Can inform discussions with CO if risks persist or escalate.
 
-**Participants:** Vendor team, Product Owner (PO), COR (observer), technical stakeholders
+##### Sprint Planning (Start of Every Sprint – e.g., Week 1, Week 3\)
 
-**Activities:**
+* **What Happens**: Vendor team commits to a set of prioritized stories from the product backlog.  
+* **PO Role**: Finalizes backlog priorities aligned to user needs and contract scope.  
+* **COR Role**: Observes and documents sprint goals, noting dependencies or delivery risks.  
+* **Procurement Alignment**:  
+  * COR ensures planned work aligns with contract objectives and performance standards.  
+  * Documents expectations for QASP tracking and vendor evaluation.
 
-* **User Story Sizing:**  
-   The vendor team reviews upcoming stories with the PO and provides rough estimates of effort (e.g., story points or time-based sizing).
-  
- ![Infographic titled 'Epic/story pointing and relativity'. It illustrates functionality/issues as different-sized boxes, each paired with a silhouette of a person. These correspond to 'Relative difference' (Smallest to Biggest) and 'Story pointing' values (1, 2, 3, 5, 8, 13). Below, a graph shows 'Uncertainty' increasing proportionally as 'Story Points' increase, with text stating 'Uncertainty of completion increases in proportion to story point increases'.](https://github.com/kristenjernigan/kj-liatest/blob/724b890d63e87770de78ae7ab3b4c10f3ec4adf4/Media/Module%204/epic%20-%20story%20pointing%20and%20relativity.png) 
- 
-*Image Credit: Blackboard PISG Agile and Scrum Training 2018*
-  
+##### Sprint Review (End of Each Sprint – e.g., Week 2, Week 4\)
 
-* **Backlog Refinement:**  
-  Based on the sizing and team velocity, the PO re-prioritizes the backlog and adjusts scope.
-  
- ![Diagram titled 'Discovering and defining the backlog'. On the left, 'Product Backlog' shows a 'Theme' containing multiple 'Epics'. A Product Manager (PM, Visionary) is shown above, and a Product Owner (PO, Execution) below. Black arrows show the PM and PO influencing the creation of a 'Prioritized Product Backlog' on the right, which breaks down Epics into 'Stories' for Sprint 1, 2, and 3, with some Epics remaining for refinement or later sprints. A timeline at the bottom shows versions 1.2.2.0 and 1.2.3.0.](https://github.com/kristenjernigan/kj-liatest/blob/724b890d63e87770de78ae7ab3b4c10f3ec4adf4/Media/Module%204/discovering%20and%20defining%20the%20backlog.png)
-*Image Credit: Blackboard PISG Agile and Scrum Training 2018*
+* **What Happens**: Vendor demos completed work to PO, COR, and stakeholders.  
+* **PO Role**: Accepts or rejects deliverables based on the agreed Definition of Done (DoD).  
+* **COR Role**: Evaluates whether outputs meet expectations for quality, timeliness, and user value.  
+* **Procurement Alignment**:  
+  * COR documents observations in the performance file.  
+  * Key input to QASP, CPARS, and other performance assessments.
 
-* **Definition of Done (DoD) Review:**  
-  Stories are updated or clarified to ensure shared understanding of what “done” looks like for each task.
+##### Sprint Retrospective (End of Each Sprint)
 
-**Procurement Alignment:**
+* **What Happens**: Internal team (vendor and government) reflects on what went well, what didn’t, and how to improve.  
+* **PO Role**: Fosters a learning culture, encouraging feedback and continuous improvement.  
+* **COR Role**: Participates in discussions that may surface delivery risks or suggest contract adjustments.  
+* **Procurement Alignment**:  
+  * Lessons learned may prompt updates to backlog, team processes, or performance plans.
 
-* The COR attends as an observer to understand planned scope and complexity.
+##### Monthly Business Review (End of Month)
 
-* COR and PO capture this discussion as part of performance planning.
+* **What Happens**: PO, COR, and CO review sprint outcomes, address contract questions, and plan forward.  
+* **Who Participates**: CO, COR, PO, vendor lead  
+* **Procurement Alignment**:  
+  * Formal checkpoint to assess vendor performance.  
+  * Address contractual matters: funding, risk, modifications, scope shifts.  
+  * Celebrate progress, align on upcoming priorities, and track delivery against milestones.
 
-* Helps tie delivery expectations to documented observations for **QASP** and **past performance** tracking.
+### Why This Matters for Procurement
 
-* Surfaces early signals of risks that might require CO attention before the sprint begins.
+This agile rhythm allows the government to:
 
-![On the left, 'Vision: Describes the purpose, goals, and change that the product will create,' accompanied by a winding road with multiple location pins, suggesting a journey. A tip below states, 'Think of this step as a roadmap for success. Remember scope may change.' On the right, 'Product Strategy: Describes the path chosen to deliver the vision,' is illustrated by a circular diagram labeled 'Product Strategy' at its center, surrounded by connected bubbles for 'Who', 'Needs', 'Defining Success', 'Innovation', 'Revenue', and 'Logistics'.](https://github.com/kristenjernigan/kj-liatest/blob/724b890d63e87770de78ae7ab3b4c10f3ec4adf4/Media/Module%204/vision%20and%20prodcut%20strategy.png)
-*Image Credit: Blackboard PISG Agile and Scrum Training 2018*
+* Tie the vendor’s work directly to observable, time-bound outcomes.  
+* Provide continuous oversight without micromanagement.  
+* Identify delivery issues early—before they become contract problems.  
+* Maintain a clear, documented audit trail for performance and risk.
 
-
----
-
-##### **Week 1: Sprint 1 Begins**
-
-**Participants:** Vendor team, PO, COR (observer)  
-
-**Activities:**
-
-* Sprint Planning: Finalizes sprint commitment from the refined backlog
-
-* PO confirms priority and alignment with user needs and contract objectives
-
-* Vendor team begins work immediately following sprint planning
-
-**Procurement Alignment:**
-
-* COR documents agreed-upon sprint goals and any caveats or assumptions
-
-* Establishes performance baseline for the sprint
-
----
-
-##### **Week 2: Sprint 1 Wrap-Up**
-
-**Participants:** Vendor team, PO, COR  
-
-**Activities:**
-
-* Sprint Review: Vendor demos completed work
-
-* PO accepts/rejects deliverables based on DoD
-
-* Sprint Retrospective: Internal team \+ vendor reflects on delivery, blockers, and team health
-
-**Procurement Alignment:**
-
-* **COR** and **PO** review and document sprint-level performance (quality, timeliness, communication)
-
-* Retrospective notes and performance records feed QASP and vendor performance file
-
-* Identifies any needs for clarification or modification of contract expectations
-
----
-
-![Diagram illustrating the flow from 'Corporate Leadership and Architectural Strategy and Vision' down to specific planning levels. It shows three rows: 'Product Vision (6+ months)' handled by 'Product Management' with bullet points for Vision, Product strategy, and Epic creation/priority. 'Release Planning (Quarterly/monthly)' handled by 'PM with PO, Design, Dev Manager' with bullet points for Epic mapping, Release plan, and Quarterly plan. 'Sprint Planning (2 weeks)' handled by 'Scrum Team (PO, SM, Eng. team, Design)' with bullet points for Product backlog and Sprint plan. Double-headed arrows on the right indicate feedback loops or continuous interaction between Product Management, PM/PO/Design/Dev Manager, and the Scrum Team levels.](https://github.com/kristenjernigan/kj-liatest/blob/724b890d63e87770de78ae7ab3b4c10f3ec4adf4/Media/Module%204/corporate%20leadership%20and%20architectural%20strategy%20and%20vision.png)
-
-*Image Credit: Blackboard PISG Agile and Scrum Training 2018*
-
----
-
-##### **Pre-Sprint Activities (Before Week 3)** 
-
-**Participants:** Vendor team, PO, COR  
-
-**Activities**:
-
-* Repeat of user story sizing and backlog refinement
-
-* Review sprint 1 insights to improve upcoming scope and expectations
-
-**Procurement Alignment:**
-
-* PO and COR adjust expectations based on prior sprint performance
-
-* CO may be consulted if backlog or velocity shifts suggest contractual impact
-
----
-
-##### **Week 3: Sprint 2 Begins**
-
-**Participants**: Vendor team, PO, COR  
-
-**Activities:**
-
-* Sprint Planning and kickoff
-
-* Team commits to updated backlog and delivery goals
-
-**Procurement Alignment:**
-
-* COR and PO reaffirm their shared understanding of delivery targets and metrics
-
----
-
-#####  **Week 4: Sprint 2 Wrap-Up \+ Monthly Demo**
-
-**Participants:** Vendor team, PO, COR, stakeholders  
-
-**Activities:**
-
-* Sprint Review: Demo of all delivered work (including key features from Sprint 1 and 2\)
-
-* Retrospective: Reflections on progress, team dynamics, blockers
-
-* Broader stakeholder feedback collected
-
-**Procurement Alignment:**
-
-* COR and PO review all deliverables against DoD
-
-* Finalize monthly documentation for QASP
-
-* Sprint-level observations noted for vendor performance evaluation
-
-
-
-![Slide titled 'Scrum metrics' with text stating Scrum is built on continuous improvement, requiring measurement to identify ways to get better. A diagram on the right shows 'Scrum Team Maturity Metrics' at the center, surrounded by interconnected circles representing other metrics: Forecasting, Epic and Story velocity, Resource change rate, Throughput, Release metrics, Bugs metrics, Epic and Story metrics, and Requirement quality.](https://github.com/kristenjernigan/kj-liatest/blob/724b890d63e87770de78ae7ab3b4c10f3ec4adf4/Media/Module%204/scrum%20metrics.png)
-
-*Image Credit: Blackboard PISG Agile and Scrum Training 2018*
-
----
-
-##### **End-of-Month CO/COR/PO Check-In**
-
-**Participants:** CO, COR, PO  
-
-**Activities:**
-
-* Review of sprint summaries and documented observations
-
-* Address any contractual issues or adjustments (e.g., risk mitigation, funding concerns, timeline shifts)
-
-* Celebrate successful delivery milestones or user outcomes
-
-* Plan for next sprint cycle and note any acquisition-related needs
-
----
-
-#### Summary of Alignment Points
+### Summary of Alignment Points
 
 | Activity | Agile Purpose | Procurement Alignment |
 | ----- | ----- | ----- |
-| **Pre-Sprint Sizing & Refinement** | Estimate scope and prioritize | COR observes scope and complexity, helps frame expected outcomes for evaluation |
-| **Sprint Planning** | Commit to backlog for 2-week sprint | PO sets vision; COR captures sprint goal baseline |
-| **Sprint Review** | Demo and feedback | PO accepts/rejects; COR documents DoD adherence |
-| **Sprint Retrospective** | Reflect and improve | COR/PO track performance, raise potential issues |
-| **Monthly Demo** | Stakeholder visibility | Show value delivered; track success metrics |
-| **CO/COR/PO Check-In** | Governance and performance alignment | Ensure contract supports delivery; adjust as needed |
+| **Pre-Sprint Sizing & Backlog Refinement** | Estimate effort and prioritize work for upcoming sprint | COR observes scope and complexity to help frame evaluation criteria; informs performance expectations |
+| **User Story Definition** | Describe user need from their perspective using clear, testable format | PO defines stories with users and stakeholders; COR ensures alignment to contract goals and measurable outcomes |
+| **Definition of Done (DoD)** | Establish shared understanding of what "done" means for any deliverable | PO clarifies quality and completion criteria; COR uses DoD to validate deliverables and inform QASP tracking |
+| **Sprint Planning** | Team commits to prioritized work from backlog for next 2-week sprint | PO confirms priority and scope; COR observes planning and records sprint goals for tracking |
+| **Daily Standup** | Share progress and identify blockers | COR may attend to monitor team health or escalating risks; optional observation for early issue detection |
+| **Sprint Review** | Demo working software and gather stakeholder feedback | PO accepts or rejects deliverables per Definition of Done; COR assesses delivery quality and timeliness |
+| **Sprint Retrospective** | Reflect on process and identify improvements | COR and PO note performance trends or risk patterns that may affect delivery or contract terms |
+| **Monthly Demo** | Show value delivered across sprints; gather broader feedback | Stakeholder and COR input informs vendor evaluation; success metrics linked to QASP and performance file |
+| **Monthly Business Review** | Discuss outcomes, risks, and acquisition implications | CO, COR, and PO align on contract needs; adjust scope, funding, or terms as needed |
 
----
+
+### Managing Risks in Agile Digital Service Contracts
+
+Agile contracts necessitate distinct risk management approaches compared to traditional acquisitions. Instead of trying to define everything upfront, you manage risks through transparency and frequent checkpoints.
+
+**Technical Risks**: Regular demos reveal technical problems early when they're easier to fix.
+
+**Scope Risks**: Product owners continuously prioritize features, ensuring the most valuable work gets completed first.
+
+**Performance Risks**: Short sprints provide frequent opportunities to assess contractor performance and make adjustments.
+
+**Budget Risks**: Time-and-materials contracts with labor hour caps provide flexibility while controlling costs.
+
+**Schedule Risks**: Delivering working software every sprint ensures you always have something valuable, even if the scope changes.
+
+Your job isn't to eliminate these risks but to create contracts that help teams manage them effectively.
+
+**Digital Collaboration in Remote and Hybrid Work**
+
+Modern digital service teams often work remotely or in hybrid arrangements. This arrangement requires different collaboration approaches than traditional on-site work.
+
+**Digital Workspaces:** Teams use shared platforms like Slack, Microsoft Teams, or similar tools for daily communication. CORs should have access to relevant channels for transparency.
+
+**Documentation:** Teams maintain shared documentation on platforms such as Confluence, Notion, or GitHub. Ensure CORs can access sprint reports, retrospective notes, and decision records.
+
+**Virtual Ceremonies**: Sprint reviews and retrospectives happen via video conference. These provide excellent opportunities for oversight without disrupting team flow.
+
+**Asynchronous Communication:** Teams document decisions and progress continuously rather than waiting for formal meetings. This process creates more effective audit trails and greater transparency.
+
+Ensure your contracts account for these modern work patterns while maintaining appropriate oversight.
+
+### Measuring Success in Digital Service Delivery
+
+Traditional contracts measure success based on the completion of deliverables and compliance. Digital service contracts measure success based on user outcomes and the impact on the mission.
+
+**User-Centered Metrics:**
+
+* User satisfaction scores  
+* Task completion rates  
+* Time to complete common tasks  
+* Accessibility compliance
+
+**Business Metrics:**
+
+* Cost savings from improved processes  
+* Reduction in support tickets  
+* Increased digital adoption rates  
+* Mission goal achievement
+
+**Delivery Metrics:**
+
+* Sprint goal completion rates  
+* Velocity trends over time  
+* Code quality indicators  
+* Security compliance
+
+**Team Health Metrics:**
+
+* Sprint retrospective feedback  
+* Team communication effectiveness  
+* Blocker resolution time  
+* Stakeholder satisfaction
+
+Work with your COR and PO to establish baseline measurements and track improvements over time.
+
+### Your Action Plan for Digital Service Delivery
+
+**Week 1: Set Foundation**
+
+* Review the project charter with COR and PO  
+* Establish communication rhythms  
+* Confirm success metrics and measurement approach  
+* Verify team access to the necessary tools and platforms
+
+**Monthly: Monitor and Adjust**
+
+* Attend monthly business reviews  
+* Review sprint summaries and performance data  
+* Address any contractual barriers to team success  
+* Celebrate wins and course-correct as needed
+
+**Quarterly: Strategic Review**
+
+* Assess overall progress against mission goals  
+* Review budget and timeline projections  
+* Consider contract modifications if needed  
+* Plan for continued or follow-on work
+
+**Red Flags to Watch For:**
+
+* Consistent sprint goal failures  
+* Lack of user feedback integration  
+* Team communication breakdowns  
+* Stakeholder disengagement
+
+Remember: Your active involvement doesn't mean micromanagement. Focus on removing barriers and ensuring the contract supports successful delivery.
+
+
+### Resources for Digital Service Delivery Management
+
+* [Digital Services Playbook](http://playbook.cio.gov)   
+* [Agile Acquisition Guide](https://www.dau.edu/sites/default/files/Migrated/CopDocuments/AgilePilotsGuidebook%20V1.0%2027Feb20.pdf)   
+* [Federal User Experience Guidance](http://designsystem.digital.gov) 
+
 
 ### In-Class Activity Preview: Who Does What? Agile Role Round Robin
 
@@ -249,6 +252,8 @@ Agile delivery requires close coordination between federal and vendor roles but 
 In an upcoming live session,  you will complete the Agile Role Round Robin activity. In this interactive activity, you'll explore common delivery scenarios from the perspective of roles like the CO, COR, PO, and vendor team members. Together, you’ll identify decision points, clarify responsibilities, and surface where alignment matters most.
 
 This activity will reinforce key concepts from the *Managing Digital Service Delivery* lesson and help you apply them in a realistic, role-based context.
+
+
 
 ---
 ## Amplifying Agile Delivery
