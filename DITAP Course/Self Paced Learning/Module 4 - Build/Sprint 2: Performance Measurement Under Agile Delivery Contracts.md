@@ -999,6 +999,8 @@ Technical Quality Gates:
 
 "The contractor warrants that all user interfaces will meet WCAG 2.1 AA accessibility standards and achieve user task completion rates of 90% or higher as measured through quarterly usability testing."
 
+---
+
 ### Risk Management Through Warranties
 
 **Balancing Protection and Innovation**
