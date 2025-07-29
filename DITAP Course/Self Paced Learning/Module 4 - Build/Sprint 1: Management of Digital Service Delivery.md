@@ -294,7 +294,7 @@ For this activity, read at least 2 of the articles listed above and use the disc
 
 **Your discussion posts are due by the end of Module 4\.**
 
-**Definition of Done: **Your discussion posts should fully address the questions listed in the instructions.
+**Definition of Done:** Your discussion posts should fully address the questions listed in the instructions.
 
 
 
