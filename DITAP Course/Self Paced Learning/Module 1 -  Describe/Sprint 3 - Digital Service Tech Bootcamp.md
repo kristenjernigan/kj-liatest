@@ -116,7 +116,7 @@ Why It Matters to Procurement Officers:
 2. **Risk Management**: Mishandling private data could lead to security breaches, legal penalties, and loss of public trust.  
 3. **Contract Integrity**: Some procurement data may contain sensitive vendor information. Protecting this data ensures fair competition and integrity of the procurement process.
 
-For example, If your office is collecting contractor tax IDs or employee background checks, that data must be stored and shared securely to prevent unauthorized access.
+For example, if your office is collecting contractor tax IDs or employee background checks, that data must be stored and shared securely to prevent unauthorized access.
 
 ### What Contracting Officers Should Keep in Mind:
 
@@ -137,7 +137,7 @@ As a contracting officer, you are both a data user and a data steward. You shoul
 
 Software refers to the instructions, data, or programs that enable computers and digital systems to perform specific tasks. Informally, software tells computer hardware how to do something useful with data. It includes human-readable instructions, known as source code, and machine-readable instructions compiled for the computer to execute.
 
-*CO note: It may be necessary to clarify whether the government can access the source code or compiled software. Access to source code may be required under FAR clauses like 52.227-14 (Rights in Data), or via specific IP clauses negotiated in contracts—especially for custom software. Agencies can specify unlimited, government purpose, or restricted rights in deliverables, depending on mission needs.*
+>CO note: It may be necessary to clarify whether the government can access the source code or compiled software. Access to source code may be required under FAR clauses like 52.227-14 (Rights in Data), or via specific IP clauses negotiated in contracts—especially for custom software. Agencies can specify unlimited, government purpose, or restricted rights in deliverables, depending on mission needs.
 
 ### How is software developed?
 
