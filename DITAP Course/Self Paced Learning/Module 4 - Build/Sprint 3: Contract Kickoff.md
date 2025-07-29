@@ -308,6 +308,8 @@ This legal analysis explains the implications of the July 2024 OMB memorandum th
 
 The official marketplace provides current information on FedRAMP-authorized cloud services, vendor capabilities, and authorization status. This resource is essential for market research and vendor evaluation during procurement planning.
 
+---
+
 ### Discussion Forum Preparation (optional)
 
 Based on the cloud and XaaS procurement readings, prepare to engage with the following questions in our discussion forum:
